@@ -8,7 +8,7 @@
 Just playing around with the [Marvel API](http://developer.marvel.com/). So:
 
     git clone https://github.com/pikesley/powerman
-    cd power man
+    cd powerman
     bundle
 
 You need an API key and secret which you can get from [here](https://developer.marvel.com/signup), put them into `.env` like this

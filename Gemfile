@@ -5,4 +5,3 @@ ruby '2.1.0'
 
 gem 'dotenv'
 gem 'curb'
-gem 'badgerbadgerbadger'
