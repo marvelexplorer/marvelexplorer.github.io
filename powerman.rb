@@ -103,6 +103,8 @@ def url path, with_date = true
       params,
       auth
   ]
+  puts u
+  u
 end
 
 character = (fetch url 'characters/%s' % [id])[0]
@@ -116,6 +118,7 @@ next_character = characters.sample
 
 write_id next_character['id']
 
+puts ''
 puts "%s appeared in %s #%s with %s" % [
     character['name'],
     comic.title,
