@@ -91,7 +91,7 @@ def fetch url
 end
 
 def url path, with_date = true
-  params = 'limit=50'
+  params = 'limit=100'
   if with_date
     params = '%s&dateRange=1983-01-01%%2C1990-01-01' % params
   end
