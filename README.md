@@ -33,5 +33,5 @@ The code is _terrible_, but it's really just an exercise in seeing what can be d
 
 ### Thanks, Twitter
 
-I did want to make a Twitterbot out of this, but **You must add your mobile phone to your Twitter profile before creating an application** so that's basically bollocksed that. Thanks, Twitter.
+I did want to make a Twitterbot out of this, but **You must add your mobile phone to your Twitter profile before creating an application** now, so that's basically bollocksed that. Thanks, Twitter.
     
