@@ -96,7 +96,7 @@ def url path, with_date = true
     params = '%s&dateRange=1960-01-01%%2C1990-01-01' % params
   end
 
-  '%s/%s/%s?%s&%s' % [
+  u = '%s/%s/%s?%s&%s' % [
       host,
       prefix,
       path,
