@@ -5,10 +5,10 @@
 
 # Powerman
 
-Just playing around with the [Marvel API](http://developer.marvel.com/). So:
+A silly application built on my [Ultron](http://pikesley.github.io/ultron/) gem (which wraps the [Marvel Comics API](http://developer.marvel.com/)). The code's pretty crappy, and it has no tests, but it's just a toy:
 
     git clone https://github.com/pikesley/powerman
-    cd powerman
+    cd power man
     bundle
 
 You need an API key and secret which you can get from [here](https://developer.marvel.com/signup), put them into `.env` like this
@@ -19,19 +19,28 @@ You need an API key and secret which you can get from [here](https://developer.m
 Then try `./powerman.rb`:
 
     ➔ ./powerman.rb
-    Hulk appeared in Marvel Comics Presents #38 with Wolverine
-    ➔ ./powerman.rb
-    Wolverine appeared in Wolverine #10 with Wolverine
-    ➔ ./powerman.rb
-    Wolverine appeared in Classic X-Men #33 with Cyclops
-    ➔ ./powerman.rb
-    Cyclops appeared in Classic X-Men #13 with Wolverine
-    ➔ ./powerman.rb
-    Wolverine appeared in Marvel Comics Presents #10 with Man-Thing
+    Getting start character... done
+    Getting comic... done
+    Getting next character... done
 
-The code is _terrible_, but it's really just an exercise in seeing what can be done with the Marvel API. I think I can make a reasonable Gem out of this…
+    Hulk appeared in Fantastic Four (1961) #368 with Wasp
+    
+    ➔ ./powerman.rb
+    Getting start character... done
+    Getting comic... done
+    Getting next character... done
 
+    Wasp appeared in Black Panther (1998) #44 with Sasquatch (Walter Langkowski)
+    
+    ➔ ./powerman.rb
+    Getting start character... done
+    Getting comic... done
+    Getting next character... done
+
+    Sasquatch (Walter Langkowski) appeared in Deadpool Classic Vol. 1 (Trade Paperback) with Wolverine
+    
+Right now, it just wanders aimlessly through the data. I'd like to make it more directed so I could make some sort of _6 Degrees Of Deadpool_ or calculate a given character's [Wolverine Number](http://en.wikipedia.org/wiki/Erd%C5%91s_number) or something like that. Any ideas?
+    
 ### Thanks, Twitter
 
 I did want to make a Twitterbot out of this, but **You must add your mobile phone to your Twitter profile before creating an application** now, so that's basically bollocksed that. Thanks, Twitter.
-    
