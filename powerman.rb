@@ -38,7 +38,7 @@ puts 'done'
 
 puts
 puts '%s appeared in %s with %s' % [character.name, comic.title, next_character.name]
-puts '[%s]' % comic.urls.select { |c| c['type'] == 'detail' }[0]['url']
+puts comic.urls.select { |c| c['type'] == 'detail' }[0]['url']
 
 puts
 puts character.resourceURI
