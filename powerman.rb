@@ -31,12 +31,17 @@ print 'Getting next character... '
 characters = Ultron::Characters.by_comic comic.id
 next_character = character
 # we want a different character for the next iteration, obvs.
-until next_character != character
+until next_character.id != character.id
   next_character = characters.sample
 end
 puts 'done'
 
 puts
 puts '%s appeared in %s with %s' % [character.name, comic.title, next_character.name]
+
+puts
+puts character.resourceURI
+puts comic.resourceURI
+puts next_character.resourceURI
 
 write_id next_character.id
