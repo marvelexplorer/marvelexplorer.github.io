@@ -17,7 +17,7 @@ GEM
     thread_safe (0.1.3)
       atomic
     tzinfo (0.3.38)
-    ultron (0.1.7)
+    ultron (0.1.8)
       activesupport (~> 4.0)
       curb (~> 0.8)
       dotenv (~> 0.9)

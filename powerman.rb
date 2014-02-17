@@ -39,7 +39,7 @@ class SixDegrees
 
   def comic character
     print 'Getting comic... ' if @verbose
-    comics = Ultron::Comics.by_character_and_with character.id, format: 'comic', formatType: 'comic', noVariants: true
+    comics = Ultron::Comics.by_character_and_vanilla_comics character.id
     comic  = comics.sample
 # some comics have no characters listed, and we need at least 2 to make the game worth playing
     until comic.characters['available'] > 1
