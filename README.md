@@ -8,7 +8,7 @@
 A silly application built on my [Ultron](http://pikesley.github.io/ultron/) gem (which wraps the [Marvel Comics API](http://developer.marvel.com/)). The code's pretty crappy, and it has no tests, but it's just a toy:
 
     git clone https://github.com/pikesley/powerman
-    cd power man
+    cd powerman
     bundle
 
 You need an API key and secret which you can get from [here](https://developer.marvel.com/signup), put them into `.env` like this
