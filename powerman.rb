@@ -2,20 +2,53 @@
 
 require 'ultron'
 
-def id
-  begin
-    (File.read 'last.id').strip
-  rescue
-    '1009351' # Hulk
+class SixDegrees
+  attr_writer :full
+
+  def initialize first, link, last
+    @first = first
+    @link = link
+    @last = last
+  end
+
+  def to_s
+    s = '%s appeared in %s with %s' % [
+        @first.name,
+        @link.title,
+        @last.name
+    ]
+
+    if @full
+      s << ''
+      s << @link.urls.select { |c| c['type'] == 'detail' }[0]['url']
+      s << ''
+      s << @first.resourceURI
+      s << @link.resourceURI
+      s << @last.resourceURI
+    end
+
+    s
   end
 end
 
-def write_id id
-  File.write 'last.id', id.to_s
+def retrieve
+  begin
+    File.open 'last.character' do |file|
+      Marshal.load file
+    end
+  rescue
+    Ultron::Characters.find 1009351
+  end
+end
+
+def commit character
+  File.open 'last.character', 'w' do |file|
+    Marshal.dump character, file
+  end
 end
 
 print 'Getting start character... '
-character = Ultron::Characters.find id
+character = retrieve
 puts 'done'
 
 print 'Getting comic... '
@@ -36,13 +69,8 @@ until next_character.id != character.id
 end
 puts 'done'
 
-puts
-puts '%s appeared in %s with %s' % [character.name, comic.title, next_character.name]
-puts comic.urls.select { |c| c['type'] == 'detail' }[0]['url']
+s = SixDegrees.new character, comic, next_character
+puts s
 
-puts
-puts character.resourceURI
-puts comic.resourceURI
-puts next_character.resourceURI
+commit next_character
 
-write_id next_character.id
