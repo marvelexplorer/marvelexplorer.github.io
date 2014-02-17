@@ -1,7 +1,7 @@
-[![Dependency Status](http://img.shields.io/gemnasium/pikesley/powerman.png)](https://gemnasium.com/pikesley/powerman)
-[![Code Climate](http://img.shields.io/codeclimate/github/pikesley/powerman.png)](https://codeclimate.com/github/pikesley/powerman)
-[![License](http://img.shields.io/:license-mit-blue.png)](http://pikesley.mit-license.org)
-[![Badges](http://img.shields.io/:badges-4/4-ff6799.png)](https://github.com/pikesley/badger)
+[![Dependency Status](http://img.shields.io/gemnasium/pikesley/powerman.svg)](https://gemnasium.com/pikesley/powerman)
+[![Code Climate](http://img.shields.io/codeclimate/github/pikesley/powerman.svg)](https://codeclimate.com/github/pikesley/powerman)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://pikesley.mit-license.org)
+[![Badges](http://img.shields.io/:badges-4/4-ff6799.svg)](https://github.com/pikesley/badger)
 
 # Powerman
 
@@ -11,7 +11,7 @@ A silly application built on my [Ultron](http://pikesley.github.io/ultron/) gem 
     cd powerman
     bundle
 
-You need an API key and secret which you can get from [here](https://developer.marvel.com/signup), put them into `.env` like this
+You need an API keypair which you can get from [here](https://developer.marvel.com/signup), put them into `.env` like this
 
     PUBLIC_KEY: this_r_public_key
     PRIVATE_KEY: this_one_r_private_key
