@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-ruby '2.1.0'
-#ruby-gemset=powerman
+ruby '2.1.5'
 
-gem 'ultron'
-gem 'colorize'
+gem 'ultron' #, github: 'pikesley/ultron'
+gem 'twitter'
+gem 'dotenv'
