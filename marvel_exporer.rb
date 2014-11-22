@@ -6,6 +6,7 @@ require 'ultron'
 
 DEFAULT_ID   = 1009351 # Hulk
 MARSHAL_FILE = 'last.character'
+TWEET_LENGTH = 140
 
 class MarvelExplorer
   attr_writer :full
@@ -80,6 +81,8 @@ class MarvelExplorer
         @last.name
     ]
 
+    if s.length > TWEET_LENGTH
+      s = '%s…' % s[0, TWEET_LENGTH - 1]
     end
 
     s
