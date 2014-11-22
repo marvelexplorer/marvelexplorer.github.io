@@ -97,4 +97,5 @@ client = Twitter::REST::Client.new(config)
 
 marvel = MarvelExplorer.new
 
+puts marvel
 client.update marvel
