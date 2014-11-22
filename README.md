@@ -31,4 +31,4 @@ Right now, it just wanders aimlessly through the data. I'd like to make it more 
 
 ##And now, Twitter
 
-It seems you *can* build Twitter bots without needing a phone number for each one, see [this](http://dghubble.com/blog/posts/twitter-app-write-access-and-bots/)
+It seems you *can* build Twitter bots without needing a phone number for each one, see [this](http://dghubble.com/blog/posts/twitter-app-write-access-and-bots/). So this is now Tweeting [here](https://twitter.com/marvel_explorer)
