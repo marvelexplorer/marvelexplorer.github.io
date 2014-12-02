@@ -1,257 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1011084
-    :name: Starfox
-    :description: The youngest son of Mentor and Sui-San, Eros had the natural ability
-      to excite pleasure in others, but his power had no effect upon his mutant older
-      brother, Thanos, who worshiped the cosmic embodiment of Death and led an army
-      against Titan.
-    :modified: '1969-12-31T19:00:00-0500'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c0030cbcba98
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1011084
-    :comics:
-      available: 11
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1011084/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17490
-        name: 'Avengers (1998) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17501
-        name: 'Avengers (1998) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17512
-        name: 'Avengers (1998) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17523
-        name: 'Avengers (1998) #4'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17518
-        name: 'Avengers (1998) #35'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1311
-        name: Avengers Assemble (Hardcover)
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/5844
-        name: Avengers Assemble Vol. 4 (Hardcover)
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/10100
-        name: 'Marvel Comics Presents (1988) #22'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/10147
-        name: 'Marvel Comics Presents (1988) #65'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/5637
-        name: 'Marvel Comics Presents: Wolverine Vol. 4 (Trade Paperback)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/18424
-        name: 'Warlock and the Infinity Watch (1992) #2'
-      returned: 11
-    :series:
-      available: 6
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1011084/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/354
-        name: Avengers (1998 - 2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1340
-        name: Avengers Assemble (2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1816
-        name: Avengers Assemble Vol. 4 (2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2039
-        name: Marvel Comics Presents (1988 - 1995)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1697
-        name: 'Marvel Comics Presents: Wolverine Vol. 4 (2006)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3654
-        name: Warlock and the Infinity Watch (1992 - 1995)
-      returned: 6
-    :stories:
-      available: 12
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1011084/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/23207
-        name: New Worlds To Conquer
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/23486
-        name: Wang Dang Doodle
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37337
-        name: 'Cover #37337'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37338
-        name: Once an Avenger...
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37359
-        name: 'Cover #37359'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37360
-        name: The Call
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37386
-        name: Fata Morgana
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37397
-        name: 'Cover #37397'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37398
-        name: Interstellar Intrigues
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37408
-        name: 'Cover #37408'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37409
-        name: Too Many Avengers!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/39253
-        name: Gathering the Watch
-        type: interiorStory
-      returned: 12
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1011084/events
-      items: []
-      returned: 0
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/2203/starfox?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Starfox?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1011084/starfox?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 17518
-    :digitalId: 4114
-    :title: 'Avengers (1998) #35'
-    :issueNumber: 35
-    :variantDescription: ''
-    :description: 
-    :modified: "-0001-11-30T00:00:00-0500"
-    :isbn: ''
-    :upc: ''
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 36
-    :textObjects: []
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/17518
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/17518/avengers_1998_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: purchase
-      url: http://comicstore.marvel.com/Avengers-35/digital-comic/4114?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=4114&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: inAppLink
-      url: http://applink.marvel.com/issue/4114?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/354
-      name: Avengers (1998 - 2004)
-    :variants:
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/17201
-      name: 'Avengers (1998) #35'
-    :collections:
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/5844
-      name: Avengers Assemble Vol. 4 (Hardcover)
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '2000-12-10T00:00:00-0500'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    - type: unlimitedDate
-      date: '2007-11-13T00:00:00-0500'
-    - type: digitalPurchaseDate
-      date: '2013-03-12T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 0
-    - type: digitalPurchasePrice
-      price: 1.99
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc3335779e4b
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc3335779e4b
-      extension: jpg
-    :creators:
-      available: 8
-      collectionURI: http://gateway.marvel.com/v1/public/comics/17518/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/807
-        name: Comicraft
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/3603
-        name: Albert Deschesne
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/350
-        name: Richard Starkings
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/5744
-        name: Liv
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/2133
-        name: Tom Brevoort
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1231
-        name: Kurt Busiek
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/214
-        name: John Romita JR.
-        role: penciler
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1066
-        name: Tom Smith
-        role: colorist
-      returned: 8
-    :characters:
-      available: 17
-      collectionURI: http://gateway.marvel.com/v1/public/comics/17518/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009165
-        name: Avengers
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
-        name: Captain America
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010338
-        name: Captain Marvel (Carol Danvers)
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011060
-        name: Ego
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011490
-        name: Hank Pym
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009402
-        name: Lilandra
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009451
-        name: Moondragon
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011045
-        name: Photon
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009562
-        name: Scarlet Witch
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011084
-        name: Starfox
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011160
-        name: Supreme Intelligence
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009664
-        name: Thor
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009670
-        name: Tigra (Greer Nelson)
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010825
-        name: Triathlon
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009697
-        name: Vision
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009707
-        name: Wasp
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009719
-        name: Wonder Man
-      returned: 17
-    :stories:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/17518/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37397
-        name: 'Cover #37397'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/37398
-        name: Interstellar Intrigues
-        type: interiorStory
-      returned: 2
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/17518/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1011060
     :name: Ego
     :description: ''
@@ -312,3 +61,333 @@
       url: http://marvel.com/universe/Ego?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1011060/ego?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 32771
+    :digitalId: 18983
+    :title: 'Astonishing Thor (2010) #2'
+    :issueNumber: 2
+    :variantDescription: ''
+    :description: 'Blasted back into space by the Stranger, Thor hurtles across the
+      solar system, trying to overtake Ego and deter him from reaching his final destination:
+      the museum of Taneleer Tivan – The Collector. What business would Ego have at
+      the museum? What would entice a living planet out of its orbit? And why is Zephyr
+      at the museum, collaborating with The Collector?'
+    :modified: '2012-01-31T08:57:42-0500'
+    :isbn: ''
+    :upc: 5960607255-00211
+    :diamondCode: NOV100517
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 32
+    :textObjects:
+    - type: issue_solicit_text
+      language: en-us
+      text: 'Blasted back into space by the Stranger, Thor hurtles across the solar
+        system, trying to overtake Ego and deter him from reaching his final destination:
+        the museum of Taneleer Tivan – The Collector. What business would Ego have
+        at the museum? What would entice a living planet out of its orbit? And why
+        is Zephyr at the museum, collaborating with The Collector?'
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/32771
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/32771/astonishing_thor_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: purchase
+      url: http://comicstore.marvel.com/Astonishing-Thor-2/digital-comic/18983?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=18983&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: inAppLink
+      url: http://applink.marvel.com/issue/18983?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/9858
+      name: Astonishing Thor (2010)
+    :variants: []
+    :collections: []
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '2011-01-26T00:00:00-0500'
+    - type: focDate
+      date: '2011-01-12T00:00:00-0500'
+    - type: unlimitedDate
+      date: '2011-12-05T00:00:00-0500'
+    - type: digitalPurchaseDate
+      date: '2012-01-31T00:00:00-0500'
+    :prices:
+    - type: printPrice
+      price: 3.99
+    - type: digitalPurchasePrice
+      price: 1.99
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4cb614da56f2a
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4cb614da56f2a
+      extension: jpg
+    :creators:
+      available: 4
+      collectionURI: http://gateway.marvel.com/v1/public/comics/32771/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/8204
+        name: Charlie Beckerman
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1052
+        name: Mike Choi
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/649
+        name: Ed McGuinness
+        role: penciller (cover)
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/418
+        name: Rob Rodi
+        role: writer
+      returned: 4
+    :characters:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/32771/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011060
+        name: Ego
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009664
+        name: Thor
+      returned: 2
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/32771/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/73878
+        name: 'Cover #73878  '
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/73880
+        name: 'Interior #73880   '
+        type: interiorStory
+      returned: 2
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/32771/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009664
+    :name: Thor
+    :description: "As the Norse God of thunder and lightning, Thor wields one of the
+      greatest weapons ever made, the enchanted hammer Mjolnir.\r\nWhile others have
+      described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.
+      \ He's self-assured, and he would never, ever stop fighting for a worthwhile
+      cause.\r\n\r\n"
+    :modified: '2013-10-24T14:24:12-0400'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009664
+    :comics:
+      available: 1240
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009664/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12637
+        name: 'Alpha Flight (1983) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12725
+        name: 'Alpha Flight (1983) #61'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12668
+        name: 'Alpha Flight (1983) #127'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/6233
+        name: Alpha Flight Classic Vol. 1 (Trade Paperback)
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/39896
+        name: Art of Marvel Studios TPB Slipcase (Hardcover)
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/32769
+        name: 'Astonishing Thor (2010) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/33652
+        name: 'Astonishing Thor (2010) #1 (FOILOGRAM VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/32771
+        name: 'Astonishing Thor (2010) #2'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/32774
+        name: 'Astonishing Thor (2010) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/32776
+        name: 'Astonishing Thor (2010) #4'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/32778
+        name: 'Astonishing Thor (2010) #5'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/29195
+        name: 'Avengers (2010) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17751
+        name: 'Avengers (1996) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/6952
+        name: 'Avengers (1996) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/6951
+        name: 'Avengers (1963) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17490
+        name: 'Avengers (1998) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/33335
+        name: 'Avengers (2010) #1 (HEROIC AGE VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/33336
+        name: 'Avengers (2010) #1 (ROMITA JR. VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/33483
+        name: 'Avengers (2010) #1 (DJURDJEVIC VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/33562
+        name: 'Avengers (2010) #1 (ROMITA SR. VARIANT)'
+      returned: 20
+    :series:
+      available: 302
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009664/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2116
+        name: Alpha Flight (1983 - 1994)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1983
+        name: Alpha Flight Classic Vol. 1 (2007)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/14779
+        name: Art of Marvel Studios TPB Slipcase (2011 - Present)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/9858
+        name: Astonishing Thor (2010)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/354
+        name: Avengers (1998 - 2004)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
+        name: Avengers (1963 - 1996)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/9085
+        name: Avengers (2010 - 2012)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3621
+        name: Avengers (1996 - 1997)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/9086
+        name: Avengers Academy (2010 - 2012)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1988
+        name: Avengers Annual (1967 - 1994)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/13320
+        name: Avengers Annual (2012)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/15373
+        name: Avengers Assemble (2012 - Present)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1340
+        name: Avengers Assemble (2004)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1496
+        name: Avengers Assemble Vol. 2 (2005)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1737
+        name: Avengers Assemble Vol. 3 (2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1816
+        name: Avengers Assemble Vol. 4 (2007)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2929
+        name: Avengers Assemble Vol. 5 (2007)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2384
+        name: Avengers Classic (2007 - 2008)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1359
+        name: 'Avengers Disassembled: Thor (2004)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2111
+        name: Avengers Forever (1998 - 2001)
+      returned: 20
+    :stories:
+      available: 1948
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009664/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/877
+        name: 'Interior #877'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/879
+        name: 'Interior #879'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/881
+        name: 'Interior #881'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/883
+        name: 'Interior #883'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/885
+        name: 'Interior #885'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/887
+        name: 'Interior #887'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/889
+        name: 'Interior #889'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/891
+        name: 'Interior #891'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/892
+        name: 'Cover #892'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/893
+        name: 'Interior #893'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/895
+        name: AVENGERS DISASSEMBLED TIE-IN! “RAGNAROK” PART 4 (OF 6) What makes a
+          god? Is it birthright, is it happenstance, or is it in the m
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/896
+        name: 'AVENGERS DISASSEMBLED TIE-IN! "RAGNAROK" PART 6 (OF 6) It''s the end
+          of all that is, and you''ve got a ringside seat for the last '
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/897
+        name: 'AVENGERS DISASSEMBLED TIE-IN! "RAGNAROK" PART 6 (OF 6) It''s the end
+          of all that is, and you''ve got a ringside seat for the last '
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/903
+        name: 'Interior #903'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/975
+        name: 'Interior #975'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1009
+        name: 'Interior #1009'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1208
+        name: 'Interior #1208'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1660
+        name: 'Interior #1660'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1733
+        name: 'Cover #1733'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1734
+        name: 'Interior #1734'
+        type: interiorStory
+      returned: 20
+    :events:
+      available: 21
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009664/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/116
+        name: Acts of Vengeance!
+      - resourceURI: http://gateway.marvel.com/v1/public/events/233
+        name: Atlantis Attacks
+      - resourceURI: http://gateway.marvel.com/v1/public/events/234
+        name: Avengers Disassembled
+      - resourceURI: http://gateway.marvel.com/v1/public/events/310
+        name: Avengers VS X-Men
+      - resourceURI: http://gateway.marvel.com/v1/public/events/235
+        name: Blood and Thunder
+      - resourceURI: http://gateway.marvel.com/v1/public/events/296
+        name: Chaos War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/238
+        name: Civil War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/318
+        name: Dark Reign
+      - resourceURI: http://gateway.marvel.com/v1/public/events/246
+        name: Evolutionary War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/302
+        name: Fear Itself
+      - resourceURI: http://gateway.marvel.com/v1/public/events/253
+        name: Infinity Gauntlet
+      - resourceURI: http://gateway.marvel.com/v1/public/events/29
+        name: Infinity War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/37
+        name: Maximum Security
+      - resourceURI: http://gateway.marvel.com/v1/public/events/263
+        name: Mutant Massacre
+      - resourceURI: http://gateway.marvel.com/v1/public/events/154
+        name: Onslaught
+      - resourceURI: http://gateway.marvel.com/v1/public/events/269
+        name: Secret Invasion
+      - resourceURI: http://gateway.marvel.com/v1/public/events/270
+        name: Secret Wars
+      - resourceURI: http://gateway.marvel.com/v1/public/events/271
+        name: Secret Wars II
+      - resourceURI: http://gateway.marvel.com/v1/public/events/309
+        name: Shattered Heroes
+      - resourceURI: http://gateway.marvel.com/v1/public/events/273
+        name: Siege
+      returned: 20
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/60/thor?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Thor_(Thor_Odinson)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009664/thor?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
