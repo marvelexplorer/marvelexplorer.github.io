@@ -1,2 +1,10 @@
 - title: Data provided by Marvel. © 2014 Marvel
   url: http://marvel.com
+
+- title: Github
+  url: https://github.com/marvelexplorer/marvelexplorer.github.io
+  fontawesome: fa-github
+
+- title: Twitter
+  url: https://twitter.com/marvel_explorer
+  fontawesome: fa-twitter

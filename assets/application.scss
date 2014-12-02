@@ -56,10 +56,10 @@ $header-height: 50px;
 
   .slogan {
     font-size: 3em;
-    color: $brand-primary;
+    color: white;
     position: absolute;
-    bottom: 0;
     right: 10px;
+    font-family: $font-family-character;
   }
 }
 
@@ -83,7 +83,7 @@ $footer-height: 40px;
   padding: $padding-large-vertical $padding-large-horizontal;
 
   a {
-    color: $gray-light;
+    color: white;
   }
 
   a:hover {

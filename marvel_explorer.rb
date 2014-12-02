@@ -56,6 +56,7 @@ class MarvelExplorer
     h = {}
     h[:first_character] = first
     h[:comic] = comic
+
     h[:last_character] = last
 
     yaml = File.open '_data/details.yml', 'w'
