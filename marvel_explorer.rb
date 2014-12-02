@@ -11,6 +11,7 @@ TWEET_LENGTH = 140
 
 class MarvelExplorer
   attr_writer :full
+  attr_reader :tweet_message
 
   def initialize
     perform
