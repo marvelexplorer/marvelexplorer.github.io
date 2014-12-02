@@ -3,7 +3,7 @@
     {% for link in site.data.links %}
       <a href='{{ link.url }}' title='{{ link.title }}'><i class='fa {{ link.fontawesome }}'></i><span class='hidden-xs'> {{ link.title }}</span></a>
       {% if forloop.rindex0 > 0 %}
-        |
+        ::
       {% endif %}
     {% endfor %}
   </div>

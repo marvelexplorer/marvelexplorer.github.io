@@ -5,6 +5,13 @@
 @import 'bootstrap-custom';
 @import 'bootstrap';
 
+body {
+}
+
+h2 {
+  font-size: 1em;
+}
+
 .comic, .character {
   text-align: center;
   max-width: 300px;
@@ -12,7 +19,7 @@
 }
 
 .character {
-  max-width: 300px;
+  max-width: 200px;
 }
 
 .comic {
@@ -22,7 +29,7 @@
 .character-name, .comic-title {
   h3 {
     font-family: $font-family-character;
-    text-align: right;
+    text-align: center;
     color: white;
     -webkit-text-stroke: 1px black;
   }
@@ -91,4 +98,8 @@ $footer-height: 40px;
 
 .thumbnail {
   text-align: center;
+}
+
+.col-md-4, .col-md-3 {
+  background-color: $gray-lighter;
 }
