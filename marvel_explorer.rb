@@ -119,4 +119,4 @@ marvel.tweet
 
 message = "#{marvel.to_s}"
 
-#`git commit -a -m "#{message}" && git push origin master`
+`git commit -a -m "#{message}" && git push origin master`
