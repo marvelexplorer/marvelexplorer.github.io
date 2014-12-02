@@ -1,4 +1,5 @@
 _site/
 .sass-cache/
 .env
-last-character
+last.character
+_data/details.yml
