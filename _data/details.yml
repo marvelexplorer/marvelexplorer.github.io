@@ -1,0 +1,441 @@
+---
+:first_character: !ruby/object:OpenStruct
+  table:
+    :id: 1010984
+    :name: Union Jack (Montgomery Falsworth)
+    :description: 'During World War I, Lord Montgomery Falsworth was recruited by
+      the British army to become one of the first public superhero champions: Union
+      Jack.'
+    :modified: '1969-12-31T19:00:00-0500'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/4c0032a211f54
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1010984
+    :comics:
+      available: 17
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1010984/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8466
+        name: 'Deadpool (1997) #13'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8468
+        name: 'Deadpool (1997) #15'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8470
+        name: 'Deadpool (1997) #17'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8472
+        name: 'Deadpool (1997) #19'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8474
+        name: 'Deadpool (1997) #20'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8475
+        name: 'Deadpool (1997) #21'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8476
+        name: 'Deadpool (1997) #22'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8477
+        name: 'Deadpool (1997) #23'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8478
+        name: 'Deadpool (1997) #24'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8479
+        name: 'Deadpool (1997) #25'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8480
+        name: 'Deadpool (1997) #26'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8481
+        name: 'Deadpool (1997) #27'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8482
+        name: 'Deadpool (1997) #28'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8483
+        name: 'Deadpool (1997) #29'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8485
+        name: 'Deadpool (1997) #30'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8486
+        name: 'Deadpool (1997) #31'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/24824
+        name: 'Immortal Weapons (2009) #1'
+      returned: 17
+    :series:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1010984/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2005
+        name: Deadpool (1997 - 2002)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/8877
+        name: Immortal Weapons (2009 - 2010)
+      returned: 2
+    :stories:
+      available: 17
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1010984/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24534
+        name: 'Deadpool (1997) #13'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24539
+        name: 'Deadpool (1997) #15'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24545
+        name: 'Deadpool (1997) #17'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24551
+        name: 'Deadpool (1997) #19'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24556
+        name: 'Deadpool (1997) #20'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24559
+        name: 'Deadpool (1997) #21'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24562
+        name: 'Deadpool (1997) #22'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24564
+        name: 'Deadpool (1997) #23'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24567
+        name: 'Deadpool (1997) #24'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24570
+        name: 'Deadpool (1997) #25'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24572
+        name: 'Deadpool (1997) #26'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24574
+        name: 'Deadpool (1997) #27'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24576
+        name: 'Deadpool (1997) #28'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24578
+        name: 'Deadpool (1997) #29'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24582
+        name: 'Deadpool (1997) #30'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24583
+        name: 'Deadpool (1997) #31'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/54878
+        name: 'Interior #54878'
+        type: interiorStory
+      returned: 17
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1010984/events
+      items: []
+      returned: 0
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/2451/union_jack?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Union_Jack_%28Montgomery_Falsworth%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1010984/union_jack_montgomery_falsworth?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 8479
+    :digitalId: 23377
+    :title: 'Deadpool (1997) #25'
+    :issueNumber: 25
+    :variantDescription: ''
+    :description: 
+    :modified: '2012-01-19T16:55:23-0500'
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 52
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/8479
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/8479/deadpool_1997_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=23377&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/2005
+      name: Deadpool (1997 - 2002)
+    :variants: []
+    :collections: []
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1999-02-10T00:00:00-0500'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    - type: unlimitedDate
+      date: '2011-09-21T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 0
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4f189110c2c2d
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4f189110c2c2d
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4f1890bb54107
+      extension: jpg
+    :creators:
+      available: 11
+      collectionURI: http://gateway.marvel.com/v1/public/comics/8479/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/807
+        name: Comicraft
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/3598
+        name: Emerson Miranda
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/3807
+        name: Scott Elmer
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/486
+        name: Scott Koblish
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/768
+        name: Rodney Ramos
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/4074
+        name: Walden Wong
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/4131
+        name: Matt Hicks
+        role: colorist
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2989
+        name: Matt Idelson
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/4210
+        name: Paul Tutrone
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2428
+        name: Joe Kelly
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/4124
+        name: Walter McDaniel
+        role: penciller
+      returned: 11
+    :characters:
+      available: 4
+      collectionURI: http://gateway.marvel.com/v1/public/comics/8479/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
+        name: Captain America
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009268
+        name: Deadpool
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009560
+        name: Sasquatch (Walter Langkowski)
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010984
+        name: Union Jack (Montgomery Falsworth)
+      returned: 4
+    :stories:
+      available: 3
+      collectionURI: http://gateway.marvel.com/v1/public/comics/8479/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24569
+        name: ''
+        type: ''
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24570
+        name: 'Deadpool (1997) #25'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/66401
+        name: 'Deadpool (1997) #25'
+        type: cover
+      returned: 3
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/8479/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009268
+    :name: Deadpool
+    :description: ''
+    :modified: '2013-10-18T17:33:26-0400'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009268
+    :comics:
+      available: 384
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009268/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/41112
+        name: 5 Ronin (Hardcover)
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/36160
+        name: '5 Ronin (2010) #5'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/38751
+        name: '5 Ronin (2010) #5 (MCGUINNESS COVER)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/24418
+        name: 'Amazing Spider-Man (1999) #611'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/31556
+        name: 'Amazing Spider-Man (1999) #620 (DEADPOOL VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/31560
+        name: 'Avengers: The Initiative (2007) #33 (DEADPOOL VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23971
+        name: 'Cable (2008) #13'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23972
+        name: 'Cable (2008) #13 (OLIVETTI (MW, 50/50 COVER))'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/24171
+        name: 'Cable (2008) #14'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/24172
+        name: 'Cable (2008) #14 (OLIVETTI MW, 50/50 COVER)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/24631
+        name: 'Cable (2008) #15'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/24632
+        name: 'Cable (2008) #15 (OLIVETTI (MW, 50/50 COVER))'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/430
+        name: 'Cable & Deadpool (2004) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/479
+        name: 'Cable & Deadpool (2004) #2'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/644
+        name: 'Cable & Deadpool (2004) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/706
+        name: 'Cable & Deadpool (2004) #4'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/548
+        name: 'Cable & Deadpool (2004) #5'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/512
+        name: 'Cable & Deadpool (2004) #6'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/832
+        name: 'Cable & Deadpool (2004) #7'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/903
+        name: 'Cable & Deadpool (2004) #8'
+      returned: 20
+    :series:
+      available: 95
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009268/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/12429
+        name: 5 Ronin (2010)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/15276
+        name: 5 Ronin (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/454
+        name: Amazing Spider-Man (1999 - 2013)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1945
+        name: 'Avengers: The Initiative (2007 - 2010)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/4002
+        name: Cable (2008 - 2010)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/693
+        name: Cable & Deadpool (2004 - 2008)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/13886
+        name: Cable & Deadpool MGC (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1209
+        name: 'Cable & Deadpool Vol. 1: If Looks Could Kill (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1338
+        name: 'Cable & Deadpool Vol. 2: The Burnt Offering (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1488
+        name: 'Cable & Deadpool Vol. 3: The Human Race (2005)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1578
+        name: 'Cable & Deadpool Vol. 4: Bosom Buddies (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1676
+        name: 'Cable & Deadpool Vol. 5: Living Legends (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1960
+        name: 'Cable & Deadpool Vol. 6: Paved with Good Intentions (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2710
+        name: 'Cable & Deadpool Vol. 7: Separation Anxiety (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1487
+        name: 'Cable/Deadpool Vol. 3: The Human Race (2005)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1577
+        name: 'Cable/Deadpool Vol. 4: Bosom Buddies (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/10105
+        name: 'Civil War: X-Men (2011)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1962
+        name: 'Civil War: X-Men Universe (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/8456
+        name: Dark Reign:Deadpool/Thunderbolts (2009 - Present)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/11601
+        name: Deadpool (2010)
+      returned: 20
+    :stories:
+      available: 544
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009268/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1619
+        name: 'Interior #1619'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2464
+        name: 3 of 6 - The Passion of the Cable
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2465
+        name: 3 of 6 - The Passion of the Cable
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2467
+        name: 'Interior #2467'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2469
+        name: 'Interior #2469'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2471
+        name: 'Interior #2471'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2473
+        name: 'Interior #2473'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2475
+        name: 'Interior #2475'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2477
+        name: 'Interior #2477'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2479
+        name: 'Interior #2479'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2481
+        name: 4 of 6 - The Passion of the Cable
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2483
+        name: 5 of 6 - The Passion of the Cable
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2484
+        name: 2 of 2 - Thirty Pieces
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2485
+        name: 2 of 2 - Thirty Pieces
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2487
+        name: 1 of 2 - A Murder in Paradise
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2488
+        name: 2 of 2 - A Murder in Paradise
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2489
+        name: 1 of 4 - Enema of the State
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2490
+        name: 1 of 4 - Enema of the State
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2492
+        name: 2 of 4 - Enema of the State
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2494
+        name: 3 of 4 - Enema of the State
+        type: interiorStory
+      returned: 20
+    :events:
+      available: 9
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009268/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/227
+        name: Age of Apocalypse
+      - resourceURI: http://gateway.marvel.com/v1/public/events/238
+        name: Civil War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/318
+        name: Dark Reign
+      - resourceURI: http://gateway.marvel.com/v1/public/events/302
+        name: Fear Itself
+      - resourceURI: http://gateway.marvel.com/v1/public/events/251
+        name: House of M
+      - resourceURI: http://gateway.marvel.com/v1/public/events/298
+        name: Messiah War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/269
+        name: Secret Invasion
+      - resourceURI: http://gateway.marvel.com/v1/public/events/308
+        name: 'X-Men: Regenesis'
+      - resourceURI: http://gateway.marvel.com/v1/public/events/306
+        name: 'X-Men: Schism'
+      returned: 9
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/12/deadpool?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Deadpool_(Wade_Wilson)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009268/deadpool?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c

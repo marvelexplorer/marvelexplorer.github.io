@@ -1,0 +1,17 @@
+---
+---
+
+@import 'bootstrap';
+
+.comic, .character {
+  text-align: center;
+  img {
+    max-width: 400px;
+  }
+}
+
+.character {
+  img {
+    max-width: 300px;
+  }
+}

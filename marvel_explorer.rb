@@ -3,6 +3,7 @@
 require 'date'
 require 'twitter'
 require 'ultron'
+require 'yaml'
 
 DEFAULT_ID   = 1009351 # Hulk
 MARSHAL_FILE = 'last.character'
@@ -37,7 +38,7 @@ class MarvelExplorer
     comics = Ultron::Comics.by_character_and_vanilla_comics character.id
     comic  = comics.sample
 # some comics have no characters listed, and we need at least 2 to make the game worth playing
-    until comic.characters['available'] > 1 && get_year(comic) > 1900
+    until comic.characters['available'] > 1 && get_year(comic) > 1900 && comic.thumbnail['path'] !~ /not_available/
       comic = comics.sample
     end
 
@@ -52,9 +53,25 @@ class MarvelExplorer
       last = characters.sample
     end
 
-    puts first.thumbnail['path']
-    puts comic.thumbnail['path']
-    puts last.thumbnail['path']
+#    h = {
+#      year: get_year(comic)
+#    }
+
+#    h[:characters] = {}
+
+#    first = { thumbnail: first.thumbnail['path']}
+#    h[:characters][:first][:thumbnail] = first.thumbnail['path']
+#    puts comic.thumbnail['path']
+#    h[:characters][:second][:thumbnail] = second.thumbnail['path']
+
+    h = {}
+    h[:first_character] = first
+    h[:comic] = comic
+    h[:last_character] = last
+
+    yaml = File.open '_data/details.yml', 'w'
+    yaml.write h.to_yaml
+    yaml.close
 
     save last
     last

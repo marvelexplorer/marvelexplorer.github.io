@@ -1,1 +1,26 @@
-derp
+---
+layout: default
+title: Marvel Explorer
+---
+
+<div class='row'>
+  <div class='col-md-3 character'>
+    <h2>In {{ site.data.details.year }}</h2>
+    {{ site.data.details.first[':first'] }}
+    <img src='{{ site.data.details[":first_character"]["table"][":thumbnail"]["path"] }}.jpg' />
+    <div class='character-name'>
+      <h3>{{ site.data.details[":first_character"]["table"][":name"] }}</h3>
+    </div>
+  </div>
+  <div class='col-md-6 comic'>
+    <h2>Appeared in</h2>
+    <img src='{{ site.data.details[":comic"]["table"][":thumbnail"]["path"] }}.jpg' />
+  </div>
+  <div class='col-md-3 character'>
+    <h2>With</h2>
+    <img src='{{ site.data.details[":last_character"]["table"][":thumbnail"]["path"] }}.jpg' />
+    <div class='character-name'>
+      <h3>{{ site.data.details[":last_character"]["table"][":name"] }}</h3>
+    </div>
+  </div>
+</div>
