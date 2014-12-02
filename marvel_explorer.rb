@@ -38,7 +38,7 @@ class MarvelExplorer
   def comic character
     comics = Ultron::Comics.by_character_and_vanilla_comics character.id
     comic  = comics.sample
-# some comics have no characters listed, and we need at least 2 to make the game worth playing
+    # some comics have no characters listed, and we need at least 2 to make the game worth playing
     until comic.characters['available'] > 1 && get_year(comic) > 1900 && comic.thumbnail['path'] !~ /not_available/
       comic = comics.sample
     end
@@ -49,7 +49,7 @@ class MarvelExplorer
   def last comic, first
     characters = Ultron::Characters.by_comic comic.id
     last       = first
-# we want a different character for the next iteration, obvs.
+    # we want a different character for the next iteration, obvs.
     until last.id != first.id
       last = characters.sample
     end
