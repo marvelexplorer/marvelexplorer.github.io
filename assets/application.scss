@@ -15,12 +15,18 @@
 .character {
   img {
     max-width: 300px;
+    position: relative;
   }
 }
 
 .character-name {
   h3 {
     font-family: $font-family-character;
+    bottom:0;
+    left:30px;
+    position: absolute;
+    color: white;
+    -webkit-text-stroke: 1px black;
   }
 }
 /* Header styles
