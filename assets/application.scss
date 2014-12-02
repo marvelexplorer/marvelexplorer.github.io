@@ -6,10 +6,12 @@
 @import 'bootstrap';
 
 body {
+  text-transform: lowercase;
 }
 
 h2 {
   font-size: 1em;
+  color: $brand-success;
 }
 
 .comic, .character {
@@ -19,7 +21,7 @@ h2 {
 }
 
 .character {
-  max-width: 200px;
+  max-width: 300px;
 }
 
 .comic {
@@ -30,8 +32,8 @@ h2 {
   h3 {
     font-family: $font-family-character;
     text-align: center;
-    color: white;
-    -webkit-text-stroke: 1px black;
+    color: $brand-primary;
+  //  -webkit-text-stroke: 1px black;
   }
 }
 /* Header styles
@@ -98,8 +100,4 @@ $footer-height: 40px;
 
 .thumbnail {
   text-align: center;
-}
-
-.col-md-4, .col-md-3 {
-  background-color: $gray-lighter;
 }

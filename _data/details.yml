@@ -1,297 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009708
-    :name: Mary Jane Watson
-    :description: Mary Jane Watson was the guiding light in Peter Parker's life, and
-      their love had overcome countless obstacles.
-    :modified: '2013-11-20T17:15:06-0500'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/528d33d000749
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009708
-    :comics:
-      available: 92
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009708/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37895
-        name: 'Amazing Spider-Man (1999) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/277
-        name: 'Amazing Spider-Man (1999) #500'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1409
-        name: 'Amazing Spider-Man (1999) #515'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1868
-        name: 'Amazing Spider-Man (1999) #519'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/2452
-        name: 'Amazing Spider-Man (1999) #525'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/16447
-        name: 'Amazing Spider-Man (1999) #544'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17210
-        name: 'Amazing Spider-Man (1999) #545'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17211
-        name: 'Amazing Spider-Man (1999) #545 (DJURDJEVIC VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/21321
-        name: 'Amazing Spider-Man (1999) #561'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/24407
-        name: 'Amazing Spider-Man (1999) #600'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/29303
-        name: 'Amazing Spider-Man (1999) #600 (2ND PRINTING VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/24408
-        name: 'Amazing Spider-Man (1999) #601'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/24409
-        name: 'Amazing Spider-Man (1999) #602'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/24410
-        name: 'Amazing Spider-Man (1999) #603'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/24411
-        name: 'Amazing Spider-Man (1999) #604'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/24412
-        name: 'Amazing Spider-Man (1999) #605'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/24413
-        name: 'Amazing Spider-Man (1999) #606'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/31556
-        name: 'Amazing Spider-Man (1999) #620 (DEADPOOL VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/28226
-        name: 'Amazing Spider-Man (1999) #621'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/30300
-        name: 'Amazing Spider-Man (1999) #625'
-      returned: 20
-    :series:
-      available: 26
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009708/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/454
-        name: Amazing Spider-Man (1999 - 2013)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2984
-        name: Amazing Spider-Man Annual (1964 - 2009)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/5376
-        name: Amazing Spider-Man Family (2008 - 2009)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1489
-        name: 'Amazing Spider-Man Vol. 10: New Avengers (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/318
-        name: Amazing Spider-Man Vol. 6 (2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1394
-        name: 'Amazing Spider-Man Vol. 9: Skin Deep (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2005
-        name: Deadpool (1997 - 2002)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/877
-        name: Friendly Neighborhood Spider-Man (2005 - 2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2572
-        name: Iron Man (1998 - 2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/721
-        name: Marvel Knights Spider-Man (2004 - 2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1501
-        name: 'Mary Jane Vol. 2: Homecoming (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/882
-        name: 'Mary Jane: Homecoming (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/753
-        name: New Avengers (2004 - 2010)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1446
-        name: 'New Avengers Vol. 3: Secrets & Lies (2006)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/722
-        name: Sensational Spider-Man (2006 - 2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/969
-        name: Spider-Man Loves Mary Jane (2005 - 2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1633
-        name: 'Spider-Man Loves Mary Jane Vol. 1: Super Crush (2006)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2230
-        name: 'Spider-Man Loves Mary Jane Vol. 3: My Secret Life (2007)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2944
-        name: 'Spider-Man Loves Mary Jane Vol. 4: Still Friends (2007)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/711
-        name: Spider-Man Unlimited (2004 - 2006)
-      returned: 20
-    :stories:
-      available: 96
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009708/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1018
-        name: 'Cover #1018'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1155
-        name: 1 of 4 - Skin Deep
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1156
-        name: 1 of 4 - Skin Deep
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1163
-        name: 1 of 5 - New Avengers
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1164
-        name: 1 of 5 - New Avengers
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1174
-        name: 3 of 12 - The Other (Spider event)
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2807
-        name: 1 of 1
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2991
-        name: 2 of 12 - The Other (Spider event)
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2993
-        name: 5 of 12 - The Other (Spider event)
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3015
-        name: 1 of 3 - Mysterious
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3475
-        name: 3 of 3 - Ronin
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3479
-        name: 2 of 2 - Spider-Woman
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4660
-        name: 4 of 4 - The Other Pt. 9
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4730
-        name: 1 of 4 - 4XLS
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/5437
-        name: 2 of 5 -
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/5455
-        name: 1 of 5
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/24527
-        name: 'Deadpool (1997) #11'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/32341
-        name: Story B 4 of 5
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/32915
-        name: 1 of 1
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/33156
-        name: One More Day 1 of 4
-        type: cover
-      returned: 20
-    :events:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009708/events
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/events/266
-        name: Other - Evolve or Die
-      - resourceURI: http://gateway.marvel.com/v1/public/events/305
-        name: Spider-Island
-      returned: 2
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/2727/mary_jane_watson?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Watson,_Mary_Jane?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009708/mary_jane_watson?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 2559
-    :digitalId: 2174
-    :title: 'Marvel Knights Spider-Man (2004) #19'
-    :issueNumber: 19
-    :variantDescription: ''
-    :description: " “THE OTHER” \r<br>\r<br>Just another typical night of insanity
-      for Mary Jane as she deals with an obsessed stalker and with watching helplessly
-      while Spider-Man slugs it out with...Iron Man?  And that' s just a warm-up for
-      the devastating confrontation she has with Peter that results in the last thing
-      she expected to hear. Part 2 (of 12).\r<br>\r<br>32 PGS./T+ SUGGESTED FOR TEENS
-      AND UP …$2.99\r<br>"
-    :modified: "-0001-11-30T00:00:00-0500"
-    :isbn: ''
-    :upc: 5960605521-01911
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 0
-    :textObjects:
-    - type: issue_solicit_text
-      language: en-us
-      text: " “THE OTHER” \r<br>\r<br>Just another typical night of insanity for Mary
-        Jane as she deals with an obsessed stalker and with watching helplessly while
-        Spider-Man slugs it out with...Iron Man?  And that' s just a warm-up for the
-        devastating confrontation she has with Peter that results in the last thing
-        she expected to hear. Part 2 (of 12).\r<br>\r<br>32 PGS./T+ SUGGESTED FOR
-        TEENS AND UP …$2.99\r<br>"
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/2559
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/2559/marvel_knights_spider-man_2004_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: purchase
-      url: http://comicstore.marvel.com/Marvel-Knights-Spider-Man-19/digital-comic/2174?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=2174&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: inAppLink
-      url: http://applink.marvel.com/issue/2174?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/721
-      name: Marvel Knights Spider-Man (2004 - 2006)
-    :variants: []
-    :collections:
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/5187
-      name: 'Spider-Man: The Other (Trade Paperback)'
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '2005-10-19T00:00:00-0400'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    - type: unlimitedDate
-      date: '2007-11-13T00:00:00-0500'
-    - type: digitalPurchaseDate
-      date: '2012-07-17T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 2.99
-    - type: digitalPurchasePrice
-      price: 1.99
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc61c6400675
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc61c6400675
-      extension: jpg
-    :creators:
-      available: 3
-      collectionURI: http://gateway.marvel.com/v1/public/comics/2559/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/121
-        name: Peter David
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/490
-        name: Pat Lee
-        role: penciller (cover)
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/361
-        name: Cory Petit
-        role: letterer
-      returned: 3
-    :characters:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/2559/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009708
-        name: Mary Jane Watson
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009610
-        name: Spider-Man
-      returned: 2
-    :stories:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/2559/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2991
-        name: 2 of 12 - The Other (Spider event)
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2992
-        name: 2 of 12 - The Other (Spider event)
-        type: interiorStory
-      returned: 2
-    :events:
-      available: 1
-      collectionURI: http://gateway.marvel.com/v1/public/comics/2559/events
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/events/266
-        name: Other - Evolve or Die
-      returned: 1
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009610
     :name: Spider-Man
     :description: Bitten by a radioactive spider, high school student Peter Parker
@@ -513,3 +222,298 @@
       url: http://marvel.com/universe/Spider-Man_(Peter_Parker)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009610/spider-man?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 37902
+    :digitalId: 16491
+    :title: 'Amazing Spider-Man (1999) #7'
+    :issueNumber: 7
+    :variantDescription: ''
+    :description: 
+    :modified: '2012-03-12T00:49:20-0400'
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 0
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/37902
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/37902/amazing_spider-man_1999_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=16491&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/454
+      name: Amazing Spider-Man (1999 - 2013)
+    :variants: []
+    :collections: []
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1999-07-07T00:00:00-0400'
+    - type: focDate
+      date: '1961-01-01T00:00:00-0500'
+    - type: unlimitedDate
+      date: '2011-09-12T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 0
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4e81d7bf6508c
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4e81d7bf6508c
+      extension: jpg
+    :creators:
+      available: 7
+      collectionURI: http://gateway.marvel.com/v1/public/comics/37902/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2529
+        name: Liz Agraphiotis
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/350
+        name: Richard Starkings
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1827
+        name: John Byrne
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/362
+        name: Scott Hanna
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1282
+        name: Ralph Macchio
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1286
+        name: Howard Mackie
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/5237
+        name: Gregory Wright
+        role: colorist
+      returned: 7
+    :characters:
+      available: 7
+      collectionURI: http://gateway.marvel.com/v1/public/comics/37902/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009165
+        name: Avengers
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009195
+        name: Blastaar
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009281
+        name: Doctor Doom
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009299
+        name: Fantastic Four
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009619
+        name: Gwen Stacy
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009325
+        name: Norman Osborn
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009610
+        name: Spider-Man
+      returned: 7
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/37902/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/94907
+        name: 'Amazing Spider-Man (1999) #7'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/95215
+        name: 'Amazing Spider-Man (1999) #7'
+        type: interiorStory
+      returned: 2
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/37902/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009325
+    :name: Norman Osborn
+    :description: ''
+    :modified: '2013-07-18T13:46:24-0400'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/51e829cd06982
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009325
+    :comics:
+      available: 125
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009325/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23825
+        name: 'Agents of Atlas (2009) #2'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/37902
+        name: 'Amazing Spider-Man (1999) #7'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/6671
+        name: 'Amazing Spider-Man (1963) #27'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/6508
+        name: 'Amazing Spider-Man (1963) #122'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/6781
+        name: 'Amazing Spider-Man (1963) #369'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/277
+        name: 'Amazing Spider-Man (1999) #500'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/935
+        name: 'Amazing Spider-Man (1999) #513'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/21705
+        name: 'Amazing Spider-Man (1999) #569'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/21931
+        name: 'Amazing Spider-Man (1999) #571'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/22261
+        name: 'Amazing Spider-Man (1999) #573'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/22259
+        name: 'Amazing Spider-Man (1999) #573 (ZOMBIE VARIANT (1 FOR 10))'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23078
+        name: 'Amazing Spider-Man (1999) #584'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23568
+        name: 'Amazing Spider-Man (1999) #586'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23567
+        name: 'Amazing Spider-Man (1999) #587'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23738
+        name: 'Amazing Spider-Man (1999) #588'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/24135
+        name: 'Amazing Spider-Man (1999) #595'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/24136
+        name: 'Amazing Spider-Man (1999) #595 (GRANOV VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/24403
+        name: 'Amazing Spider-Man (1999) #596'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/28631
+        name: 'Amazing Spider-Man (1999) #596 (2ND PRINTING VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/28632
+        name: 'Amazing Spider-Man (1999) #597 (2ND PRINTING VARIANT)'
+      returned: 20
+    :series:
+      available: 54
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009325/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/6807
+        name: Agents of Atlas (2009)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/454
+        name: Amazing Spider-Man (1999 - 2013)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1987
+        name: Amazing Spider-Man (1963 - 1998)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1967
+        name: Amazing Spider-Man Omnibus Vol. 1 (2007)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/318
+        name: Amazing Spider-Man Vol. 6 (2004)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1283
+        name: 'Amazing Spider-Man Vol. 8: Sins Past (2005)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/9086
+        name: Avengers Academy (2010 - 2012)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1945
+        name: 'Avengers: The Initiative (2007 - 2010)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/6599
+        name: Dark Avengers (2009 - 2010)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2005
+        name: Deadpool (1997 - 2002)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/378
+        name: Earth X (1999)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1806
+        name: Earth X (New (2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3762
+        name: Incredible Hercules (2008 - 2010)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/8842
+        name: Incredible Hulks (2009 - 2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/4889
+        name: Invincible Iron Man (2008 - 2012)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/866
+        name: Marvel Adventures Spider-Man (2005 - 2010)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/9748
+        name: Marvel Adventures Spider-Man (2010 - 2012)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2932
+        name: 'Marvel Adventures Spider-Man Vol. 7: Secret Identity (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3719
+        name: Marvel Fanfare (1982 - 1992)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/721
+        name: Marvel Knights Spider-Man (2004 - 2006)
+      returned: 20
+    :stories:
+      available: 134
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009325/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1018
+        name: 'Cover #1018'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1019
+        name: 'Interior #1019'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1153
+        name: 'Cover #1153'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/1154
+        name: 'Interior #1154'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2973
+        name: 2 of 4 -
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3924
+        name: 1 of 6 - Faith in Monsters
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3926
+        name: Leinil Yu Cover
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4636
+        name: 4 of 5 XLS - World Famous Spider-Man
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/5688
+        name: 1 of 5 - A Long Time Dead
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/13926
+        name: 'Cover #13926'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/14163
+        name: More Bad News
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/23710
+        name: 'Cover #23710'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/23712
+        name: Post It to Peter!
+        type: letters
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/23741
+        name: 'Cover #23741'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24474
+        name: ''
+        type: pinup
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24475
+        name: 'Cover #24475'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24477
+        name: How to Follow Untold Tales of Spider-Man
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24527
+        name: 'Deadpool (1997) #11'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24934
+        name: 'Cover #24934'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/24935
+        name: Earth X Chapter Eight
+        type: interiorStory
+      returned: 20
+    :events:
+      available: 6
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009325/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/318
+        name: Dark Reign
+      - resourceURI: http://gateway.marvel.com/v1/public/events/251
+        name: House of M
+      - resourceURI: http://gateway.marvel.com/v1/public/events/255
+        name: Initiative
+      - resourceURI: http://gateway.marvel.com/v1/public/events/269
+        name: Secret Invasion
+      - resourceURI: http://gateway.marvel.com/v1/public/events/309
+        name: Shattered Heroes
+      - resourceURI: http://gateway.marvel.com/v1/public/events/273
+        name: Siege
+      returned: 6
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/characters/1009325/norman_osborn?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Green_Goblin_%28Norman_Osborn%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009325/norman_osborn?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c

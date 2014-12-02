@@ -4,7 +4,7 @@ title: Marvel Explorer
 ---
 
 <div class='row'>
-  <div class='col-md-3 text-center'>
+  <div class='col-md-4 text-center'>
     <h2>In {{ site.data.details[":comic"]["table"][":dates"][0]["date"] | date: "%Y" }}</h2>
     {{ site.data.details.first[':first'] }}
     <a href='{{ site.data.details[":first_character"]["table"][":urls"][1]["url"] }}'>
@@ -18,8 +18,6 @@ title: Marvel Explorer
     </div>
   </div>
 
-  <div class='col-md-1'></div>
-
   <div class='col-md-4 text-center'>
     <h2>appeared in</h2>
     <a href='{{ site.data.details[":comic"]["table"][":urls"][0]["url"] }}'>
@@ -31,9 +29,7 @@ title: Marvel Explorer
     </div>
   </div>
 
-  <div class='col-md-1'></div>
-
-  <div class='col-md-3 text-center'>
+  <div class='col-md-4 text-center'>
     <h2>with</h2>
     <a href='{{ site.data.details[":last_character"]["table"][":urls"][1]["url"] }}'>
       <img src='{{ site.data.details[":last_character"]["table"][":thumbnail"]["path"] }}.jpg'
