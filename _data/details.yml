@@ -1,351 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009662
-    :name: Thing
-    :description: The radiation that mutated Reed Richards, Sue Storm and Johnny Storm
-      into superhuman beings had also mutated Ben Grimm, transforming him into a grotesque,
-      rock-hided strongman dubbed the Thing.
-    :modified: '2013-11-07T10:43:54-0500'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/527bb4d36b5c2
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009662
-    :comics:
-      available: 413
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009662/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/52
-        name: '4 (2004) #12'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/2120
-        name: '4 (2004) #19'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/2230
-        name: '4 (2004) #20'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/2481
-        name: '4 (2004) #22'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1550
-        name: '4 Vol. 2: The Stuff of Nightmares (Trade Paperback)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12637
-        name: 'Alpha Flight (1983) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/6233
-        name: Alpha Flight Classic Vol. 1 (Trade Paperback)
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/32217
-        name: 'Amazing Spider-Man (1999) #653'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35521
-        name: 'Amazing Spider-Man (1999) #654'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/39595
-        name: 'Amazing Spider-Man (1999) #654 (2nd Printing Variant)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35497
-        name: 'Amazing Spider-Man (1999) #657'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/39019
-        name: 'Amazing Spider-Man (1999) #658'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/38716
-        name: 'Amazing Spider-Man (1999) #658 (THOR HOLLYWOOD VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/39018
-        name: 'Amazing Spider-Man (1999) #659'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/40882
-        name: 'Amazing Spider-Man (1999) #659 (2nd Printing Variant)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35505
-        name: 'Amazing Spider-Man (1999) #660'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35533
-        name: 'Amazing Spider-Man (1999) #661'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/39041
-        name: 'Amazing Spider-Man (1999) #661 (X-Men Art Variant)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35501
-        name: 'Amazing Spider-Man (1999) #663'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35503
-        name: 'Amazing Spider-Man (1999) #665'
-      returned: 20
-    :series:
-      available: 168
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009662/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/725
-        name: 4 (2004 - 2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1253
-        name: '4 Vol. 2: The Stuff of Nightmares (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2116
-        name: Alpha Flight (1983 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1983
-        name: Alpha Flight Classic Vol. 1 (2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/454
-        name: Amazing Spider-Man (1999 - 2013)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3621
-        name: Avengers (1996 - 1997)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9085
-        name: Avengers (2010 - 2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/354
-        name: Avengers (1998 - 2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1340
-        name: Avengers Assemble (2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1496
-        name: Avengers Assemble Vol. 2 (2005)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1737
-        name: Avengers Assemble Vol. 3 (2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1816
-        name: Avengers Assemble Vol. 4 (2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2111
-        name: Avengers Forever (1998 - 2001)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/93
-        name: 'Avengers Legends Vol. I: Avengers Forever (2002)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/15305
-        name: Avengers Vs. X-Men (2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1945
-        name: 'Avengers: The Initiative (2007 - 2010)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/12973
-        name: 'Avengers: We Are the Avengers (2010 - Present)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1503
-        name: Best of the Fantastic Four Vol. 1 (2005)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/784
-        name: Black Panther (2005 - 2008)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1726
-        name: 'Black Panther: The Bride (2006)'
-      returned: 20
-    :stories:
-      available: 481
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009662/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/932
-        name: 5 of 5 - Galactus
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/938
-        name: 1 of ? - Distant Music
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/940
-        name: 2 of ? - Distant Music
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/959
-        name: 2 of ?
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/962
-        name: 2 of 6 - Civil War
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3039
-        name: 3 of 3
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3075
-        name: 1 of 2 - Inhumans
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3077
-        name: 2 of 2 - Inhumans
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3081
-        name: 1 of 1 - Murder at Yancy St
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3461
-        name: 'Cover #3461'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3463
-        name: 3 of 3 - Sentry
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3713
-        name: 1 of 5 - 5XLS
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3846
-        name: 5 of 5 - Bride of the Panther
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3848
-        name: 'Cover #3848'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3944
-        name: '"HARD KNOCKS" PART 2 (OF 4)  It’s clobbering ti–OOF!  Bruce Jones and
-          superstar artist Jae Lee bring you round two between Marve'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4332
-        name: 4 of 6
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4346
-        name: 4 of 6
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4534
-        name: 1 of 1
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4891
-        name: 1 of 1 - Poker Game
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4930
-        name: 1 of 5 - 5XLS
-        type: cover
-      returned: 20
-    :events:
-      available: 20
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009662/events
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/events/116
-        name: Acts of Vengeance!
-      - resourceURI: http://gateway.marvel.com/v1/public/events/233
-        name: Atlantis Attacks
-      - resourceURI: http://gateway.marvel.com/v1/public/events/310
-        name: Avengers VS X-Men
-      - resourceURI: http://gateway.marvel.com/v1/public/events/296
-        name: Chaos War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/238
-        name: Civil War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/240
-        name: Days of Future Present
-      - resourceURI: http://gateway.marvel.com/v1/public/events/248
-        name: Fall of the Mutants
-      - resourceURI: http://gateway.marvel.com/v1/public/events/249
-        name: Fatal Attractions
-      - resourceURI: http://gateway.marvel.com/v1/public/events/302
-        name: Fear Itself
-      - resourceURI: http://gateway.marvel.com/v1/public/events/251
-        name: House of M
-      - resourceURI: http://gateway.marvel.com/v1/public/events/252
-        name: Inferno
-      - resourceURI: http://gateway.marvel.com/v1/public/events/253
-        name: Infinity Gauntlet
-      - resourceURI: http://gateway.marvel.com/v1/public/events/255
-        name: Initiative
-      - resourceURI: http://gateway.marvel.com/v1/public/events/37
-        name: Maximum Security
-      - resourceURI: http://gateway.marvel.com/v1/public/events/154
-        name: Onslaught
-      - resourceURI: http://gateway.marvel.com/v1/public/events/269
-        name: Secret Invasion
-      - resourceURI: http://gateway.marvel.com/v1/public/events/270
-        name: Secret Wars
-      - resourceURI: http://gateway.marvel.com/v1/public/events/309
-        name: Shattered Heroes
-      - resourceURI: http://gateway.marvel.com/v1/public/events/305
-        name: Spider-Island
-      - resourceURI: http://gateway.marvel.com/v1/public/events/277
-        name: World War Hulk
-      returned: 20
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/59/thing?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Thing_%28Benjamin_Grimm%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009662/thing?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 16082
-    :digitalId: 3946
-    :title: 'Fantastic Four: 1234 (2001) #2'
-    :issueNumber: 2
-    :variantDescription: ''
-    :description: 
-    :modified: "-0001-11-30T00:00:00-0500"
-    :isbn: ''
-    :upc: ''
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 36
-    :textObjects: []
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/16082
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/16082/fantastic_four_1234_2001_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: purchase
-      url: http://comicstore.marvel.com/Fantastic-Four-1234-2/digital-comic/3946?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=3946&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: inAppLink
-      url: http://applink.marvel.com/issue/3946?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/2579
-      name: 'Fantastic Four: 1234 (2001 - 2002)'
-    :variants: []
-    :collections: []
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '2001-11-10T00:00:00-0500'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    - type: unlimitedDate
-      date: '2007-11-13T00:00:00-0500'
-    - type: digitalPurchaseDate
-      date: '2011-06-14T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 0
-    - type: digitalPurchasePrice
-      price: 1.99
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/4bc36a5000bb2
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/4bc36a5000bb2
-      extension: jpg
-    :creators:
-      available: 7
-      collectionURI: http://gateway.marvel.com/v1/public/comics/16082/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/807
-        name: Comicraft
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/4728
-        name: Kelly Lamy
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/6298
-        name: Nanci Dakesian
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/643
-        name: Stuart Moore
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/56
-        name: Jae Lee
-        role: penciler
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/64
-        name: Grant Morrison
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/8836
-        name: Jose Villarrubia
-        role: colorist
-      returned: 7
-    :characters:
-      available: 8
-      collectionURI: http://gateway.marvel.com/v1/public/comics/16082/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009435
-        name: Alicia Masters
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009281
-        name: Doctor Doom
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009299
-        name: Fantastic Four
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009356
-        name: Human Torch
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009366
-        name: Invisible Woman
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009459
-        name: Mr. Fantastic
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010791
-        name: Sub-Mariner
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009662
-        name: Thing
-      returned: 8
-    :stories:
-      available: 5
-      collectionURI: http://gateway.marvel.com/v1/public/comics/16082/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/32849
-        name: "[untitled]"
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/32850
-        name: '"2: Staring at the Fish Tank"'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/32851
-        name: "[House Advertisements]"
-        type: promo
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/32852
-        name: Hey Bub Subscribe Today!
-        type: promo
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/32853
-        name: "[Ads]"
-        type: ad
-      returned: 5
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/16082/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009366
     :name: Invisible Woman
     :description: ''
@@ -556,3 +211,331 @@
       url: http://marvel.com/universe/Invisible_Woman?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009366/invisible_woman?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 13156
+    :digitalId: 5930
+    :title: 'Fantastic Four (1961) #335'
+    :issueNumber: 335
+    :variantDescription: ''
+    :description: 
+    :modified: "-0001-11-30T00:00:00-0500"
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 36
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/13156
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/13156/fantastic_four_1961_335?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=5930&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/2121
+      name: Fantastic Four (1961 - 1998)
+    :variants: []
+    :collections:
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/13535
+      name: 'Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)'
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1990-02-10T00:00:00-0500'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    - type: unlimitedDate
+      date: '2010-06-29T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 0
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c366a37c4d3a
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c366a37c4d3a
+      extension: jpg
+    :creators:
+      available: 6
+      collectionURI: http://gateway.marvel.com/v1/public/comics/13156/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1216
+        name: Rich Buckler
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1282
+        name: Ralph Macchio
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1894
+        name: Bill Oakley
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2053
+        name: George Roussos
+        role: colorist
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/5125
+        name: Walter Simonson
+        role: penciller (cover)
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1884
+        name: Romeo Tanghal
+        role: inker
+      returned: 6
+    :characters:
+      available: 5
+      collectionURI: http://gateway.marvel.com/v1/public/comics/13156/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010338
+        name: Captain Marvel (Carol Danvers)
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009299
+        name: Fantastic Four
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009356
+        name: Human Torch
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009366
+        name: Invisible Woman
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009459
+        name: Mr. Fantastic
+      returned: 5
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/13156/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/12962
+        name: 'Cover #12962'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/12963
+        name: Death by Debate
+        type: interiorStory
+      returned: 2
+    :events:
+      available: 1
+      collectionURI: http://gateway.marvel.com/v1/public/comics/13156/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/116
+        name: Acts of Vengeance!
+      returned: 1
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009299
+    :name: Fantastic Four
+    :description: After being exposed to cosmic rays, Reed Richards, Susan Storm,
+      Ben Grimm and Johnny Storm found they had amazing new powers. Reed Richards
+      found he has the ability to stretch his body in any way he wanted, while Susan
+      Storm can turn herself, objects and other people invisible. Ben Grimm transformed
+      into a rocky, super-strong behemoth and Johnny Storm has the ability to set
+      himself on fire. Dubbed the Fantastic Four, Mr. Fantastic, Invisible Woman,
+      Thing and the Human Torch are Marvel's First Family.
+    :modified: '2013-11-15T17:20:03-0500'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/50febc4f55525
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009299
+    :comics:
+      available: 1077
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009299/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/356
+        name: '4 (2004) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/388
+        name: '4 (2004) #2'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/404
+        name: '4 (2004) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/471
+        name: '4 (2004) #4'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/498
+        name: '4 (2004) #5'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/682
+        name: '4 (2004) #6'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1812
+        name: '4 (2004) #7'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/571
+        name: '4 (2004) #8'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/556
+        name: '4 (2004) #9'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/811
+        name: '4 (2004) #10'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/892
+        name: '4 (2004) #11'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/52
+        name: '4 (2004) #12'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1496
+        name: '4 (2004) #13'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1584
+        name: '4 (2004) #14'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1670
+        name: '4 (2004) #15'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1771
+        name: '4 (2004) #16'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1875
+        name: '4 (2004) #17'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1977
+        name: '4 (2004) #18'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/2120
+        name: '4 (2004) #19'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/2230
+        name: '4 (2004) #20'
+      returned: 20
+    :series:
+      available: 224
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009299/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/725
+        name: 4 (2004 - 2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1251
+        name: '4 Vol. 1: Wolf at the Door (2004)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1253
+        name: '4 Vol. 2: The Stuff of Nightmares (2005)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1423
+        name: '4 Vol. 3: Divine Time (2005)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/9994
+        name: ACTS OF VENGEANCE CROSSOVERS OMNIBUS (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/9995
+        name: ACTS OF VENGEANCE CROSSOVERS OMNIBUS (DM Only) (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/7524
+        name: 'Adam: Legend of the Blue Marvel (2008)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/6079
+        name: 'Adam: Legend of the Blue Marvel (2008)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/672
+        name: Alias (2003)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/13383
+        name: Alias Omnibus (2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/6666
+        name: Amazing Adventures (1970 - 1976)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/454
+        name: Amazing Spider-Man (1999 - 2013)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2984
+        name: Amazing Spider-Man Annual (1964 - 2009)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/6056
+        name: Annihilation Classic (2008)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/744
+        name: Astonishing X-Men (2004 - Present)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/10030
+        name: Atlantis Attacks (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/10031
+        name: Atlantis Attacks (DM Only) (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
+        name: Avengers (1963 - 1996)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/10035
+        name: Avengers & the Infinity Gauntlet (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/9859
+        name: Avengers & the Infinity Gauntlet (2010)
+      returned: 20
+    :stories:
+      available: 1776
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009299/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/513
+        name: 'Interior #513'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/563
+        name: 'Interior #563'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/592
+        name: 'Interior #592'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/799
+        name: 'Interior #799'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/801
+        name: 'Interior #801'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/803
+        name: 'Interior #803'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/899
+        name: 1 of 5 - Galactus
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/913
+        name: 'Interior #913'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/915
+        name: 'Interior #915'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/917
+        name: 'Interior #917'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/919
+        name: 'Interior #919'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/921
+        name: 'Interior #921'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/923
+        name: AVENGERS DISASSEMBLED TIE-IN! "FOURTITUDE" PART 2 (OF 3) With public
+          opinion of the FF at an all-time low and with all of Manhat
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/925
+        name: AVENGERS DISASSEMBLED TIE-IN! "FOURTITUDE" FINALE! PART 3 (OF 3) Galactus
+          the World-Eater is coming to Earth to choose one of th
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/927
+        name: 2 of 4 - Galactus
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/929
+        name: 3 of 4 - Galactus
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/931
+        name: 4 of 4 -Galactus
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/932
+        name: 5 of 5 - Galactus
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/933
+        name: 5 of 5 - Galactus
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/935
+        name: 1 of 2
+        type: interiorStory
+      returned: 20
+    :events:
+      available: 21
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009299/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/116
+        name: Acts of Vengeance!
+      - resourceURI: http://gateway.marvel.com/v1/public/events/233
+        name: Atlantis Attacks
+      - resourceURI: http://gateway.marvel.com/v1/public/events/234
+        name: Avengers Disassembled
+      - resourceURI: http://gateway.marvel.com/v1/public/events/296
+        name: Chaos War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/238
+        name: Civil War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/318
+        name: Dark Reign
+      - resourceURI: http://gateway.marvel.com/v1/public/events/240
+        name: Days of Future Present
+      - resourceURI: http://gateway.marvel.com/v1/public/events/246
+        name: Evolutionary War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/248
+        name: Fall of the Mutants
+      - resourceURI: http://gateway.marvel.com/v1/public/events/302
+        name: Fear Itself
+      - resourceURI: http://gateway.marvel.com/v1/public/events/287
+        name: Heroic Age
+      - resourceURI: http://gateway.marvel.com/v1/public/events/251
+        name: House of M
+      - resourceURI: http://gateway.marvel.com/v1/public/events/252
+        name: Inferno
+      - resourceURI: http://gateway.marvel.com/v1/public/events/29
+        name: Infinity War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/255
+        name: Initiative
+      - resourceURI: http://gateway.marvel.com/v1/public/events/154
+        name: Onslaught
+      - resourceURI: http://gateway.marvel.com/v1/public/events/269
+        name: Secret Invasion
+      - resourceURI: http://gateway.marvel.com/v1/public/events/270
+        name: Secret Wars
+      - resourceURI: http://gateway.marvel.com/v1/public/events/271
+        name: Secret Wars II
+      - resourceURI: http://gateway.marvel.com/v1/public/events/294
+        name: The Thanos Imperative
+      returned: 20
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/69/fantastic_four?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Fantastic_Four?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009299/fantastic_four?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
