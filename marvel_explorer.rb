@@ -116,4 +116,4 @@ puts marvel
 
 message = "#{marvel.to_s}"
 
-`git commit -a -m "#{message}" && git push`
+`git commit -a -m "#{message}" ; git push`
