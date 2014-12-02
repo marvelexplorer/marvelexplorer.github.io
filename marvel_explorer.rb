@@ -84,15 +84,17 @@ class MarvelExplorer
     yamlise
   end
 
-  def tweet
+  def twitter_client
     config = {
       consumer_key:        ENV['TWITTER_CONSUMER_KEY'],
       consumer_secret:     ENV['TWITTER_CONSUMER_SECRET'],
       access_token:        ENV['TWITTER_OAUTH_TOKEN'],
       access_token_secret: ENV['TWITTER_OAUTH_SECRET']
     }
-    @twitter_client = Twitter::REST::Client.new(config)
+    Twitter::REST::Client.new(config)
+  end
 
+  def tweet
     @tweet_message = 'In %s, %s appeared in %s of the %s run of %s with %s' % [
         get_year(@comic).to_s,
         @first.name,
@@ -108,13 +110,12 @@ class MarvelExplorer
     end
 
     puts @tweet_message
-    @twitter_client.update @tweet_message
+    twitter_client.update @tweet_message
   end
 end
 
 marvel = MarvelExplorer.new
 marvel.tweet
-marvel.push
 
 message = "#{marvel.to_s}"
 
