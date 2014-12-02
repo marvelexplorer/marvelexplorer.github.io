@@ -53,18 +53,20 @@ class MarvelExplorer
       last = characters.sample
     end
 
-    h = {}
-    h[:first_character] = first
-    h[:comic] = comic
+    save last
+    last
+  end
 
-    h[:last_character] = last
+  def yamlise
+    h = {}
+    h[:first_character] = @first
+    h[:comic] = @comic
+
+    h[:last_character] = @last
 
     yaml = File.open '_data/details.yml', 'w'
     yaml.write h.to_yaml
     yaml.close
-
-    save last
-    last
   end
 
   def get_year comic
@@ -78,12 +80,20 @@ class MarvelExplorer
 
     @comic.series['name'] =~ /(.*) \((.*)\)/
     @series = { name: $1, period: $2 }
+
+    yamlise
   end
 
-  def to_s
-    s = ''
+  def tweet
+    config = {
+      consumer_key:        ENV['TWITTER_CONSUMER_KEY'],
+      consumer_secret:     ENV['TWITTER_CONSUMER_SECRET'],
+      access_token:        ENV['TWITTER_OAUTH_TOKEN'],
+      access_token_secret: ENV['TWITTER_OAUTH_SECRET']
+    }
+    @twitter_client = Twitter::REST::Client.new(config)
 
-    s << 'In %s, %s appeared in %s of the %s run of %s with %s' % [
+    @tweet_message = 'In %s, %s appeared in %s of the %s run of %s with %s' % [
         get_year(@comic).to_s,
         @first.name,
         'issue #%s' % @comic.issueNumber.to_s,
@@ -91,29 +101,21 @@ class MarvelExplorer
         @series[:name],
         @last.name
     ]
+    puts @tweet
 
-    if s.length > TWEET_LENGTH
-      s = '%s…' % s[0, TWEET_LENGTH - 1]
+    if @tweet_message.length > TWEET_LENGTH
+      @tweet_message = '%s…' % s[0, TWEET_LENGTH - 1]
     end
 
-    s
+    puts @tweet_message
+    @twitter_client.update @tweet_message
   end
 end
 
-config = {
-  consumer_key:        ENV['TWITTER_CONSUMER_KEY'],
-  consumer_secret:     ENV['TWITTER_CONSUMER_SECRET'],
-  access_token:        ENV['TWITTER_OAUTH_TOKEN'],
-  access_token_secret: ENV['TWITTER_OAUTH_SECRET']
-}
-
-client = Twitter::REST::Client.new(config)
-
 marvel = MarvelExplorer.new
-
-puts marvel
-client.update marvel
+marvel.tweet
+marvel.push
 
 message = "#{marvel.to_s}"
 
-`git commit -a -m "#{message}" && git push origin master`
+#`git commit -a -m "#{message}" && git push origin master`
