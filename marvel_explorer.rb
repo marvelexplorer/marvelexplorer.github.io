@@ -117,6 +117,6 @@ end
 marvel = MarvelExplorer.new
 marvel.tweet
 
-message = "#{marvel.to_s}"
+message = "#{marvel.tweet_message}"
 
 `git commit -a -m "#{message}" && git push origin master`
