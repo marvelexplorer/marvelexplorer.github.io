@@ -112,6 +112,8 @@ client = Twitter::REST::Client.new(config)
 marvel = MarvelExplorer.new
 
 puts marvel
-client.update marvel
+#client.update marvel
 
-`git commit -a -m 'New data' && git push`
+message = "#{marvel.to_s}"
+
+`git commit -a -m "#{message}" && git push`
