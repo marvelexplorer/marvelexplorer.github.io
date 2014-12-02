@@ -72,7 +72,17 @@ $header-height: 50px;
 
 /* End header */
 
-$footer-height: 40px;
+$footer-height: 50px;
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: $footer-height;
+}
 
 .footer {
   position: absolute;
