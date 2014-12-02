@@ -116,4 +116,4 @@ client.update marvel
 
 message = "#{marvel.to_s}"
 
-`git pull && git commit -a -m "#{message}" && git push origin master`
+`git commit -a -m "#{message}" && git push origin master`
