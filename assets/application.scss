@@ -7,19 +7,19 @@
 
 .comic, .character {
   text-align: center;
-  img {
-    max-width: 300px;
-  }
+  max-width: 300px;
+  position: relative;
 }
 
 .character {
-  img {
-    max-width: 300px;
-    position: relative;
-  }
+  max-width: 300px;
 }
 
-.character-name {
+.comic {
+  max-width: 300px;
+}
+
+.character-name, .comic-title {
   h3 {
     font-family: $font-family-character;
     bottom:0;
@@ -89,4 +89,8 @@ $footer-height: 40px;
   a:hover {
     text-decoration: none;
   }
+}
+
+.thumbnail {
+  text-align: center;
 }

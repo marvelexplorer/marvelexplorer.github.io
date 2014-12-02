@@ -4,32 +4,38 @@ title: Marvel Explorer
 ---
 
 <div class='row'>
-  <div class='col-md-3 character'>
+  <div class='col-md-3 text-center'>
     <h2>In {{ site.data.details[":comic"]["table"][":dates"][0]["date"] | date: "%Y" }}</h2>
     {{ site.data.details.first[':first'] }}
     <a href='{{ site.data.details[":first_character"]["table"][":urls"][1]["url"] }}'>
       <img src='{{ site.data.details[":first_character"]["table"][":thumbnail"]["path"] }}.jpg'
            title='{{ site.data.details[":first_character"]["table"][":description"] }}'
-           alt='{{ site.data.details[":first_character"]["table"][":name"] }}' />
+           alt='{{ site.data.details[":first_character"]["table"][":name"] }}'
+           class='character'/>
     </a>
     <div class='character-name'>
       <h3>{{ site.data.details[":first_character"]["table"][":name"] }}</h3>
     </div>
   </div>
 
-  <div class='col-md-6 comic'>
-    <h2>Appeared in</h2>
+  <div class='col-md-6 text-center'>
+    <h2>appeared in</h2>
     <a href='{{ site.data.details[":comic"]["table"][":urls"][0]["url"] }}'>
-      <img src='{{ site.data.details[":comic"]["table"][":thumbnail"]["path"] }}.jpg' />
+      <img src='{{ site.data.details[":comic"]["table"][":thumbnail"]["path"] }}.jpg'
+           class='comic' />
     </a>
+    <div class='comic-title'>
+      <h3>{{ site.data.details[":comic"]["table"][":title"] }}</h3>
+    </div>
   </div>
 
-  <div class='col-md-3 character'>
-    <h2>With</h2>
+  <div class='col-md-3 text-center'>
+    <h2>with</h2>
     <a href='{{ site.data.details[":last_character"]["table"][":urls"][1]["url"] }}'>
       <img src='{{ site.data.details[":last_character"]["table"][":thumbnail"]["path"] }}.jpg'
            title='{{ site.data.details[":last_character"]["table"][":description"] }}'
-           alt='{{ site.data.details[":last_character"]["table"][":name"] }}' />
+           alt='{{ site.data.details[":last_character"]["table"][":name"] }}'
+           class='character'/>
     </a>
     <div class='character-name'>
       <h3>{{ site.data.details[":last_character"]["table"][":name"] }}</h3>
