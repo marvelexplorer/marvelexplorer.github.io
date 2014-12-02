@@ -116,4 +116,4 @@ puts marvel
 
 message = "#{marvel.to_s}"
 
-`git pull ; git commit -a -m "#{message}" ; GIT_SSH=~/sshv.sh git push origin master`
+`git pull && git commit -a -m "#{message}" && git push origin master`
