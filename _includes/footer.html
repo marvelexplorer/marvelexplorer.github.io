@@ -1,10 +1,9 @@
 <div class='footer'>
   <div class='text-center bottom links'>
+    <i class='fa fa-flash flash'></i>
     {% for link in site.data.links %}
       <a href='{{ link.url }}' title='{{ link.title }}'>{{ link.title }}</span></a>
-      {% if forloop.rindex0 > 0 %}
-        <i class='fa fa-flash flash'></i>
-      {% endif %}
+      <i class='fa fa-flash flash'></i>
     {% endfor %}
   </div>
 </div>
