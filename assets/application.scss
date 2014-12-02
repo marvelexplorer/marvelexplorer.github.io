@@ -1,6 +1,8 @@
 ---
 ---
 
+@import 'fonts';
+@import 'bootstrap-custom';
 @import 'bootstrap';
 
 .comic, .character {
@@ -13,5 +15,72 @@
 .character {
   img {
     max-width: 300px;
+  }
+}
+
+.character-name {
+  h3 {
+    font-family: $font-family-character;
+  }
+}
+/* Header styles
+-------------------------------------------------- */
+
+$header-height: 50px;
+
+.header {
+  top: 0;
+  width: 100%;
+
+  background: $brand-primary;
+  height: $header-height;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  position: relative;
+
+  .logo {
+    width: 100%;
+    height: auto;
+  }
+
+  p {
+    text-transform: uppercase;
+    text-align: right;
+  }
+
+  .slogan {
+    font-size: 3em;
+    color: $brand-primary;
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+  }
+}
+
+/* End header */
+
+$footer-height: 40px;
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+  margin-top: $padding-large-vertical;
+  background: $brand-success;
+  background-image: url('/assets/images/backgrounds/background.jpg');
+
+  opacity: 1;
+  color: white;
+  height: $footer-height;
+
+  padding: $padding-large-vertical $padding-large-horizontal;
+
+  a {
+    color: $gray-light;
+  }
+
+  a:hover {
+    text-decoration: none;
   }
 }
