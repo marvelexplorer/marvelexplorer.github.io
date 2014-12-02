@@ -52,6 +52,10 @@ class MarvelExplorer
       last = characters.sample
     end
 
+    puts first.thumbnail['path']
+    puts comic.thumbnail['path']
+    puts last.thumbnail['path']
+
     save last
     last
   end
@@ -96,9 +100,9 @@ config = {
   access_token_secret: ENV['TWITTER_OAUTH_SECRET']
 }
 
-client = Twitter::REST::Client.new(config)
+#client = Twitter::REST::Client.new(config)
 
 marvel = MarvelExplorer.new
 
 puts marvel
-client.update marvel
+#client.update marvel
