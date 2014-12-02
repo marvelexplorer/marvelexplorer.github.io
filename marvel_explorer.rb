@@ -112,7 +112,7 @@ client = Twitter::REST::Client.new(config)
 marvel = MarvelExplorer.new
 
 puts marvel
-#client.update marvel
+client.update marvel
 
 message = "#{marvel.to_s}"
 
