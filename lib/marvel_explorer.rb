@@ -11,8 +11,8 @@ TWEET_LENGTH = 140
 
 class MarvelExplorer
 
-  def self.start_character
-    begin
+  def start_character
+    @start_character ||= begin
       File.open MARSHAL_FILE do |file|
         Marshal.load file
       end
@@ -23,18 +23,18 @@ class MarvelExplorer
     end
   end
 
-  def self.comic character
+  def comic character
     comics = Ultron::Comics.by_character_and_vanilla_comics character.id
-    comic  = comics.sample
+    @comic  = comics.sample
     # some comics have no characters listed, and we need at least 2 to make the game worth playing
-    until validate_comic comic
-      comic = comics.sample
+    until validate_comic
+      @comic = comics.sample
     end
 
-    comic
+    @comic
   end
 
-  def self.end_character comic, first
+  def end_character comic, first
     characters = Ultron::Characters.by_comic comic.id
     end_character = start_character
 #    # we want a different character for the next iteration, obvs.
@@ -44,12 +44,12 @@ class MarvelExplorer
 #
 #    save last
 #    last
-#  end
+  end
 
-  def self.validate_comic comic
-    comic.characters['available'] > 1 &&
-    get_year(comic) > 1900 &&
-    comic.thumbnail['path'] !~ /not_available/
+  def validate_comic
+    @comic.characters['available'] > 1 &&
+    MarvelExplorer.get_year(@comic) > 1900 &&
+    @comic.thumbnail['path'] !~ /not_available/
   end
 
   def self.get_year comic
