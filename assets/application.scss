@@ -39,7 +39,7 @@ h2 {
 /* Header styles
 -------------------------------------------------- */
 
-$header-height: 45px;
+$header-height: 55px;
 
 .header {
   top: 0;
@@ -51,11 +51,6 @@ $header-height: 45px;
   margin-bottom: 20px;
   position: relative;
 
-  .logo {
-    width: 100%;
-    height: auto;
-  }
-
   p {
     text-transform: uppercase;
     text-align: right;
@@ -64,16 +59,18 @@ $header-height: 45px;
   .slogan {
     font-size: 2em;
     color: white;
-    position: absolute;
-    right: 10px;
+    text-align: center;
+  //  position: absolute;
+  //  right: 10px;
     font-family: $font-family-character;
+    margin: 0px;
+    padding-top: 5px;
   }
 
   .subhead {
     color: white;
-    position: absolute;
-    right: 10px;
-    bottom: 0;
+    text-align: center;
+    margin: 0px;
   }
 }
 
