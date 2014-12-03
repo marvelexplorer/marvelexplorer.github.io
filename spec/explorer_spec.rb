@@ -19,10 +19,9 @@ describe MarvelExplorer do
 
   it 'should select a comic for the start character', :vcr do
     MARSHAL_FILE = 'not_a_path'
-    c = @me.start_character
     stub_request(:get, /gateway.marvel.com\/v1\/public\/characters\/1009351\/comics/)
     .to_return(status: 200, body: File.read('spec/fixtures/hulk_comics.json'))
-    expect(@me.comic(c).title).to eq 'Marvel Double Shot (2003) #2'
+    expect(@me.comic(@me.start_character).title).to eq 'Marvel Double Shot (2003) #2'
   end
 
   it 'should extract the year correctly', :vcr do
