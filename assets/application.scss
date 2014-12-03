@@ -16,16 +16,16 @@ h2 {
 
 .comic, .character {
   text-align: center;
-  max-width: 300px;
+  max-width: 100%;
   position: relative;
 }
 
 .character {
-  max-width: 300px;
+//  max-width: 300px;
 }
 
 .comic {
-  max-width: 300px;
+//  max-width: 300px;
 }
 
 .character-name, .comic-title {
@@ -86,6 +86,10 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: $footer-height;
+}
+
+.container {
+  width: 100%;
 }
 
 .footer {
