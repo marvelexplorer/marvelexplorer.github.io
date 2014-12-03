@@ -34,6 +34,10 @@ class MarvelExplorer
     comic
   end
 
+  def self.get_year comic
+    DateTime.parse(comic.dates.select { |d| d['type'] == 'onsaleDate' }[0]['date']).year
+  end
+  
 #  attr_writer :full
 #  attr_reader :tweet_message
 #
