@@ -1,330 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009670
-    :name: Tigra (Greer Nelson)
-    :description: Although she was able to use the cat's-head amulet to change back
-      to her human form, Greer Nelson became so accustomed to and enamored of her
-      feline form that she seldom made the transformation.
-    :modified: '2013-10-24T13:29:42-0400'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/526957bb909b3
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009670
-    :comics:
-      available: 69
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009670/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17490
-        name: 'Avengers (1998) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17501
-        name: 'Avengers (1998) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17512
-        name: 'Avengers (1998) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17523
-        name: 'Avengers (1998) #4'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17518
-        name: 'Avengers (1998) #35'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/29213
-        name: 'Avengers Academy (2010) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/36770
-        name: 'Avengers Academy (2010) #1 (2ND PRINTING VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/29217
-        name: 'Avengers Academy (2010) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37287
-        name: 'Avengers Academy (2010) #2 (2ND PRINTING VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/29218
-        name: 'Avengers Academy (2010) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35423
-        name: 'Avengers Academy (2010) #3 (WOMEN OF MARVEL VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35849
-        name: 'Avengers Academy (2010) #3 (MCKONE VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/29222
-        name: 'Avengers Academy (2010) #7'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/29215
-        name: 'Avengers Academy (2010) #11'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/29216
-        name: 'Avengers Academy (2010) #12'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/36484
-        name: 'Avengers Academy (2010) #19'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/36487
-        name: 'Avengers Academy (2010) #20'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/36489
-        name: 'Avengers Academy (2010) #21'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/29324
-        name: 'Avengers Academy Vol 1 : Permanent Record TPB (Trade Paperback)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/6929
-        name: 'Avengers Annual (1967) #15'
-      returned: 20
-    :series:
-      available: 30
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009670/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/354
-        name: Avengers (1998 - 2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9086
-        name: Avengers Academy (2010 - 2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/10037
-        name: 'Avengers Academy Vol 1 : Permanent Record TPB (2011)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1988
-        name: Avengers Annual (1967 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1340
-        name: Avengers Assemble (2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1816
-        name: Avengers Assemble Vol. 4 (2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/6476
-        name: 'Avengers: First to Last (2008 - Present)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/6473
-        name: 'Avengers: First to Last Premiere (2008 - Present)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1945
-        name: 'Avengers: The Initiative (2007 - 2010)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/784
-        name: Black Panther (2005 - 2008)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2226
-        name: 'Black Panther: Civil War (2007)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1997
-        name: Captain America (1998 - 2002)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1067
-        name: Civil War (2006 - 2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2121
-        name: Fantastic Four (1961 - 1998)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3730
-        name: Giant-Size Creatures (1974)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1505
-        name: Giant-Size Marvel (2005)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3065
-        name: 'House of M: Avengers (2007)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2039
-        name: Marvel Comics Presents (1988 - 1995)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2045
-        name: Marvel Premiere (1972 - 1981)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2301
-        name: Marvel Super-Heroes (1992 - 1993)
-      returned: 20
-    :stories:
-      available: 79
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009670/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3860
-        name: 2 of 3 - Civil War
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/5884
-        name: 4 of 7 - 7XLS
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/5886
-        name: 'Cover #5886'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/8682
-        name: 3 of 6 - Ultron; THE INITIATIVE BANNER
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/12585
-        name: A Robinson Crusoe in the Negative Zone!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/12863
-        name: Central City Does Not Answer!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/17387
-        name: Betrayal
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/19963
-        name: 'Cover #19963'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/19964
-        name: Nightmare's Evolution
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/23083
-        name: 'Cover #23083'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/23084
-        name: Ensnared [Slave of Passion]
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/23091
-        name: Enraged [Slave of Passion]
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/23098
-        name: Enjoined [Slave of Passion]
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/23104
-        name: Ensnared [Slave of Passion]
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/26237
-        name: A World of Hurt
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/26239
-        name: Whatever the Cost!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/27816
-        name: 'Cover #27816'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/31616
-        name: Storm Warning
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/33035
-        name: 'World War Hulk: Front Line (2007) #3'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/33261
-        name: Puppet-Master 2 of 4
-        type: cover
-      returned: 20
-    :events:
-      available: 10
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009670/events
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/events/238
-        name: Civil War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/318
-        name: Dark Reign
-      - resourceURI: http://gateway.marvel.com/v1/public/events/246
-        name: Evolutionary War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/302
-        name: Fear Itself
-      - resourceURI: http://gateway.marvel.com/v1/public/events/255
-        name: Initiative
-      - resourceURI: http://gateway.marvel.com/v1/public/events/37
-        name: Maximum Security
-      - resourceURI: http://gateway.marvel.com/v1/public/events/269
-        name: Secret Invasion
-      - resourceURI: http://gateway.marvel.com/v1/public/events/309
-        name: Shattered Heroes
-      - resourceURI: http://gateway.marvel.com/v1/public/events/273
-        name: Siege
-      - resourceURI: http://gateway.marvel.com/v1/public/events/277
-        name: World War Hulk
-      returned: 10
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/2377/tigra?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Tigra_%28Greer_Nelson%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009670/tigra_greer_nelson?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 12982
-    :digitalId: 30937
-    :title: 'Fantastic Four (1961) #179'
-    :issueNumber: 179
-    :variantDescription: ''
-    :description: 
-    :modified: '2013-10-18T14:02:06-0400'
-    :isbn: ''
-    :upc: ''
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 0
-    :textObjects: []
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/12982
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/12982/fantastic_four_1961_179?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=30937&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/2121
-      name: Fantastic Four (1961 - 1998)
-    :variants: []
-    :collections: []
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '1977-02-10T00:00:00-0500'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    - type: unlimitedDate
-      date: '2013-07-29T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 0.3
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/52617777baf25
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/52617777baf25
-      extension: jpg
-    :creators:
-      available: 11
-      collectionURI: http://gateway.marvel.com/v1/public/comics/12982/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1612
-        name: John Buscema
-        role: penciller (cover)
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/954
-        name: Gerry Conway
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1791
-        name: Script Pages
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1778
-        name: Dan Crespi
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/399
-        name: Jim Novak
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1759
-        name: Joe Rosen
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/5205
-        name: Irving Watanabe
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/2053
-        name: George Roussos
-        role: colorist
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1240
-        name: Joe Sinnott
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/2909
-        name: Roy Thomas
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1219
-        name: Ron Wilson
-        role: penciller
-      returned: 11
-    :characters:
-      available: 6
-      collectionURI: http://gateway.marvel.com/v1/public/comics/12982/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
-        name: Captain America
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009299
-        name: Fantastic Four
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009312
-        name: Galactus
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009351
-        name: Hulk
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009610
-        name: Spider-Man
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009670
-        name: Tigra (Greer Nelson)
-      returned: 6
-    :stories:
-      available: 5
-      collectionURI: http://gateway.marvel.com/v1/public/comics/12982/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/12584
-        name: 'Cover #12584'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/12585
-        name: A Robinson Crusoe in the Negative Zone!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/12586
-        name: "[Baxter Building Bulletins]"
-        type: letters
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/12587
-        name: The Incredible Hulk And The Green Thumb
-        type: ad
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/12588
-        name: Ricochet To Freedom!
-        type: ad
-      returned: 5
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/12982/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009312
     :name: Galactus
     :description: ''
@@ -510,3 +186,198 @@
       url: http://marvel.com/universe/Galactus?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009312/galactus?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 30510
+    :digitalId: 15508
+    :title: 'S.H.I.E.L.D. (2010) #3'
+    :issueNumber: 3
+    :variantDescription: ''
+    :description: "The surprise hit of the year marches on! In this issue, discover
+      the secrets of Sir Issac Newton, see how Galileo defeated Galactus long before
+      the Fantastic Four ever did and find out why Leonardo da Vinci traveled over
+      400 years to do. All of\r\nthis from the twisted minds of writer Jonathan Hickman
+      (FANTASTIC FOUR) and superstar in the making Dustin Weaver (X-MEN LEGACY)!\r\nRated
+      T  …$2.99"
+    :modified: '2012-04-24T09:33:20-0400'
+    :isbn: ''
+    :upc: 5960606923-00311
+    :diamondCode: JUN100605
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 32
+    :textObjects:
+    - type: issue_solicit_text
+      language: en-us
+      text: "The surprise hit of the year marches on! In this issue, discover the
+        secrets of Sir Issac Newton, see how Galileo defeated Galactus long before
+        the Fantastic Four ever did and find out why Leonardo da Vinci traveled over
+        400 years to do. All of\r\nthis from the twisted minds of writer Jonathan
+        Hickman (FANTASTIC FOUR) and superstar in the making Dustin Weaver (X-MEN
+        LEGACY)!\r\nRated T  …$2.99"
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/30510
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/30510/shield_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: purchase
+      url: http://comicstore.marvel.com/S-H-I-E-L-D-3/digital-comic/15508?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=15508&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: inAppLink
+      url: http://applink.marvel.com/issue/15508?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/8821
+      name: S.H.I.E.L.D. (2010 - 2011)
+    :variants:
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/32290
+      name: 'S.H.I.E.L.D. (2010) #3 (HISTORICAL VARIANT)'
+    :collections: []
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '2010-08-04T00:00:00-0400'
+    - type: focDate
+      date: '2010-07-24T00:00:00-0400'
+    - type: unlimitedDate
+      date: '2011-07-26T00:00:00-0400'
+    - type: digitalPurchaseDate
+      date: '2012-04-24T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 2.99
+    - type: digitalPurchasePrice
+      price: 1.99
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4f6745d4bdb0a
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4f6745d4bdb0a
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4c52e19b4e3e4
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4c52e19554df2
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4c52e18f55f56
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c52e189431c4
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c52e1830a6b4
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4c3b3b5bc74e9
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c3b3b443de88
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c3b3b2335d36
+      extension: jpg
+    :creators:
+      available: 6
+      collectionURI: http://gateway.marvel.com/v1/public/comics/30510/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/11743
+        name: Jonathan Hickman
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/7843
+        name: Todd Klein
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1369
+        name: Gerald Parel
+        role: colorist
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/627
+        name: Christina Strain
+        role: colorist
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/3635
+        name: Joe Quesada
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/8404
+        name: Dustin Weaver
+        role: artist
+      returned: 6
+    :characters:
+      available: 3
+      collectionURI: http://gateway.marvel.com/v1/public/comics/30510/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011107
+        name: Deviants
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009312
+        name: Galactus
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009552
+        name: S.H.I.E.L.D.
+      returned: 3
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/30510/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/69846
+        name: 'S.H.I.E.L.D (2010) #3'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/69847
+        name: 'S.H.I.E.L.D (2010) #3'
+        type: interiorStory
+      returned: 2
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/30510/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1011107
+    :name: Deviants
+    :description: ''
+    :modified: '1969-12-31T19:00:00-0500'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4c0030a603d23
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1011107
+    :comics:
+      available: 4
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1011107/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/30510
+        name: 'S.H.I.E.L.D. (2010) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/18065
+        name: 'X-Force (1991) #94'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/18067
+        name: 'X-Force (1991) #96'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/18068
+        name: 'X-Force (1991) #97'
+      returned: 4
+    :series:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1011107/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/8821
+        name: S.H.I.E.L.D. (2010 - 2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3633
+        name: X-Force (1991 - 2004)
+      returned: 2
+    :stories:
+      available: 4
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1011107/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/38421
+        name: Artifacts and Apocrypha
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/38425
+        name: Family Secrets
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/38428
+        name: Cracked Foundation
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/69847
+        name: 'S.H.I.E.L.D (2010) #3'
+        type: interiorStory
+      returned: 4
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1011107/events
+      items: []
+      returned: 0
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/546/deviants?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Deviants?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1011107/deviants?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
