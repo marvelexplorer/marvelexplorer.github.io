@@ -29,5 +29,9 @@ describe MarvelExplorer do
     expect(MarvelExplorer.get_year c).to eq 2014
   end
 
+  it 'should get the end character from the comic', :vcr do
+    
+  end
+
   it 'should save the end character'
 end

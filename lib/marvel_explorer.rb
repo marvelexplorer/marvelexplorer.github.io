@@ -34,6 +34,18 @@ class MarvelExplorer
     comic
   end
 
+  def self.end_character comic, first
+    characters = Ultron::Characters.by_comic comic.id
+    end_character = start_character
+#    # we want a different character for the next iteration, obvs.
+#    until last.id != first.id
+#      last = characters.sample
+#    end
+#
+#    save last
+#    last
+#  end
+
   def self.validate_comic comic
     comic.characters['available'] > 1 &&
     get_year(comic) > 1900 &&
@@ -51,17 +63,6 @@ class MarvelExplorer
 #    perform
 #  end
 #
-#  def load
-#    begin
-#      File.open MARSHAL_FILE do |file|
-#        Marshal.load file
-#      end
-#    rescue
-#      Ultron::Characters.find DEFAULT_ID
-#    ensure
-#      true
-#    end
-#  end
 #
 #  def save character
 #    File.open MARSHAL_FILE, 'w' do |file|
@@ -69,28 +70,8 @@ class MarvelExplorer
 #    end
 #  end
 #
-#  def comic character
-#    comics = Ultron::Comics.by_character_and_vanilla_comics character.id
-#    comic  = comics.sample
-#    # some comics have no characters listed, and we need at least 2 to make the game worth playing
-#    until comic.characters['available'] > 1 && get_year(comic) > 1900 && comic.thumbnail['path'] !~ /not_available/
-#      comic = comics.sample
-#    end
 #
-#    comic
-#  end
 #
-#  def last comic, first
-#    characters = Ultron::Characters.by_comic comic.id
-#    last       = first
-#    # we want a different character for the next iteration, obvs.
-#    until last.id != first.id
-#      last = characters.sample
-#    end
-#
-#    save last
-#    last
-#  end
 #
 #  def yamlise
 #    h = {}
@@ -104,9 +85,6 @@ class MarvelExplorer
 #    yaml.close
 #  end
 #
-#  def get_year comic
-#    DateTime.parse(comic.dates.select { |d| d['type'] == 'onsaleDate' }[0]['date']).year
-#  end
 #
 #  def perform
 #    @first = load
