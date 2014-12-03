@@ -1,6 +1,266 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
+    :id: 1009675
+    :name: Tombstone
+    :description: Known as Tombstone, Lonnie Lincoln filed his teeth to points to
+      add to his already intimidating image and honed his fighting skills in numerous
+      street fights.
+    :modified: '1969-12-31T19:00:00-0500'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003a981c496
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009675
+    :comics:
+      available: 22
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009675/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/30301
+        name: 'Amazing Spider-Man (1999) #626'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/30318
+        name: 'Amazing Spider-Man (1999) #643'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/36663
+        name: 'Amazing Spider-Man (1999) #643 (JIMENEZ VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/36662
+        name: 'Amazing Spider-Man (1999) #643 (SHS VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/36665
+        name: 'Amazing Spider-Man (1999) #644 (BACHALO VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/30320
+        name: 'Amazing Spider-Man (1999) #645'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/35880
+        name: 'Amazing Spider-Man (1999) #645 (SPIDEY VS. VARIANT)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/16057
+        name: 'Marvel Knights (2000) #11'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/16058
+        name: 'Marvel Knights (2000) #12'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/14586
+        name: 'Peter Parker, the Spectacular Spider-Man (1976) #139'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/14611
+        name: 'Peter Parker, the Spectacular Spider-Man (1976) #161'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/14613
+        name: 'Peter Parker, the Spectacular Spider-Man (1976) #163'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/14616
+        name: 'Peter Parker, the Spectacular Spider-Man (1976) #166'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/14659
+        name: 'Peter Parker, the Spectacular Spider-Man (1976) #204'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/14660
+        name: 'Peter Parker, the Spectacular Spider-Man (1976) #205'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/14661
+        name: 'Peter Parker, the Spectacular Spider-Man (1976) #206'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/22203
+        name: 'Punisher War Journal (1988) #47'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/10914
+        name: 'Spider-Man''s Tangled Web (2001) #13'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/10917
+        name: 'Spider-Man''s Tangled Web (2001) #16'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/10918
+        name: 'Spider-Man''s Tangled Web (2001) #17'
+      returned: 20
+    :series:
+      available: 7
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009675/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/454
+        name: Amazing Spider-Man (1999 - 2013)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2576
+        name: Marvel Knights (2000 - 2001)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2271
+        name: Peter Parker, the Spectacular Spider-Man (1976 - 1998)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/5860
+        name: Punisher War Journal (1988 - 1995)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2071
+        name: Spider-Man's Tangled Web (2001 - 2003)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/69
+        name: Spider-Man's Tangled Web Vol. III (2002)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/10445
+        name: 'Spider-Man: Origin Of The Species TPB (2011)'
+      returned: 7
+    :stories:
+      available: 24
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009675/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25414
+        name: Double Shots
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25428
+        name: "[untitled]"
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25429
+        name: Heartbreaker
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25432
+        name: "[untitled]"
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25433
+        name: Heartbreaker [Part 2]
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/29595
+        name: 'Cover #29595'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/29597
+        name: Spectacular Spider-Mail
+        type: letters
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/29668
+        name: Pardoned!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/29672
+        name: The Carrion Cure
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/29678
+        name: The Deadly Lads From Liverpool
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/29789
+        name: Death by Tombstone, Part 1
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/29793
+        name: Death by Tombstone, Part 2
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/29798
+        name: Death by Tombstone, Conclusion
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/32756
+        name: Hero for Hire
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/32758
+        name: The Long, Long Night
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/49695
+        name: Say Goodbye to Vegas (Dead Man's Hand Part IX)
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/64080
+        name: 'Interior #64080'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/69429
+        name: 'Amazing Spider-Man (1999) #626 - Int'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/69463
+        name: 'Amazing Spider-Man (1999) #643 - Int'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/69467
+        name: 'Amazing Spider-Man (1999) #645 - Int'
+        type: interiorStory
+      returned: 20
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009675/events
+      items: []
+      returned: 0
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/2391/tombstone?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Tombstone?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009675/tombstone?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 10918
+    :digitalId: 2533
+    :title: 'Spider-Man''s Tangled Web (2001) #17'
+    :issueNumber: 17
+    :variantDescription: ''
+    :description: 
+    :modified: "-0001-11-30T00:00:00-0500"
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 0
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/10918
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/10918/spider-mans_tangled_web_2001_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=2533&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/2071
+      name: Spider-Man's Tangled Web (2001 - 2003)
+    :variants: []
+    :collections:
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/1007
+      name: Spider-Man's Tangled Web Vol. III (Trade Paperback)
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '2002-10-10T00:00:00-0400'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    - type: unlimitedDate
+      date: '2008-09-17T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 0
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc4707e0ac25
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc4707e0ac25
+      extension: jpg
+    :creators:
+      available: 7
+      collectionURI: http://gateway.marvel.com/v1/public/comics/10918/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/4014
+        name: Axel Alonso
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/6229
+        name: John Miesegaes
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1909
+        name: Steve Buccellato
+        role: colorist
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/273
+        name: Leandro Fernandez
+        role: penciller (cover)
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/350
+        name: Richard Starkings
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2533
+        name: Saida Temofonte
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/344
+        name: Daniel Way
+        role: writer
+      returned: 7
+    :characters:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/10918/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009610
+        name: Spider-Man
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009675
+        name: Tombstone
+      returned: 2
+    :stories:
+      available: 5
+      collectionURI: http://gateway.marvel.com/v1/public/comics/10918/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25432
+        name: "[untitled]"
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25433
+        name: Heartbreaker [Part 2]
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25434
+        name: "[House Advertisements]"
+        type: promo
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25435
+        name: Subscribe Today ... Punk!
+        type: promo
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/25436
+        name: "[Ads]"
+        type: ad
+      returned: 5
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/10918/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
     :id: 1009610
     :name: Spider-Man
     :description: Bitten by a radioactive spider, high school student Peter Parker
@@ -222,272 +482,3 @@
       url: http://marvel.com/universe/Spider-Man_(Peter_Parker)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009610/spider-man?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 10914
-    :digitalId: 2529
-    :title: 'Spider-Man''s Tangled Web (2001) #13'
-    :issueNumber: 13
-    :variantDescription: ''
-    :description: 
-    :modified: "-0001-11-30T00:00:00-0500"
-    :isbn: ''
-    :upc: ''
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 0
-    :textObjects: []
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/10914
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/10914/spider-mans_tangled_web_2001_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=2529&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/2071
-      name: Spider-Man's Tangled Web (2001 - 2003)
-    :variants: []
-    :collections:
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/1007
-      name: Spider-Man's Tangled Web Vol. III (Trade Paperback)
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '2002-06-01T00:00:00-0400'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    - type: unlimitedDate
-      date: '2007-11-13T00:00:00-0500'
-    :prices:
-    - type: printPrice
-      price: 0
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4c7d61ac9a684
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4c7d61ac9a684
-      extension: jpg
-    :creators:
-      available: 5
-      collectionURI: http://gateway.marvel.com/v1/public/comics/10914/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/4014
-        name: Axel Alonso
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/6229
-        name: John Miesegaes
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1909
-        name: Steve Buccellato
-        role: colorist
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/569
-        name: Sean Phillips
-        role: penciller (cover)
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/228
-        name: Ron Zimmerman
-        role: writer
-      returned: 5
-    :characters:
-      available: 11
-      collectionURI: http://gateway.marvel.com/v1/public/comics/10914/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010371
-        name: Boomerang
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009276
-        name: Doctor Octopus
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009356
-        name: Human Torch
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010347
-        name: Mr. Hyde
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009325
-        name: Norman Osborn
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009526
-        name: Radioactive Man
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009537
-        name: Rhino
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009610
-        name: Spider-Man
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009675
-        name: Tombstone
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009699
-        name: Vulture (Adrian Toomes)
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010348
-        name: Whirlwind
-      returned: 11
-    :stories:
-      available: 4
-      collectionURI: http://gateway.marvel.com/v1/public/comics/10914/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/25413
-        name: "[untitled]"
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/25414
-        name: Double Shots
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/25415
-        name: "[House Advertisement]"
-        type: promo
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/25416
-        name: "[Ads]"
-        type: ad
-      returned: 4
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/10914/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
-    :id: 1009675
-    :name: Tombstone
-    :description: Known as Tombstone, Lonnie Lincoln filed his teeth to points to
-      add to his already intimidating image and honed his fighting skills in numerous
-      street fights.
-    :modified: '1969-12-31T19:00:00-0500'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003a981c496
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009675
-    :comics:
-      available: 22
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009675/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/30301
-        name: 'Amazing Spider-Man (1999) #626'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/30318
-        name: 'Amazing Spider-Man (1999) #643'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/36663
-        name: 'Amazing Spider-Man (1999) #643 (JIMENEZ VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/36662
-        name: 'Amazing Spider-Man (1999) #643 (SHS VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/36665
-        name: 'Amazing Spider-Man (1999) #644 (BACHALO VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/30320
-        name: 'Amazing Spider-Man (1999) #645'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35880
-        name: 'Amazing Spider-Man (1999) #645 (SPIDEY VS. VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/16057
-        name: 'Marvel Knights (2000) #11'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/16058
-        name: 'Marvel Knights (2000) #12'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/14586
-        name: 'Peter Parker, the Spectacular Spider-Man (1976) #139'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/14611
-        name: 'Peter Parker, the Spectacular Spider-Man (1976) #161'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/14613
-        name: 'Peter Parker, the Spectacular Spider-Man (1976) #163'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/14616
-        name: 'Peter Parker, the Spectacular Spider-Man (1976) #166'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/14659
-        name: 'Peter Parker, the Spectacular Spider-Man (1976) #204'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/14660
-        name: 'Peter Parker, the Spectacular Spider-Man (1976) #205'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/14661
-        name: 'Peter Parker, the Spectacular Spider-Man (1976) #206'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/22203
-        name: 'Punisher War Journal (1988) #47'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/10914
-        name: 'Spider-Man''s Tangled Web (2001) #13'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/10917
-        name: 'Spider-Man''s Tangled Web (2001) #16'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/10918
-        name: 'Spider-Man''s Tangled Web (2001) #17'
-      returned: 20
-    :series:
-      available: 7
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009675/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/454
-        name: Amazing Spider-Man (1999 - 2013)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2576
-        name: Marvel Knights (2000 - 2001)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2271
-        name: Peter Parker, the Spectacular Spider-Man (1976 - 1998)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/5860
-        name: Punisher War Journal (1988 - 1995)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2071
-        name: Spider-Man's Tangled Web (2001 - 2003)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/69
-        name: Spider-Man's Tangled Web Vol. III (2002)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/10445
-        name: 'Spider-Man: Origin Of The Species TPB (2011)'
-      returned: 7
-    :stories:
-      available: 24
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009675/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/25414
-        name: Double Shots
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/25428
-        name: "[untitled]"
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/25429
-        name: Heartbreaker
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/25432
-        name: "[untitled]"
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/25433
-        name: Heartbreaker [Part 2]
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/29595
-        name: 'Cover #29595'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/29597
-        name: Spectacular Spider-Mail
-        type: letters
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/29668
-        name: Pardoned!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/29672
-        name: The Carrion Cure
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/29678
-        name: The Deadly Lads From Liverpool
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/29789
-        name: Death by Tombstone, Part 1
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/29793
-        name: Death by Tombstone, Part 2
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/29798
-        name: Death by Tombstone, Conclusion
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/32756
-        name: Hero for Hire
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/32758
-        name: The Long, Long Night
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/49695
-        name: Say Goodbye to Vegas (Dead Man's Hand Part IX)
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/64080
-        name: 'Interior #64080'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/69429
-        name: 'Amazing Spider-Man (1999) #626 - Int'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/69463
-        name: 'Amazing Spider-Man (1999) #643 - Int'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/69467
-        name: 'Amazing Spider-Man (1999) #645 - Int'
-        type: interiorStory
-      returned: 20
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009675/events
-      items: []
-      returned: 0
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/2391/tombstone?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Tombstone?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009675/tombstone?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
