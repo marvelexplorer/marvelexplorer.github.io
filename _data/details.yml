@@ -1,250 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009475
-    :name: Nomad
-    :description: ''
-    :modified: '1969-12-31T19:00:00-0500'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c003d1875f38
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009475
-    :comics:
-      available: 12
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009475/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/16246
-        name: 'Cap Transport (2005) #7'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1978
-        name: 'Captain America (2004) #7'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17886
-        name: 'Captain America Annual (1971) #9'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17875
-        name: 'Captain America Annual (1971) #10'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/36229
-        name: 'Captain America: Hail Hydra (2010) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/3916
-        name: 'Captain America: Winter Soldier Vol. 1 (Trade Paperback)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/10055
-        name: 'Marvel Comics Presents (1988) #14'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/38066
-        name: 'Onslaught Unleashed (2010) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/41567
-        name: ONSLAUGHT UNLEASHED HC (Hardcover)
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/22203
-        name: 'Punisher War Journal (1988) #47'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/18331
-        name: 'What If? (1989) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12148
-        name: 'What If? (1977) #34'
-      returned: 12
-    :series:
-      available: 11
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009475/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2722
-        name: Cap Transport (2005 - 2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/832
-        name: Captain America (2004 - 2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3629
-        name: Captain America Annual (1971 - 1991)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/12115
-        name: 'Captain America: Hail Hydra (2010 - 2011)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1612
-        name: 'Captain America: Winter Soldier Vol. 1 (2006)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2039
-        name: Marvel Comics Presents (1988 - 1995)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/13602
-        name: Onslaught Unleashed (2010 - 2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/15490
-        name: ONSLAUGHT UNLEASHED HC (2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/5860
-        name: Punisher War Journal (1988 - 1995)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3648
-        name: What If? (1989 - 1998)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2095
-        name: What If? (1977 - 1984)
-      returned: 11
-    :stories:
-      available: 13
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009475/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4239
-        name: 'Cover: Captain America (2004) 1 of 1 - Nomad'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4240
-        name: 1 of 1 - Nomad
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/20763
-        name: What if Captain America chose to Remain Nomad?
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/22942
-        name: Angel In The Snow
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/34019
-        name: The Lonesome Death of Jack Monroe
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/38005
-        name: Worth Fighting For
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/38038
-        name: Walking the Line
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/39024
-        name: What if Steve Rogers had Refused to Give Up Being Captain America
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/49694
-        name: Dead Man's Hand Part IX
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/49695
-        name: Say Goodbye to Vegas (Dead Man's Hand Part IX)
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/80201
-        name: 'Captain America: Hail Hydra (2010) #1 cover'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/84264
-        name: 'Onslaught Unleashed (2010) #3'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/94039
-        name: ONSLAUGHT UNLEASHED HC
-        type: cover
-      returned: 13
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009475/events
-      items: []
-      returned: 0
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/1616/nomad?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Nomad_%28Jack_Monroe%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009475/nomad?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 17886
-    :digitalId: 0
-    :title: 'Captain America Annual (1971) #9'
-    :issueNumber: 9
-    :variantDescription: ''
-    :description: 
-    :modified: "-0001-11-30T00:00:00-0500"
-    :isbn: ''
-    :upc: ''
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 0
-    :textObjects: []
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/17886
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/17886/captain_america_annual_1971_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/3629
-      name: Captain America Annual (1971 - 1991)
-    :variants: []
-    :collections: []
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '1990-01-09T00:00:00-0500'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    :prices:
-    - type: printPrice
-      price: 0
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/4c98f60349fe3
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/4c98f60349fe3
-      extension: jpg
-    :creators:
-      available: 15
-      collectionURI: http://gateway.marvel.com/v1/public/comics/17886/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1865
-        name: Diana Albers
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/3626
-        name: Pat Brosseau
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1847
-        name: Jean Simek
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/87
-        name: Mark Bagley
-        role: penciler
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/3555
-        name: Donald Hudson
-        role: penciler
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1333
-        name: Jim Valentino
-        role: penciler
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1898
-        name: Mike DeCarlo
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/2427
-        name: Sam DeLaRosa
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1901
-        name: Tom Morgan
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/2652
-        name: Randall Frenz
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/6001
-        name: Fabian Nicieza
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/2909
-        name: Roy Thomas
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1932
-        name: Ed Lazellari
-        role: colorist
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/2071
-        name: Evelyn Stein
-        role: colorist
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1282
-        name: Ralph Macchio
-        role: editor
-      returned: 15
-    :characters:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/17886/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
-        name: Captain America
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009475
-        name: Nomad
-      returned: 2
-    :stories:
-      available: 4
-      collectionURI: http://gateway.marvel.com/v1/public/comics/17886/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/38035
-        name: 'Cover #38035'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/38036
-        name: You Are What You Eat
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/38037
-        name: A Soldier's Story
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/38038
-        name: Walking the Line
-        type: ''
-      returned: 4
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/17886/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009220
     :name: Captain America
     :description: Vowing to serve his country any way he could, young Steve Rogers
@@ -462,3 +218,185 @@
       url: http://marvel.com/universe/Captain_America_(Steve_Rogers)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009220/captain_america?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 33864
+    :digitalId: 0
+    :title: 'Captain America & the Korvac Saga (2010) #1'
+    :issueNumber: 1
+    :variantDescription: ''
+    :description: 'Captain America: Proud member of the Avengers, but he’s a man out
+      of time, frozen for decades and unaccustomed to modern life. Can the Sentinel
+      of Liberty learn to fight alongside heroes 60 years younger than him…and why
+      does Cap feel a strange connection to the man named Korvac? Ben McCool (Choker)
+      brings you an epic tale ten centuries in the making! 32 PGS./Rated A …$2.99'
+    :modified: '2011-04-26T14:42:27-0400'
+    :isbn: ''
+    :upc: 5960607330-00111
+    :diamondCode: OCT100581
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 32
+    :textObjects:
+    - type: issue_solicit_text
+      language: en-us
+      text: 'Captain America: Proud member of the Avengers, but he’s a man out of
+        time, frozen for decades and unaccustomed to modern life. Can the Sentinel
+        of Liberty learn to fight alongside heroes 60 years younger than him…and why
+        does Cap feel a strange connection to the man named Korvac? Ben McCool (Choker)
+        brings you an epic tale ten centuries in the making! 32 PGS./Rated A …$2.99'
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/33864
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/33864/captain_america_the_korvac_saga_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/10739
+      name: Captain America & the Korvac Saga (2010 - 2011)
+    :variants: []
+    :collections: []
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '2010-12-08T00:00:00-0500'
+    - type: focDate
+      date: '2010-11-27T00:00:00-0500'
+    :prices:
+    - type: printPrice
+      price: 2.99
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/4c9109f9428f6
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/4c9109f9428f6
+      extension: jpg
+    :creators:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/33864/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/11133
+        name: Ben McCool
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/8260
+        name: Craig Rousseau
+        role: penciller
+      returned: 2
+    :characters:
+      available: 7
+      collectionURI: http://gateway.marvel.com/v1/public/comics/33864/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009175
+        name: Beast
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
+        name: Captain America
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011053
+        name: Maelstrom
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010334
+        name: Quasimodo
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009562
+        name: Scarlet Witch
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009610
+        name: Spider-Man
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009697
+        name: Vision
+      returned: 7
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/33864/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/76060
+        name: 'Cover #76060'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/76061
+        name: 'Interior #76061'
+        type: interiorStory
+      returned: 2
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/33864/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1010334
+    :name: Quasimodo
+    :description: ''
+    :modified: '1969-12-31T19:00:00-0500'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c00392ddd605
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1010334
+    :comics:
+      available: 8
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1010334/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12411
+        name: 'Avengers Forever (1998) #8'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1033
+        name: 'Avengers Legends Vol. I: Avengers Forever (Trade Paperback)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/33864
+        name: 'Captain America & the Korvac Saga (2010) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/2055
+        name: Essential Fantastic Four Vol. 4 (Trade Paperback)
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8709
+        name: 'Fantastic Four Annual (1963) #5'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/20026
+        name: 'Giant-Size Defenders (1974) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/19863
+        name: 'Iron Man Annual (1976) #12'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1335
+        name: 'Marvel Masterworks: The Fantastic Four Vol. 7 (Hardcover)'
+      returned: 8
+    :series:
+      available: 8
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1010334/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2111
+        name: Avengers Forever (1998 - 2001)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/93
+        name: 'Avengers Legends Vol. I: Avengers Forever (2002)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/10739
+        name: Captain America & the Korvac Saga (2010 - 2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1263
+        name: Essential Fantastic Four Vol. 4 (2005)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2012
+        name: Fantastic Four Annual (1963 - 1994)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3731
+        name: Giant-Size Defenders (1974)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3723
+        name: Iron Man Annual (1976 - 1994)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1346
+        name: 'Marvel Masterworks: The Fantastic Four Vol. 7 (2004)'
+      returned: 8
+    :stories:
+      available: 5
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1010334/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15361
+        name: The Peerless Power of the Silver Surfer
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/26231
+        name: The Secret History of The Avengers
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/42577
+        name: Construction Complete
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/42883
+        name: The Peerless Power of the Silver Surfer
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/76061
+        name: 'Interior #76061'
+        type: interiorStory
+      returned: 5
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1010334/events
+      items: []
+      returned: 0
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/1843/quasimodo?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Quasimodo?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1010334/quasimodo?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
