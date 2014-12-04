@@ -24,17 +24,21 @@ describe MarvelExplorer do
     MARSHAL_FILE = 'not_a_path'
     stub_request(:get, /gateway.marvel.com\/v1\/public\/characters\/1009351\/comics/)
     .to_return(status: 200, body: File.read('spec/fixtures/hulk_comics.json'))
-    expect(@me.comic(@me.start_character).title).to eq 'Marvel Double Shot (2003) #2'
+    expect(@me.comic.title).to eq 'Marvel Double Shot (2003) #2'
   end
+
+  it 'should get the end character from the comic', :vcr do
+    stub_request(:get, /gateway.marvel.com\/v1\/public\/characters\/1009351\/comics/)
+    .to_return(status: 200, body: File.read('spec/fixtures/hulk_comics.json'))
+    stub_request(:get, /gateway.marvel.com\/v1\/public\/comics\/19843\/characters/)
+    .to_return(status: 200, body: File.read('spec/fixtures/double-shot-characters.json'))
+    expect(@me.end_character.name).to eq 'Avengers'
+  end
+
+  it 'should save the end character'
 
   it 'should extract the year correctly', :vcr do
     c = Ultron::Comics.find '50372'
     expect(MarvelExplorer.get_year c).to eq 2014
   end
-
-  it 'should get the end character from the comic', :vcr do
-
-  end
-
-  it 'should save the end character'
 end

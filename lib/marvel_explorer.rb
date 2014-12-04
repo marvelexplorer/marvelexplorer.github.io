@@ -21,27 +21,31 @@ class MarvelExplorer
     end
   end
 
-  def comic character
-    comics = Ultron::Comics.by_character_and_vanilla_comics character.id
-    @comic  = comics.sample
-    # some comics have no characters listed, and we need at least 2 to make the game worth playing
-    until validate_comic
-      @comic = comics.sample
+  def comic #character
+    @comic ||= begin
+      comics = Ultron::Comics.by_character_and_vanilla_comics start_character.id
+      @comic  = comics.sample
+      # some comics have no characters listed, and we need at least 2 to make the game worth playing
+      until validate_comic
+        @comic = comics.sample
+      end
+      @comic
     end
-
-    @comic
   end
 
-  def end_character comic, first
-    characters = Ultron::Characters.by_comic comic.id
-    end_character = start_character
-#    # we want a different character for the next iteration, obvs.
-#    until last.id != first.id
-#      last = characters.sample
-#    end
-#
+  def end_character
+    @end_character ||= begin
+      characters = Ultron::Characters.by_comic comic.id
+      end_character = start_character
+      # we want a different character for the next iteration, obvs.
+      until end_character.id != start_character.id
+        end_character = characters.sample
+      end
+
 #    save last
-#    last
+      puts end_character.id
+    end_character
+    end
   end
 
   def validate_comic
