@@ -1,317 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009562
-    :name: Scarlet Witch
-    :description: ''
-    :modified: '2013-10-18T17:31:00-0400'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5261a7d7c394b
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009562
-    :comics:
-      available: 261
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009562/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12651
-        name: 'Alpha Flight (1983) #111'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/43221
-        name: 'Astonishing X-Men (2004) #51 (Create Your Own Wedding Variant)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17490
-        name: 'Avengers (1998) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17751
-        name: 'Avengers (1996) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17756
-        name: 'Avengers (1996) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17501
-        name: 'Avengers (1998) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17512
-        name: 'Avengers (1998) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17757
-        name: 'Avengers (1996) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17523
-        name: 'Avengers (1998) #4'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17758
-        name: 'Avengers (1996) #4'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17534
-        name: 'Avengers (1998) #5'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17545
-        name: 'Avengers (1998) #6'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17556
-        name: 'Avengers (1998) #7'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17761
-        name: 'Avengers (1996) #7'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17762
-        name: 'Avengers (1996) #8'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17567
-        name: 'Avengers (1998) #8'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17763
-        name: 'Avengers (1996) #9'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17573
-        name: 'Avengers (1998) #9'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17752
-        name: 'Avengers (1996) #10'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17491
-        name: 'Avengers (1998) #10'
-      returned: 20
-    :series:
-      available: 107
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009562/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2116
-        name: Alpha Flight (1983 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/744
-        name: Astonishing X-Men (2004 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3621
-        name: Avengers (1996 - 1997)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/354
-        name: Avengers (1998 - 2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
-        name: Avengers (1963 - 1996)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9086
-        name: Avengers Academy (2010 - 2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1340
-        name: Avengers Assemble (2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1496
-        name: Avengers Assemble Vol. 2 (2005)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1737
-        name: Avengers Assemble Vol. 3 (2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1816
-        name: Avengers Assemble Vol. 4 (2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2929
-        name: Avengers Assemble Vol. 5 (2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2384
-        name: Avengers Classic (2007 - 2008)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2111
-        name: Avengers Forever (1998 - 2001)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/93
-        name: 'Avengers Legends Vol. I: Avengers Forever (2002)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9862
-        name: 'Avengers Origins: Quicksilver & the Scarlet Witch (2013)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/158
-        name: 'Avengers Vol. 1: World Trust (2003)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/227
-        name: 'Avengers Vol. 2: Red Zone (2003)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/271
-        name: 'Avengers Vol. II: Red Zone (2003)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/15305
-        name: Avengers Vs. X-Men (2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3624
-        name: Avengers West Coast Annual (1989 - 1993)
-      returned: 20
-    :stories:
-      available: 293
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009562/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1040
-        name: 'Avengers (1998) #502'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3265
-        name: 2 of 2 - House of M Prelude
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3500
-        name: 'New Avengers (2004) #26'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4491
-        name: 7 of 8 XLS
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4495
-        name: 'Cover #4495'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4930
-        name: 1 of 5 - 5XLS
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/7829
-        name: 4 of 5 - Onslaught Reborn - 5XLS
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/8286
-        name: 4 of 5 - Onslaught Reborn - 5XLS
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10184
-        name: 'Cover #10184'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/11936
-        name: The Maddening Mystery of the Inconceivable Adaptoid!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/12791
-        name: The Search for Reed Richards
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/12801
-        name: Home Are The Heroes
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14468
-        name: And Now, Magneto
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14478
-        name: Below Us the Battle!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14528
-        name: Stranger in a Strange Man!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14546
-        name: The Assassin Never Fails!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14568
-        name: The Private War of Doctor Doom!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14586
-        name: 'Cover #14586'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14635
-        name: Nights of Wundagore!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14775
-        name: 'Cover #14775'
-        type: cover
-      returned: 20
-    :events:
-      available: 13
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009562/events
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/events/227
-        name: Age of Apocalypse
-      - resourceURI: http://gateway.marvel.com/v1/public/events/234
-        name: Avengers Disassembled
-      - resourceURI: http://gateway.marvel.com/v1/public/events/310
-        name: Avengers VS X-Men
-      - resourceURI: http://gateway.marvel.com/v1/public/events/318
-        name: Dark Reign
-      - resourceURI: http://gateway.marvel.com/v1/public/events/251
-        name: House of M
-      - resourceURI: http://gateway.marvel.com/v1/public/events/253
-        name: Infinity Gauntlet
-      - resourceURI: http://gateway.marvel.com/v1/public/events/29
-        name: Infinity War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/37
-        name: Maximum Security
-      - resourceURI: http://gateway.marvel.com/v1/public/events/154
-        name: Onslaught
-      - resourceURI: http://gateway.marvel.com/v1/public/events/270
-        name: Secret Wars
-      - resourceURI: http://gateway.marvel.com/v1/public/events/271
-        name: Secret Wars II
-      - resourceURI: http://gateway.marvel.com/v1/public/events/273
-        name: Siege
-      - resourceURI: http://gateway.marvel.com/v1/public/events/219
-        name: Siege of Darkness
-      returned: 13
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/50/scarlet_witch?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Scarlet_Witch_(Wanda_Maximoff)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009562/scarlet_witch?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 7337
-    :digitalId: 19359
-    :title: 'Avengers (1963) #84'
-    :issueNumber: 84
-    :variantDescription: ''
-    :description: 
-    :modified: '2011-10-11T10:37:00-0400'
-    :isbn: ''
-    :upc: ''
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 36
-    :textObjects: []
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/7337
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/7337/avengers_1963_84?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: purchase
-      url: http://comicstore.marvel.com/Avengers-84/digital-comic/19359?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=19359&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: inAppLink
-      url: http://applink.marvel.com/issue/19359?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/1991
-      name: Avengers (1963 - 1996)
-    :variants: []
-    :collections: []
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '1971-01-10T00:00:00-0500'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    - type: unlimitedDate
-      date: '2011-05-17T00:00:00-0400'
-    - type: digitalPurchaseDate
-      date: '2014-09-02T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 0.15
-    - type: digitalPurchasePrice
-      price: 1.99
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4e9454ae86607
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4e9454ae86607
-      extension: jpg
-    :creators:
-      available: 5
-      collectionURI: http://gateway.marvel.com/v1/public/comics/7337/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1612
-        name: John Buscema
-        role: penciller
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/30
-        name: Stan Lee
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/527
-        name: Tom Palmer
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1741
-        name: Mike Stevens
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/2909
-        name: Roy Thomas
-        role: writer
-      returned: 5
-    :characters:
-      available: 7
-      collectionURI: http://gateway.marvel.com/v1/public/comics/7337/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009165
-        name: Avengers
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009187
-        name: Black Panther
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009338
-        name: Hawkeye
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009524
-        name: Quicksilver
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009562
-        name: Scarlet Witch
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009664
-        name: Thor
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009697
-        name: Vision
-      returned: 7
-    :stories:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/7337/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15237
-        name: The Sword and the Sorceress
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/95208
-        name: 'Avengers (1963) #84'
-        type: cover
-      returned: 2
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/7337/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009187
     :name: Black Panther
     :description: ''
@@ -513,3 +202,310 @@
       url: http://marvel.com/universe/Black_Panther_(T%27Challa)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009187/black_panther?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 13131
+    :digitalId: 29705
+    :title: 'Fantastic Four (1961) #312'
+    :issueNumber: 312
+    :variantDescription: ''
+    :description: 
+    :modified: '2013-10-18T14:00:43-0400'
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 36
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/13131
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/13131/fantastic_four_1961_312?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: purchase
+      url: http://comicstore.marvel.com/Fantastic-Four-312/digital-comic/29705?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=29705&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: inAppLink
+      url: http://applink.marvel.com/issue/29705?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/2121
+      name: Fantastic Four (1961 - 1998)
+    :variants: []
+    :collections: []
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1988-03-10T00:00:00-0500'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    - type: unlimitedDate
+      date: '2013-08-26T00:00:00-0400'
+    - type: digitalPurchaseDate
+      date: '2013-05-14T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 0.75
+    - type: digitalPurchasePrice
+      price: 1.99
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/d/a0/526177137880b
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/d/a0/526177137880b
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/518bd17ca4bc9
+      extension: jpg
+    :creators:
+      available: 7
+      collectionURI: http://gateway.marvel.com/v1/public/comics/13131/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/104
+        name: Steve Englehart
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/5764
+        name: Ron Frenz
+        role: penciller (cover)
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1282
+        name: Ralph Macchio
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1267
+        name: Keith Pollard
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1240
+        name: Joe Sinnott
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1056
+        name: John Workman
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2364
+        name: Greg Wright
+        role: colorist
+      returned: 7
+    :characters:
+      available: 11
+      collectionURI: http://gateway.marvel.com/v1/public/comics/13131/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009175
+        name: Beast
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009187
+        name: Black Panther
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010338
+        name: Captain Marvel (Carol Danvers)
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009255
+        name: Crystal
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009257
+        name: Cyclops
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009281
+        name: Doctor Doom
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009299
+        name: Fantastic Four
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009356
+        name: Human Torch
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009362
+        name: Iceman
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009430
+        name: Rachel Grey
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009662
+        name: Thing
+      returned: 11
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/13131/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/12911
+        name: 'Cover #12911'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/12912
+        name: The Turning Point!
+        type: interiorStory
+      returned: 2
+    :events:
+      available: 1
+      collectionURI: http://gateway.marvel.com/v1/public/comics/13131/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/248
+        name: Fall of the Mutants
+      returned: 1
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009430
+    :name: Rachel Grey
+    :description: ''
+    :modified: '2013-11-01T16:41:25-0400'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/52741143108e7
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009430
+    :comics:
+      available: 40
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009430/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8653
+        name: 'Excalibur (1988) #69'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/16254
+        name: 'Exiles (2001) #14'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1094
+        name: 'Exiles Vol. 3: Out of Time (Trade Paperback)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/13131
+        name: 'Fantastic Four (1961) #312'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8797
+        name: 'Giant Size X-Men (1975) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/10066
+        name: 'Marvel Comics Presents (1988) #15'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1587
+        name: 'Marvel Masterworks: The Uncanny X-Men Vol. (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1119
+        name: 'Marvel Masterworks: The X-Men Vol. 1 (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/4092
+        name: 'Marvel Masterworks: The X-Men Vol.6 (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/26015
+        name: 'Ms. Marvel Vol. 6: Ascension (Trade Paperback)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/18756
+        name: 'The Cat (1972) #4'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12543
+        name: 'Uncanny X-Men (1963) #9'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12507
+        name: 'Uncanny X-Men (1963) #57'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12530
+        name: 'Uncanny X-Men (1963) #78'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12544
+        name: 'Uncanny X-Men (1963) #90'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12545
+        name: 'Uncanny X-Men (1963) #91'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12553
+        name: 'Uncanny X-Men (1963) #99'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12415
+        name: 'Uncanny X-Men (1963) #100'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/3001
+        name: 'Uncanny X-Men (1963) #466'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/3479
+        name: 'Uncanny X-Men (1963) #469'
+      returned: 20
+    :series:
+      available: 26
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009430/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2011
+        name: Excalibur (1988 - 1998)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/479
+        name: Exiles (2001 - 2008)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/154
+        name: 'Exiles Vol. 3: Out of Time (2003)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2121
+        name: Fantastic Four (1961 - 1998)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2016
+        name: Giant Size X-Men (1975)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2039
+        name: Marvel Comics Presents (1988 - 1995)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1440
+        name: 'Marvel Masterworks: The Uncanny X-Men Vol. (2005)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/179
+        name: 'Marvel Masterworks: The X-Men Vol. 1 (2003)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1689
+        name: 'Marvel Masterworks: The X-Men Vol.6 (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/8133
+        name: 'Ms. Marvel Vol. 6: Ascension (2009 - Present)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3668
+        name: The Cat (1972 - 1973)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2258
+        name: Uncanny X-Men (1963 - 2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1413
+        name: 'Uncanny X-Men - The New Age Vol. 4: End of Greys (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1805
+        name: 'Uncanny X-Men - The New Age Vol. 5: First Foursaken (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1723
+        name: Uncanny X-Men Omnibus Vol. 1 (2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2555
+        name: 'Uncanny X-Men: Rise & Fall of the Shi''ar Empire (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/632
+        name: Wolverine (2003 - 2009)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/8086
+        name: Wolverine Saga (2009)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1771
+        name: 'Wolverine: Enemy of the State - The Complete Edition (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2098
+        name: X-Factor (1986 - 1998)
+      returned: 20
+    :stories:
+      available: 41
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009430/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/758
+        name: 1 of 3 - Grey's End
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/764
+        name: 1 of 3 -
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/774
+        name: 3 of 3 - The First Foursaken
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/776
+        name: 1 of 12 - Rise and Fall of the Shi-AR Empire
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/2190
+        name: 6 of 6 - Enemy of the State
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/5770
+        name: 'Cover #5770'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/5772
+        name: 1 of 1
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/12911
+        name: 'Cover #12911'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15379
+        name: Betrayed By Professor X !
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15380
+        name: Greater Love Hath No X-Man...
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15591
+        name: The Female of the Species!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15644
+        name: The Menace of Merlin!
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15645
+        name: The Menace of Merlin!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15677
+        name: Marvel Girl
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15678
+        name: 'Cover #15678'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15679
+        name: If I Should Die...!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15681
+        name: X-Men Vs. The Power Of Magneto
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15702
+        name: Deathstar, Rising!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20478
+        name: The Female of the Species
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/22317
+        name: Jean Grey - Marvel Girl
+        type: profile
+      returned: 20
+    :events:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009430/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/245
+        name: Enemy of the State
+      - resourceURI: http://gateway.marvel.com/v1/public/events/248
+        name: Fall of the Mutants
+      returned: 2
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/2706/rachel_grey?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Marvel_Girl_(Rachel_Summers)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009430/rachel_grey?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
