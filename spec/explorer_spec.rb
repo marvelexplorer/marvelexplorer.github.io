@@ -15,7 +15,10 @@ describe MarvelExplorer do
     expect(@me.start_character.name).to eq 'Hulk'
   end
 
-  it 'should load the stored character'
+  it 'should load the stored character', :vcr do
+    MARSHAL_FILE = 'spec/fixtures/last.character'
+    expect(@me.start_character.name).to eq 'Human Torch'
+  end
 
   it 'should select a comic for the start character', :vcr do
     MARSHAL_FILE = 'not_a_path'
