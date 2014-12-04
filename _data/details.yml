@@ -1,337 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009356
-    :name: Human Torch
-    :description: ''
-    :modified: '2013-10-18T17:31:30-0400'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009356
-    :comics:
-      available: 783
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009356/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/892
-        name: '4 (2004) #11'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/52
-        name: '4 (2004) #12'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/2230
-        name: '4 (2004) #20'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1550
-        name: '4 Vol. 2: The Stuff of Nightmares (Trade Paperback)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/24348
-        name: 'Adam: Legend of the Blue Marvel (Trade Paperback)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/22856
-        name: 'Adam: Legend of the Blue Marvel (2008) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37262
-        name: 'Alias (2003) #15'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37255
-        name: Alias Omnibus (Hardcover)
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12555
-        name: 'All-Winners Comics (1941) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12566
-        name: 'All-Winners Comics (1941) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12568
-        name: 'All-Winners Comics (1941) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12569
-        name: 'All-Winners Comics (1941) #4'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12570
-        name: 'All-Winners Comics (1941) #5'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12571
-        name: 'All-Winners Comics (1941) #6'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12572
-        name: 'All-Winners Comics (1941) #7'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12573
-        name: 'All-Winners Comics (1941) #8'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12574
-        name: 'All-Winners Comics (1941) #9'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12556
-        name: 'All-Winners Comics (1941) #10'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12557
-        name: 'All-Winners Comics (1941) #11'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12558
-        name: 'All-Winners Comics (1941) #12'
-      returned: 20
-    :series:
-      available: 237
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009356/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/725
-        name: 4 (2004 - 2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1253
-        name: '4 Vol. 2: The Stuff of Nightmares (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/7524
-        name: 'Adam: Legend of the Blue Marvel (2008)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/6079
-        name: 'Adam: Legend of the Blue Marvel (2008)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/672
-        name: Alias (2003)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/13383
-        name: Alias Omnibus (2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2114
-        name: All-Winners Comics (1941 - 1947)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9865
-        name: 'All-Winners Squad: Band of Heroes (2011)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2116
-        name: Alpha Flight (1983 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1987
-        name: Amazing Spider-Man (1963 - 1998)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/454
-        name: Amazing Spider-Man (1999 - 2013)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2984
-        name: Amazing Spider-Man Annual (1964 - 2009)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1967
-        name: Amazing Spider-Man Omnibus Vol. 1 (2007)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
-        name: Avengers (1963 - 1996)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/354
-        name: Avengers (1998 - 2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3621
-        name: Avengers (1996 - 1997)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1340
-        name: Avengers Assemble (2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1496
-        name: Avengers Assemble Vol. 2 (2005)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1737
-        name: Avengers Assemble Vol. 3 (2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1816
-        name: Avengers Assemble Vol. 4 (2007)
-      returned: 20
-    :stories:
-      available: 1280
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009356/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/701
-        name: 'Interior #701'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/932
-        name: 5 of 5 - Galactus
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/938
-        name: 1 of ? - Distant Music
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/968
-        name: 5 of 6 - Civil War
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1417
-        name: 'Interior #1417'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1419
-        name: 'Interior #1419'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1690
-        name: 'Interior #1690'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2006
-        name: 'Interior #2006'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2008
-        name: 'Interior #2008'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3039
-        name: 3 of 3
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3059
-        name: '"THE STUFF OF DREAMS" PART 2 (OF 3) With a diseased Psycho-Man loose
-          somewhere in the city, the very fabric of New York’s realit'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3077
-        name: 2 of 2 - Inhumans
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3463
-        name: 3 of 3 - Sentry
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3713
-        name: 1 of 5 - 5XLS
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3717
-        name: 3 of 5 - 5XLS
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3846
-        name: 5 of 5 - Bride of the Panther
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3848
-        name: 'Cover #3848'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4235
-        name: 'Cover: Captain America (2004) #5 of 8 - Out of Time'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4236
-        name: 5 of 8 - Out of Time
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4240
-        name: 1 of 1 - Nomad
-        type: interiorStory
-      returned: 20
-    :events:
-      available: 17
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009356/events
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/events/116
-        name: Acts of Vengeance!
-      - resourceURI: http://gateway.marvel.com/v1/public/events/233
-        name: Atlantis Attacks
-      - resourceURI: http://gateway.marvel.com/v1/public/events/296
-        name: Chaos War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/238
-        name: Civil War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/318
-        name: Dark Reign
-      - resourceURI: http://gateway.marvel.com/v1/public/events/240
-        name: Days of Future Present
-      - resourceURI: http://gateway.marvel.com/v1/public/events/248
-        name: Fall of the Mutants
-      - resourceURI: http://gateway.marvel.com/v1/public/events/251
-        name: House of M
-      - resourceURI: http://gateway.marvel.com/v1/public/events/252
-        name: Inferno
-      - resourceURI: http://gateway.marvel.com/v1/public/events/253
-        name: Infinity Gauntlet
-      - resourceURI: http://gateway.marvel.com/v1/public/events/29
-        name: Infinity War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/255
-        name: Initiative
-      - resourceURI: http://gateway.marvel.com/v1/public/events/37
-        name: Maximum Security
-      - resourceURI: http://gateway.marvel.com/v1/public/events/154
-        name: Onslaught
-      - resourceURI: http://gateway.marvel.com/v1/public/events/270
-        name: Secret Wars
-      - resourceURI: http://gateway.marvel.com/v1/public/events/271
-        name: Secret Wars II
-      - resourceURI: http://gateway.marvel.com/v1/public/events/277
-        name: World War Hulk
-      returned: 17
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/26/human_torch?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Human_Torch_%28Johnny_Storm%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009356/human_torch?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 15527
-    :digitalId: 24597
-    :title: 'Fantastic Four (1998) #1'
-    :issueNumber: 1
-    :variantDescription: ''
-    :description: 
-    :modified: '2013-05-30T11:46:38-0400'
-    :isbn: ''
-    :upc: ''
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 54
-    :textObjects: []
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/15527
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/15527/fantastic_four_1998_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=24597&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/421
-      name: Fantastic Four (1998 - 2012)
-    :variants:
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/41152
-      name: 'Fantastic Four (1998) #1'
-    :collections: []
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '1998-01-10T00:00:00-0500'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    - type: unlimitedDate
-      date: '2013-03-05T11:06:25-0500'
-    :prices:
-    - type: printPrice
-      price: 0
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4ea1aa7266b21
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4ea1aa7266b21
-      extension: jpg
-    :creators:
-      available: 9
-      collectionURI: http://gateway.marvel.com/v1/public/comics/15527/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/4394
-        name: Liquid Color
-        role: colorist
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/16
-        name: Alan Davis
-        role: penciller (cover)
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/3603
-        name: Albert Deschesne
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/350
-        name: Richard Starkings
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/440
-        name: Mark Farmer
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/375
-        name: Bob Harras
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/4628
-        name: Jason Liebig
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/3710
-        name: Mark Powers
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/3635
-        name: Joe Quesada
-        role: writer
-      returned: 9
-    :characters:
-      available: 5
-      collectionURI: http://gateway.marvel.com/v1/public/comics/15527/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009299
-        name: Fantastic Four
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009356
-        name: Human Torch
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009366
-        name: Invisible Woman
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009459
-        name: Mr. Fantastic
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009662
-        name: Thing
-      returned: 5
-    :stories:
-      available: 5
-      collectionURI: http://gateway.marvel.com/v1/public/comics/15527/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/31651
-        name: ''
-        type: cover a
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/31652
-        name: ''
-        type: cover b
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/31653
-        name: Previously in Fantastic Four
-        type: re-cap
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/31654
-        name: Vive la Fantastique!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/67449
-        name: FANTASTIC FOUR 1 cover
-        type: cover
-      returned: 5
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/15527/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009662
     :name: Thing
     :description: The radiation that mutated Reed Richards, Sue Storm and Johnny Storm
@@ -550,3 +219,349 @@
       url: http://marvel.com/universe/Thing_%28Benjamin_Grimm%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009662/thing?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 12148
+    :digitalId: 0
+    :title: 'What If? (1977) #34'
+    :issueNumber: 34
+    :variantDescription: ''
+    :description: 
+    :modified: '2012-11-21T19:42:53-0500'
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 52
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/12148
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/12148/what_if_1977_34?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/2095
+      name: What If? (1977 - 1984)
+    :variants: []
+    :collections: []
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1982-08-10T00:00:00-0400'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    :prices:
+    - type: printPrice
+      price: 1
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/50ad74e3c0090
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/50ad74e3c0090
+      extension: jpg
+    :creators:
+      available: 52
+      collectionURI: http://gateway.marvel.com/v1/public/comics/12148/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1186
+        name: Jack Abel
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1251
+        name: Brett Breeding
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/4239
+        name: Jose Albelo
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2043
+        name: Eliot Brown
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/3317
+        name: Bob Camp
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2386
+        name: Harry Candelario
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/3169
+        name: Rob Carosella
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1778
+        name: Dan Crespi
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/3277
+        name: Himself Jim Starlin Death
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/260
+        name: Bob Hall
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1865
+        name: Diana Albers
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1836
+        name: Terry Austin
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/651
+        name: Brent Anderson
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1394
+        name: Bob Budiansky
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1317
+        name: Mike Carlin
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1310
+        name: Mary Jo Duffy
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1918
+        name: Danny Fingeroth
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/259
+        name: Mark Gruenwald
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/9565
+        name: Tom DeFalco
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2461
+        name: Linda Grant
+        role: editor
+      returned: 20
+    :characters:
+      available: 31
+      collectionURI: http://gateway.marvel.com/v1/public/comics/12148/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010354
+        name: Adam Warlock
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010370
+        name: Alpha Flight
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009165
+        name: Avengers
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009184
+        name: Black Bolt
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009189
+        name: Black Widow
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
+        name: Captain America
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009224
+        name: Captain Marvel (Mar-Vell)
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009257
+        name: Cyclops
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009262
+        name: Daredevil
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009267
+        name: Dazzler
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009281
+        name: Doctor Doom
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009282
+        name: Doctor Strange
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009288
+        name: Elektra
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009299
+        name: Fantastic Four
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009312
+        name: Galactus
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009318
+        name: Ghost Rider (Johnny Blaze)
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010373
+        name: Howard The Duck
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009351
+        name: Hulk
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009365
+        name: Inhumans
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009368
+        name: Iron Man
+      returned: 20
+    :stories:
+      available: 65
+      collectionURI: http://gateway.marvel.com/v1/public/comics/12148/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20755
+        name: 'Cover #20755'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20756
+        name: What if the Watcher Was a Stand-Up  Comedian?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20757
+        name: What if the Fantastic Four Were Bananas?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20758
+        name: What if Odin were Peter Parker's Uncle?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20759
+        name: What  if Don Blake and Tony Stark were Brothers?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20760
+        name: What if Aunt May were Ant-Man?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20761
+        name: What if Spider-Man Married Spider-Woman?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20762
+        name: What if Reed Richards took Postman Willie Lumpkin up on his Offer to
+          Join the Fantastic Four?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20763
+        name: What if Captain America chose to Remain Nomad?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20764
+        name: What if, at Some Point, Rick Jones decided to leave Captain Marvel in
+          the Negative Zone?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20765
+        name: What if Nick Fury had to wear an  Eyepatch on his Right Eye instead
+          of his Left Eye?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20766
+        name: What if...the Ghost Rider had Possessed Someone Else?!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20767
+        name: What if Everyone who ever had been an Avenger had Remained an Avenger?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20768
+        name: What if Him Maried Her?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20769
+        name: What if Black Bolt got the Hiccups?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20770
+        name: What if Galactus Ate the Earth?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20771
+        name: What if...Ka-Zar...were a Middle-Aged Accountant instead of a Savage?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20772
+        name: What if the Hulk were Yellow?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20773
+        name: What if the Invisible Girl Dyed her Hair?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20774
+        name: What if Power Man were White?
+        type: interiorStory
+      returned: 20
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/12148/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009475
+    :name: Nomad
+    :description: ''
+    :modified: '1969-12-31T19:00:00-0500'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c003d1875f38
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009475
+    :comics:
+      available: 12
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009475/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/16246
+        name: 'Cap Transport (2005) #7'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1978
+        name: 'Captain America (2004) #7'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17886
+        name: 'Captain America Annual (1971) #9'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17875
+        name: 'Captain America Annual (1971) #10'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/36229
+        name: 'Captain America: Hail Hydra (2010) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/3916
+        name: 'Captain America: Winter Soldier Vol. 1 (Trade Paperback)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/10055
+        name: 'Marvel Comics Presents (1988) #14'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/38066
+        name: 'Onslaught Unleashed (2010) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/41567
+        name: ONSLAUGHT UNLEASHED HC (Hardcover)
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/22203
+        name: 'Punisher War Journal (1988) #47'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/18331
+        name: 'What If? (1989) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12148
+        name: 'What If? (1977) #34'
+      returned: 12
+    :series:
+      available: 11
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009475/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2722
+        name: Cap Transport (2005 - 2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/832
+        name: Captain America (2004 - 2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3629
+        name: Captain America Annual (1971 - 1991)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/12115
+        name: 'Captain America: Hail Hydra (2010 - 2011)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1612
+        name: 'Captain America: Winter Soldier Vol. 1 (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2039
+        name: Marvel Comics Presents (1988 - 1995)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/13602
+        name: Onslaught Unleashed (2010 - 2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/15490
+        name: ONSLAUGHT UNLEASHED HC (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/5860
+        name: Punisher War Journal (1988 - 1995)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3648
+        name: What If? (1989 - 1998)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2095
+        name: What If? (1977 - 1984)
+      returned: 11
+    :stories:
+      available: 13
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009475/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4239
+        name: 'Cover: Captain America (2004) 1 of 1 - Nomad'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4240
+        name: 1 of 1 - Nomad
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/20763
+        name: What if Captain America chose to Remain Nomad?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/22942
+        name: Angel In The Snow
+        type: ''
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/34019
+        name: The Lonesome Death of Jack Monroe
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/38005
+        name: Worth Fighting For
+        type: ''
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/38038
+        name: Walking the Line
+        type: ''
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/39024
+        name: What if Steve Rogers had Refused to Give Up Being Captain America
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/49694
+        name: Dead Man's Hand Part IX
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/49695
+        name: Say Goodbye to Vegas (Dead Man's Hand Part IX)
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/80201
+        name: 'Captain America: Hail Hydra (2010) #1 cover'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/84264
+        name: 'Onslaught Unleashed (2010) #3'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/94039
+        name: ONSLAUGHT UNLEASHED HC
+        type: cover
+      returned: 13
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009475/events
+      items: []
+      returned: 0
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/1616/nomad?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Nomad_%28Jack_Monroe%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009475/nomad?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
