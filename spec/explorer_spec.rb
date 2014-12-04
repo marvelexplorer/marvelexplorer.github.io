@@ -46,6 +46,8 @@ describe MarvelExplorer do
     expect(f.name).to eq 'Avengers'
   end
 
+  it 'should generate correct yaml' # this should be easy with fixtures
+
   it 'should extract the year correctly', :vcr do
     c = Ultron::Comics.find '50372'
     expect(MarvelExplorer.get_year c).to eq 2014
