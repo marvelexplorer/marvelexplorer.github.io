@@ -1,188 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1010334
-    :name: Quasimodo
-    :description: ''
-    :modified: '1969-12-31T19:00:00-0500'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c00392ddd605
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1010334
-    :comics:
-      available: 8
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1010334/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12411
-        name: 'Avengers Forever (1998) #8'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1033
-        name: 'Avengers Legends Vol. I: Avengers Forever (Trade Paperback)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/33864
-        name: 'Captain America & the Korvac Saga (2010) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/2055
-        name: Essential Fantastic Four Vol. 4 (Trade Paperback)
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/8709
-        name: 'Fantastic Four Annual (1963) #5'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/20026
-        name: 'Giant-Size Defenders (1974) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/19863
-        name: 'Iron Man Annual (1976) #12'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1335
-        name: 'Marvel Masterworks: The Fantastic Four Vol. 7 (Hardcover)'
-      returned: 8
-    :series:
-      available: 8
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1010334/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2111
-        name: Avengers Forever (1998 - 2001)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/93
-        name: 'Avengers Legends Vol. I: Avengers Forever (2002)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/10739
-        name: Captain America & the Korvac Saga (2010 - 2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1263
-        name: Essential Fantastic Four Vol. 4 (2005)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2012
-        name: Fantastic Four Annual (1963 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3731
-        name: Giant-Size Defenders (1974)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3723
-        name: Iron Man Annual (1976 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1346
-        name: 'Marvel Masterworks: The Fantastic Four Vol. 7 (2004)'
-      returned: 8
-    :stories:
-      available: 5
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1010334/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15361
-        name: The Peerless Power of the Silver Surfer
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/26231
-        name: The Secret History of The Avengers
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/42577
-        name: Construction Complete
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/42883
-        name: The Peerless Power of the Silver Surfer
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/76061
-        name: 'Interior #76061'
-        type: interiorStory
-      returned: 5
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1010334/events
-      items: []
-      returned: 0
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/1843/quasimodo?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Quasimodo?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1010334/quasimodo?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 33864
-    :digitalId: 0
-    :title: 'Captain America & the Korvac Saga (2010) #1'
-    :issueNumber: 1
-    :variantDescription: ''
-    :description: 'Captain America: Proud member of the Avengers, but he’s a man out
-      of time, frozen for decades and unaccustomed to modern life. Can the Sentinel
-      of Liberty learn to fight alongside heroes 60 years younger than him…and why
-      does Cap feel a strange connection to the man named Korvac? Ben McCool (Choker)
-      brings you an epic tale ten centuries in the making! 32 PGS./Rated A …$2.99'
-    :modified: '2011-04-26T14:42:27-0400'
-    :isbn: ''
-    :upc: 5960607330-00111
-    :diamondCode: OCT100581
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 32
-    :textObjects:
-    - type: issue_solicit_text
-      language: en-us
-      text: 'Captain America: Proud member of the Avengers, but he’s a man out of
-        time, frozen for decades and unaccustomed to modern life. Can the Sentinel
-        of Liberty learn to fight alongside heroes 60 years younger than him…and why
-        does Cap feel a strange connection to the man named Korvac? Ben McCool (Choker)
-        brings you an epic tale ten centuries in the making! 32 PGS./Rated A …$2.99'
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/33864
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/33864/captain_america_the_korvac_saga_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/10739
-      name: Captain America & the Korvac Saga (2010 - 2011)
-    :variants: []
-    :collections: []
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '2010-12-08T00:00:00-0500'
-    - type: focDate
-      date: '2010-11-27T00:00:00-0500'
-    :prices:
-    - type: printPrice
-      price: 2.99
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/4c9109f9428f6
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/4c9109f9428f6
-      extension: jpg
-    :creators:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/33864/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/11133
-        name: Ben McCool
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/8260
-        name: Craig Rousseau
-        role: penciller
-      returned: 2
-    :characters:
-      available: 7
-      collectionURI: http://gateway.marvel.com/v1/public/comics/33864/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009175
-        name: Beast
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
-        name: Captain America
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011053
-        name: Maelstrom
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010334
-        name: Quasimodo
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009562
-        name: Scarlet Witch
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009610
-        name: Spider-Man
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009697
-        name: Vision
-      returned: 7
-    :stories:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/33864/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/76060
-        name: 'Cover #76060'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/76061
-        name: 'Interior #76061'
-        type: interiorStory
-      returned: 2
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/33864/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009562
     :name: Scarlet Witch
     :description: ''
@@ -384,3 +202,314 @@
       url: http://marvel.com/universe/Scarlet_Witch_(Wanda_Maximoff)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009562/scarlet_witch?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 7337
+    :digitalId: 19359
+    :title: 'Avengers (1963) #84'
+    :issueNumber: 84
+    :variantDescription: ''
+    :description: 
+    :modified: '2011-10-11T10:37:00-0400'
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 36
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/7337
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/7337/avengers_1963_84?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: purchase
+      url: http://comicstore.marvel.com/Avengers-84/digital-comic/19359?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=19359&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: inAppLink
+      url: http://applink.marvel.com/issue/19359?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/1991
+      name: Avengers (1963 - 1996)
+    :variants: []
+    :collections: []
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1971-01-10T00:00:00-0500'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    - type: unlimitedDate
+      date: '2011-05-17T00:00:00-0400'
+    - type: digitalPurchaseDate
+      date: '2014-09-02T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 0.15
+    - type: digitalPurchasePrice
+      price: 1.99
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4e9454ae86607
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4e9454ae86607
+      extension: jpg
+    :creators:
+      available: 5
+      collectionURI: http://gateway.marvel.com/v1/public/comics/7337/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1612
+        name: John Buscema
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/30
+        name: Stan Lee
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/527
+        name: Tom Palmer
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1741
+        name: Mike Stevens
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2909
+        name: Roy Thomas
+        role: writer
+      returned: 5
+    :characters:
+      available: 7
+      collectionURI: http://gateway.marvel.com/v1/public/comics/7337/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009165
+        name: Avengers
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009187
+        name: Black Panther
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009338
+        name: Hawkeye
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009524
+        name: Quicksilver
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009562
+        name: Scarlet Witch
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009664
+        name: Thor
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009697
+        name: Vision
+      returned: 7
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/7337/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15237
+        name: The Sword and the Sorceress
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/95208
+        name: 'Avengers (1963) #84'
+        type: cover
+      returned: 2
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/7337/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009187
+    :name: Black Panther
+    :description: ''
+    :modified: '2014-02-27T11:14:59-0500'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009187
+    :comics:
+      available: 336
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009187/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/30885
+        name: Age of Heroes (Trade Paperback)
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/35528
+        name: 'Amazing Spider-Man (1999) #667'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/16889
+        name: 'Amazing Spider-Man Annual (1964) #15'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/43221
+        name: 'Astonishing X-Men (2004) #51 (Create Your Own Wedding Variant)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17490
+        name: 'Avengers (1998) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17501
+        name: 'Avengers (1998) #2'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17512
+        name: 'Avengers (1998) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17523
+        name: 'Avengers (1998) #4'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17500
+        name: 'Avengers (1998) #19'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17502
+        name: 'Avengers (1998) #20'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17503
+        name: 'Avengers (1998) #21'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17504
+        name: 'Avengers (1998) #22'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17505
+        name: 'Avengers (1998) #23'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17532
+        name: 'Avengers (1998) #48'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17542
+        name: 'Avengers (1998) #57'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17543
+        name: 'Avengers (1998) #58'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/7309
+        name: 'Avengers (1963) #59'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17544
+        name: 'Avengers (1998) #59'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17546
+        name: 'Avengers (1998) #60'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/7312
+        name: 'Avengers (1963) #61'
+      returned: 20
+    :series:
+      available: 101
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009187/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/10235
+        name: Age of Heroes (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/454
+        name: Amazing Spider-Man (1999 - 2013)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2984
+        name: Amazing Spider-Man Annual (1964 - 2009)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/744
+        name: Astonishing X-Men (2004 - Present)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/354
+        name: Avengers (1998 - 2004)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
+        name: Avengers (1963 - 1996)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1340
+        name: Avengers Assemble (2004)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1737
+        name: Avengers Assemble Vol. 3 (2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1816
+        name: Avengers Assemble Vol. 4 (2007)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2384
+        name: Avengers Classic (2007 - 2008)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2111
+        name: Avengers Forever (1998 - 2001)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/93
+        name: 'Avengers Legends Vol. I: Avengers Forever (2002)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/9863
+        name: 'Avengers Origins: Vision (2013)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/158
+        name: 'Avengers Vol. 1: World Trust (2003)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/227
+        name: 'Avengers Vol. 2: Red Zone (2003)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/271
+        name: 'Avengers Vol. II: Red Zone (2003)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/13584
+        name: 'Avengers: Earth''s Mightiest Heroes (2010)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/98
+        name: 'Avengers: The Kang Dynasty (2002)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/784
+        name: Black Panther (2005 - 2008)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3627
+        name: Black Panther (1976 - 1979)
+      returned: 20
+    :stories:
+      available: 461
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009187/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/650
+        name: 2 of 2- Black Panther crossover
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3812
+        name: 1 of 6- Who is the Black Panther
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3813
+        name: 1 of 6- Who is the Black Panther
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3814
+        name: 2 of 6- Who is the Black Panther
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3815
+        name: 2 of 6- Who is the Black Panther
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3816
+        name: 3 of 6- Who is the Black Panther
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3817
+        name: 3 of 6- Who is the Black Panther
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3818
+        name: 4 of 6- Who is the Black Panther
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3819
+        name: 4 of 6- Who is the Black Panther
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3820
+        name: 5 of 6- Who is the Black Panther
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3821
+        name: 5 of 6- Who is the Black Panther
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3823
+        name: 6 of 6- Who is the Black Panther
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3825
+        name: 1 of 1- House of M
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3827
+        name: 1 of 2 - (X-Men crossover)
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3828
+        name: 2 of 2 - X-Men crossover
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3829
+        name: 2 of 2 - X-Men crossover
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3831
+        name: 1 of 4 - Bride Prelude
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3833
+        name: 2 of 4 - Bride Prelude
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3835
+        name: 3 of 4 - Bride Prelude
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/3837
+        name: 4 of 4 - Bride Prelude
+        type: interiorStory
+      returned: 20
+    :events:
+      available: 13
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009187/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/238
+        name: Civil War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/318
+        name: Dark Reign
+      - resourceURI: http://gateway.marvel.com/v1/public/events/248
+        name: Fall of the Mutants
+      - resourceURI: http://gateway.marvel.com/v1/public/events/302
+        name: Fear Itself
+      - resourceURI: http://gateway.marvel.com/v1/public/events/251
+        name: House of M
+      - resourceURI: http://gateway.marvel.com/v1/public/events/255
+        name: Initiative
+      - resourceURI: http://gateway.marvel.com/v1/public/events/37
+        name: Maximum Security
+      - resourceURI: http://gateway.marvel.com/v1/public/events/154
+        name: Onslaught
+      - resourceURI: http://gateway.marvel.com/v1/public/events/319
+        name: Original Sin
+      - resourceURI: http://gateway.marvel.com/v1/public/events/266
+        name: Other - Evolve or Die
+      - resourceURI: http://gateway.marvel.com/v1/public/events/269
+        name: Secret Invasion
+      - resourceURI: http://gateway.marvel.com/v1/public/events/305
+        name: Spider-Island
+      - resourceURI: http://gateway.marvel.com/v1/public/events/277
+        name: World War Hulk
+      returned: 13
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/5/black_panther?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Black_Panther_(T%27Challa)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009187/black_panther?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
