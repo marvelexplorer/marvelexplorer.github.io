@@ -35,7 +35,16 @@ describe MarvelExplorer do
     expect(@me.end_character.name).to eq 'Avengers'
   end
 
-  it 'should save the end character'
+  it 'should save the end character', :vcr do
+    MARSHAL_FILE = 'tmp/last.character'
+    stub_request(:get, /gateway.marvel.com\/v1\/public\/characters\/1009351\/comics/)
+    .to_return(status: 200, body: File.read('spec/fixtures/hulk_comics.json'))
+    stub_request(:get, /gateway.marvel.com\/v1\/public\/comics\/19843\/characters/)
+    .to_return(status: 200, body: File.read('spec/fixtures/double-shot-characters.json'))
+    @me.save
+    f = Marshal.load File.read MARSHAL_FILE
+    expect(f.name).to eq 'Avengers'
+  end
 
   it 'should extract the year correctly', :vcr do
     c = Ultron::Comics.find '50372'

@@ -3,3 +3,4 @@ _site/
 .env
 last.character
 _data/details.yml
+tmp/

@@ -42,9 +42,13 @@ class MarvelExplorer
         end_character = characters.sample
       end
 
-#    save last
-      puts end_character.id
-    end_character
+      end_character
+    end
+  end
+
+  def save
+    File.open MARSHAL_FILE, 'w' do |file|
+      Marshal.dump end_character, file
     end
   end
 
@@ -66,11 +70,7 @@ class MarvelExplorer
 #  end
 #
 #
-#  def save character
-#    File.open MARSHAL_FILE, 'w' do |file|
-#      Marshal.dump character, file
-#    end
-#  end
+
 #
 #
 #
