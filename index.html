@@ -5,8 +5,8 @@ title: Marvel Explorer
 
 <div class='row'>
   <div class='col-md-4 text-center'>
-    <h2>In {{ site.data.details[":comic"]["table"][":dates"][0]["date"] | date: "%Y" }}</h2>
-    {% include character.html key = ':first_character' %}
+    <h2>In {{ site.data.comic.date | date: "%Y" }}</h2>
+    {% include character.html key = 'start' %}
   </div>
 
   <div class='col-md-4 text-center'>
@@ -16,6 +16,6 @@ title: Marvel Explorer
 
   <div class='col-md-4 text-center'>
     <h2>with</h2>
-    {% include character.html key = ':last_character' %}
+    {% include character.html key = 'end' %}
   </div>
 </div>

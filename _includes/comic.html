@@ -1,7 +1,7 @@
-<a href='{{ site.data.details[":comic"]["table"][":urls"][0]["url"] }}'>
-  <img src='{{ site.data.details[":comic"]["table"][":thumbnail"]["path"] }}.{{ site.data.details[":comic"]["table"][":thumbnail"]["extension"] }}'
+<a href='{{ site.data.comic.url }}'>
+  <img src='{{ site.data.comic.image.path }}.{{ site.data.comic.image.extension }}'
        class='comic' />
 </a>
 <div class='comic-title'>
-  <h3>{{ site.data.details[":comic"]["table"][":title"] }}</h3>
+  <h3>{{ site.data.comic.title }}</h3>
 </div>
