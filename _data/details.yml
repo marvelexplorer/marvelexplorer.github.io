@@ -1,352 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009175
-    :name: Beast
-    :description: ''
-    :modified: '2014-01-13T14:48:32-0500'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/511a79a0451a3
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009175
-    :comics:
-      available: 571
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009175/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/43495
-        name: 'A+X (2012) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/44580
-        name: 'All-New X-Men (2012) #3 (Mcguinness Variant)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12651
-        name: 'Alpha Flight (1983) #111'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23247
-        name: 'Amazing Adventures (1970) #11'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23248
-        name: 'Amazing Adventures (1970) #12'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23249
-        name: 'Amazing Adventures (1970) #13'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23250
-        name: 'Amazing Adventures (1970) #14'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23251
-        name: 'Amazing Adventures (1970) #15'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23252
-        name: 'Amazing Adventures (1970) #16'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23253
-        name: 'Amazing Adventures (1970) #17'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/48021
-        name: 'Amazing X-Men (2013) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/660
-        name: 'Astonishing X-Men (2004) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/723
-        name: 'Astonishing X-Men (2004) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/531
-        name: 'Astonishing X-Men (2004) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1808
-        name: 'Astonishing X-Men (2004) #4'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/843
-        name: 'Astonishing X-Men (2004) #5'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/927
-        name: 'Astonishing X-Men (2004) #6'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/38
-        name: 'Astonishing X-Men (2004) #7'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1436
-        name: 'Astonishing X-Men (2004) #8'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1626
-        name: 'Astonishing X-Men (2004) #9'
-      returned: 20
-    :series:
-      available: 162
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009175/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/16450
-        name: A+X (2012 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/16449
-        name: All-New X-Men (2012 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2116
-        name: Alpha Flight (1983 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/6666
-        name: Amazing Adventures (1970 - 1976)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/18142
-        name: Amazing X-Men (2013 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/744
-        name: Astonishing X-Men (2004 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/7576
-        name: Astonishing X-Men by Joss Whedon & John Cassaday (2009 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1464
-        name: Astonishing X-Men Vol. 1 (2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1298
-        name: 'Astonishing X-Men Vol. 1: Gifted (2004)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1422
-        name: 'Astonishing X-Men Vol. 2: Dangerous (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1485
-        name: 'Astonishing X-Men Vol. 3: Torn (2007)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/5055
-        name: 'Astonishing X-Men Vol. 4: Unstoppable (2008)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
-        name: Avengers (1963 - 1996)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9085
-        name: Avengers (2010 - 2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/354
-        name: Avengers (1998 - 2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/13320
-        name: Avengers Annual (2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1988
-        name: Avengers Annual (1967 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1340
-        name: Avengers Assemble (2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1496
-        name: Avengers Assemble Vol. 2 (2005)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1737
-        name: Avengers Assemble Vol. 3 (2006)
-      returned: 20
-    :stories:
-      available: 619
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009175/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/628
-        name: 1 of 1 - Holiday Issue
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2190
-        name: 6 of 6 - Enemy of the State
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2835
-        name: 1 of 1 - Kitty/Colossus
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/2836
-        name: 1 of 1 - Kitty/Colossus
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3305
-        name: 'Cover for Astonishing X-Men (2004) #7'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3306
-        name: 1 of 6 - Dangerous
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3308
-        name: 'Interior #3308'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3309
-        name: 'Cover for Astonishing X-Men (2004) #1, #3309'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3310
-        name: 'Interior #3310'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3318
-        name: 'Interior #3318'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3322
-        name: "“GIFTED” 5 (OF 6)  As demand for the"
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3324
-        name: "“GIFTED” PART 6 (OF 6) Outnumbered and outgunned, the X-Men are finally
-          brought together as a team by their newest addition – bu"
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3326
-        name: 2 of 6 - Dangerous
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3328
-        name: 3 of 6 - Dangerous
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3330
-        name: 4 of 6 - Dangerous
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3331
-        name: 'Cover for Astonishing X-Men (2004) #4, #3331'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3332
-        name: 'Interior #3332'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3336
-        name: 6 of 6 - Dangerous
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3337
-        name: 'Interior #3337'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/3338
-        name: 1 of 6
-        type: cover
-      returned: 20
-    :events:
-      available: 21
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009175/events
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/events/116
-        name: Acts of Vengeance!
-      - resourceURI: http://gateway.marvel.com/v1/public/events/227
-        name: Age of Apocalypse
-      - resourceURI: http://gateway.marvel.com/v1/public/events/233
-        name: Atlantis Attacks
-      - resourceURI: http://gateway.marvel.com/v1/public/events/310
-        name: Avengers VS X-Men
-      - resourceURI: http://gateway.marvel.com/v1/public/events/296
-        name: Chaos War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/238
-        name: Civil War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/240
-        name: Days of Future Present
-      - resourceURI: http://gateway.marvel.com/v1/public/events/245
-        name: Enemy of the State
-      - resourceURI: http://gateway.marvel.com/v1/public/events/246
-        name: Evolutionary War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/248
-        name: Fall of the Mutants
-      - resourceURI: http://gateway.marvel.com/v1/public/events/249
-        name: Fatal Attractions
-      - resourceURI: http://gateway.marvel.com/v1/public/events/302
-        name: Fear Itself
-      - resourceURI: http://gateway.marvel.com/v1/public/events/252
-        name: Inferno
-      - resourceURI: http://gateway.marvel.com/v1/public/events/29
-        name: Infinity War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/32
-        name: Kings of Pain
-      - resourceURI: http://gateway.marvel.com/v1/public/events/37
-        name: Maximum Security
-      - resourceURI: http://gateway.marvel.com/v1/public/events/299
-        name: Messiah CompleX
-      - resourceURI: http://gateway.marvel.com/v1/public/events/263
-        name: Mutant Massacre
-      - resourceURI: http://gateway.marvel.com/v1/public/events/154
-        name: Onslaught
-      - resourceURI: http://gateway.marvel.com/v1/public/events/273
-        name: Siege
-      returned: 20
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/3/beast?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Beast_(Henry_McCoy)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009175/beast?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 38067
-    :digitalId: 19181
-    :title: 'Onslaught Unleashed (2010) #1'
-    :issueNumber: 1
-    :variantDescription: ''
-    :description: |
-      THE SECRET AVENGERS AND YOUNG ALLIES CO-STAR IN THIS SENSES-SHATTERING SAGA!
-      Deep in the heart of Colombia, an immense and unmarked engine hums at a steady, ominous pace. Its purpose: to exploit a tear in the barrier between this world and another; to harvest and refine an exotic energy source for Roxxon Energy Corp. But just on the other side of that tear, inside the Negative Zone, a dark entity of vast power has been waiting for what has seemed like centuries, preparing for the moment when he can finally reach through the tear and once again cast his judgment on humans and mutants alike. For the psychomagnetic abomination called ONSLAUGHT, that moment is about to arrive...and he'll have the girl without a world--NOMAD--to thank for it! Eisner winner Sean McKeever and Filipe Andrade (X-23) team to bring you to the heart of terror and the edge of sanity in this hotly-anticipated epic!
-    :modified: '2012-01-11T13:56:02-0500'
-    :isbn: ''
-    :upc: 5960607555-00111
-    :diamondCode: DEC100596
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 40
-    :textObjects:
-    - type: issue_solicit_text
-      language: en-us
-      text: |
-        THE SECRET AVENGERS AND YOUNG ALLIES CO-STAR IN THIS SENSES-SHATTERING SAGA!
-        Deep in the heart of Colombia, an immense and unmarked engine hums at a steady, ominous pace. Its purpose: to exploit a tear in the barrier between this world and another; to harvest and refine an exotic energy source for Roxxon Energy Corp. But just on the other side of that tear, inside the Negative Zone, a dark entity of vast power has been waiting for what has seemed like centuries, preparing for the moment when he can finally reach through the tear and once again cast his judgment on humans and mutants alike. For the psychomagnetic abomination called ONSLAUGHT, that moment is about to arrive...and he'll have the girl without a world--NOMAD--to thank for it! Eisner winner Sean McKeever and Filipe Andrade (X-23) team to bring you to the heart of terror and the edge of sanity in this hotly-anticipated epic!
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/38067
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/38067/onslaught_unleashed_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: purchase
-      url: http://comicstore.marvel.com/Onslaught-Unleashed-1/digital-comic/19181?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=19181&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: inAppLink
-      url: http://applink.marvel.com/issue/19181?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/13602
-      name: Onslaught Unleashed (2010 - 2011)
-    :variants:
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/37960
-      name: 'Onslaught Unleashed (2010) #1 (LIEFELD VARIANT B)'
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/38057
-      name: 'Onslaught Unleashed (2010) #1 (LIEFELD VARIANT A)'
-    :collections: []
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '2011-02-09T00:00:00-0500'
-    - type: focDate
-      date: '2011-01-25T00:00:00-0500'
-    - type: unlimitedDate
-      date: '2012-01-06T00:00:00-0500'
-    - type: digitalPurchaseDate
-      date: '2013-07-16T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 3.99
-    - type: digitalPurchasePrice
-      price: 0
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4f0b271b7cb81
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4f0b271b7cb81
-      extension: jpg
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d51e909246ae
-      extension: jpg
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4d51e728d7d5e
-      extension: jpg
-    :creators:
-      available: 4
-      collectionURI: http://gateway.marvel.com/v1/public/comics/38067/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/12203
-        name: Filipe Daniel Moreno De Andrade
-        role: penciller
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/9429
-        name: Sean McKeever
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/72
-        name: Humberto Ramos
-        role: penciller (cover)
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/8924
-        name: Lauren Sankovitch
-        role: editor
-      returned: 4
-    :characters:
-      available: 11
-      collectionURI: http://gateway.marvel.com/v1/public/comics/38067/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010802
-        name: Ant-Man (Eric O'Grady)
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009175
-        name: Beast
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009189
-        name: Black Widow
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
-        name: Captain America
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009306
-        name: Firestar
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010702
-        name: Gravity
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009452
-        name: Moon Knight
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011427
-        name: Nomad (Rikki Barnes)
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009483
-        name: Onslaught
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009228
-        name: Sharon Carter
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009157
-        name: Spider-Girl (Anya Corazon)
-      returned: 11
-    :stories:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/38067/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/85232
-        name: 'Onslaught Unleashed (2010) #1'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/89189
-        name: 'Interior #89189'
-        type: interiorStory
-      returned: 2
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/38067/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009220
     :name: Captain America
     :description: Vowing to serve his country any way he could, young Steve Rogers
@@ -564,3 +218,256 @@
       url: http://marvel.com/universe/Captain_America_(Steve_Rogers)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009220/captain_america?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 11086
+    :digitalId: 4409
+    :title: 'Strange Tales (1951) #162'
+    :issueNumber: 162
+    :variantDescription: ''
+    :description: 
+    :modified: "-0001-11-30T00:00:00-0500"
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 36
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/11086
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/11086/strange_tales_1951_162?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: purchase
+      url: http://comicstore.marvel.com/Strange-Tales-162/digital-comic/4409?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=4409&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: inAppLink
+      url: http://applink.marvel.com/issue/4409?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/2076
+      name: Strange Tales (1951 - 1968)
+    :variants: []
+    :collections:
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/2820
+      name: 'Marvel Masterworks: Doctor Strange Vol. (Hardcover)'
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/2319
+      name: 'Marvel Masterworks: Doctor Strange Vol. (Hardcover)'
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1967-11-10T00:00:00-0500'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    - type: unlimitedDate
+      date: '2007-04-28T00:00:00-0400'
+    - type: digitalPurchaseDate
+      date: '2013-10-15T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 0.12
+    - type: digitalPurchasePrice
+      price: 0.99
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/7/90/4bc373889c8f8
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/7/90/4bc373889c8f8
+      extension: jpg
+    :creators:
+      available: 6
+      collectionURI: http://gateway.marvel.com/v1/public/comics/11086/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1212
+        name: Dan Adkins
+        role: penciller (cover)
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1519
+        name: Frank Giacoia
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1598
+        name: Jim Lawrence
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/61
+        name: Jim Steranko
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/30
+        name: Stan Lee
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1553
+        name: Sam Rosen
+        role: letterer
+      returned: 6
+    :characters:
+      available: 3
+      collectionURI: http://gateway.marvel.com/v1/public/comics/11086/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
+        name: Captain America
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009282
+        name: Doctor Strange
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009736
+        name: Yellow Claw
+      returned: 3
+    :stories:
+      available: 3
+      collectionURI: http://gateway.marvel.com/v1/public/comics/11086/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/10316
+        name: 'Cover #10316'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/10317
+        name: So Evil, the Night!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/10318
+        name: From The Never-World Comes...Nebulos!
+        type: interiorStory
+      returned: 3
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/11086/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009736
+    :name: Yellow Claw
+    :description: The Yellow Claw is Plan Tzu, the 19th Century descendant of and
+      rightful successor to the legendary warlord Temujin, a.k.a. Genghis Khan.
+    :modified: '1969-12-31T19:00:00-0500'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009736
+    :comics:
+      available: 18
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009736/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/7069
+        name: 'Avengers (1963) #204'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/19806
+        name: 'Marvel Fanfare (1982) #31'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/19807
+        name: 'Marvel Fanfare (1982) #32'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/2319
+        name: 'Marvel Masterworks: Doctor Strange Vol. (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/2820
+        name: 'Marvel Masterworks: Doctor Strange Vol. (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/5858
+        name: 'Marvel Masterworks: Warlock Vol. (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/10206
+        name: 'Marvel Premiere (1972) #2'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/27714
+        name: 'Nick Fury, Agent of Shield (1989) #13'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/27715
+        name: 'Nick Fury, Agent of Shield (1989) #14'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23370
+        name: 'Nova (1976) #16'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23371
+        name: 'Nova (1976) #17'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/23372
+        name: 'Nova (1976) #18'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/22120
+        name: 'Strange Tales (1994) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/11085
+        name: 'Strange Tales (1951) #161'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/11086
+        name: 'Strange Tales (1951) #162'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/11087
+        name: 'Strange Tales (1951) #163'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/11089
+        name: 'Strange Tales (1951) #165'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/11090
+        name: 'Strange Tales (1951) #166'
+      returned: 18
+    :series:
+      available: 9
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009736/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
+        name: Avengers (1963 - 1996)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3719
+        name: Marvel Fanfare (1982 - 1992)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1468
+        name: 'Marvel Masterworks: Doctor Strange Vol. (2005)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1837
+        name: 'Marvel Masterworks: Warlock Vol. (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2045
+        name: Marvel Premiere (1972 - 1981)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/8852
+        name: Nick Fury, Agent of Shield (1989 - 1992)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/6679
+        name: Nova (1976 - 2010)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/5851
+        name: Strange Tales (1994)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2076
+        name: Strange Tales (1951 - 1968)
+      returned: 9
+    :stories:
+      available: 17
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009736/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/10313
+        name: 'Cover #10313'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/10314
+        name: The Second Doom
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/10317
+        name: So Evil, the Night!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/10319
+        name: 'Cover #10319'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/10325
+        name: 'Cover #10325'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/10330
+        name: If Death Be My Destiny!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/14678
+        name: Claws Across the Water!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/19913
+        name: "[untitled]"
+        type: ''
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/42232
+        name: A Plague of Frogs
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/42236
+        name: 'Cover #42236'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/42238
+        name: Is This the Way the World Ends?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/49795
+        name: 'Interior #49795'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/51813
+        name: 'Cover #51813'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/51815
+        name: 'Cover #51815'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/51817
+        name: 'Cover #51817'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/60755
+        name: In Battle Joined
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/60757
+        name: Pyrrhic Victory
+        type: interiorStory
+      returned: 17
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009736/events
+      items: []
+      returned: 0
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/2635/yellow_claw?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Yellow_Claw?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009736/yellow_claw?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
