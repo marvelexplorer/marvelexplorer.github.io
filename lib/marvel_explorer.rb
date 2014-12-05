@@ -2,20 +2,20 @@ require 'date'
 require 'twitter'
 require 'ultron'
 require 'yaml'
+require 'dotenv'
+require 'fileutils'
 
-DEFAULT_ID   = 1009351 # Hulk
-MARSHAL_FILE = 'last.character'
-TWEET_LENGTH = 140
+Dotenv.load
 
 class MarvelExplorer
 
   def start_character
     @start_character ||= begin
-      File.open MARSHAL_FILE do |file|
+      File.open ENV['MARSHAL_FILE'] do |file|
         Marshal.load file
       end
     rescue
-      Ultron::Characters.find DEFAULT_ID
+      Ultron::Characters.find ENV['DEFAULT_ID']
     ensure
       true
     end
@@ -47,9 +47,46 @@ class MarvelExplorer
   end
 
   def save
-    File.open MARSHAL_FILE, 'w' do |file|
+    File.open ENV['MARSHAL_FILE'], 'w' do |file|
       Marshal.dump end_character, file
     end
+  end
+
+  def yamlise
+    FileUtils.mkdir_p ENV['YAML_DIR']
+
+    [
+      'start',
+      'end'
+    ].each do |c|
+      h = {
+        'name' => eval("#{c}_character[:name]"),
+        'description' => eval("#{c}_character[:description]"),
+        'url' => eval("#{c}_character[:urls][1]['url']"),
+        'image' => {
+          'path' => eval("#{c}_character[:thumbnail]['path']"),
+          'extension' => eval("#{c}_character[:thumbnail]['extension']")
+        }
+      }
+
+      y = File.open '%s/%s.yml' % [
+        ENV['YAML_DIR'],
+        c
+      ], 'w'
+      y.write h.to_yaml
+      y.close
+    end
+
+    h = {
+      'date' => [:dates][0]['date'],
+      'title' => comic[:title],
+      'url' => comic[:urls][0]['url'],
+      'image' => comic[:thumbnail]
+    }
+
+    y = File.open '%s/comic.yml' % ENV['YAML_DIR'], 'w'
+    y.write h.to_yaml
+    y.close
   end
 
   def validate_comic
@@ -62,19 +99,6 @@ class MarvelExplorer
     DateTime.parse(comic.dates.select { |d| d['type'] == 'onsaleDate' }[0]['date']).year
   end
 
-#  attr_writer :full
-#  attr_reader :tweet_message
-#
-#  def initialize
-#    perform
-#  end
-#
-#
-
-#
-#
-#
-#
 #  def yamlise
 #    h = {}
 #    h[:first_character] = @first
