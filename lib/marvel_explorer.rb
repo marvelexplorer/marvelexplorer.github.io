@@ -103,6 +103,14 @@ class MarvelExplorer
     tm
   end
 
+  def commit_message
+    '%s -> %s -> %s' % [
+      start_character.name,
+      series[:name],
+      end_character.name
+    ]
+  end
+
   def self.twitter_client
     config = {
       consumer_key:        ENV['TWITTER_CONSUMER_KEY'],

@@ -65,6 +65,11 @@ describe MarvelExplorer do
     expect(@me.tweet_message).to eq 'In 2003, Captain America appeared in issue #2 of the 2003 run of Marvel Double Shot with Avengers'
   end
 
+  it 'should generate a commit message' do
+    stubbify
+    expect(@me.commit_message).to eq 'Captain America -> Marvel Double Shot -> Avengers'
+  end
+
   it 'should have series information' do
     stubbify
     expect(@me.series[:period]).to eq '2003'
