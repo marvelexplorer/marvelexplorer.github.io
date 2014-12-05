@@ -63,10 +63,7 @@ class MarvelExplorer
         'name' => eval("#{c}_character[:name]"),
         'description' => eval("#{c}_character[:description]"),
         'url' => eval("#{c}_character[:urls][1]['url']"),
-        'image' => {
-          'path' => eval("#{c}_character[:thumbnail]['path']"),
-          'extension' => eval("#{c}_character[:thumbnail]['extension']")
-        }
+        'image' => eval("#{c}_character[:thumbnail]")
       }
 
       y = File.open '%s/%s.yml' % [
@@ -78,7 +75,7 @@ class MarvelExplorer
     end
 
     h = {
-      'date' => [:dates][0]['date'],
+      'date' => comic[:dates][0]['date'],
       'title' => comic[:title],
       'url' => comic[:urls][0]['url'],
       'image' => comic[:thumbnail]
@@ -87,6 +84,38 @@ class MarvelExplorer
     y = File.open '%s/comic.yml' % ENV['YAML_DIR'], 'w'
     y.write h.to_yaml
     y.close
+  end
+
+  def tweet_message
+    tm = 'In %s, %s appeared in %s of the %s run of %s with %s' % [
+      MarvelExplorer.get_year(comic).to_s,
+      start_character.name,
+      'issue #%s' % comic.issueNumber.to_s,
+      series[:period],
+      series[:name],
+      end_character.name
+    ]
+
+    if tm.length > ENV['TWEET_LENGTH'].to_i
+      tm = '%s…' % s[0, ENV['TWEET_LENGTH'].to_i - 1]
+    end
+
+    tm
+  end
+
+  def self.twitter_client
+    config = {
+      consumer_key:        ENV['TWITTER_CONSUMER_KEY'],
+      consumer_secret:     ENV['TWITTER_CONSUMER_SECRET'],
+      access_token:        ENV['TWITTER_OAUTH_TOKEN'],
+      access_token_secret: ENV['TWITTER_OAUTH_SECRET']
+    }
+    Twitter::REST::Client.new(config)
+  end
+
+  def series
+    comic.series['name'] =~ /(.*) \((.*)\)/
+    { name: $1, period: $2 }
   end
 
   def validate_comic
@@ -99,19 +128,6 @@ class MarvelExplorer
     DateTime.parse(comic.dates.select { |d| d['type'] == 'onsaleDate' }[0]['date']).year
   end
 
-#  def yamlise
-#    h = {}
-#    h[:first_character] = @first
-#    h[:comic] = @comic
-#
-#    h[:last_character] = @last
-#
-#    yaml = File.open '_data/details.yml', 'w'
-#    yaml.write h.to_yaml
-#    yaml.close
-#  end
-#
-#
 #  def perform
 #    @first = load
 #    @comic = comic @first
@@ -123,25 +139,10 @@ class MarvelExplorer
 #    yamlise
 #  end
 #
-#  def twitter_client
-#    config = {
-#      consumer_key:        ENV['TWITTER_CONSUMER_KEY'],
-#      consumer_secret:     ENV['TWITTER_CONSUMER_SECRET'],
-#      access_token:        ENV['TWITTER_OAUTH_TOKEN'],
-#      access_token_secret: ENV['TWITTER_OAUTH_SECRET']
-#    }
-#    Twitter::REST::Client.new(config)
-#  end
+
 #
 #  def tweet
-#    @tweet_message = 'In %s, %s appeared in %s of the %s run of %s with %s' % [
-#        get_year(@comic).to_s,
-#        @first.name,
-#        'issue #%s' % @comic.issueNumber.to_s,
-#        @series[:period],
-#        @series[:name],
-#        @last.name
-#    ]
+
 #    puts @tweet
 #
 #    if @tweet_message.length > TWEET_LENGTH

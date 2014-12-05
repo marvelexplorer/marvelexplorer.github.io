@@ -29,10 +29,7 @@ describe MarvelExplorer do
   end
 
   it 'should get the end character from the comic', :vcr do
-    stub_request(:get, /gateway.marvel.com\/v1\/public\/characters\/1009220\/comics/)
-    .to_return(status: 200, body: File.read('spec/fixtures/hulk_comics.json'))
-    stub_request(:get, /gateway.marvel.com\/v1\/public\/comics\/19843\/characters/)
-    .to_return(status: 200, body: File.read('spec/fixtures/double-shot-characters.json'))
+    stubbify
     expect(@me.end_character.name).to eq 'Avengers'
   end
 
@@ -48,10 +45,7 @@ describe MarvelExplorer do
   end
 
   it 'should generate correct yaml', :vcr do
-    stub_request(:get, /gateway.marvel.com\/v1\/public\/characters\/1009220\/comics/)
-    .to_return(status: 200, body: File.read('spec/fixtures/hulk_comics.json'))
-    stub_request(:get, /gateway.marvel.com\/v1\/public\/comics\/19843\/characters/)
-    .to_return(status: 200, body: File.read('spec/fixtures/double-shot-characters.json'))
+    stubbify
     @me.yamlise
     start_yaml = YAML.load File.open '%s/start.yml' % ENV['YAML_DIR']
     expect(start_yaml['name']).to eq 'Captain America'
@@ -61,12 +55,30 @@ describe MarvelExplorer do
     expect(end_yaml['url']).to match /marvel.com\/universe/
 
     comic_yaml = YAML.load File.open '%s/comic.yml' % ENV['YAML_DIR']
+    expect(comic_yaml['date']).to match /2003/
     expect(comic_yaml['title']).to match /Double Shot/
     expect(comic_yaml['image']['path']).to match /4c3649b0f2abd/
+  end
+
+  it 'should generate a tweet message' do
+    stubbify
+    expect(@me.tweet_message).to eq 'In 2003, Captain America appeared in issue #2 of the 2003 run of Marvel Double Shot with Avengers'
+  end
+
+  it 'should have series information' do
+    stubbify
+    expect(@me.series[:period]).to eq '2003'
   end
 
   it 'should extract the year correctly', :vcr do
     c = Ultron::Comics.find '50372'
     expect(MarvelExplorer.get_year c).to eq 2014
   end
+end
+
+def stubbify
+  stub_request(:get, /gateway.marvel.com\/v1\/public\/characters\/1009220\/comics/)
+  .to_return(status: 200, body: File.read('spec/fixtures/hulk_comics.json'))
+  stub_request(:get, /gateway.marvel.com\/v1\/public\/comics\/19843\/characters/)
+  .to_return(status: 200, body: File.read('spec/fixtures/double-shot-characters.json'))
 end
