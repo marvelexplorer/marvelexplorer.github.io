@@ -1,346 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009165
-    :name: Avengers
-    :description: Earth's Mightiest Heroes joined forces to take on threats that were
-      too big for any one hero to tackle. With a roster that has included Captain
-      America, Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years,
-      the Avengers have come to be regarded as Earth's No. 1 team.
-    :modified: '2014-05-27T20:28:26-0400'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009165
-    :comics:
-      available: 963
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009165/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/42539
-        name: 'Age of Apocalypse (2011) #2 (Avengers Art Appreciation Variant)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/38523
-        name: 'Age of X: Universe (2011) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37278
-        name: 'Alias (2003) #4'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37255
-        name: Alias Omnibus (Hardcover)
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12766
-        name: 'Alpha Flight (1983) #99'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12639
-        name: 'Alpha Flight (1983) #100'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12640
-        name: 'Alpha Flight (1983) #101'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37894
-        name: 'Amazing Spider-Man (1999) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37902
-        name: 'Amazing Spider-Man (1999) #7'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/1868
-        name: 'Amazing Spider-Man (1999) #519'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/24407
-        name: 'Amazing Spider-Man (1999) #600'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/29303
-        name: 'Amazing Spider-Man (1999) #600 (2ND PRINTING VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/34135
-        name: 'Amazing Spider-Man (1999) #648'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37045
-        name: 'Amazing Spider-Man (1999) #648 (CASELLI VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/38844
-        name: 'Amazing Spider-Man (1999) #648 (2ND PRINTING VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/30323
-        name: 'Amazing Spider-Man (1999) #648 (CAMPBELL VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/36937
-        name: 'Amazing Spider-Man (1999) #648 (BLANK COVER VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37073
-        name: 'Amazing Spider-Man (1999) #648 (WRAPAROUND VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/39291
-        name: 'Amazing Spider-Man (1999) #654.1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35501
-        name: 'Amazing Spider-Man (1999) #663'
-      returned: 20
-    :series:
-      available: 192
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009165/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/15331
-        name: Age of Apocalypse (2011 - 2013)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/13896
-        name: 'Age of X: Universe (2011)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/672
-        name: Alias (2003)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/13383
-        name: Alias Omnibus (2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2116
-        name: Alpha Flight (1983 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/454
-        name: Amazing Spider-Man (1999 - 2013)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2984
-        name: Amazing Spider-Man Annual (1964 - 2009)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1489
-        name: 'Amazing Spider-Man Vol. 10: New Avengers (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/744
-        name: Astonishing X-Men (2004 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/10030
-        name: Atlantis Attacks (2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/10031
-        name: Atlantis Attacks (DM Only) (2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3621
-        name: Avengers (1996 - 1997)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/354
-        name: Avengers (1998 - 2004)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9085
-        name: Avengers (2010 - 2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
-        name: Avengers (1963 - 1996)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9859
-        name: Avengers & the Infinity Gauntlet (2010)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/10035
-        name: Avengers & the Infinity Gauntlet (2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9086
-        name: Avengers Academy (2010 - 2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1988
-        name: Avengers Annual (1967 - 1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1340
-        name: Avengers Assemble (2004)
-      returned: 20
-    :stories:
-      available: 1373
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009165/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/490
-        name: 'Interior #490'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/542
-        name: 'Interior #542'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/572
-        name: 'Interior #572'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/574
-        name: 'Interior #574'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/575
-        name: 'Interior #575'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/577
-        name: 'Interior #577'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/579
-        name: 'Interior #579'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/580
-        name: 'Interior #580'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/892
-        name: 'Cover #892'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1025
-        name: 'Interior #1025'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1027
-        name: 'Interior #1027'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1029
-        name: 'Interior #1029'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1031
-        name: 'Interior #1031'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1039
-        name: 'Interior #1039'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1041
-        name: 'Avengers (1998) #502'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1043
-        name: 'Interior #1043'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1055
-        name: 'Interior #1055'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1164
-        name: 1 of 5 - New Avengers
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1650
-        name: 'Interior #1650'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/1948
-        name: 'Interior #1948'
-        type: interiorStory
-      returned: 20
-    :events:
-      available: 21
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009165/events
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/events/116
-        name: Acts of Vengeance!
-      - resourceURI: http://gateway.marvel.com/v1/public/events/303
-        name: Age of X
-      - resourceURI: http://gateway.marvel.com/v1/public/events/233
-        name: Atlantis Attacks
-      - resourceURI: http://gateway.marvel.com/v1/public/events/234
-        name: Avengers Disassembled
-      - resourceURI: http://gateway.marvel.com/v1/public/events/310
-        name: Avengers VS X-Men
-      - resourceURI: http://gateway.marvel.com/v1/public/events/296
-        name: Chaos War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/239
-        name: Crossing
-      - resourceURI: http://gateway.marvel.com/v1/public/events/318
-        name: Dark Reign
-      - resourceURI: http://gateway.marvel.com/v1/public/events/246
-        name: Evolutionary War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/302
-        name: Fear Itself
-      - resourceURI: http://gateway.marvel.com/v1/public/events/252
-        name: Inferno
-      - resourceURI: http://gateway.marvel.com/v1/public/events/29
-        name: Infinity War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/255
-        name: Initiative
-      - resourceURI: http://gateway.marvel.com/v1/public/events/37
-        name: Maximum Security
-      - resourceURI: http://gateway.marvel.com/v1/public/events/154
-        name: Onslaught
-      - resourceURI: http://gateway.marvel.com/v1/public/events/269
-        name: Secret Invasion
-      - resourceURI: http://gateway.marvel.com/v1/public/events/270
-        name: Secret Wars
-      - resourceURI: http://gateway.marvel.com/v1/public/events/271
-        name: Secret Wars II
-      - resourceURI: http://gateway.marvel.com/v1/public/events/309
-        name: Shattered Heroes
-      - resourceURI: http://gateway.marvel.com/v1/public/events/273
-        name: Siege
-      returned: 20
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/68/avengers?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Avengers?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009165/avengers?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 7016
-    :digitalId: 29203
-    :title: 'Avengers (1963) #157'
-    :issueNumber: 157
-    :variantDescription: ''
-    :description: 
-    :modified: "-0001-11-30T00:00:00-0500"
-    :isbn: ''
-    :upc: ''
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 36
-    :textObjects: []
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/7016
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/7016/avengers_1963_157?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: purchase
-      url: http://comicstore.marvel.com/Avengers-157/digital-comic/29203?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=29203&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: inAppLink
-      url: http://applink.marvel.com/issue/29203?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/1991
-      name: Avengers (1963 - 1996)
-    :variants: []
-    :collections: []
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '1977-03-10T00:00:00-0500'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    - type: unlimitedDate
-      date: '2013-04-29T00:00:00-0400'
-    - type: digitalPurchaseDate
-      date: '2013-07-30T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 0.3
-    - type: digitalPurchasePrice
-      price: 1.99
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4c659cf2e4b2b
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4c659cf2e4b2b
-      extension: jpg
-    :creators:
-      available: 8
-      collectionURI: http://gateway.marvel.com/v1/public/comics/7016/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/954
-        name: Gerry Conway
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1778
-        name: Dan Crespi
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1754
-        name: Gaspar Saladino
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/305
-        name: Don Heck
-        role: penciller
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/196
-        name: Jack Kirby
-        role: penciller (cover)
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1837
-        name: Pablo Marcos
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1240
-        name: Joe Sinnott
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1777
-        name: Don Warfield
-        role: colorist
-      returned: 8
-    :characters:
-      available: 7
-      collectionURI: http://gateway.marvel.com/v1/public/comics/7016/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009165
-        name: Avengers
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
-        name: Captain America
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011490
-        name: Hank Pym
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009338
-        name: Hawkeye
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009368
-        name: Iron Man
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010350
-        name: Valkyrie (Samantha Parrington)
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009719
-        name: Wonder Man
-      returned: 7
-    :stories:
-      available: 3
-      collectionURI: http://gateway.marvel.com/v1/public/comics/7016/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14569
-        name: 'Cover #14569'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14570
-        name: A Ghost of Stone!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14571
-        name: ''
-        type: letters
-      returned: 3
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/7016/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009220
     :name: Captain America
     :description: Vowing to serve his country any way he could, young Steve Rogers
@@ -558,3 +218,305 @@
       url: http://marvel.com/universe/Captain_America_(Steve_Rogers)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009220/captain_america?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 3188
+    :digitalId: 5360
+    :title: 'Captain America (2004) #14'
+    :issueNumber: 14
+    :variantDescription: ''
+    :description: 'Cap faces down his personal demons, in a hand-to-hand battle with
+      the Winter Soldier. But he''s not just fighting for victory, he''s in a struggle
+      for the heart and soul of everything he''s ever cared about, and the results
+      will send tragic echoes throughout his life for years to come! '
+    :modified: '2014-03-07T15:35:38-0500'
+    :isbn: ''
+    :upc: 5960605652-01411
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 0
+    :textObjects:
+    - type: issue_preview_text
+      language: en-us
+      text: 'Cap faces down his personal demons, in a hand-to-hand battle with the
+        Winter Soldier. But he''s not just fighting for victory, he''s in a struggle
+        for the heart and soul of everything he''s ever cared about, and the results
+        will send tragic echoes throughout his life for years to come! '
+    - type: issue_solicit_text
+      language: en-us
+      text: "“THE WINTER SOLDIER”\r\nFan-favorite creators Ed Brubaker and Steve Epting
+        bring the most talked-about Captain America story in 40 years to a heartbreaking
+        conclusion. Cap faces down his personal demons, in a hand-to-hand battle with
+        the Winter Soldier. But he's not just fighting for victory, he's in a struggle
+        for the heart and soul of everything he's ever cared about, and the results
+        will send tragic echoes throughout his life for years to come! Part 6 (of
+        6)\r\n\r\n32 PGS./T  SUGGESTED FOR TEENS AND UP …$2.99"
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/3188
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/3188/captain_america_2004_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: purchase
+      url: http://comicstore.marvel.com/Captain-America-14/digital-comic/5360?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=5360&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: inAppLink
+      url: http://applink.marvel.com/issue/5360?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/832
+      name: Captain America (2004 - 2011)
+    :variants: []
+    :collections:
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/5195
+      name: 'Captain America: Winter Soldier Vol. 2 (Trade Paperback)'
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '2006-02-01T00:00:00-0500'
+    - type: focDate
+      date: '1961-01-01T00:00:00-0500'
+    - type: unlimitedDate
+      date: '2014-02-27T09:17:42-0500'
+    - type: digitalPurchaseDate
+      date: '2010-04-01T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 2.99
+    - type: digitalPurchasePrice
+      price: 1.99
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bc60f02bc3bd
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bc60f02bc3bd
+      extension: jpg
+    :creators:
+      available: 6
+      collectionURI: http://gateway.marvel.com/v1/public/comics/3188/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/367
+        name: Ed Brubaker
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/8504
+        name: Frank D'Armata
+        role: colorist
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/374
+        name: Steve Epting
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/12382
+        name: Guy Erez
+        role: composer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/8635
+        name: Randy Gentile
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/12381
+        name: David Ari Leon
+        role: music supervisor
+      returned: 6
+    :characters:
+      available: 4
+      collectionURI: http://gateway.marvel.com/v1/public/comics/3188/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
+        name: Captain America
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009297
+        name: Falcon
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009228
+        name: Sharon Carter
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010740
+        name: Winter Soldier
+      returned: 4
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/3188/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4255
+        name: 6 of 6 - Winter Soldier
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4256
+        name: 6 of 6 - Winter Soldier
+        type: interiorStory
+      returned: 2
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/3188/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009228
+    :name: Sharon Carter
+    :description: ''
+    :modified: '2011-09-05T20:31:52-0400'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4ce59f2323b88
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009228
+    :comics:
+      available: 44
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009228/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/30885
+        name: Age of Heroes (Trade Paperback)
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17515
+        name: 'Avengers (1998) #32'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/4461
+        name: Avengers Assemble Vol. 3 (Hardcover)
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/16242
+        name: 'Cap Transport (2005) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/16248
+        name: 'Cap Transport (2005) #9'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/16236
+        name: 'Cap Transport (2005) #16'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/91
+        name: 'Captain America (2004) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1492
+        name: 'Captain America (2004) #2'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12789
+        name: 'Captain America (1998) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1579
+        name: 'Captain America (2004) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1668
+        name: 'Captain America (2004) #4'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1870
+        name: 'Captain America (2004) #6'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/2190
+        name: 'Captain America (2004) #8'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/2308
+        name: 'Captain America (2004) #9'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/2422
+        name: 'Captain America (2004) #12'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/3188
+        name: 'Captain America (2004) #14'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/3910
+        name: 'Captain America (2004) #16'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/4040
+        name: 'Captain America (2004) #17'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/4326
+        name: 'Captain America (2004) #19'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/4482
+        name: 'Captain America (2004) #20'
+      returned: 20
+    :series:
+      available: 18
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009228/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/10235
+        name: Age of Heroes (2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/354
+        name: Avengers (1998 - 2004)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1737
+        name: Avengers Assemble Vol. 3 (2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2722
+        name: Cap Transport (2005 - 2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1996
+        name: Captain America (1968 - 1996)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/832
+        name: Captain America (2004 - 2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1997
+        name: Captain America (1998 - 2002)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/13507
+        name: Captain America by Dan Jurgens Vol. 1 (2010 - Present)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1804
+        name: 'Captain America: Red Menace Vol. 1 (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1779
+        name: 'Captain America: Red Menace Vol. 2 (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/5061
+        name: 'Captain America: The Death of Captain America Vol. 1 (2008)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3127
+        name: 'Captain America: The Death of Captain America Vol. 1 Premiere (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1612
+        name: 'Captain America: Winter Soldier Vol. 1 (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1613
+        name: 'Captain America: Winter Soldier Vol. 2 (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/14476
+        name: Essential Captain America Vol. 6 (2011 - Present)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/13691
+        name: Fear Itself (2010 - 2011)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/14804
+        name: 'Fear Itself: The Fearless (2011 - 2012)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/13602
+        name: Onslaught Unleashed (2010 - 2011)
+      returned: 18
+    :stories:
+      available: 50
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009228/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4227
+        name: 'Cover for Captain America (2004) #1, Cover #4227'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4228
+        name: 'Interior #4228'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4230
+        name: 2 of 8 - Out of Time
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4231
+        name: 3 of 8 - Out of Time
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4232
+        name: 3 of 8 - Out of Time
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4234
+        name: 4 of 8 - Out of Time
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4238
+        name: 6 of 6 - Out of Time
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4242
+        name: 1 of 6 - Winter Soldier
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4243
+        name: 2 of 6 - Winter Soldier
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4244
+        name: 2 of 6 - Winter Soldier
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4250
+        name: 4 of 6 - Winter Soldier
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4256
+        name: 6 of 6 - Winter Soldier
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4259
+        name: 1 of 2 - Crossbones & Sin
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4260
+        name: 1 of 2 - Crossbones & Sin
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4261
+        name: 2 of 2 - Crossbones & Sin
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4262
+        name: 2 of 2 - Crossbones & Sin
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4266
+        name: 'Interior #4266'
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4268
+        name: 3 of ? - Twenty-first Century Blitz
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/4270
+        name: 4 of ? - Twenty-first Century Blitz
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/7702
+        name: 2 of 6 - Death of the Dream
+        type: cover
+      returned: 20
+    :events:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009228/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/255
+        name: Initiative
+      - resourceURI: http://gateway.marvel.com/v1/public/events/309
+        name: Shattered Heroes
+      returned: 2
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/2786/sharon_carter?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Carter,_Sharon?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009228/sharon_carter?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
