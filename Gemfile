@@ -6,6 +6,7 @@ gem 'ultron' #, github: 'pikesley/ultron'
 gem 'twitter'
 gem 'dotenv'
 gem 'github-pages'
+gem 'git'
 
 group :test do
   gem 'rspec'

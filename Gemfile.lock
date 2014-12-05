@@ -36,6 +36,7 @@ GEM
     ffi (1.9.6)
     formatador (0.2.5)
     gemoji (2.1.0)
+    git (1.2.8)
     github-pages (29)
       RedCloth (= 4.2.9)
       github-pages-health-check (~> 0.1)
@@ -199,6 +200,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv
+  git
   github-pages
   guard
   guard-rspec
