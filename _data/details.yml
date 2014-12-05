@@ -1,262 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009736
-    :name: Yellow Claw
-    :description: The Yellow Claw is Plan Tzu, the 19th Century descendant of and
-      rightful successor to the legendary warlord Temujin, a.k.a. Genghis Khan.
-    :modified: '1969-12-31T19:00:00-0500'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009736
-    :comics:
-      available: 18
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009736/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/7069
-        name: 'Avengers (1963) #204'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/19806
-        name: 'Marvel Fanfare (1982) #31'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/19807
-        name: 'Marvel Fanfare (1982) #32'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/2319
-        name: 'Marvel Masterworks: Doctor Strange Vol. (Hardcover)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/2820
-        name: 'Marvel Masterworks: Doctor Strange Vol. (Hardcover)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/5858
-        name: 'Marvel Masterworks: Warlock Vol. (Hardcover)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/10206
-        name: 'Marvel Premiere (1972) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/27714
-        name: 'Nick Fury, Agent of Shield (1989) #13'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/27715
-        name: 'Nick Fury, Agent of Shield (1989) #14'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23370
-        name: 'Nova (1976) #16'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23371
-        name: 'Nova (1976) #17'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23372
-        name: 'Nova (1976) #18'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/22120
-        name: 'Strange Tales (1994) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/11085
-        name: 'Strange Tales (1951) #161'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/11086
-        name: 'Strange Tales (1951) #162'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/11087
-        name: 'Strange Tales (1951) #163'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/11089
-        name: 'Strange Tales (1951) #165'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/11090
-        name: 'Strange Tales (1951) #166'
-      returned: 18
-    :series:
-      available: 9
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009736/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
-        name: Avengers (1963 - 1996)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3719
-        name: Marvel Fanfare (1982 - 1992)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1468
-        name: 'Marvel Masterworks: Doctor Strange Vol. (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1837
-        name: 'Marvel Masterworks: Warlock Vol. (2007)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2045
-        name: Marvel Premiere (1972 - 1981)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/8852
-        name: Nick Fury, Agent of Shield (1989 - 1992)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/6679
-        name: Nova (1976 - 2010)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/5851
-        name: Strange Tales (1994)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2076
-        name: Strange Tales (1951 - 1968)
-      returned: 9
-    :stories:
-      available: 17
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009736/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10313
-        name: 'Cover #10313'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10314
-        name: The Second Doom
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10317
-        name: So Evil, the Night!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10319
-        name: 'Cover #10319'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10325
-        name: 'Cover #10325'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10330
-        name: If Death Be My Destiny!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14678
-        name: Claws Across the Water!
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/19913
-        name: "[untitled]"
-        type: ''
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/42232
-        name: A Plague of Frogs
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/42236
-        name: 'Cover #42236'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/42238
-        name: Is This the Way the World Ends?
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/49795
-        name: 'Interior #49795'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/51813
-        name: 'Cover #51813'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/51815
-        name: 'Cover #51815'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/51817
-        name: 'Cover #51817'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/60755
-        name: In Battle Joined
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/60757
-        name: Pyrrhic Victory
-        type: interiorStory
-      returned: 17
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009736/events
-      items: []
-      returned: 0
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/2635/yellow_claw?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Yellow_Claw?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009736/yellow_claw?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 11087
-    :digitalId: 4410
-    :title: 'Strange Tales (1951) #163'
-    :issueNumber: 163
-    :variantDescription: ''
-    :description: 
-    :modified: '1969-12-31T19:00:00-0500'
-    :isbn: ''
-    :upc: ''
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 36
-    :textObjects: []
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/11087
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/11087/strange_tales_1951_163?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: purchase
-      url: http://comicstore.marvel.com/Strange-Tales-163/digital-comic/4410?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=4410&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: inAppLink
-      url: http://applink.marvel.com/issue/4410?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/2076
-      name: Strange Tales (1951 - 1968)
-    :variants: []
-    :collections:
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/2820
-      name: 'Marvel Masterworks: Doctor Strange Vol. (Hardcover)'
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/2319
-      name: 'Marvel Masterworks: Doctor Strange Vol. (Hardcover)'
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '1967-12-10T00:00:00-0500'
-    - type: focDate
-      date: '1969-12-31T19:00:00-0500'
-    - type: unlimitedDate
-      date: '2007-04-28T00:00:00-0400'
-    - type: digitalPurchaseDate
-      date: '2013-10-15T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 0.12
-    - type: digitalPurchasePrice
-      price: 0.99
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc3738db0609
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc3738db0609
-      extension: jpg
-    :creators:
-      available: 7
-      collectionURI: http://gateway.marvel.com/v1/public/comics/11087/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1212
-        name: Dan Adkins
-        role: penciller
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1519
-        name: Frank Giacoia
-        role: inker
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1593
-        name: Al Kurzrok
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1553
-        name: Sam Rosen
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/1598
-        name: Jim Lawrence
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/30
-        name: Stan Lee
-        role: editor
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/61
-        name: Jim Steranko
-        role: penciller (cover)
-      returned: 7
-    :characters:
-      available: 3
-      collectionURI: http://gateway.marvel.com/v1/public/comics/11087/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009282
-        name: Doctor Strange
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009471
-        name: Nick Fury
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009736
-        name: Yellow Claw
-      returned: 3
-    :stories:
-      available: 3
-      collectionURI: http://gateway.marvel.com/v1/public/comics/11087/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10319
-        name: 'Cover #10319'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10320
-        name: And the Dragon Cried Death
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/10321
-        name: Three Faces of Doom!
-        type: interiorStory
-      returned: 3
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/11087/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009282
     :name: Doctor Strange
     :description: ''
@@ -456,3 +200,222 @@
       url: http://marvel.com/universe/Doctor_Strange_(Stephen_Strange)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009282/doctor_strange?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 6970
+    :digitalId: 26989
+    :title: 'Avengers (1963) #115'
+    :issueNumber: 115
+    :variantDescription: ''
+    :description: 
+    :modified: '2011-10-11T14:25:30-0400'
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 36
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/6970
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/6970/avengers_1963_115?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: purchase
+      url: http://comicstore.marvel.com/Avengers-115/digital-comic/26989?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=26989&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: inAppLink
+      url: http://applink.marvel.com/issue/26989?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/1991
+      name: Avengers (1963 - 1996)
+    :variants: []
+    :collections: []
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1973-09-10T00:00:00-0400'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    - type: unlimitedDate
+      date: '2012-06-19T00:00:00-0400'
+    - type: digitalPurchaseDate
+      date: '2013-05-28T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 0.2
+    - type: digitalPurchasePrice
+      price: 1.99
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4e948a4820dfe
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4e948a4820dfe
+      extension: jpg
+    :creators:
+      available: 6
+      collectionURI: http://gateway.marvel.com/v1/public/comics/6970/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/106
+        name: Bob Brown
+        role: penciller
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/104
+        name: Steve Englehart
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1295
+        name: Mike Esposito
+        role: inker
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/962
+        name: Stan Goldberg
+        role: colorist
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2139
+        name: Jean Izzo
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2909
+        name: Roy Thomas
+        role: editor
+      returned: 6
+    :characters:
+      available: 13
+      collectionURI: http://gateway.marvel.com/v1/public/comics/6970/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009165
+        name: Avengers
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009187
+        name: Black Panther
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009220
+        name: Captain America
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009282
+        name: Doctor Strange
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009280
+        name: Dormammu
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009368
+        name: Iron Man
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009407
+        name: Loki
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009417
+        name: Magneto
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1011026
+        name: Mantis
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009552
+        name: S.H.I.E.L.D.
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009562
+        name: Scarlet Witch
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010982
+        name: Swordsman (Jaques Duquesne)
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009697
+        name: Vision
+      returned: 13
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/6970/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/14478
+        name: Below Us the Battle!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/95221
+        name: 'Avengers (1963) #115'
+        type: cover
+      returned: 2
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/6970/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1011026
+    :name: Mantis
+    :description: ''
+    :modified: '2013-11-01T16:34:14-0400'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/52740fa12e826
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1011026
+    :comics:
+      available: 9
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1011026/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/16191
+        name: 'Annihilation: Conquest - Starlord (2007) #2'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17756
+        name: 'Avengers (1996) #2'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17757
+        name: 'Avengers (1996) #3'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17762
+        name: 'Avengers (1996) #8'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17752
+        name: 'Avengers (1996) #10'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/6968
+        name: 'Avengers (1963) #113'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/6970
+        name: 'Avengers (1963) #115'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/5705
+        name: 'Heroes Reborn: Avengers (Trade Paperback)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17940
+        name: 'West Coast Avengers Annual (1986) #3'
+      returned: 9
+    :series:
+      available: 5
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1011026/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2541
+        name: 'Annihilation: Conquest - Starlord (2007)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
+        name: Avengers (1963 - 1996)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3621
+        name: Avengers (1996 - 1997)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1813
+        name: 'Heroes Reborn: Avengers (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3632
+        name: West Coast Avengers Annual (1986 - 1988)
+      returned: 5
+    :stories:
+      available: 9
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1011026/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/14473
+        name: 'Cover #14473'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/14474
+        name: Your Young Men Shall Slay Visions!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/14478
+        name: Below Us the Battle!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/33072
+        name: 'Annihilation Conquest: Starlord (2007) #2'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/37678
+        name: Shadow War!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/37689
+        name: First Blood
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/37691
+        name: In Love & War
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/37702
+        name: Shadowplay
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/38153
+        name: pin-up
+        type: ''
+      returned: 9
+    :events:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1011026/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/293
+        name: 'Annihilation: Conquest'
+      - resourceURI: http://gateway.marvel.com/v1/public/events/246
+        name: Evolutionary War
+      returned: 2
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/1366/mantis?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Mantis?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1011026/mantis?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
