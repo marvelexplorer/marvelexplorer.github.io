@@ -1,288 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009496
-    :name: Jean Grey
-    :description: ''
-    :modified: '1969-12-31T19:00:00-0500'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009496
-    :comics:
-      available: 46
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009496/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/6965
-        name: 'Avengers (1963) #110'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/39445
-        name: Essential X-Factor Vol. 2 (All-New Edition) (Trade Paperback)
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/30239
-        name: 'Girl Comics (2010) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37202
-        name: 'Marvel Girl (2010) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/38300
-        name: 'New X-Men Vol. 2: Germ-Free Generation GN-TPB (Graphic Novel)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/41839
-        name: 'Uncanny X-Force (2010) #13 (2nd Printing Variant)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12518
-        name: 'Uncanny X-Men (1963) #67'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12519
-        name: 'Uncanny X-Men (1963) #68'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12520
-        name: 'Uncanny X-Men (1963) #69'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12522
-        name: 'Uncanny X-Men (1963) #70'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12523
-        name: 'Uncanny X-Men (1963) #71'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12524
-        name: 'Uncanny X-Men (1963) #72'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12525
-        name: 'Uncanny X-Men (1963) #73'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12526
-        name: 'Uncanny X-Men (1963) #74'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12527
-        name: 'Uncanny X-Men (1963) #75'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12528
-        name: 'Uncanny X-Men (1963) #76'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12529
-        name: 'Uncanny X-Men (1963) #77'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12530
-        name: 'Uncanny X-Men (1963) #78'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12531
-        name: 'Uncanny X-Men (1963) #79'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/12533
-        name: 'Uncanny X-Men (1963) #80'
-      returned: 20
-    :series:
-      available: 16
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009496/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1991
-        name: Avengers (1963 - 1996)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/14400
-        name: Essential X-Factor Vol. 2 (All-New Edition) (2011 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9311
-        name: Girl Comics (2010)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/13345
-        name: Marvel Girl (2010 - 2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/13801
-        name: 'New X-Men Vol. 2: Germ-Free Generation GN-TPB (2011 - Present)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9976
-        name: Uncanny X-Force (2010 - 2012)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2258
-        name: Uncanny X-Men (1963 - 2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/8564
-        name: 'Uncanny X-Men: First Class (2009 - 2010)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9313
-        name: X-Factor Forever (2010)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/2265
-        name: X-Men (1991 - 2001)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9978
-        name: X-Men Forever 2 (2010 - 2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/10599
-        name: 'X-Men Forever 2 Vol. 2: Scream a Little Scream TPB (2011)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9738
-        name: X-Men Forever Annual (2010)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9806
-        name: X-Men Forever Giant-Size (2010)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1616
-        name: 'X-Men: Phoenix - Endsong (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/827
-        name: 'X-Men: Phoenix - Endsong (2005)'
-      returned: 16
-    :stories:
-      available: 45
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009496/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/4209
-        name: 1 of 5
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/14468
-        name: And Now, Magneto
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15615
-        name: 'Cover #15615'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15618
-        name: 'Cover #15618'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15621
-        name: 'Cover #15621'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15626
-        name: 'Cover #15626'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15629
-        name: 'Cover #15629'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15631
-        name: 'Cover #15631'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15634
-        name: 'Cover #15634'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15636
-        name: 'Cover #15636'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15638
-        name: 'Cover #15638'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15640
-        name: 'Cover #15640'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15642
-        name: 'Cover #15642'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15644
-        name: The Menace of Merlin!
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15646
-        name: 'Cover #15646'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15651
-        name: 'Cover #15651'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15653
-        name: 'Cover #15653'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15655
-        name: 'Cover #15655'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15657
-        name: 'Cover #15657'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/15659
-        name: Mekano Lives!
-        type: cover
-      returned: 20
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009496/events
-      items: []
-      returned: 0
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/31/jean_grey?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/Phoenix_%28Jean_Grey%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009496/jean_grey?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 37202
-    :digitalId: 19317
-    :title: 'Marvel Girl (2010) #1'
-    :issueNumber: 1
-    :variantDescription: ''
-    :description: 'When Jean Grey''s best friend was tragically killed in a car       accident, her strange psychic powers appeared. Only with the aid of PROFESSOR
-      CHARLES XAVIER was she able to control her mutant abilities.  Now, alongside
-      four other gifted youngsters, she must learn to master her powers…before they
-      destroy her!'
-    :modified: '2012-01-03T15:56:29-0500'
-    :isbn: ''
-    :upc: 5960607490-00111
-    :diamondCode: DEC100628
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 32
-    :textObjects:
-    - type: issue_solicit_text
-      language: en-us
-      text: 'When Jean Grey''s best friend was tragically killed in a car         accident, her strange psychic powers appeared. Only with the aid of PROFESSOR
-        CHARLES XAVIER was she able to control her mutant abilities.  Now, alongside
-        four other gifted youngsters, she must learn to master her powers…before they
-        destroy her!'
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/37202
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/37202/marvel_girl_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: purchase
-      url: http://comicstore.marvel.com/Marvel-Girl-1/digital-comic/19317?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=19317&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: inAppLink
-      url: http://applink.marvel.com/issue/19317?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/13345
-      name: Marvel Girl (2010 - 2011)
-    :variants: []
-    :collections: []
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '2011-02-16T00:00:00-0500'
-    - type: focDate
-      date: '2011-02-01T00:00:00-0500'
-    - type: unlimitedDate
-      date: '2012-01-18T00:00:00-0500'
-    - type: digitalPurchaseDate
-      date: '2011-03-15T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 2.99
-    - type: digitalPurchasePrice
-      price: 1.99
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4d39a52cb5d0a
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4d39a6f5a7215
-      extension: jpg
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4d39a6baa344d
-      extension: jpg
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/4d39a66c8c97e
-      extension: jpg
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d39a5dd1fa26
-      extension: jpg
-    :creators:
-      available: 3
-      collectionURI: http://gateway.marvel.com/v1/public/comics/37202/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/356
-        name: Roger Cruz
-        role: penciller (cover)
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/8843
-        name: Joshua Fialkov
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/9200
-        name: Nuno Plati
-        role: penciller
-      returned: 3
-    :characters:
-      available: 5
-      collectionURI: http://gateway.marvel.com/v1/public/comics/37202/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009159
-        name: Archangel
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009257
-        name: Cyclops
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009496
-        name: Jean Grey
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009504
-        name: Professor X
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009726
-        name: X-Men
-      returned: 5
-    :stories:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/37202/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/82406
-        name: 'Marvel Girl #1'
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/82407
-        name: 'Interior #82407'
-        type: interiorStory
-      returned: 2
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/37202/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009159
     :name: Archangel
     :description: ''
@@ -492,3 +210,196 @@
       url: http://marvel.com/universe/Angel_(Warren_Worthington_III)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009159/archangel?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 10008
+    :digitalId: 3034
+    :title: 'Marvel Comics (1939) #1'
+    :issueNumber: 1
+    :variantDescription: ''
+    :description: 
+    :modified: '2012-08-13T15:37:30-0400'
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 68
+    :textObjects:
+    - type: 70th_winner_desc
+      language: en-us
+      text: The one that started it all, featuring the first appearances of both the
+        the android Human Torch and the Sub-Mariner!
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/10008
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/10008/marvel_comics_1939_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=3034&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/2038
+      name: Marvel Comics (1939)
+    :variants:
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/10009
+      name: 'Marvel Comics (1939) #1'
+    :collections:
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/1231
+      name: 'Marvel Masterworks: The Sub-Mariner Vol. I (2nd) (Trade Paperback)'
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1939-11-10T00:00:00-0500'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    - type: unlimitedDate
+      date: '2007-11-13T00:00:00-0500'
+    :prices:
+    - type: printPrice
+      price: 0.1
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4d473c96dd1a0
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4d473b3cd08a7
+      extension: jpg
+    :creators:
+      available: 9
+      collectionURI: http://gateway.marvel.com/v1/public/comics/10008/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1304
+        name: Al Anders
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/408
+        name: Carl Burgos
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1436
+        name: Tohm Dixon
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/297
+        name: Bill Everett
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1437
+        name: Ray Gill
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1303
+        name: Paul Gustavson
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/961
+        name: Ben Thompson
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1434
+        name: Martin Goodman
+        role: editor
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1435
+        name: Frank Paul
+        role: penciller (cover)
+      returned: 9
+    :characters:
+      available: 5
+      collectionURI: http://gateway.marvel.com/v1/public/comics/10008/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009159
+        name: Archangel
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009356
+        name: Human Torch
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010932
+        name: Human Torch (Jim Hammond)
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009466
+        name: Namor
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1010791
+        name: Sub-Mariner
+      returned: 5
+    :stories:
+      available: 8
+      collectionURI: http://gateway.marvel.com/v1/public/comics/10008/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/8821
+        name: 'Cover #8821'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/8822
+        name: "[Origin of the Human Torch]"
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/8823
+        name: "[The Six Big Men]"
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/8824
+        name: "[Origin of the Sub-Mariner]"
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/8825
+        name: "[Origin of the Masked Raider]"
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/8826
+        name: Jungle Terror
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/8827
+        name: Burning Rubber
+        type: text story
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/8828
+        name: "[Origin of Ka-Zar]"
+        type: interiorStory
+      returned: 8
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/10008/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009466
+    :name: Namor
+    :description: ''
+    :modified: '2013-01-22T14:04:41-0500'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/50febf4ae101d
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009466
+    :comics:
+      available: 3
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009466/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/10008
+        name: 'Marvel Comics (1939) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1231
+        name: 'Marvel Masterworks: The Sub-Mariner Vol. I (2nd) (Trade Paperback)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/43512
+        name: 'New Avengers (2013) #1'
+      returned: 3
+    :series:
+      available: 3
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009466/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2038
+        name: Marvel Comics (1939)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/288
+        name: 'Marvel Masterworks: The Sub-Mariner Vol. I (2nd) (2004)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/16451
+        name: New Avengers (2013 - Present)
+      returned: 3
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009466/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/8824
+        name: "[Origin of the Sub-Mariner]"
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/97210
+        name: 'cover from New Avengers #1'
+        type: cover
+      returned: 2
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009466/events
+      items: []
+      returned: 0
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/characters/1009466/namor?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Sub-Mariner?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009466/namor?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
