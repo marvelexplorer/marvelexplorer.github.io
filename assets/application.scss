@@ -35,6 +35,11 @@ h2 {
     color: $brand-primary;
   //  -webkit-text-stroke: 1px black;
   }
+  .period {
+    font-size: 0.5em;
+    color: $brand-success;
+    font-family: $font-family-sans-serif;
+  }
 }
 /* Header styles
 -------------------------------------------------- */

@@ -5,5 +5,7 @@
        class='character'/>
 </a>
 <div class='character-name'>
-  <h3>{{ site.data[include.key].name }}</h3>
+  <a href='{{ site.data[include.key].url }}'>
+    <h3>{{ site.data[include.key].name }}</h3>
+  </a>
 </div>
