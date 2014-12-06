@@ -1,350 +1,6 @@
 ---
 :first_character: !ruby/object:OpenStruct
   table:
-    :id: 1009726
-    :name: X-Men
-    :description: Feared and hated by humans because they're different, the X-Men
-      are heroic mutants, individuals born with special powers who've sworn to use
-      their gifts to protect mutants as well as humans.
-    :modified: '2014-03-25T13:31:43-0400'
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/510c08f345938
-      extension: jpg
-    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009726
-    :comics:
-      available: 2531
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009726/comics
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/43488
-        name: 'A+X (2012) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17701
-        name: 'Age of Apocalypse: The Chosen (1995) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37996
-        name: 'Age of X: Alpha (2010) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37972
-        name: 'Age of X: Alpha (2010) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/39284
-        name: 'Age of X: Alpha (2010) #1 (Conrad 2nd Printing Variant)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/37973
-        name: 'Age of X: Alpha (2010) #1 (Variant)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/38895
-        name: 'Age of X: Alpha (2010) #1 (2nd Printing Variant )'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/48528
-        name: 'All-New X-Men (2012) #25'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/48532
-        name: 'All-New X-Men (2012) #29'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/48534
-        name: 'All-New X-Men (2012) #31'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/23253
-        name: 'Amazing Adventures (1970) #17'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/34442
-        name: 'Amazing Spider-Man (1999) #639 (SKETCH VARIANT)'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/35509
-        name: 'Amazing Spider-Man (1999) #673'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17731
-        name: 'Amazing X-Men (1995) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17732
-        name: 'Amazing X-Men (1995) #2'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17733
-        name: 'Amazing X-Men (1995) #3'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17734
-        name: 'Amazing X-Men (1995) #4'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/17735
-        name: 'Astonishing X-Men (1995) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/660
-        name: 'Astonishing X-Men (2004) #1'
-      - resourceURI: http://gateway.marvel.com/v1/public/comics/662
-        name: 'Astonishing X-Men (2004) #1 (Variant)'
-      returned: 20
-    :series:
-      available: 469
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009726/series
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/series/16450
-        name: A+X (2012 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3614
-        name: 'Age of Apocalypse: The Chosen (1995)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/13615
-        name: 'Age of X: Alpha (2010 - 2011)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/13603
-        name: 'Age of X: Alpha (2010)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/16449
-        name: All-New X-Men (2012 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/6666
-        name: Amazing Adventures (1970 - 1976)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/454
-        name: Amazing Spider-Man (1999 - 2013)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3618
-        name: Amazing X-Men (1995)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/744
-        name: Astonishing X-Men (2004 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/3619
-        name: Astonishing X-Men (1995)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/7576
-        name: Astonishing X-Men by Joss Whedon & John Cassaday (2009 - Present)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/14616
-        name: Astonishing X-Men MGC (2011)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/992
-        name: Astonishing X-Men Saga (2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1464
-        name: Astonishing X-Men Vol. 1 (2006)
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1298
-        name: 'Astonishing X-Men Vol. 1: Gifted (2004)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1422
-        name: 'Astonishing X-Men Vol. 2: Dangerous (2005)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/1485
-        name: 'Astonishing X-Men Vol. 3: Torn (2007)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/5055
-        name: 'Astonishing X-Men Vol. 4: Unstoppable (2008)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/9381
-        name: 'Astonishing X-Men Vol. 6: Xenogenetic (2010)'
-      - resourceURI: http://gateway.marvel.com/v1/public/series/5998
-        name: 'Astonishing X-Men: Ghost Boxes (2008)'
-      returned: 20
-    :stories:
-      available: 3781
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009726/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/472
-        name: 'Interior #472'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/478
-        name: 'Interior #478'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/492
-        name: 'Interior #492'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/495
-        name: 'Interior #495'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/501
-        name: 'Interior #501'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/503
-        name: 'Interior #503'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/515
-        name: 'Interior #515'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/595
-        name: 4 of 4 - Heroes and Villains
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/603
-        name: 'Interior #603'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/609
-        name: 'Interior #609'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/611
-        name: 'Interior #611'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/613
-        name: 'Interior #613'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/615
-        name: 'Interior #615'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/617
-        name: 'Interior #617'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/619
-        name: 'Interior #619'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/621
-        name: 'Interior #621'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/623
-        name: '"HEROES AND VILLIANS" PART 1 (OF 4) Brand-new story arc! The Brotherhood
-          of Mutants is back with Nocturne from the Exiles, and a'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/625
-        name: '"HEROES AND VILLIANS" PART 1 (OF 4) Brand-new story arc! The Brotherhood
-          of Mutants is back with Nocturne from the Exiles, and a'
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/627
-        name: '"HEROES AND VILLAINS" PART 3 (OF 4) The Xavier Institute is under attack
-          by The New Brotherhood of Mutants! With the X-Men down '
-        type: interiorStory
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/629
-        name: 1 of 1 - Holiday Issue
-        type: interiorStory
-      returned: 20
-    :events:
-      available: 34
-      collectionURI: http://gateway.marvel.com/v1/public/characters/1009726/events
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/events/116
-        name: Acts of Vengeance!
-      - resourceURI: http://gateway.marvel.com/v1/public/events/227
-        name: Age of Apocalypse
-      - resourceURI: http://gateway.marvel.com/v1/public/events/303
-        name: Age of X
-      - resourceURI: http://gateway.marvel.com/v1/public/events/233
-        name: Atlantis Attacks
-      - resourceURI: http://gateway.marvel.com/v1/public/events/310
-        name: Avengers VS X-Men
-      - resourceURI: http://gateway.marvel.com/v1/public/events/296
-        name: Chaos War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/238
-        name: Civil War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/318
-        name: Dark Reign
-      - resourceURI: http://gateway.marvel.com/v1/public/events/240
-        name: Days of Future Present
-      - resourceURI: http://gateway.marvel.com/v1/public/events/245
-        name: Enemy of the State
-      - resourceURI: http://gateway.marvel.com/v1/public/events/246
-        name: Evolutionary War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/248
-        name: Fall of the Mutants
-      - resourceURI: http://gateway.marvel.com/v1/public/events/249
-        name: Fatal Attractions
-      - resourceURI: http://gateway.marvel.com/v1/public/events/302
-        name: Fear Itself
-      - resourceURI: http://gateway.marvel.com/v1/public/events/251
-        name: House of M
-      - resourceURI: http://gateway.marvel.com/v1/public/events/252
-        name: Inferno
-      - resourceURI: http://gateway.marvel.com/v1/public/events/29
-        name: Infinity War
-      - resourceURI: http://gateway.marvel.com/v1/public/events/32
-        name: Kings of Pain
-      - resourceURI: http://gateway.marvel.com/v1/public/events/37
-        name: Maximum Security
-      - resourceURI: http://gateway.marvel.com/v1/public/events/299
-        name: Messiah CompleX
-      returned: 20
-    :urls:
-    - type: detail
-      url: http://marvel.com/characters/71/x-men?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: wiki
-      url: http://marvel.com/universe/X-Men?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: comiclink
-      url: http://marvel.com/comics/characters/1009726/x-men?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-:comic: !ruby/object:OpenStruct
-  table:
-    :id: 4280
-    :digitalId: 7457
-    :title: 'Uncanny X-Men (1963) #474'
-    :issueNumber: 474
-    :variantDescription: ''
-    :description: 'It all ends here! Pyslocke and her brother fight for the fate of
-      the universe! When fighting impossible odds, what will help the X-Men destroy
-      something that cannot be destroyed?! '
-    :modified: "-0001-11-30T00:00:00-0500"
-    :isbn: ''
-    :upc: 5960602461-47411
-    :diamondCode: ''
-    :ean: ''
-    :issn: ''
-    :format: Comic
-    :pageCount: 0
-    :textObjects:
-    - type: issue_solicit_text
-      language: en-us
-      text: "“THE FIRST FOURSAKEN”\r<br>It all ends here! Pyslocke and her brother
-        fight for the fate of the universe! When fighting impossible odds, what will
-        help the X-Men destroy something that cannot be destroyed?!  Part 3 (of 3).\r<br>32
-        PGS./Rated A ...$2.99\r<br>"
-    - type: issue_preview_text
-      language: en-us
-      text: 'It all ends here! Pyslocke and her brother fight for the fate of the
-        universe! When fighting impossible odds, what will help the X-Men destroy
-        something that cannot be destroyed?! '
-    :resourceURI: http://gateway.marvel.com/v1/public/comics/4280
-    :urls:
-    - type: detail
-      url: http://marvel.com/comics/issue/4280/uncanny_x-men_1963_474?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: purchase
-      url: http://comicstore.marvel.com/Uncanny-X-Men-474/digital-comic/7457?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: reader
-      url: http://marvel.com/digitalcomics/view.htm?iid=7457&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    - type: inAppLink
-      url: http://applink.marvel.com/issue/7457?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-    :series:
-      resourceURI: http://gateway.marvel.com/v1/public/series/2258
-      name: Uncanny X-Men (1963 - 2011)
-    :variants: []
-    :collections:
-    - resourceURI: http://gateway.marvel.com/v1/public/comics/5124
-      name: 'Uncanny X-Men - The New Age Vol. 5: First Foursaken (Trade Paperback)'
-    :collectedIssues: []
-    :dates:
-    - type: onsaleDate
-      date: '2006-06-21T00:00:00-0400'
-    - type: focDate
-      date: "-0001-11-30T00:00:00-0500"
-    - type: unlimitedDate
-      date: '2008-12-31T00:00:00-0500'
-    - type: digitalPurchaseDate
-      date: '2010-05-14T00:00:00-0400'
-    :prices:
-    - type: printPrice
-      price: 2.99
-    - type: digitalPurchasePrice
-      price: 1.99
-    :thumbnail:
-      path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c36517be3f00
-      extension: jpg
-    :images:
-    - path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c36517be3f00
-      extension: jpg
-    :creators:
-      available: 6
-      collectionURI: http://gateway.marvel.com/v1/public/comics/4280/creators
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/694
-        name: Mark Brooks
-        role: penciller (cover)
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/5251
-        name: Joe Caramagna
-        role: letterer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/44
-        name: Chris Claremont
-        role: writer
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/356
-        name: Roger Cruz
-        role: penciller
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/430
-        name: Edgar Delgado
-        role: colorist
-      - resourceURI: http://gateway.marvel.com/v1/public/creators/447
-        name: Victor Olazaba
-        role: inker
-      returned: 6
-    :characters:
-      available: 5
-      collectionURI: http://gateway.marvel.com/v1/public/comics/4280/characters
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009182
-        name: Bishop
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009219
-        name: Cannonball
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009512
-        name: Psylocke
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009430
-        name: Rachel Grey
-      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009726
-        name: X-Men
-      returned: 5
-    :stories:
-      available: 2
-      collectionURI: http://gateway.marvel.com/v1/public/comics/4280/stories
-      items:
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/774
-        name: 3 of 3 - The First Foursaken
-        type: cover
-      - resourceURI: http://gateway.marvel.com/v1/public/stories/775
-        name: 3 of 3 - The First Foursaken
-        type: interiorStory
-      returned: 2
-    :events:
-      available: 0
-      collectionURI: http://gateway.marvel.com/v1/public/comics/4280/events
-      items: []
-      returned: 0
-:last_character: !ruby/object:OpenStruct
-  table:
     :id: 1009430
     :name: Rachel Grey
     :description: ''
@@ -524,3 +180,325 @@
       url: http://marvel.com/universe/Marvel_Girl_(Rachel_Summers)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
     - type: comiclink
       url: http://marvel.com/comics/characters/1009430/rachel_grey?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+:comic: !ruby/object:OpenStruct
+  table:
+    :id: 12415
+    :digitalId: 1303
+    :title: 'Uncanny X-Men (1963) #100'
+    :issueNumber: 100
+    :variantDescription: ''
+    :description: 
+    :modified: '2014-05-13T20:16:04-0400'
+    :isbn: ''
+    :upc: ''
+    :diamondCode: ''
+    :ean: ''
+    :issn: ''
+    :format: Comic
+    :pageCount: 36
+    :textObjects: []
+    :resourceURI: http://gateway.marvel.com/v1/public/comics/12415
+    :urls:
+    - type: detail
+      url: http://marvel.com/comics/issue/12415/uncanny_x-men_1963_100?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: purchase
+      url: http://comicstore.marvel.com/Uncanny-X-Men-100/digital-comic/1303?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: reader
+      url: http://marvel.com/digitalcomics/view.htm?iid=1303&utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: inAppLink
+      url: http://applink.marvel.com/issue/1303?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    :series:
+      resourceURI: http://gateway.marvel.com/v1/public/series/2258
+      name: Uncanny X-Men (1963 - 2011)
+    :variants: []
+    :collections:
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/4100
+      name: Uncanny X-Men Omnibus Vol. 1 (Hardcover)
+    - resourceURI: http://gateway.marvel.com/v1/public/comics/1587
+      name: 'Marvel Masterworks: The Uncanny X-Men Vol. (Hardcover)'
+    :collectedIssues: []
+    :dates:
+    - type: onsaleDate
+      date: '1976-08-10T00:00:00-0400'
+    - type: focDate
+      date: "-0001-11-30T00:00:00-0500"
+    - type: unlimitedDate
+      date: '2007-11-13T00:00:00-0500'
+    - type: digitalPurchaseDate
+      date: '2013-09-03T00:00:00-0400'
+    :prices:
+    - type: printPrice
+      price: 0
+    - type: digitalPurchasePrice
+      price: 1.99
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5372b5a21f5e6
+      extension: jpg
+    :images:
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5372b5a21f5e6
+      extension: jpg
+    - path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc47ffa3842a
+      extension: jpg
+    :creators:
+      available: 6
+      collectionURI: http://gateway.marvel.com/v1/public/comics/12415/creators
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/44
+        name: Chris Claremont
+        role: writer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/46
+        name: Dave Cockrum
+        role: penciller (cover)
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1778
+        name: Dan Crespi
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/1806
+        name: Annette Kawecki
+        role: letterer
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/2392
+        name: Bonnie Wilford
+        role: colorist
+      - resourceURI: http://gateway.marvel.com/v1/public/creators/271
+        name: Marv Wolfman
+        role: editor
+      returned: 6
+    :characters:
+      available: 13
+      collectionURI: http://gateway.marvel.com/v1/public/comics/12415/characters
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009159
+        name: Archangel
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009168
+        name: Banshee
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009175
+        name: Beast
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009243
+        name: Colossus
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009257
+        name: Cyclops
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009337
+        name: Havok
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009362
+        name: Iceman
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009472
+        name: Nightcrawler
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009499
+        name: Polaris
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009430
+        name: Rachel Grey
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009629
+        name: Storm
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009718
+        name: Wolverine
+      - resourceURI: http://gateway.marvel.com/v1/public/characters/1009726
+        name: X-Men
+      returned: 13
+    :stories:
+      available: 2
+      collectionURI: http://gateway.marvel.com/v1/public/comics/12415/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15379
+        name: Betrayed By Professor X !
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15380
+        name: Greater Love Hath No X-Man...
+        type: interiorStory
+      returned: 2
+    :events:
+      available: 0
+      collectionURI: http://gateway.marvel.com/v1/public/comics/12415/events
+      items: []
+      returned: 0
+:last_character: !ruby/object:OpenStruct
+  table:
+    :id: 1009168
+    :name: Banshee
+    :description: ''
+    :modified: '2013-11-01T16:27:08-0400'
+    :thumbnail:
+      path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/52740e4619f54
+      extension: jpg
+    :resourceURI: http://gateway.marvel.com/v1/public/characters/1009168
+    :comics:
+      available: 166
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009168/comics
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12676
+        name: 'Alpha Flight (1983) #17'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/12754
+        name: 'Alpha Flight (1983) #88'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/37881
+        name: 'Chaos War: X-Men (2010) #1'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/20566
+        name: 'Classic X-Men (1986) #12'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/20567
+        name: 'Classic X-Men (1986) #13'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/20570
+        name: 'Classic X-Men (1986) #16'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/20572
+        name: 'Classic X-Men (1986) #18'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/20580
+        name: 'Classic X-Men (1986) #25'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/20590
+        name: 'Classic X-Men (1986) #34'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/20592
+        name: 'Classic X-Men (1986) #36'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8556
+        name: 'Earth X (1999) #6'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/4241
+        name: Earth X (New (Trade Paperback)
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/8580
+        name: 'Excalibur (1988) #115'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1587
+        name: 'Marvel Masterworks: The Uncanny X-Men Vol. (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17693
+        name: 'Marvel Masterworks: The Uncanny X-Men Vol. 6 (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/17692
+        name: 'Marvel Masterworks: The Uncanny X-Men Vol. 6 (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/39530
+        name: 'Marvel Masterworks: The X-Men Vol. 3 DM Variant TPB (Trade Paperback)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/39531
+        name: 'Marvel Masterworks: The X-Men Vol. 3 TPB (Trade Paperback)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1377
+        name: 'Marvel Masterworks: The X-Men Vol. 4 (Hardcover)'
+      - resourceURI: http://gateway.marvel.com/v1/public/comics/1192
+        name: 'Marvel Masterworks: The X-Men Vol. III - 2nd Edition (1st) (Trade Paperback)'
+      returned: 20
+    :series:
+      available: 44
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009168/series
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2116
+        name: Alpha Flight (1983 - 1994)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/13588
+        name: 'Chaos War: X-Men (2010)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3751
+        name: Classic X-Men (1986 - 1990)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/378
+        name: Earth X (1999)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1806
+        name: Earth X (New (2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2011
+        name: Excalibur (1988 - 1998)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1440
+        name: 'Marvel Masterworks: The Uncanny X-Men Vol. (2005)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3459
+        name: 'Marvel Masterworks: The Uncanny X-Men Vol. 6 (2008)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3460
+        name: 'Marvel Masterworks: The Uncanny X-Men Vol. 6 (2008)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/14485
+        name: 'Marvel Masterworks: The X-Men Vol. 3 DM Variant TPB (2011 - Present)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/14486
+        name: 'Marvel Masterworks: The X-Men Vol. 3 TPB (2011 - Present)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1364
+        name: 'Marvel Masterworks: The X-Men Vol. 4 (2004)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/249
+        name: 'Marvel Masterworks: The X-Men Vol. III - 2nd Edition (1st) (2003)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1689
+        name: 'Marvel Masterworks: The X-Men Vol.6 (2006)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/3716
+        name: Marvel Team-Up (1972 - 1985)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1595
+        name: 'Marvel Visionaries: Chris Claremont (2005)'
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1430
+        name: Marvel Weddings (2005)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2055
+        name: New Mutants (1983 - 1991)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/1763
+        name: New Mutants Classic Vol. 1 (2006)
+      - resourceURI: http://gateway.marvel.com/v1/public/series/2059
+        name: Paradise X (2002 - 2003)
+      returned: 20
+    :stories:
+      available: 179
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009168/stories
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15379
+        name: Betrayed By Professor X !
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15380
+        name: Greater Love Hath No X-Man...
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15382
+        name: Like a Phoenix, From the Ashes!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15384
+        name: Who Will Stop the Juggernaut?
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15385
+        name: Death Siege!
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15386
+        name: The Fall of the Tower
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15388
+        name: The Gentleman's Name is Magneto
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15390
+        name: Phoenix Unleashed!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15392
+        name: Dark Shroud of the Past !
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15393
+        name: Beginning the Incredible Saga of -- the Starjammers !
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15394
+        name: Where No X-Man Has Gone Before!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15395
+        name: 'Cover #15395'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15396
+        name: Armageddon Now !
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15397
+        name: 'Wanted: Wolverine Dead or Alive!'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15398
+        name: Home are the Heroes!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15401
+        name: 'Cover #15401'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15402
+        name: The "X"-Sanction!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15403
+        name: 'Cover #15403'
+        type: cover
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15404
+        name: Mindgames!
+        type: interiorStory
+      - resourceURI: http://gateway.marvel.com/v1/public/stories/15406
+        name: Magneto Triumphant!
+        type: interiorStory
+      returned: 20
+    :events:
+      available: 8
+      collectionURI: http://gateway.marvel.com/v1/public/characters/1009168/events
+      items:
+      - resourceURI: http://gateway.marvel.com/v1/public/events/116
+        name: Acts of Vengeance!
+      - resourceURI: http://gateway.marvel.com/v1/public/events/227
+        name: Age of Apocalypse
+      - resourceURI: http://gateway.marvel.com/v1/public/events/296
+        name: Chaos War
+      - resourceURI: http://gateway.marvel.com/v1/public/events/240
+        name: Days of Future Present
+      - resourceURI: http://gateway.marvel.com/v1/public/events/249
+        name: Fatal Attractions
+      - resourceURI: http://gateway.marvel.com/v1/public/events/299
+        name: Messiah CompleX
+      - resourceURI: http://gateway.marvel.com/v1/public/events/154
+        name: Onslaught
+      - resourceURI: http://gateway.marvel.com/v1/public/events/280
+        name: X-Tinction Agenda
+      returned: 8
+    :urls:
+    - type: detail
+      url: http://marvel.com/characters/232/banshee?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: wiki
+      url: http://marvel.com/universe/Banshee?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+    - type: comiclink
+      url: http://marvel.com/comics/characters/1009168/banshee?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
