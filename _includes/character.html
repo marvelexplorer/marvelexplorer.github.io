@@ -1,9 +1,9 @@
-<a href='{{ site.data.details[include.key]["table"][":urls"][1]["url"] }}'>
-  <img src='{{ site.data.details[include.key]["table"][":thumbnail"]["path"] }}.{{ site.data.details[include.key]["table"][":thumbnail"]["extension"] }}'
-       title='{{ site.data.details[include.key]["table"][":description"] }}'
-       alt='{{ site.data.details[include.key]["table"][":name"] }}'
+<a href='{{ site.data[include.key].url }}'>
+  <img src='{{ site.data[include.key].image.path }}.{{ site.data[include.key].image.extension }}'
+       title='{{ site.data[include.key].description }}'
+       alt='{{ site.data[include.key].name }}'
        class='character'/>
 </a>
 <div class='character-name'>
-  <h3>{{ site.data.details[include.key]["table"][":name"] }}</h3>
+  <h3>{{ site.data[include.key].name }}</h3>
 </div>
