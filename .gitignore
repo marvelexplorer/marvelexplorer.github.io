@@ -2,8 +2,5 @@ _site/
 .sass-cache/
 .env*
 last.character
-_data/comic.yml
-_data/start.yml
-_data/end.yml
 tmp/
 .irb-history
