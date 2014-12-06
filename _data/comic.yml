@@ -1,12 +1,12 @@
 ---
-date: '2009-10-07T00:00:00-0400'
+date: '2009-12-03T00:00:00-0500'
 year: '2009'
-title: 'X-Babies (2009) #1'
-issue: 1
+title: 'X-Babies (2009) #3'
+issue: 3
 series:
   period: '2009'
   name: X-Babies
-url: http://marvel.com/comics/issue/27974/x-babies_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/27976/x-babies_2009_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bb3df974dd0c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/4bb3cffca9a0b
   extension: jpg
