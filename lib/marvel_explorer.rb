@@ -136,6 +136,8 @@ class MarvelExplorer
     DateTime.parse(comic.dates.select { |d| d['type'] == 'onsaleDate' }[0]['date']).year
   end
 
+  
+
 #  def perform
 #    @first = load
 #    @comic = comic @first

@@ -207,6 +207,7 @@ DEPENDENCIES
   rack-test
   rspec
   terminal-notifier-guard
+  thor
   timecop
   twitter
   ultron

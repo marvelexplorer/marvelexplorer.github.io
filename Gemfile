@@ -7,6 +7,7 @@ gem 'twitter'
 gem 'dotenv'
 gem 'github-pages'
 gem 'git'
+gem 'thor'
 
 group :test do
   gem 'rspec'
