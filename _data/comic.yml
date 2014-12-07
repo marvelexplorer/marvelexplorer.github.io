@@ -1,12 +1,12 @@
 ---
-date: '2002-04-01T00:00:00-0500'
-year: '2002'
-title: Paradise X (2002)
-issue: 0
+date: '2003-10-01T00:00:00-0400'
+year: '2003'
+title: 'Kingpin (2003) #3'
+issue: 3
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/10492/paradise_x_2002?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Kingpin
+url: http://marvel.com/comics/issue/19850/kingpin_2003_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc36c3c99a66
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c365f89570cc
   extension: jpg
