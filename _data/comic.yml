@@ -1,12 +1,12 @@
 ---
-date: '2011-07-06T00:00:00-0400'
-year: '2011'
-title: 'X-Men (2010) #14'
-issue: 14
+date: '2003-04-01T00:00:00-0500'
+year: '2003'
+title: 'New X-Men (2001) #137'
+issue: 137
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/36445/x-men_2010_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14956/new_x-men_2001_137?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5159ddb6c3b45
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4c35ecfe11249
   extension: jpg
