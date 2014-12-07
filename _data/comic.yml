@@ -1,12 +1,12 @@
 ---
-date: '2011-03-30T00:00:00-0400'
-year: '2011'
-title: 'Incredible Hulks (2009) #625'
-issue: 625
+date: '1940-08-10T00:00:00-0400'
+year: '1940'
+title: 'Marvel Mystery Comics (1939) #10'
+issue: 10
 series:
-  period: '2009'
-  name: Incredible Hulks
-url: http://marvel.com/comics/issue/36049/incredible_hulks_2009_625?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16715/marvel_mystery_comics_1939_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4f5788e89d964
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb5b931d09c2
   extension: jpg
