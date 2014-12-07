@@ -1,12 +1,12 @@
 ---
-date: '1999-12-01T00:00:00-0500'
-year: '1999'
-title: 'Earth X (1999) #9'
-issue: 9
+date: '1993-12-10T00:00:00-0500'
+year: '1993'
+title: 'Alpha Flight (1983) #127'
+issue: 127
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8559/earth_x_1999_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1983'
+  name: Alpha Flight
+url: http://marvel.com/comics/issue/12668/alpha_flight_1983_127?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb7c18d95c43
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/4ce589bf3f9b7
   extension: jpg
