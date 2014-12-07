@@ -1,6 +1,7 @@
 ---
-name: Viper
-description: After the apparent death of Baron von Strucker, Viper took the name Madame
-  Hydra and took control of the New York-based faction of Hydra.
-url: http://marvel.com/universe/Viper_(Madame_Hydra)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-image: 
+name: Gorgon
+description: ''
+url: http://marvel.com/comics/characters/1009324/gorgon?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+image:
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/526033e7ac8ee
+  extension: jpg
