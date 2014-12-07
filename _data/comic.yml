@@ -1,12 +1,12 @@
 ---
-date: '1973-06-10T00:00:00-0400'
-year: '1973'
-title: 'Iron Man (1968) #59'
-issue: 59
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #57'
+issue: 57
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9614/iron_man_1968_59?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17542/avengers_1998_57?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4f636d70e94f1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4bb6a99fcdcf5
   extension: jpg
