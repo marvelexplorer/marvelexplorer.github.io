@@ -1,12 +1,12 @@
 ---
-date: '2007-12-28T00:00:00-0500'
-year: '2007'
-title: 'Giant-Size Avengers Special (2007) #1'
-issue: 1
+date: '2008-08-27T00:00:00-0400'
+year: '2008'
+title: 'Wolverine (2003) #68'
+issue: 68
 series:
-  period: '2007'
-  name: Giant-Size Avengers Special
-url: http://marvel.com/comics/issue/17392/giant-size_avengers_special_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/21710/wolverine_2003_68?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7afd3a196e8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d24e1390b618
   extension: jpg
