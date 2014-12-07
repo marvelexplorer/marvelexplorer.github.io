@@ -1,12 +1,12 @@
 ---
-date: '1999-07-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #4'
-issue: 4
+date: '2011-03-30T00:00:00-0400'
+year: '2011'
+title: 'Incredible Hulks (2009) #625'
+issue: 625
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8554/earth_x_1999_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Incredible Hulks
+url: http://marvel.com/comics/issue/36049/incredible_hulks_2009_625?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb7c457cc0ba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4f5788e89d964
   extension: jpg
