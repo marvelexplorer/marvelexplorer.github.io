@@ -1,12 +1,12 @@
 ---
-date: '2003-04-01T00:00:00-0500'
-year: '2003'
-title: 'New X-Men (2001) #137'
-issue: 137
+date: '1988-02-10T00:00:00-0500'
+year: '1988'
+title: 'Classic X-Men (1986) #18'
+issue: 18
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14956/new_x-men_2001_137?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20572/classic_x-men_1986_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4c35ecfe11249
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb68303ef9f9
   extension: jpg
