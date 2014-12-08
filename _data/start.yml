@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 name: Avengers
 description: Earth's Mightiest Heroes joined forces to take on threats that were too
   big for any one hero to tackle. With a roster that has included Captain America,
@@ -7,4 +8,11 @@ description: Earth's Mightiest Heroes joined forces to take on threats that were
 url: http://marvel.com/universe/Avengers?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
   path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7
+=======
+name: Rogue
+description: ''
+url: http://marvel.com/universe/Rogue?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+image:
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/5112d84e2166c
+>>>>>>> FETCH_HEAD
   extension: jpg

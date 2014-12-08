@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 name: Captain America
 description: Vowing to serve his country any way he could, young Steve Rogers took
   the super soldier serum to become America's one-man army. Fighting for the red,
@@ -7,4 +8,13 @@ description: Vowing to serve his country any way he could, young Steve Rogers to
 url: http://marvel.com/universe/Captain_America_(Steve_Rogers)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
   path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087
+=======
+name: X-Men
+description: Feared and hated by humans because they're different, the X-Men are heroic
+  mutants, individuals born with special powers who've sworn to use their gifts to
+  protect mutants as well as humans.
+url: http://marvel.com/universe/X-Men?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+image:
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/510c08f345938
+>>>>>>> FETCH_HEAD
   extension: jpg
