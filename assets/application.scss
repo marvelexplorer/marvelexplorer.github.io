@@ -135,3 +135,22 @@ body {
 .thumbnail {
   text-align: center;
 }
+
+.rankings {
+  background-color: $gray-lighter;
+  h1 {
+    font-size: 1em;
+  }
+
+  dt, dd {
+    font-size: 0.7em;
+  }
+
+  dt {
+    color: $brand-primary;
+  }
+
+  dd {
+    color: $brand-success;
+  }
+}

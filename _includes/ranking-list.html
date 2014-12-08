@@ -1,0 +1,9 @@
+<dl class='col-md-6'>
+  <dt>Last {{ include.period }}</dt>
+  {% assign file = 'rankings_' | append: include.source %}
+  {% for item in site.data[file] %}
+    <dd>
+      {{ item.name }} ({{ item.score }})
+    </dd>
+  {% endfor %}
+</dl>
