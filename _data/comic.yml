@@ -1,25 +1,12 @@
 ---
-<<<<<<< HEAD
-date: '1992-05-10T00:00:00-0400'
-year: '1992'
-title: 'Captain America (1968) #400'
-issue: 400
+date: '2007-07-25T00:00:00-0400'
+year: '2007'
+title: 'World War Hulk: X-Men (2007) #2'
+issue: 2
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7781/captain_america_1968_400?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'World War Hulk: X-Men'
+url: http://marvel.com/comics/issue/15999/world_war_hulk_x-men_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc33607ae624
-=======
-date: '1986-04-10T00:00:00-0500'
-year: '1986'
-title: 'Uncanny X-Men (1963) #204'
-issue: 204
-series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13745/uncanny_x-men_1963_204?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
-image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/511415a4afce4
->>>>>>> FETCH_HEAD
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f6778e73c61e
   extension: jpg
