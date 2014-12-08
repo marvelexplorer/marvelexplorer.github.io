@@ -1,12 +1,12 @@
 ---
-date: '1976-04-10T00:00:00-0500'
-year: '1976'
-title: 'Avengers (1963) #146'
-issue: 146
+date: '1980-10-10T00:00:00-0400'
+year: '1980'
+title: 'Uncanny X-Men (1963) #138'
+issue: 138
 series:
   period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7004/avengers_1963_146?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12456/uncanny_x-men_1963_138?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/4e949cee75c28
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5372a89c0c9a4
   extension: jpg
