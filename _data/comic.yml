@@ -1,12 +1,12 @@
 ---
-date: '1995-07-01T00:00:00-0400'
-year: '1995'
-title: 'X-Men: Prime (1995) #1'
-issue: 1
+date: '1992-12-10T00:00:00-0500'
+year: '1992'
+title: 'X-Factor (1986) #85'
+issue: 85
 series:
-  period: '1995'
-  name: 'X-Men: Prime'
-url: http://marvel.com/comics/issue/12371/x-men_prime_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12307/x-factor_1986_85?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51e710eca04f3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bb582113e7a3
   extension: jpg
