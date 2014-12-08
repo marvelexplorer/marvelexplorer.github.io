@@ -1,12 +1,12 @@
 ---
 date: '2011-02-23T00:00:00-0500'
 year: '2011'
-title: 'Fantastic Four (1998) #588'
-issue: 588
+title: 'X-Men (2010) #8'
+issue: 8
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/36059/fantastic_four_1998_588?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/32203/x-men_2010_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/51db329d267a8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4f4fe01266c93
   extension: jpg
