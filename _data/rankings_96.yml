@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 8
-- name: Beast
+- name: Spider-Man
   score: 4
 - name: Cyclops
   score: 4
-- name: Spider-Man
+- name: Beast
   score: 4
 - name: Wolverine
   score: 3
