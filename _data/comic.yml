@@ -1,12 +1,12 @@
 ---
-date: '2003-03-01T00:00:00-0500'
-year: '2003'
-title: 'New X-Men (2001) #136'
-issue: 136
+date: '1996-11-10T00:00:00-0500'
+year: '1996'
+title: 'X-Men: Clan Destine (1996) #2'
+issue: 2
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14955/new_x-men_2001_136?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1996'
+  name: 'X-Men: Clan Destine'
+url: http://marvel.com/comics/issue/21141/x-men_clan_destine_1996_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c35ed03582e4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb5674ac0fb3
   extension: jpg
