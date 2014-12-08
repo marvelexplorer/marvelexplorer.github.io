@@ -4,7 +4,6 @@ _site/
 last.character
 tmp/
 .irb-history
-
 _data/comic.yml
 _data/start.yml
 _data/end.yml
