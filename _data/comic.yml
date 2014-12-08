@@ -1,12 +1,12 @@
 ---
-date: '2008-12-10T00:00:00-0500'
-year: '2008'
-title: 'Amazing Spider-Man (1999) #580'
-issue: 580
+date: '1968-05-10T00:00:00-0400'
+year: '1968'
+title: 'Marvel Super-Heroes (1967) #14'
+issue: 14
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/22863/amazing_spider-man_1999_580?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Marvel Super-Heroes
+url: http://marvel.com/comics/issue/15425/marvel_super-heroes_1967_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4e8f14738e3ff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4c7d59ba15d7f
   extension: jpg
