@@ -1,12 +1,12 @@
 ---
-date: '1984-05-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #1'
-issue: 1
+date: '2009-02-04T00:00:00-0500'
+year: '2009'
+title: 'Mighty Avengers (2007) #21'
+issue: 21
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10580/secret_wars_1984_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/23106/mighty_avengers_2007_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51dee6dd91671
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/04/4f7c8e76e8feb
   extension: jpg
