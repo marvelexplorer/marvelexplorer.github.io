@@ -1,12 +1,12 @@
 ---
-date: '2002-02-01T00:00:00-0500'
-year: '2002'
-title: 'New X-Men (2001) #121'
-issue: 121
+date: '1989-05-10T00:00:00-0400'
+year: '1989'
+title: 'X-Factor (1986) #40'
+issue: 40
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14940/new_x-men_2001_121?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12258/x-factor_1986_40?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4c35ef4729de6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/50ad29b634317
   extension: jpg
