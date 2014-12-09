@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 10
-- name: X-Force
-  score: 5
 - name: Spider-Man
+  score: 5
+- name: X-Force
   score: 5
 - name: Cyclops
   score: 3
-- name: Avalanche
+- name: Hope Summers
   score: 2
