@@ -1,12 +1,12 @@
 ---
-date: '2006-09-20T00:00:00-0400'
-year: '2006'
-title: 'X-Men: First Class (2006) #1'
-issue: 1
+date: '1996-04-10T00:00:00-0400'
+year: '1996'
+title: 'Uncanny X-Men (1963) #331'
+issue: 331
 series:
-  period: '2006'
-  name: 'X-Men: First Class'
-url: http://marvel.com/comics/issue/5144/x-men_first_class_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13872/uncanny_x-men_1963_331?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bb3de98da010
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5266dd32ec7c3
   extension: jpg
