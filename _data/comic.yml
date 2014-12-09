@@ -1,12 +1,12 @@
 ---
-date: '2011-08-17T00:00:00-0400'
-year: '2011'
-title: 'Avengers (2010) #16'
-issue: 16
+date: '2007-07-05T00:00:00-0400'
+year: '2007'
+title: 'Irredeemable Ant-Man (2006) #10'
+issue: 10
 series:
-  period: '2010'
-  name: Avengers
-url: http://marvel.com/comics/issue/29202/avengers_2010_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Irredeemable Ant-Man
+url: http://marvel.com/comics/issue/15950/irredeemable_ant-man_2006_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/4f4feae2bc1d5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f6a1df116019
   extension: jpg
