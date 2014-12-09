@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 21
+  score: 22
 - name: Spider-Man
   score: 18
 - name: Wolverine
   score: 8
 - name: Cyclops
   score: 6
-- name: Fantastic Four
+- name: Beast
   score: 5

@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 9
+  score: 10
 - name: Spider-Man
   score: 5
-- name: X-Force
+- name: Cyclops
   score: 3
 - name: Storm
   score: 3
-- name: Cyclops
+- name: X-Force
   score: 3
