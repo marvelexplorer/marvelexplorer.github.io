@@ -1,12 +1,12 @@
 ---
-date: '1974-08-10T00:00:00-0400'
-year: '1974'
-title: 'Giant-Size Avengers (1974) #1'
-issue: 1
+date: '2006-09-20T00:00:00-0400'
+year: '2006'
+title: 'Marvel Adventures the Avengers (2006) #5'
+issue: 5
 series:
-  period: '1974'
-  name: Giant-Size Avengers
-url: http://marvel.com/comics/issue/20020/giant-size_avengers_1974_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/5110/marvel_adventures_the_avengers_2006_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/4c366a5896e6e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4f625249bab25
   extension: jpg
