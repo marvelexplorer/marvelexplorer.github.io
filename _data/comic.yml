@@ -1,12 +1,12 @@
 ---
-date: '2008-12-31T00:00:00-0500'
-year: '2008'
-title: 'Avengers: The Initiative (2007) #20'
-issue: 20
+date: '2007-01-17T00:00:00-0500'
+year: '2007'
+title: 'Cable & Deadpool (2004) #36'
+issue: 36
 series:
-  period: '2007'
-  name: 'Avengers: The Initiative'
-url: http://marvel.com/comics/issue/22912/avengers_the_initiative_2007_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Cable & Deadpool
+url: http://marvel.com/comics/issue/5804/cable_deadpool_2004_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4e94ab1e440ad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc5ae949ab1f
   extension: jpg
