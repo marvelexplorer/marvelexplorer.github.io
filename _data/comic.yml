@@ -1,12 +1,12 @@
 ---
-date: '1999-02-10T00:00:00-0500'
-year: '1999'
-title: 'Avengers (1998) #13'
-issue: 13
+date: '2001-01-01T00:00:00-0500'
+year: '2001'
+title: 'Maximum Security (2000) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17494/avengers_1998_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Maximum Security
+url: http://marvel.com/comics/issue/10286/maximum_security_2000_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb6bca204f85
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/539863d922d01
   extension: jpg
