@@ -1,12 +1,12 @@
 ---
-date: '2007-07-05T00:00:00-0400'
-year: '2007'
-title: 'Irredeemable Ant-Man (2006) #10'
-issue: 10
+date: '2008-12-31T00:00:00-0500'
+year: '2008'
+title: 'Avengers: The Initiative (2007) #20'
+issue: 20
 series:
-  period: '2006'
-  name: Irredeemable Ant-Man
-url: http://marvel.com/comics/issue/15950/irredeemable_ant-man_2006_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/22912/avengers_the_initiative_2007_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f6a1df116019
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4e94ab1e440ad
   extension: jpg
