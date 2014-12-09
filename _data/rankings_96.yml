@@ -3,9 +3,9 @@
   score: 8
 - name: Spider-Man
   score: 5
-- name: Rogue
-  score: 3
 - name: Storm
   score: 3
-- name: Cyclops
+- name: Rogue
+  score: 3
+- name: Wolverine
   score: 3
