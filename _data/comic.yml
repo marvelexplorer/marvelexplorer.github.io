@@ -1,12 +1,12 @@
 ---
-date: '2002-08-01T00:00:00-0400'
-year: '2002'
-title: 'Paradise X (2002) #3'
-issue: 3
+date: '1996-06-01T00:00:00-0400'
+year: '1996'
+title: 'X-Men (1991) #53'
+issue: 53
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10498/paradise_x_2002_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14343/x-men_1991_53?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4c360719dd585
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bb86d47c23b5
   extension: jpg
