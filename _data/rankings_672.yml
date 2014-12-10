@@ -3,9 +3,9 @@
   score: 26
 - name: Spider-Man
   score: 19
-- name: Human Torch
-  score: 9
 - name: Wolverine
+  score: 9
+- name: Human Torch
   score: 9
 - name: Cyclops
   score: 8
