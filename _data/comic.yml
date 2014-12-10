@@ -1,12 +1,12 @@
 ---
-date: '1982-06-10T00:00:00-0400'
-year: '1982'
-title: 'Marvel Super-Heroes (1967) #386'
-issue: 386
+date: '2009-11-25T00:00:00-0500'
+year: '2009'
+title: 'Secret Warriors (2008) #10'
+issue: 10
 series:
-  period: '1967'
-  name: Marvel Super-Heroes
-url: http://marvel.com/comics/issue/15414/marvel_super-heroes_1967_386?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Secret Warriors
+url: http://marvel.com/comics/issue/26283/secret_warriors_2008_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/50ad759b52458
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/4f67809f03e81
   extension: jpg
