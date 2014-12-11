@@ -1,12 +1,12 @@
 ---
-date: '1985-02-10T00:00:00-0500'
-year: '1985'
-title: 'Kitty Pryde and Wolverine (1984) #4'
-issue: 4
+date: '1996-09-10T00:00:00-0400'
+year: '1996'
+title: 'Iron Man (1968) #332'
+issue: 332
 series:
-  period: '1984'
-  name: Kitty Pryde and Wolverine
-url: http://marvel.com/comics/issue/21648/kitty_pryde_and_wolverine_1984_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9586/iron_man_1968_332?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bb5d06c48362
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb5b79813bfc
   extension: jpg
