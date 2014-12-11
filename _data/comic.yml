@@ -1,12 +1,12 @@
 ---
-date: '2011-09-28T00:00:00-0400'
-year: '2011'
-title: 'Annihilators: Earthfall (2011) #1'
-issue: 1
+date: '1985-07-10T00:00:00-0400'
+year: '1985'
+title: 'Thor (1966) #357'
+issue: 357
 series:
-  period: '2011'
-  name: 'Annihilators: Earthfall'
-url: http://marvel.com/comics/issue/39982/annihilators_earthfall_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11685/thor_1966_357?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4e80da13ef6f9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bc46efc44f67
   extension: jpg
