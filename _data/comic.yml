@@ -1,12 +1,12 @@
 ---
-date: '1969-07-10T00:00:00-0400'
-year: '1969'
-title: 'Thor (1966) #166'
-issue: 166
+date: '2008-11-26T00:00:00-0500'
+year: '2008'
+title: 'Thor: Man of War (2008) #1'
+issue: 1
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11494/thor_1966_166?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'Thor: Man of War'
+url: http://marvel.com/comics/issue/22547/thor_man_of_war_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4f6350ba802cd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bb67fad0136d
   extension: jpg
