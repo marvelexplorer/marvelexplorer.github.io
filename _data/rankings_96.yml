@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 8
+  score: 7
 - name: X-Force
   score: 4
 - name: Human Torch
   score: 4
-- name: Thor
+- name: Hulk
   score: 3
-- name: Cyclops
+- name: Thor
   score: 3
