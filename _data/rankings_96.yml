@@ -3,9 +3,9 @@
   score: 6
 - name: Human Torch
   score: 4
-- name: Thor
-  score: 3
 - name: X-Force
   score: 3
-- name: Archangel
-  score: 2
+- name: Thor
+  score: 3
+- name: Wolverine
+  score: 3
