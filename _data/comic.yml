@@ -1,12 +1,12 @@
 ---
-date: '1999-04-10T00:00:00-0400'
-year: '1999'
-title: 'Deadpool (1997) #27'
-issue: 27
+date: '2006-02-22T00:00:00-0500'
+year: '2006'
+title: 'Wolverine (2003) #39'
+issue: 39
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8481/deadpool_1997_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/3538/wolverine_2003_39?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/4f186c7354d05
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4d25127b3a463
   extension: jpg
