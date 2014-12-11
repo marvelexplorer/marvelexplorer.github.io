@@ -1,7 +1,9 @@
 ---
-name: Sentinel
-description: ''
-url: http://marvel.com/comics/characters/1009570/sentinel?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: X-Man
+description: A clone of Nathan Summers (Cable), Nate Grey was created in the "Age
+  of Apocalypse" timeline by that timeline's Mr. Sinister for the sole purpose of
+  destroying Apocalypse.
+url: http://marvel.com/universe/X-Man?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4ce5a159e5082
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/535febd73f84f
   extension: jpg
