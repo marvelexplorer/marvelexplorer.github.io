@@ -1,12 +1,12 @@
 ---
-date: '2010-03-10T00:00:00-0500'
-year: '2010'
-title: 'Wolverine: Mr. X (2010) #1'
-issue: 1
+date: '2009-01-21T00:00:00-0500'
+year: '2009'
+title: 'Wolverine Origins (2006) #32'
+issue: 32
 series:
-  period: '2010'
-  name: 'Wolverine: Mr. X'
-url: http://marvel.com/comics/issue/30655/wolverine_mr_x_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/23103/wolverine_origins_2006_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bacbaee19677
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/40/51e08062bbac0
   extension: jpg
