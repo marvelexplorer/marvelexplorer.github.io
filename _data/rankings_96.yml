@@ -1,11 +1,11 @@
 ---
-- name: Human Torch
-  score: 6
 - name: Thor
+  score: 6
+- name: Human Torch
   score: 6
 - name: Sif
   score: 4
 - name: Captain America
   score: 4
-- name: Wolverine
+- name: Norman Osborn
   score: 3
