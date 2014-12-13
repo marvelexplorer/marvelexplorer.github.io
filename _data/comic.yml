@@ -1,12 +1,12 @@
 ---
-date: '1997-12-10T00:00:00-0500'
-year: '1997'
-title: 'Deadpool (1997) #11'
-issue: 11
+date: '1990-11-10T00:00:00-0500'
+year: '1990'
+title: 'Spider-Man (1990) #4'
+issue: 4
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8464/deadpool_1997_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1990'
+  name: Spider-Man
+url: http://marvel.com/comics/issue/10800/spider-man_1990_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/51b76248d8180
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/50ad066a8ee6f
   extension: jpg
