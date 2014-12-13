@@ -1,12 +1,12 @@
 ---
-date: '2005-10-05T00:00:00-0400'
-year: '2005'
-title: 'Marvel Team-Up (2004) #13'
-issue: 13
+date: '2002-02-10T00:00:00-0500'
+year: '2002'
+title: 'Fantastic Four (1998) #50'
+issue: 50
 series:
-  period: '2004'
-  name: Marvel Team-Up
-url: http://marvel.com/comics/issue/2556/marvel_team-up_2004_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15572/fantastic_four_1998_50?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc61c777a251
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4ea1ab5f3c737
   extension: jpg
