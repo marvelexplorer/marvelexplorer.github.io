@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 7
-- name: Norman Osborn
-  score: 4
+  score: 8
 - name: Sif
   score: 4
 - name: Human Torch
+  score: 4
+- name: Norman Osborn
   score: 4
 - name: Thor
   score: 4
