@@ -1,12 +1,12 @@
 ---
-date: '2002-10-01T00:00:00-0400'
-year: '2002'
-title: 'Weapon X: The Draft - Wild Child (2002) #1'
-issue: 1
+date: '1992-10-10T00:00:00-0400'
+year: '1992'
+title: 'Alpha Flight (1983) #113'
+issue: 113
 series:
-  period: '2002'
-  name: 'Weapon X: The Draft - Wild Child'
-url: http://marvel.com/comics/issue/18412/weapon_x_the_draft_-_wild_child_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1983'
+  name: Alpha Flight
+url: http://marvel.com/comics/issue/12653/alpha_flight_1983_113?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4c361ed768ee5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4ce5895081b91
   extension: jpg
