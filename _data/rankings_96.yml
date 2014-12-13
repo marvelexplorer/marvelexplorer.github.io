@@ -3,9 +3,9 @@
   score: 7
 - name: Human Torch
   score: 6
-- name: Thor
-  score: 4
 - name: Sif
   score: 4
 - name: Norman Osborn
+  score: 4
+- name: Thor
   score: 4
