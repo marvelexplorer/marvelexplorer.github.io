@@ -3,9 +3,9 @@
   score: 9
 - name: Thor
   score: 9
-- name: Sif
-  score: 5
 - name: Iron Man
   score: 5
 - name: Wolverine
+  score: 5
+- name: Sif
   score: 5
