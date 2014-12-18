@@ -1,12 +1,12 @@
 ---
-date: '1991-04-20T00:00:00-0400'
-year: '1991'
-title: 'Marvel Comics Presents (1988) #75'
-issue: 75
+date: '2004-12-22T00:00:00-0500'
+year: '2004'
+title: 'Astonishing X-Men (2004) #7'
+issue: 7
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10158/marvel_comics_presents_1988_75?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/38/astonishing_x-men_2004_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4c7d50b925c1e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5140adb830774
   extension: jpg
