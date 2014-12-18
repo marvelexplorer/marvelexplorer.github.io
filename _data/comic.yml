@@ -1,12 +1,12 @@
 ---
-date: '1998-03-10T00:00:00-0500'
-year: '1998'
-title: 'Avengers (1998) #2'
-issue: 2
+date: '2002-09-01T00:00:00-0400'
+year: '2002'
+title: 'Black Panther (1998) #46'
+issue: 46
 series:
   period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17501/avengers_1998_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Black Panther
+url: http://marvel.com/comics/issue/12615/black_panther_1998_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb4fd7bc0761
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/4bc34c12ef520
   extension: jpg
