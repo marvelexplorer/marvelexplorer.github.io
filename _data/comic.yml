@@ -1,12 +1,12 @@
 ---
-date: '2003-02-01T00:00:00-0500'
-year: '2003'
-title: 'Avengers (1998) #61'
-issue: 61
+date: '2005-11-30T00:00:00-0500'
+year: '2005'
+title: 'New Avengers (2004) #13'
+issue: 13
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17547/avengers_1998_61?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/3004/new_avengers_2004_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb6a524867ec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f7e028703618
   extension: jpg
