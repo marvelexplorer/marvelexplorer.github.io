@@ -1,12 +1,12 @@
 ---
-date: '2002-07-01T00:00:00-0400'
-year: '2002'
-title: 'Spider-Man: Quality of Life (2002) #1'
+date: '2011-11-09T00:00:00-0500'
+year: '2011'
+title: 'Avenging Spider-Man (2011) #1'
 issue: 1
 series:
-  period: '2002'
-  name: 'Spider-Man: Quality of Life'
-url: http://marvel.com/comics/issue/18811/spider-man_quality_of_life_2002_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Avenging Spider-Man
+url: http://marvel.com/comics/issue/39259/avenging_spider-man_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb6f63f982f3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51097cf4b20ac
   extension: jpg
