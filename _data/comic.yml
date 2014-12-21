@@ -1,12 +1,12 @@
 ---
-date: '1982-02-10T00:00:00-0500'
-year: '1982'
-title: 'Daredevil (1963) #179'
-issue: 179
+date: '2009-07-22T00:00:00-0400'
+year: '2009'
+title: 'Amazing Spider-Man (1999) #600'
+issue: 600
 series:
-  period: '1963'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8161/daredevil_1963_179?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/24407/amazing_spider-man_1999_600?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4c7d1cbb784bd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4e8dd3d1b7bc8
   extension: jpg
