@@ -1,12 +1,12 @@
 ---
-date: '2007-06-13T00:00:00-0400'
-year: '2007'
-title: 'New Avengers (2004) #31'
-issue: 31
+date: '1982-02-10T00:00:00-0500'
+year: '1982'
+title: 'Daredevil (1963) #179'
+issue: 179
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/15819/new_avengers_2004_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8161/daredevil_1963_179?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7efd53b2590
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4c7d1cbb784bd
   extension: jpg
