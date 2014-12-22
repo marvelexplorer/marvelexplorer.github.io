@@ -1,10 +1,9 @@
 ---
-name: Hulk
-description: Caught in a gamma bomb explosion while trying to save the life of a teenager,
-  Dr. Bruce Banner was transformed into the incredibly powerful creature called the
-  Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger
-  the Hulk gets.
-url: http://marvel.com/universe/Hulk_(Bruce_Banner)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Shang-Chi
+description: Shang-Chi is the son of an internationally-renowned and powerful criminal
+  mastermind whose childhood was a lonely one, full of constant training in rigorous
+  mental and martial arts, with only limited contact with his parents.
+url: http://marvel.com/universe/Shang-Chi?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/535ff3b116209
   extension: jpg
