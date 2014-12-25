@@ -1,12 +1,12 @@
 ---
-date: '2004-12-15T00:00:00-0500'
-year: '2004'
-title: 'Wolverine (2003) #23'
-issue: 23
+date: '1999-08-01T00:00:00-0400'
+year: '1999'
+title: 'Earth X (1999) #5'
+issue: 5
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/1419/wolverine_2003_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8555/earth_x_1999_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51ed65f6c37d3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bb7c32033b26
   extension: jpg
