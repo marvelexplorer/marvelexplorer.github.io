@@ -1,9 +1,9 @@
 ---
-name: Stingray (Walter Newell)
-description: Creating the Stingray costume, Newell succeeded in capturing the Sub-Mariner,
-  although Namor soon escaped and Newell, while initially defeating him a second time,
-  allowed his friend to go.
-url: http://marvel.com/universe/Stingray_%28Walter_Newell%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Vision
+description: The metal monstrosity called Ultron created the synthetic humanoid known
+  as the Vision from the remains of the original android Human Torch of the 1940s
+  to serve as a vehicle of vengeance against the Avengers.
+url: http://marvel.com/universe/Vision_(Victor_Shade)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003ac5e5195
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594
   extension: jpg
