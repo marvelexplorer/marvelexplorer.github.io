@@ -1,12 +1,12 @@
 ---
-date: '1982-05-10T00:00:00-0400'
-year: '1982'
-title: 'Fantastic Four (1961) #242'
-issue: 242
+date: '1964-10-10T00:00:00-0400'
+year: '1964'
+title: 'Journey Into Mystery (1952) #109'
+issue: 109
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13053/fantastic_four_1961_242?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1952'
+  name: Journey Into Mystery
+url: http://marvel.com/comics/issue/9683/journey_into_mystery_1952_109?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bb79bcad4004
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f639f0b8ac28
   extension: jpg
