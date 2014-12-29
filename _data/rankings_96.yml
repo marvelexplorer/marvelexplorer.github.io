@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 8
+  score: 9
 - name: Thor
   score: 7
-- name: Human Torch
-  score: 4
-- name: Odin
+- name: Polaris
   score: 3
-- name: Sub-Mariner
+- name: Vision
+  score: 3
+- name: Odin
   score: 3
