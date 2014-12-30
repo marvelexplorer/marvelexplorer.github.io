@@ -1,12 +1,12 @@
 ---
-date: '2005-05-25T00:00:00-0400'
-year: '2005'
-title: 'Fantastic Four (1998) #527'
-issue: 527
+date: '1984-09-10T00:00:00-0400'
+year: '1984'
+title: 'Fantastic Four (1961) #270'
+issue: 270
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/1936/fantastic_four_1998_527?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13084/fantastic_four_1961_270?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bc63e4c90697
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb78fd45a043
   extension: jpg
