@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 9
-- name: Iron Man
+- name: Thor
   score: 4
-- name: Colossus
+- name: Iron Man
   score: 4
 - name: Nightcrawler
   score: 4
-- name: Thor
+- name: Colossus
   score: 4
