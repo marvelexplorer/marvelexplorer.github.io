@@ -1,12 +1,12 @@
 ---
-date: '2011-02-23T00:00:00-0500'
-year: '2011'
-title: 'Iron Man/Thor (2010) #4'
-issue: 4
+date: '2010-05-05T00:00:00-0400'
+year: '2010'
+title: 'Avengers: The Origin (2010) #2'
+issue: 2
 series:
   period: '2010'
-  name: Iron Man/Thor
-url: http://marvel.com/comics/issue/33802/iron_manthor_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: 'Avengers: The Origin'
+url: http://marvel.com/comics/issue/31153/avengers_the_origin_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f687a4ca3135
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4f79fd51e189a
   extension: jpg
