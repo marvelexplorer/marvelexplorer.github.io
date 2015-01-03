@@ -1,12 +1,12 @@
 ---
-date: '2008-02-20T00:00:00-0500'
-year: '2008'
-title: 'Incredible Hercules (2008) #114'
-issue: 114
+date: '2001-04-01T00:00:00-0500'
+year: '2001'
+title: 'Daredevil (1998) #15'
+issue: 15
 series:
-  period: '2008'
-  name: Incredible Hercules
-url: http://marvel.com/comics/issue/20636/incredible_hercules_2008_114?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15615/daredevil_1998_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/60/4bc31a0142df6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bb68dd87194b
   extension: jpg
