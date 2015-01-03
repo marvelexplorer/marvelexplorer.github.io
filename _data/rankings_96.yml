@@ -3,9 +3,9 @@
   score: 8
 - name: Iron Man
   score: 7
-- name: Colossus
-  score: 4
 - name: Nightcrawler
   score: 4
-- name: Doctor Doom
+- name: Colossus
+  score: 4
+- name: Thing
   score: 3
