@@ -1,11 +1,7 @@
 ---
-name: Silver Surfer
-description: When Zenn-La was threatened by the world-devouring entity known as Galactus,
-  Norrin Radd stood up for his home planet and offered to work for Galactus, finding
-  him new planets to eat, in exchange for saving his own. Years later, the Surfer
-  has protected Earth and many other planets, becoming one of the greatest heroes
-  in the universe.
-url: http://marvel.com/universe/Silver_Surfer?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Groot
+description: ''
+url: http://marvel.com/universe/Groot?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/527bb6490a176
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/526033c8b474a
   extension: jpg
