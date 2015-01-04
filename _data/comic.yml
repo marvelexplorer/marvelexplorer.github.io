@@ -1,12 +1,12 @@
 ---
-date: '2011-05-04T00:00:00-0400'
-year: '2011'
-title: 'Annihilators (2010) #3'
-issue: 3
+date: '2000-10-01T00:00:00-0400'
+year: '2000'
+title: 'Maximum Security: Dangerous Planet (2000) #1'
+issue: 1
 series:
-  period: '2010'
-  name: Annihilators
-url: http://marvel.com/comics/issue/36646/annihilators_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: 'Maximum Security: Dangerous Planet'
+url: http://marvel.com/comics/issue/19032/maximum_security_dangerous_planet_2000_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4d51650be0e63
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4c3627ef1ee2d
   extension: jpg
