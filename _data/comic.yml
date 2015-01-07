@@ -1,12 +1,12 @@
 ---
-date: '2006-06-07T00:00:00-0400'
-year: '2006'
-title: 'Civil War: Front Line (2006) #1'
-issue: 1
+date: '1992-07-20T00:00:00-0400'
+year: '1992'
+title: 'Captain America (1968) #403'
+issue: 403
 series:
-  period: '2006'
-  name: 'Civil War: Front Line'
-url: http://marvel.com/comics/issue/4339/civil_war_front_line_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7784/captain_america_1968_403?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f75b66dbe502
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/50b3feaa8e058
   extension: jpg
