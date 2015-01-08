@@ -1,12 +1,12 @@
 ---
-date: '2000-12-01T00:00:00-0500'
-year: '2000'
-title: 'Marvel Knights (2000) #6'
-issue: 6
+date: '1982-04-10T00:00:00-0500'
+year: '1982'
+title: 'Daredevil (1963) #181'
+issue: 181
 series:
-  period: '2000'
-  name: Marvel Knights
-url: http://marvel.com/comics/issue/16066/marvel_knights_2000_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8164/daredevil_1963_181?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/60/4bc36a03c46aa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc47aaa7154d
   extension: jpg
