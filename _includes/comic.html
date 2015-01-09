@@ -1,10 +1,10 @@
-<a href="{{ site.data.comic.url }}">
+<a href="{{ site.data.comic.url | escape }}">
   <img src="{{ site.data.comic.image.path }}.{{ site.data.comic.image.extension }}"
        alt="{{ site.data.comic.series.name }} #{{ site.data.comic.issue }}"
        class="comic" />
 </a>
 <div class="comic-title">
-  <a href="{{ site.data.comic.url }}">
+  <a href="{{ site.data.comic.url | escape }}">
     <h3>{{ site.data.comic.series.name }} #{{ site.data.comic.issue }}</h3>
   </a>
 </div>

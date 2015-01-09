@@ -1,11 +1,11 @@
-<a href="{{ site.data[include.key].url }}">
+<a href="{{ site.data[include.key].url | escape }}">
   <img src="{{ site.data[include.key].image.path }}.{{ site.data[include.key].image.extension }}"
-       title="{{ site.data[include.key].description }}"
+       title="{{ site.data[include.key].description | escape }}"
        alt="{{ site.data[include.key].name }}"
        class="character"/>
 </a>
 <div class="character-name">
-  <a href="{{ site.data[include.key].url }}">
+  <a href="{{ site.data[include.key].url | escape }}">
     <h3>{{ site.data[include.key].name }}</h3>
   </a>
 </div>
