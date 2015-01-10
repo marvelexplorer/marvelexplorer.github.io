@@ -3,9 +3,9 @@
   score: 6
 - name: Captain America
   score: 3
-- name: Iceman
-  score: 3
 - name: Spider-Man
+  score: 3
+- name: Iceman
   score: 3
 - name: Human Torch
   score: 3
