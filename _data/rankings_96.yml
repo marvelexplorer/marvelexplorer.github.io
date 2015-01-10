@@ -4,8 +4,8 @@
 - name: Spider-Man
   score: 4
 - name: Human Torch
-  score: 4
-- name: Wolverine
   score: 3
-- name: Iron Man
+- name: Iceman
+  score: 3
+- name: Captain America
   score: 3
