@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 6
-- name: Captain America
+  score: 7
+- name: Thor
   score: 3
 - name: Human Torch
   score: 3
-- name: Thor
+- name: Captain America
   score: 3
-- name: Spider-Man
+- name: Wolverine
   score: 3
