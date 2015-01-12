@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 7
-- name: Iron Man
+- name: Spider-Man
   score: 3
-- name: Exiles
+- name: Thor
   score: 3
 - name: Avengers
   score: 3
-- name: Wolverine
+- name: Iron Man
   score: 3
