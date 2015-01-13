@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 7
-- name: Wolverine
-  score: 3
+  score: 8
 - name: Avengers
   score: 3
 - name: Daredevil
+  score: 3
+- name: Wolverine
   score: 3
 - name: Exiles
   score: 3
