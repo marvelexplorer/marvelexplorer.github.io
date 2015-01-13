@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 8
-- name: Captain America
+- name: Iron Man
+  score: 4
+- name: Spider-Man
   score: 3
 - name: Havok
   score: 3
 - name: Psylocke
-  score: 3
-- name: Iron Man
   score: 3
