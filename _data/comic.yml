@@ -1,12 +1,12 @@
 ---
-date: '1982-07-10T00:00:00-0400'
-year: '1982'
-title: 'Marvel Super-Heroes (1967) #387'
-issue: 387
+date: '2007-09-19T00:00:00-0400'
+year: '2007'
+title: 'Marvel Adventures the Avengers (2006) #16'
+issue: 16
 series:
-  period: '1967'
-  name: Marvel Super-Heroes
-url: http://marvel.com/comics/issue/15415/marvel_super-heroes_1967_387?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/16511/marvel_adventures_the_avengers_2006_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/50ad75565f895
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4f6392c7eba2a
   extension: jpg
