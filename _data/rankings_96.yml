@@ -1,11 +1,11 @@
 ---
-- name: Fantastic Four
-  score: 7
 - name: X-Men
   score: 7
-- name: Wolverine
-  score: 4
+- name: Fantastic Four
+  score: 7
 - name: Human Torch
+  score: 4
+- name: Wolverine
   score: 4
 - name: Exiles
   score: 3
