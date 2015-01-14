@@ -1,8 +1,8 @@
 ---
+- name: Fantastic Four
+  score: 7
 - name: X-Men
   score: 7
-- name: Fantastic Four
-  score: 6
 - name: Human Torch
   score: 4
 - name: Spider-Man
