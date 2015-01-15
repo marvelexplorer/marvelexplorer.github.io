@@ -1,12 +1,12 @@
 ---
-date: '2011-08-17T00:00:00-0400'
-year: '2011'
-title: 'Marvel Universe Vs. Wolverine (2011) #3'
-issue: 3
+date: '2009-04-01T00:00:00-0400'
+year: '2009'
+title: 'Avengers/Invaders (2008) #9'
+issue: 9
 series:
-  period: '2011'
-  name: Marvel Universe Vs. Wolverine
-url: http://marvel.com/comics/issue/38116/marvel_universe_vs_wolverine_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Avengers/Invaders
+url: http://marvel.com/comics/issue/24549/avengersinvaders_2008_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4dd1852fcdd28
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4f8475869b358
   extension: jpg
