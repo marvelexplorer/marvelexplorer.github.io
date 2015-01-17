@@ -1,12 +1,12 @@
 ---
-date: '1939-11-10T00:00:00-0500'
-year: '1939'
-title: 'Marvel Comics (1939) #1'
+date: '2007-06-27T00:00:00-0400'
+year: '2007'
+title: 'X-Men: First Class (2007) #1'
 issue: 1
 series:
-  period: '1939'
-  name: Marvel Comics
-url: http://marvel.com/comics/issue/10008/marvel_comics_1939_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'X-Men: First Class'
+url: http://marvel.com/comics/issue/15888/x-men_first_class_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc492ab2f759
   extension: jpg
