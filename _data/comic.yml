@@ -1,12 +1,12 @@
 ---
-date: '2002-12-01T00:00:00-0500'
-year: '2002'
-title: 'Captain Marvel (2000) #2'
-issue: 2
+date: '2000-09-01T00:00:00-0400'
+year: '2000'
+title: 'Marvel Knights (2000) #3'
+issue: 3
 series:
   period: '2000'
-  name: Captain Marvel
-url: http://marvel.com/comics/issue/20549/captain_marvel_2000_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Marvel Knights
+url: http://marvel.com/comics/issue/16063/marvel_knights_2000_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb65b57b0238
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4bc369f903332
   extension: jpg
