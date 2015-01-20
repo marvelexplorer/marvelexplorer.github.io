@@ -1,12 +1,12 @@
 ---
-date: '1995-08-01T00:00:00-0400'
-year: '1995'
-title: 'Excalibur (1988) #88'
-issue: 88
+date: '2011-06-01T00:00:00-0400'
+year: '2011'
+title: 'X-23 (2010) #11'
+issue: 11
 series:
-  period: '1988'
-  name: Excalibur
-url: http://marvel.com/comics/issue/8674/excalibur_1988_88?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: X-23
+url: http://marvel.com/comics/issue/30257/x-23_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/50b3e06ae0453
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/51eeb231757dd
   extension: jpg
