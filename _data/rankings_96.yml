@@ -1,11 +1,11 @@
 ---
-- name: Fantastic Four
-  score: 7
 - name: Wolverine
   score: 7
+- name: Spider-Man
+  score: 6
 - name: Human Torch
   score: 6
-- name: Spider-Man
+- name: Fantastic Four
   score: 6
 - name: Iron Man
   score: 5
