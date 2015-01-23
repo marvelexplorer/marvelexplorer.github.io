@@ -1,12 +1,12 @@
 ---
-date: '2009-01-28T00:00:00-0500'
-year: '2009'
-title: 'Amazing Spider-Man: Extra! (2009) #2'
-issue: 2
+date: '2008-10-15T00:00:00-0400'
+year: '2008'
+title: 'Amazing Spider-Man (1999) #573'
+issue: 573
 series:
-  period: '2009'
-  name: 'Amazing Spider-Man: Extra!'
-url: http://marvel.com/comics/issue/23180/amazing_spider-man_extra_2009_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/22261/amazing_spider-man_1999_573?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bb6042844ce9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bb6d2f22b3d4
   extension: jpg
