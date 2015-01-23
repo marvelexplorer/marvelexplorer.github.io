@@ -1,12 +1,12 @@
 ---
-date: '2011-01-05T00:00:00-0500'
+date: '2011-04-13T00:00:00-0400'
 year: '2011'
-title: 'Captain America: Hail Hydra (2010) #1'
-issue: 1
+title: 'Onslaught Unleashed (2010) #3'
+issue: 3
 series:
   period: '2010'
-  name: 'Captain America: Hail Hydra'
-url: http://marvel.com/comics/issue/36229/captain_america_hail_hydra_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Onslaught Unleashed
+url: http://marvel.com/comics/issue/38066/onslaught_unleashed_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4f623bb42c0c9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/80/4d35aba3d821a
   extension: jpg
