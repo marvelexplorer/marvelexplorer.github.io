@@ -1,9 +1,10 @@
 ---
-name: Shanna the She-Devil
-description: The only daughter of a wealthy diamond miner, Shanna grew up in the Zaire
-  jungles, where, at age six, she witnessed her father’s accidental fatal shooting
-  of her mother, starting a lifelong loathing of firearms.
-url: http://marvel.com/universe/Shanna?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Spider-Man
+description: Bitten by a radioactive spider, high school student Peter Parker gained
+  the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter
+  hoped to start a career using his new abilities. Taught that with great power comes
+  great responsibility, Spidey has vowed to use his powers to help people.
+url: http://marvel.com/universe/Spider-Man_(Peter_Parker)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4d2b364a69f77
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b
   extension: jpg
