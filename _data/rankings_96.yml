@@ -1,11 +1,11 @@
 ---
-- name: Captain America
-  score: 8
 - name: Spider-Man
+  score: 7
+- name: Captain America
   score: 7
 - name: Wolverine
   score: 5
-- name: Norman Osborn
+- name: Hulk
   score: 3
-- name: Avengers
+- name: Norman Osborn
   score: 3
