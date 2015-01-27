@@ -1,12 +1,12 @@
 ---
-date: '2011-02-23T00:00:00-0500'
-year: '2011'
-title: 'Iron Man/Thor (2010) #4'
-issue: 4
+date: '1979-08-10T00:00:00-0400'
+year: '1979'
+title: 'Avengers (1963) #186'
+issue: 186
 series:
-  period: '2010'
-  name: Iron Man/Thor
-url: http://marvel.com/comics/issue/33802/iron_manthor_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7048/avengers_1963_186?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f687a4ca3135
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4e95aef4e25e4
   extension: jpg
