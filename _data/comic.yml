@@ -1,12 +1,12 @@
 ---
-date: '2011-01-19T00:00:00-0500'
+date: '2011-07-27T00:00:00-0400'
 year: '2011'
-title: 'Deadpool Max (2010) #4'
-issue: 4
+title: 'Wolverine/Deadpool: The Decoy (2010) #1'
+issue: 1
 series:
   period: '2010'
-  name: Deadpool Max
-url: http://marvel.com/comics/issue/32232/deadpool_max_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: 'Wolverine/Deadpool: The Decoy'
+url: http://marvel.com/comics/issue/35759/wolverinedeadpool_the_decoy_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4cb780cf70c9e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4e29dbf1bf4c4
   extension: jpg
