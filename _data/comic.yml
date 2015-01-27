@@ -1,12 +1,12 @@
 ---
-date: '1998-11-10T00:00:00-0500'
-year: '1998'
-title: 'Deadpool (1997) #22'
-issue: 22
+date: '2011-01-19T00:00:00-0500'
+year: '2011'
+title: 'Deadpool Max (2010) #4'
+issue: 4
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8476/deadpool_1997_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Deadpool Max
+url: http://marvel.com/comics/issue/32232/deadpool_max_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f20337587bbe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4cb780cf70c9e
   extension: jpg
