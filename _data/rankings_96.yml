@@ -1,10 +1,10 @@
 ---
-- name: Captain America
+- name: Iron Man
   score: 7
 - name: Spider-Man
   score: 7
-- name: Iron Man
-  score: 6
+- name: Captain America
+  score: 7
 - name: Wolverine
   score: 6
 - name: Norman Osborn
