@@ -1,12 +1,12 @@
 ---
-date: '2005-10-05T00:00:00-0400'
-year: '2005'
-title: 'New Thunderbolts (2004) #13'
-issue: 13
+date: '2009-11-25T00:00:00-0500'
+year: '2009'
+title: 'Invincible Iron Man (2008) #20'
+issue: 20
 series:
-  period: '2004'
-  name: New Thunderbolts
-url: http://marvel.com/comics/issue/2516/new_thunderbolts_2004_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Invincible Iron Man
+url: http://marvel.com/comics/issue/25540/invincible_iron_man_2008_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc61ed50025b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4f7c7a30cfef3
   extension: jpg
