@@ -1,12 +1,12 @@
 ---
-date: '1992-08-01T00:00:00-0400'
-year: '1992'
-title: 'Fantastic Four (1961) #367'
-issue: 367
+date: '1979-03-10T00:00:00-0500'
+year: '1979'
+title: 'Uncanny X-Men (1963) #119'
+issue: 119
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13191/fantastic_four_1961_367?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12435/uncanny_x-men_1963_119?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5294f3615edb5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5372ae149a0a8
   extension: jpg
