@@ -1,12 +1,12 @@
 ---
-date: '2010-03-31T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man (1999) #627'
-issue: 627
+date: '2006-11-15T00:00:00-0500'
+year: '2006'
+title: 'Civil War (2006) #5'
+issue: 5
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/30302/amazing_spider-man_1999_627?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Civil War
+url: http://marvel.com/comics/issue/5075/civil_war_2006_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/4e84d93019502
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/511309057cd07
   extension: jpg
