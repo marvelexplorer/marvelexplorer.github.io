@@ -1,12 +1,12 @@
 ---
-date: '1998-11-01T00:00:00-0500'
-year: '1998'
-title: 'Daredevil (1998) #1'
-issue: 1
+date: '1985-04-10T00:00:00-0500'
+year: '1985'
+title: 'Daredevil (1963) #217'
+issue: 217
 series:
-  period: '1998'
+  period: '1963'
   name: Daredevil
-url: http://marvel.com/comics/issue/15609/daredevil_1998_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/8204/daredevil_1963_217?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/518810f9e2a6a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bc335f32b106
   extension: jpg
