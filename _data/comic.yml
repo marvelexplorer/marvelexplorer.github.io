@@ -1,12 +1,12 @@
 ---
-date: '2001-06-01T00:00:00-0400'
-year: '2001'
-title: 'Daredevil (1998) #17'
-issue: 17
+date: '2000-10-01T00:00:00-0400'
+year: '2000'
+title: 'Daredevil (1998) #13'
+issue: 13
 series:
   period: '1998'
   name: Daredevil
-url: http://marvel.com/comics/issue/15617/daredevil_1998_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/15613/daredevil_1998_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/4bb6db7ad11a3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bb6db8541d37
   extension: jpg
