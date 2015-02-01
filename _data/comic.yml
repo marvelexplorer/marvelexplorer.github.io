@@ -1,12 +1,12 @@
 ---
-date: '2012-04-18T00:00:00-0400'
-year: '2012'
-title: 'Avengers Vs. X-Men (2012) #2'
-issue: 2
+date: '2010-12-15T00:00:00-0500'
+year: '2010'
+title: 'Avengers Vs. Pet Avengers (2010) #3'
+issue: 3
 series:
-  period: '2012'
-  name: Avengers Vs. X-Men
-url: http://marvel.com/comics/issue/41191/avengers_vs_x-men_2012_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Avengers Vs. Pet Avengers
+url: http://marvel.com/comics/issue/36652/avengers_vs_pet_avengers_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/515f1a2cbc874
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f624b9c2a59a
   extension: jpg
