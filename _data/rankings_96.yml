@@ -1,6 +1,6 @@
 ---
 - name: X-Men
-  score: 9
+  score: 8
 - name: Spider-Man
   score: 7
 - name: Iron Man
@@ -8,4 +8,4 @@
 - name: Wolverine
   score: 6
 - name: Luke Cage
-  score: 3
+  score: 4
