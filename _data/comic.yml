@@ -1,12 +1,12 @@
 ---
-date: '2003-04-10T00:00:00-0400'
-year: '2003'
-title: 'Hulk/Wolverine: 6 Hours (2003) #3'
-issue: 3
+date: '2008-08-06T00:00:00-0400'
+year: '2008'
+title: 'Avengers/Invaders (2008) #4'
+issue: 4
 series:
-  period: '2003'
-  name: 'Hulk/Wolverine: 6 Hours'
-url: http://marvel.com/comics/issue/16047/hulkwolverine_6_hours_2003_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Avengers/Invaders
+url: http://marvel.com/comics/issue/21761/avengersinvaders_2008_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4bc369e9d2286
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/b0/4f71bae99969f
   extension: jpg
