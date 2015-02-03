@@ -1,12 +1,12 @@
 ---
-date: '2001-06-10T00:00:00-0400'
-year: '2001'
-title: 'Avengers (1998) #41'
-issue: 41
+date: '2006-03-22T00:00:00-0500'
+year: '2006'
+title: 'Captain America (2004) #16'
+issue: 16
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17525/avengers_1998_41?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/3910/captain_america_2004_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4c7d56c0e21c8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bc5fd1135bdc
   extension: jpg
