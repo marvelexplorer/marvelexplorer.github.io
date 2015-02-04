@@ -1,12 +1,12 @@
 ---
-date: '1988-01-01T00:00:00-0500'
-year: '1988'
-title: 'X-Factor Annual (1986) #3'
+date: '2011-08-17T00:00:00-0400'
+year: '2011'
+title: 'X-Men: Schism (2011) #3'
 issue: 3
 series:
-  period: '1986'
-  name: X-Factor Annual
-url: http://marvel.com/comics/issue/23511/x-factor_annual_1986_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'X-Men: Schism'
+url: http://marvel.com/comics/issue/38490/x-men_schism_2011_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/526172ccae77c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/60/52c5b14fa2a1d
   extension: jpg
