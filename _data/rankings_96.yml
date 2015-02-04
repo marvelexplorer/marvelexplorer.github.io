@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 6
-- name: Spider-Man
+- name: X-Men
   score: 5
 - name: Iron Man
   score: 4
-- name: Luke Cage
+- name: Daredevil
   score: 4
-- name: X-Men
+- name: Spider-Man
   score: 4
