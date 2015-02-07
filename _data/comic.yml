@@ -1,12 +1,12 @@
 ---
-date: '1999-08-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #5'
-issue: 5
+date: '2002-08-01T00:00:00-0400'
+year: '2002'
+title: 'Paradise X (2002) #3'
+issue: 3
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8555/earth_x_1999_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10498/paradise_x_2002_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bb7c32033b26
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4c360719dd585
   extension: jpg
