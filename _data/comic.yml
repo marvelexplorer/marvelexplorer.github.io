@@ -1,12 +1,12 @@
 ---
-date: '1981-09-10T00:00:00-0400'
-year: '1981'
-title: 'Incredible Hulk Annual (1976) #10'
-issue: 10
+date: '2002-09-01T00:00:00-0400'
+year: '2002'
+title: 'Paradise X (2002) #4'
+issue: 4
 series:
-  period: '1976'
-  name: Incredible Hulk Annual
-url: http://marvel.com/comics/issue/16867/incredible_hulk_annual_1976_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10499/paradise_x_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb6de5f0f3f0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c360714db59f
   extension: jpg
