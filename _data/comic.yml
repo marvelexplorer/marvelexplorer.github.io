@@ -1,12 +1,12 @@
 ---
-date: '2000-10-10T00:00:00-0400'
-year: '2000'
-title: 'Captain America (1998) #34'
-issue: 34
+date: '2002-09-10T00:00:00-0400'
+year: '2002'
+title: 'Captain America (2002) #4'
+issue: 4
 series:
-  period: '1998'
+  period: '2002'
   name: Captain America
-url: http://marvel.com/comics/issue/12794/captain_america_1998_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/12843/captain_america_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4e8ca45c14e3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc37f9b3c0b6
   extension: jpg
