@@ -1,12 +1,12 @@
 ---
-date: '1977-08-10T00:00:00-0400'
-year: '1977'
-title: 'Marvel Two-in-One (1974) #30'
-issue: 30
+date: '2000-10-10T00:00:00-0400'
+year: '2000'
+title: 'Captain America (1998) #34'
+issue: 34
 series:
-  period: '1974'
-  name: Marvel Two-in-One
-url: http://marvel.com/comics/issue/19499/marvel_two-in-one_1974_30?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12794/captain_america_1998_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4df0f82ca57c2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4e8ca45c14e3e
   extension: jpg
