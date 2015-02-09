@@ -1,12 +1,12 @@
 ---
-date: '2011-12-14T00:00:00-0500'
-year: '2011'
-title: 'Magneto: Not a Hero (2011) #2'
-issue: 2
+date: '1985-03-10T00:00:00-0500'
+year: '1985'
+title: 'Secret Wars (1984) #11'
+issue: 11
 series:
-  period: '2011'
-  name: 'Magneto: Not a Hero'
-url: http://marvel.com/comics/issue/39736/magneto_not_a_hero_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10582/secret_wars_1984_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/4e78f29109096
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f68cb3003fe7
   extension: jpg
