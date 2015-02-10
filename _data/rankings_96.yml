@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 8
-- name: Wolverine
+- name: Thor
   score: 4
 - name: Spider-Man
   score: 4
-- name: Thor
+- name: Wolverine
   score: 4
 - name: Nightcrawler
   score: 3
