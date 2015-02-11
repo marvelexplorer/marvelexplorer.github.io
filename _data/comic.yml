@@ -1,12 +1,12 @@
 ---
-date: '2002-08-01T00:00:00-0400'
-year: '2002'
-title: 'New X-Men (2001) #127'
-issue: 127
+date: '2007-06-27T00:00:00-0400'
+year: '2007'
+title: 'X-Men: First Class (2007) #1'
+issue: 1
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14946/new_x-men_2001_127?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'X-Men: First Class'
+url: http://marvel.com/comics/issue/15888/x-men_first_class_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bc46b28bcbd1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc492ab2f759
   extension: jpg
