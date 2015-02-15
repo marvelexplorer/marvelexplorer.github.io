@@ -1,12 +1,12 @@
 ---
-date: '2007-02-28T00:00:00-0500'
-year: '2007'
-title: 'Black Panther (2005) #25'
-issue: 25
+date: '1969-04-10T00:00:00-0500'
+year: '1969'
+title: 'Thor (1966) #163'
+issue: 163
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/6047/black_panther_2005_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11491/thor_1966_163?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc5a56fd5442
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f634f877f3a4
   extension: jpg
