@@ -1,12 +1,12 @@
 ---
-date: '2003-04-01T00:00:00-0500'
-year: '2003'
-title: 'X-Treme X-Men (2001) #21'
-issue: 21
+date: '1981-07-10T00:00:00-0400'
+year: '1981'
+title: 'Uncanny X-Men (1963) #147'
+issue: 147
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15024/x-treme_x-men_2001_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13688/uncanny_x-men_1963_147?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc3681b6887b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4c7cdb6ad9760
   extension: jpg
