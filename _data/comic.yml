@@ -1,12 +1,12 @@
 ---
-date: '2003-05-20T00:00:00-0400'
+date: '2003-04-01T00:00:00-0500'
 year: '2003'
-title: 'Wolverine (1988) #188'
-issue: 188
+title: 'X-Treme X-Men (2001) #21'
+issue: 21
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14134/wolverine_1988_188?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15024/x-treme_x-men_2001_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c36686a6e4d6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc3681b6887b
   extension: jpg
