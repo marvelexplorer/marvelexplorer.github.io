@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 9
-- name: Iron Man
-  score: 6
 - name: Storm
+  score: 7
+- name: Iron Man
   score: 6
 - name: Thor
   score: 4
-- name: Captain America
+- name: Archangel
   score: 3
