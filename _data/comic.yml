@@ -1,12 +1,12 @@
 ---
-date: '1998-01-10T00:00:00-0500'
-year: '1998'
-title: 'Wolverine (1988) #120'
-issue: 120
+date: '1994-01-01T00:00:00-0500'
+year: '1994'
+title: 'X-Men: Alpha (1994) #1'
+issue: 1
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14060/wolverine_1988_120?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1994'
+  name: 'X-Men: Alpha'
+url: http://marvel.com/comics/issue/12386/x-men_alpha_1994_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f63492f12374
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/51ba263bf0e49
   extension: jpg
