@@ -1,12 +1,12 @@
 ---
-date: '1995-02-10T00:00:00-0500'
-year: '1995'
-title: 'Cable (1993) #20'
-issue: 20
+date: '1985-01-09T00:00:00-0500'
+year: '1985'
+title: 'X-Men Annual (1970) #9'
+issue: 9
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7394/cable_1993_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12369/x-men_annual_1970_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/53f4f27f4e3d3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc46d5e31b06
   extension: jpg
