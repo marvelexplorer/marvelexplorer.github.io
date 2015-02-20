@@ -1,9 +1,9 @@
 ---
 - name: Wolverine
   score: 10
-- name: Iron Man
-  score: 6
 - name: Iceman
+  score: 6
+- name: Iron Man
   score: 6
 - name: Cyclops
   score: 5
