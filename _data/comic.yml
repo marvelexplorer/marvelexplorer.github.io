@@ -1,12 +1,12 @@
 ---
-date: '2004-12-15T00:00:00-0500'
-year: '2004'
-title: 'Official Handbook of the Marvel Universe (2004) #8'
-issue: 8
+date: '1988-02-10T00:00:00-0500'
+year: '1988'
+title: 'X-Factor (1986) #25'
+issue: 25
 series:
-  period: '2004'
-  name: Official Handbook of the Marvel Universe
-url: http://marvel.com/comics/issue/1489/official_handbook_of_the_marvel_universe_2004_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12241/x-factor_1986_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc65a8e339db
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/52618007ef5b4
   extension: jpg
