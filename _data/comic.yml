@@ -1,12 +1,12 @@
 ---
-date: '1999-12-10T00:00:00-0500'
-year: '1999'
-title: 'Wolverine (1988) #145'
-issue: 145
+date: '1983-02-10T00:00:00-0500'
+year: '1983'
+title: 'Uncanny X-Men (1963) #166'
+issue: 166
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14087/wolverine_1988_145?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13707/uncanny_x-men_1963_166?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/4bb58795c5df5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/51117994bc5d7
   extension: jpg
