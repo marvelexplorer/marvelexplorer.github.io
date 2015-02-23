@@ -1,11 +1,11 @@
 ---
-- name: Wolverine
-  score: 6
 - name: X-Men
   score: 6
-- name: Archangel
-  score: 4
+- name: Wolverine
+  score: 6
 - name: Iron Man
   score: 4
-- name: Cyclops
+- name: Human Torch
+  score: 3
+- name: Emma Frost
   score: 3
