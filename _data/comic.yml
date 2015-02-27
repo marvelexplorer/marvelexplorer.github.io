@@ -1,12 +1,12 @@
 ---
-date: '2002-04-01T00:00:00-0500'
-year: '2002'
-title: 'New X-Men (2001) #123'
-issue: 123
+date: '2008-01-30T00:00:00-0500'
+year: '2008'
+title: 'What If? (2007) #2'
+issue: 2
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14942/new_x-men_2001_123?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: What If?
+url: http://marvel.com/comics/issue/17664/what_if_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4c35ef277dd6e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc33e4c0d6f2
   extension: jpg
