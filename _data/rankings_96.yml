@@ -2,10 +2,10 @@
 - name: Spider-Man
   score: 9
 - name: Wolverine
-  score: 5
+  score: 6
 - name: Mary Jane Watson
   score: 3
-- name: Hulk
-  score: 3
 - name: X-Men
+  score: 3
+- name: Hulk
   score: 3
