@@ -1,12 +1,12 @@
 ---
-date: '1977-09-10T00:00:00-0400'
-year: '1977'
-title: 'Invaders (1975) #20'
-issue: 20
+date: '2010-03-17T00:00:00-0400'
+year: '2010'
+title: 'Hercules: Fall of an Avenger (2010) #1'
+issue: 1
 series:
-  period: '1975'
-  name: Invaders
-url: http://marvel.com/comics/issue/19981/invaders_1975_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Hercules: Fall of an Avenger'
+url: http://marvel.com/comics/issue/30722/hercules_fall_of_an_avenger_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4bb5efbb9d62f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bacd7d10519b
   extension: jpg
