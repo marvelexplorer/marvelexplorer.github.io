@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 8
-- name: Wolverine
-  score: 5
 - name: Avengers
   score: 5
-- name: X-Men
+- name: Wolverine
+  score: 5
+- name: She-Hulk (Jennifer Walters)
   score: 3
-- name: Mary Jane Watson
+- name: Iron Man
   score: 3
