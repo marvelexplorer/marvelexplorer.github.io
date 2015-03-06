@@ -1,12 +1,12 @@
 ---
-date: '1987-07-10T00:00:00-0400'
-year: '1987'
-title: 'Fantastic Four (1961) #304'
-issue: 304
+date: '1942-01-10T00:00:00-0500'
+year: '1942'
+title: 'All-Winners Comics (1941) #3'
+issue: 3
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13122/fantastic_four_1961_304?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1941'
+  name: All-Winners Comics
+url: http://marvel.com/comics/issue/12568/all-winners_comics_1941_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537669afd052d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc37840b65cc
   extension: jpg
