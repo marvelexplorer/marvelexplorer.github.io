@@ -1,12 +1,12 @@
 ---
-date: '2008-10-29T00:00:00-0400'
-year: '2008'
-title: 'Avengers: The Initiative (2007) #18'
-issue: 18
+date: '2011-03-09T00:00:00-0500'
+year: '2011'
+title: 'Onslaught Unleashed (2010) #2'
+issue: 2
 series:
-  period: '2007'
-  name: 'Avengers: The Initiative'
-url: http://marvel.com/comics/issue/22299/avengers_the_initiative_2007_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Onslaught Unleashed
+url: http://marvel.com/comics/issue/38069/onslaught_unleashed_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4e94a0790135d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4d51e9f1d53c4
   extension: jpg
