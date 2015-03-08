@@ -1,12 +1,12 @@
 ---
-date: '1999-05-01T00:00:00-0400'
-year: '1999'
-title: 'Daredevil (1998) #7'
-issue: 7
+date: '2010-03-03T00:00:00-0500'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #623'
+issue: 623
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/15675/daredevil_1998_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30298/amazing_spider-man_1999_623?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb3e3fba16e7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/4e84ca493d89c
   extension: jpg
