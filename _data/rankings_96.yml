@@ -1,11 +1,11 @@
 ---
-- name: Hulk
+- name: Iron Man
   score: 4
 - name: Hercules
   score: 4
-- name: Iron Man
+- name: Hulk
+  score: 4
+- name: Iron Fist (Danny Rand)
   score: 3
 - name: X-Men
-  score: 3
-- name: Iron Fist (Danny Rand)
   score: 3
