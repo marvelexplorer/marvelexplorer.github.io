@@ -1,11 +1,11 @@
 ---
-- name: Captain America
+- name: Hercules
   score: 4
 - name: Hulk
   score: 4
-- name: Hercules
+- name: Captain America
   score: 4
-- name: Iceman
+- name: Spider-Man
   score: 3
-- name: Sub-Mariner
+- name: Wolverine
   score: 3
