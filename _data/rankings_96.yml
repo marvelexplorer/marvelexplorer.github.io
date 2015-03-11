@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 4
-- name: Hercules
-  score: 4
 - name: Daredevil
+  score: 3
+- name: Iceman
   score: 3
 - name: X-Men
   score: 3
-- name: Iceman
+- name: Taskmaster
   score: 3
