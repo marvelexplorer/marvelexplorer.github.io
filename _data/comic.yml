@@ -1,12 +1,12 @@
 ---
-date: '2006-11-15T00:00:00-0500'
-year: '2006'
-title: 'Civil War (2006) #5'
-issue: 5
+date: '1981-07-10T00:00:00-0400'
+year: '1981'
+title: 'Daredevil (1963) #172'
+issue: 172
 series:
-  period: '2006'
-  name: Civil War
-url: http://marvel.com/comics/issue/5075/civil_war_2006_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8154/daredevil_1963_172?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/511309057cd07
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bb676626755c
   extension: jpg
