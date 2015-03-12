@@ -1,11 +1,11 @@
 ---
-- name: Iron Man
-  score: 4
 - name: Spider-Man
   score: 4
-- name: Iceman
+- name: Iron Man
+  score: 3
+- name: Captain America
   score: 3
 - name: Taskmaster
   score: 3
-- name: Captain America
+- name: Hulk
   score: 3
