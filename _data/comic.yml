@@ -1,12 +1,12 @@
 ---
-date: '2007-05-23T00:00:00-0400'
+date: '2007-01-10T00:00:00-0500'
 year: '2007'
-title: 'Captain America (2004) #26'
-issue: 26
+title: 'Agents of Atlas (2006) #6'
+issue: 6
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/6152/captain_america_2004_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Agents of Atlas
+url: http://marvel.com/comics/issue/5842/agents_of_atlas_2006_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f75ae9b534a4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/4bc5ada7e2f1f
   extension: jpg
