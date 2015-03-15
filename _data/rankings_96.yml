@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
-  score: 7
+  score: 8
 - name: Wolverine
   score: 6
-- name: Hulk
-  score: 4
 - name: Fantastic Four
+  score: 4
+- name: Hulk
   score: 4
 - name: She-Hulk (Jennifer Walters)
   score: 3
