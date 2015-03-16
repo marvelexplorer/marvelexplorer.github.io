@@ -1,12 +1,12 @@
 ---
-date: '1998-09-10T00:00:00-0400'
-year: '1998'
-title: 'Deadpool (1997) #20'
-issue: 20
+date: '2009-04-01T00:00:00-0400'
+year: '2009'
+title: 'Cable (2008) #13'
+issue: 13
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8474/deadpool_1997_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Cable
+url: http://marvel.com/comics/issue/23971/cable_2008_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4f203032076a2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4ea19c8c0760d
   extension: jpg
