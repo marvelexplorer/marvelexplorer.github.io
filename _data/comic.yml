@@ -1,12 +1,12 @@
 ---
-date: '2009-04-01T00:00:00-0400'
-year: '2009'
-title: 'Cable (2008) #13'
-issue: 13
+date: '1991-11-10T00:00:00-0500'
+year: '1991'
+title: 'X-Force (1991) #4'
+issue: 4
 series:
-  period: '2008'
-  name: Cable
-url: http://marvel.com/comics/issue/23971/cable_2008_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/18005/x-force_1991_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4ea19c8c0760d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/50acfa12256fe
   extension: jpg
