@@ -3,9 +3,9 @@
   score: 42
 - name: Iron Man
   score: 35
-- name: Spider-Man
-  score: 20
 - name: Captain America
   score: 20
 - name: X-Men
+  score: 19
+- name: Spider-Man
   score: 19
