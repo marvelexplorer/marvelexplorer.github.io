@@ -1,12 +1,12 @@
 ---
-date: '1994-02-10T00:00:00-0500'
-year: '1994'
-title: 'Uncanny X-Men (1963) #309'
-issue: 309
+date: '2000-08-10T00:00:00-0400'
+year: '2000'
+title: 'Inhumans (2000) #3'
+issue: 3
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13850/uncanny_x-men_1963_309?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Inhumans
+url: http://marvel.com/comics/issue/9324/inhumans_2000_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c36284a1bb43
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/5376723c3823b
   extension: jpg
