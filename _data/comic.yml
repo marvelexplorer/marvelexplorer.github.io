@@ -1,12 +1,12 @@
 ---
-date: '2007-08-01T00:00:00-0400'
-year: '2007'
-title: 'Fantastic Four (1998) #548'
-issue: 548
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Black Panther (1998) #47'
+issue: 47
 series:
   period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/15922/fantastic_four_1998_548?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Black Panther
+url: http://marvel.com/comics/issue/12616/black_panther_1998_47?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc39e80e313f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc34a79ca0e5
   extension: jpg
