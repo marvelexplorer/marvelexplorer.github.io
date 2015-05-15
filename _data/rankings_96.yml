@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 5
-- name: Captain America
+- name: Iron Man
   score: 4
 - name: Thing
   score: 4
-- name: Iron Man
+- name: Captain America
   score: 4
-- name: Mr. Fantastic
+- name: Doctor Doom
   score: 3
