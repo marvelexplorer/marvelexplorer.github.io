@@ -1,12 +1,12 @@
 ---
-date: '1981-09-10T00:00:00-0400'
-year: '1981'
-title: 'Amazing Spider-Man (1963) #220'
-issue: 220
+date: '2011-04-06T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself (2010) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6617/amazing_spider-man_1963_220?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Fear Itself
+url: http://marvel.com/comics/issue/39849/fear_itself_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/536bceb51d276
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f621a599bd54
   extension: jpg
