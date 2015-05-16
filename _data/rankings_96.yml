@@ -1,11 +1,11 @@
 ---
+- name: Thing
+  score: 4
 - name: Spider-Man
-  score: 4
-- name: Avengers
-  score: 4
-- name: Rogue
   score: 4
 - name: Wolverine
   score: 4
-- name: Mr. Fantastic
+- name: Rogue
+  score: 4
+- name: X-Men
   score: 3
