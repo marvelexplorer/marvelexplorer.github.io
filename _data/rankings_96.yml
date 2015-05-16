@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 5
-- name: Captain America
+- name: Rogue
   score: 4
 - name: Thing
   score: 4
-- name: Rogue
+- name: Captain America
   score: 4
-- name: Doctor Doom
+- name: Scarlet Witch
   score: 3
