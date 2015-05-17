@@ -1,11 +1,11 @@
 ---
-- name: Wolverine
-  score: 4
 - name: Thing
   score: 4
-- name: Fantastic Four
+- name: Wolverine
+  score: 4
+- name: Thor
   score: 3
 - name: Odin
   score: 3
-- name: Thor
+- name: Fantastic Four
   score: 3
