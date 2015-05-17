@@ -1,11 +1,11 @@
 ---
 - name: Thing
   score: 4
-- name: Captain America
-  score: 4
 - name: Scarlet Witch
   score: 4
-- name: Spider-Man
+- name: Captain America
+  score: 4
+- name: Avengers
   score: 3
-- name: Human Torch
+- name: Doctor Doom
   score: 3
