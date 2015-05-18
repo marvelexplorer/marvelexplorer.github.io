@@ -1,12 +1,12 @@
 ---
-date: '2008-07-02T00:00:00-0400'
-year: '2008'
-title: 'Avengers/Invaders (2008) #3'
-issue: 3
+date: '1943-01-10T00:00:00-0400'
+year: '1943'
+title: 'All-Winners Comics (1941) #7'
+issue: 7
 series:
-  period: '2008'
-  name: Avengers/Invaders
-url: http://marvel.com/comics/issue/21565/avengersinvaders_2008_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1941'
+  name: All-Winners Comics
+url: http://marvel.com/comics/issue/12572/all-winners_comics_1941_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb796cce2b71
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc3784f67a15
   extension: jpg
