@@ -1,11 +1,11 @@
 ---
+- name: X-Men
+  score: 4
 - name: Wolverine
   score: 4
-- name: Spider-Man
+- name: Odin
+  score: 3
+- name: Iron Man
   score: 3
 - name: Cannonball
-  score: 3
-- name: X-Men
-  score: 3
-- name: Mr. Fantastic
   score: 3
