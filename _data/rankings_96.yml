@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 4
-- name: Captain America
+- name: Mr. Fantastic
   score: 3
-- name: X-Men
+- name: Cannonball
   score: 3
 - name: Rogue
   score: 3
-- name: Mr. Fantastic
+- name: X-Men
   score: 3

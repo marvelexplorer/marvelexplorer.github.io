@@ -1,12 +1,12 @@
 ---
-date: '1943-01-10T00:00:00-0400'
-year: '1943'
-title: 'All-Winners Comics (1941) #7'
-issue: 7
+date: '2006-07-26T00:00:00-0400'
+year: '2006'
+title: 'Black Panther (2005) #18'
+issue: 18
 series:
-  period: '1941'
-  name: All-Winners Comics
-url: http://marvel.com/comics/issue/12572/all-winners_comics_1941_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Black Panther
+url: http://marvel.com/comics/issue/4425/black_panther_2005_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc3784f67a15
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4f71c31725f66
   extension: jpg
