@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 9
-- name: Storm
-  score: 4
 - name: Wolverine
   score: 4
-- name: Thing
+- name: Storm
+  score: 4
+- name: Cannonball
   score: 3
-- name: Captain America
+- name: Iron Man
   score: 3
