@@ -1,12 +1,12 @@
 ---
-date: '1994-01-10T00:00:00-0500'
-year: '1994'
-title: 'Cable (1993) #7'
-issue: 7
+date: '1992-11-10T00:00:00-0500'
+year: '1992'
+title: 'Cable: Blood & Metal (1992) #2'
+issue: 2
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7448/cable_1993_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1992'
+  name: 'Cable: Blood & Metal'
+url: http://marvel.com/comics/issue/23286/cable_blood_metal_1992_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/50b3fa751c674
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb583daba791
   extension: jpg
