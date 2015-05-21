@@ -1,12 +1,12 @@
 ---
-date: '1993-06-01T00:00:00-0400'
-year: '1993'
-title: 'Fantastic Four (1961) #377'
-issue: 377
+date: '1987-01-10T00:00:00-0500'
+year: '1987'
+title: 'Fantastic Four (1961) #298'
+issue: 298
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13202/fantastic_four_1961_377?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13114/fantastic_four_1961_298?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5294ec4ce70cc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/537a58c526e6d
   extension: jpg
