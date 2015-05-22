@@ -1,12 +1,12 @@
 ---
-date: '2002-01-10T00:00:00-0500'
-year: '2002'
-title: 'Fantastic Four: 1234 (2001) #4'
-issue: 4
+date: '1940-09-10T00:00:00-0400'
+year: '1940'
+title: 'Marvel Mystery Comics (1939) #11'
+issue: 11
 series:
-  period: '2001'
-  name: 'Fantastic Four: 1234'
-url: http://marvel.com/comics/issue/16084/fantastic_four_1234_2001_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16716/marvel_mystery_comics_1939_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc36a5a208d3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bb5b92cac6f7
   extension: jpg
