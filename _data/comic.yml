@@ -1,12 +1,12 @@
 ---
-date: '2008-12-31T00:00:00-0500'
+date: '2008-11-05T00:00:00-0500'
 year: '2008'
-title: 'Avengers/Invaders (2008) #7'
-issue: 7
+title: 'Adam: Legend of the Blue Marvel (2008) #1'
+issue: 1
 series:
   period: '2008'
-  name: Avengers/Invaders
-url: http://marvel.com/comics/issue/22935/avengersinvaders_2008_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: 'Adam: Legend of the Blue Marvel'
+url: http://marvel.com/comics/issue/22461/adam_legend_of_the_blue_marvel_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/4f84716fb7fbe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4f68dc90cdb37
   extension: jpg
