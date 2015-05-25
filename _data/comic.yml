@@ -1,12 +1,12 @@
 ---
-date: '2002-11-01T00:00:00-0500'
-year: '2002'
-title: 'Wolverine (1988) #181'
-issue: 181
+date: '2006-10-18T00:00:00-0400'
+year: '2006'
+title: 'Wolverine (2003) #47'
+issue: 47
 series:
-  period: '1988'
+  period: '2003'
   name: Wolverine
-url: http://marvel.com/comics/issue/14127/wolverine_1988_181?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/5200/wolverine_2003_47?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c366d609b046
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4d2503c661e32
   extension: jpg
