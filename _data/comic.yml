@@ -1,12 +1,12 @@
 ---
-date: '1989-11-10T00:00:00-0500'
-year: '1989'
-title: 'Wolverine (1988) #16'
-issue: 16
+date: '2004-02-18T00:00:00-0500'
+year: '2004'
+title: 'Wolverine/Captain America (2004) #3'
+issue: 3
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14103/wolverine_1988_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Wolverine/Captain America
+url: http://marvel.com/comics/issue/229/wolverinecaptain_america_2004_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb79df06e6a1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc6a5c39db15
   extension: jpg
