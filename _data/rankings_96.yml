@@ -1,11 +1,11 @@
 ---
-- name: Iron Man
-  score: 10
 - name: Wolverine
-  score: 10
+  score: 11
+- name: Iron Man
+  score: 9
 - name: Human Torch
   score: 4
-- name: Captain Marvel (Carol Danvers)
-  score: 3
 - name: Captain America
+  score: 3
+- name: Captain Marvel (Carol Danvers)
   score: 3
