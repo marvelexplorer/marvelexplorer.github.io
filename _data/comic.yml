@@ -1,12 +1,12 @@
 ---
-date: '2004-02-18T00:00:00-0500'
-year: '2004'
-title: 'Wolverine/Captain America (2004) #3'
-issue: 3
+date: '2011-08-31T00:00:00-0400'
+year: '2011'
+title: 'Amazing Spider-Man (1999) #668'
+issue: 668
 series:
-  period: '2004'
-  name: Wolverine/Captain America
-url: http://marvel.com/comics/issue/229/wolverinecaptain_america_2004_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/35532/amazing_spider-man_1999_668?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc6a5c39db15
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ea039e1770af
   extension: jpg

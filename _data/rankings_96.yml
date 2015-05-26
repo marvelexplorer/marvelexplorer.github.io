@@ -1,7 +1,7 @@
 ---
-- name: Iron Man
-  score: 10
 - name: Wolverine
+  score: 11
+- name: Iron Man
   score: 10
 - name: Captain Marvel (Carol Danvers)
   score: 4
