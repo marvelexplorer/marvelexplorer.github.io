@@ -1,12 +1,12 @@
 ---
-date: '2005-03-23T00:00:00-0500'
-year: '2005'
-title: 'Wolverine: Soultaker (2005) #2'
-issue: 2
+date: '2006-07-26T00:00:00-0400'
+year: '2006'
+title: 'Black Panther (2005) #18'
+issue: 18
 series:
   period: '2005'
-  name: 'Wolverine: Soultaker'
-url: http://marvel.com/comics/issue/1724/wolverine_soultaker_2005_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Black Panther
+url: http://marvel.com/comics/issue/4425/black_panther_2005_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc35efd6a4c9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4f71c31725f66
   extension: jpg
