@@ -3,9 +3,9 @@
   score: 9
 - name: Wolverine
   score: 8
-- name: Human Torch
-  score: 4
 - name: Captain America
+  score: 4
+- name: Human Torch
   score: 4
 - name: Storm
   score: 3
