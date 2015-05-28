@@ -1,11 +1,11 @@
 ---
-- name: Wolverine
-  score: 9
 - name: Iron Man
+  score: 9
+- name: Wolverine
   score: 9
 - name: Captain America
   score: 4
 - name: Human Torch
   score: 4
-- name: Beast
+- name: Storm
   score: 3
