@@ -1,12 +1,12 @@
 ---
-date: '2007-12-19T00:00:00-0500'
-year: '2007'
-title: 'Wolverine: Firebreak One-Shot (2007) #1'
-issue: 1
+date: '2004-07-21T00:00:00-0400'
+year: '2004'
+title: 'Wolverine (2003) #17'
+issue: 17
 series:
-  period: '2007'
-  name: 'Wolverine: Firebreak One-Shot'
-url: http://marvel.com/comics/issue/17422/wolverine_firebreak_one-shot_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/527/wolverine_2003_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc38a2da9b8e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/51ed62fc7538f
   extension: jpg
