@@ -1,12 +1,12 @@
 ---
-date: '1969-03-10T00:00:00-0500'
-year: '1969'
-title: 'Avengers (1963) #62'
-issue: 62
+date: '1999-12-01T00:00:00-0500'
+year: '1999'
+title: 'Earth X (1999) #9'
+issue: 9
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7313/avengers_1963_62?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8559/earth_x_1999_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4d49e24cae34d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb7c18d95c43
   extension: jpg
