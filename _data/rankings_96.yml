@@ -1,10 +1,10 @@
 ---
 - name: Cyclops
   score: 7
-- name: Wolverine
-  score: 7
 - name: Iron Man
   score: 7
+- name: Wolverine
+  score: 6
 - name: Beast
   score: 4
 - name: Captain America
