@@ -1,12 +1,12 @@
 ---
-date: '2011-10-12T00:00:00-0400'
-year: '2011'
-title: 'Amazing Spider-Man (1999) #671'
-issue: 671
+date: '2007-11-14T00:00:00-0500'
+year: '2007'
+title: 'Spider-Man, Peter Parker: Back in Black (2007)'
+issue: 0
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/35527/amazing_spider-man_1999_671?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/17331/spider-man_peter_parker_back_in_black_2007?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/40/4e86185554d57
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc5a6ee730cd
   extension: jpg
