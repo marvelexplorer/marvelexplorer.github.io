@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 8
+- name: Daredevil
+  score: 4
 - name: Wolverine
   score: 4
-- name: Beast
-  score: 3
 - name: Iron Man
   score: 3
-- name: Daredevil
+- name: Avengers
   score: 3
