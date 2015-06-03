@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
-  score: 37
+  score: 36
 - name: Wolverine
   score: 34
 - name: Captain America
   score: 22
 - name: X-Men
   score: 21
-- name: Human Torch
+- name: Spider-Man
   score: 17
