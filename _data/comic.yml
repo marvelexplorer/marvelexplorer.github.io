@@ -1,12 +1,12 @@
 ---
-date: '1991-06-10T00:00:00-0400'
-year: '1991'
-title: 'Fantastic Four (1961) #351'
-issue: 351
+date: '1997-03-01T00:00:00-0500'
+year: '1997'
+title: 'Fantastic Four (1996) #5'
+issue: 5
 series:
-  period: '1961'
+  period: '1996'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13174/fantastic_four_1961_351?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13320/fantastic_four_1996_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/5230c161527ca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc335ceb8206
   extension: jpg
