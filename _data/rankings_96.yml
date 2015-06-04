@@ -1,9 +1,9 @@
 ---
 - name: Spider-Man
   score: 9
-- name: Archangel
-  score: 4
 - name: Wolverine
+  score: 4
+- name: Archangel
   score: 4
 - name: Daredevil
   score: 3
