@@ -1,12 +1,12 @@
 ---
-date: '2009-10-28T00:00:00-0400'
-year: '2009'
-title: 'Wolverine: First Class (2008) #20'
-issue: 20
+date: '2010-07-28T00:00:00-0400'
+year: '2010'
+title: 'Wolverine Weapon X (2009) #15'
+issue: 15
 series:
-  period: '2008'
-  name: 'Wolverine: First Class'
-url: http://marvel.com/comics/issue/27178/wolverine_first_class_2008_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Wolverine Weapon X
+url: http://marvel.com/comics/issue/30648/wolverine_weapon_x_2009_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/40/4bb42ab38c2aa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/51e43e45bc14d
   extension: jpg
