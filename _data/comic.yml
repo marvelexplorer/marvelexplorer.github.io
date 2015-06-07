@@ -1,12 +1,12 @@
 ---
-date: '2011-04-20T00:00:00-0400'
-year: '2011'
-title: 'Wolverine (2010) #8'
-issue: 8
+date: '1988-08-10T00:00:00-0400'
+year: '1988'
+title: 'Classic X-Men (1986) #24'
+issue: 24
 series:
-  period: '2010'
-  name: Wolverine
-url: http://marvel.com/comics/issue/30234/wolverine_2010_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20579/classic_x-men_1986_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/51ee979117cac
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb67ad55d009
   extension: jpg
