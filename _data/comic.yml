@@ -1,12 +1,12 @@
 ---
-date: '1999-04-01T00:00:00-0500'
-year: '1999'
-title: 'Magneto Rex (1999) #1'
-issue: 1
+date: '2011-05-04T00:00:00-0400'
+year: '2011'
+title: 'Uncanny X-Force (2010) #9'
+issue: 9
 series:
-  period: '1999'
-  name: Magneto Rex
-url: http://marvel.com/comics/issue/9999/magneto_rex_1999_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Uncanny X-Force
+url: http://marvel.com/comics/issue/32597/uncanny_x-force_2010_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc35ee3ad796
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4db9af067bf93
   extension: jpg
