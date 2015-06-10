@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 11
-- name: Wolverine
-  score: 5
 - name: Nightcrawler
+  score: 5
+- name: Wolverine
   score: 5
 - name: Emma Frost
   score: 4
-- name: Iron Man
+- name: Gambit
   score: 3
