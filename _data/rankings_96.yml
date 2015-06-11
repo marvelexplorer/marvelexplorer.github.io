@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 11
-- name: Archangel
+- name: Wolverine
   score: 4
 - name: Human Torch
   score: 4
-- name: Emma Frost
+- name: Archangel
   score: 4
-- name: Nightcrawler
+- name: Emma Frost
   score: 4
