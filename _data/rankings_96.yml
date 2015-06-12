@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 8
-- name: Nightcrawler
-  score: 4
+  score: 7
 - name: Storm (Ultimate)
+  score: 5
+- name: Jean Grey (Ultimate)
   score: 4
 - name: Emma Frost
   score: 4
-- name: Jean Grey (Ultimate)
+- name: Nightcrawler
   score: 4
