@@ -1,12 +1,12 @@
 ---
-date: '2005-10-12T00:00:00-0400'
-year: '2005'
-title: 'Ultimate X-Men (2000) #64'
-issue: 64
+date: '2010-12-22T00:00:00-0500'
+year: '2010'
+title: 'Ultimate Comics Spider-Man (2009) #151'
+issue: 151
 series:
-  period: '2000'
-  name: Ultimate X-Men
-url: http://marvel.com/comics/issue/2476/ultimate_x-men_2000_64?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Ultimate Comics Spider-Man
+url: http://marvel.com/comics/issue/37460/ultimate_comics_spider-man_2009_151?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc62076cb07f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/4c90ed9b678a9
   extension: jpg
