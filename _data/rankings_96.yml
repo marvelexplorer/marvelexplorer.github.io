@@ -1,9 +1,9 @@
 ---
 - name: Storm (Ultimate)
   score: 11
-- name: Jean Grey (Ultimate)
-  score: 8
 - name: Iceman (Ultimate)
+  score: 8
+- name: Jean Grey (Ultimate)
   score: 8
 - name: Beast (Ultimate)
   score: 8
