@@ -1,11 +1,11 @@
 ---
+- name: Storm (Ultimate)
+  score: 12
 - name: Beast (Ultimate)
   score: 12
-- name: Storm (Ultimate)
-  score: 11
 - name: Cyclops (Ultimate)
   score: 10
 - name: Iceman (Ultimate)
   score: 9
 - name: X-Men (Ultimate)
-  score: 8
+  score: 7
