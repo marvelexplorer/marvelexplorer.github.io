@@ -6,7 +6,7 @@ issue: 101
 series:
   period: '2000'
   name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/5218/ultimate_spider-man_2000_101?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/5218/ultimate_spider-man_2000_101?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
   path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bc5c4a2b0ef8
   extension: jpg
