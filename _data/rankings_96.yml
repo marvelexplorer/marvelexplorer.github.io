@@ -1,11 +1,11 @@
 ---
 - name: Storm (Ultimate)
-  score: 12
+  score: 11
 - name: Beast (Ultimate)
   score: 11
 - name: Spider-Man (Ultimate)
   score: 9
-- name: Iceman (Ultimate)
-  score: 5
 - name: X-Men (Ultimate)
+  score: 5
+- name: Iceman (Ultimate)
   score: 5
