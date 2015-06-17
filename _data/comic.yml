@@ -1,12 +1,12 @@
 ---
-date: '2008-03-26T00:00:00-0400'
-year: '2008'
-title: 'Ultimate Human (2008) #3'
-issue: 3
+date: '2005-12-21T00:00:00-0500'
+year: '2005'
+title: 'Ultimate Wolverine Vs. Hulk (2005) #1'
+issue: 1
 series:
-  period: '2008'
-  name: Ultimate Human
-url: http://marvel.com/comics/issue/20898/ultimate_human_2008_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Ultimate Wolverine Vs. Hulk
+url: http://marvel.com/comics/issue/3227/ultimate_wolverine_vs_hulk_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bb88f1436098
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/10/4bc60cba20a80
   extension: jpg
