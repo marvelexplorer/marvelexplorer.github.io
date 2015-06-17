@@ -1,12 +1,12 @@
 ---
-date: '2002-03-10T00:00:00-0500'
-year: '2002'
-title: 'Ultimate Spider-Man (2000) #17'
-issue: 17
+date: '2011-11-09T00:00:00-0500'
+year: '2011'
+title: 'Ultimate Comics Spider-Man (2011) #4'
+issue: 4
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/14843/ultimate_spider-man_2000_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Ultimate Comics Spider-Man
+url: http://marvel.com/comics/issue/38400/ultimate_comics_spider-man_2011_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bc362f3ca110
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4eaef0f455358
   extension: jpg
