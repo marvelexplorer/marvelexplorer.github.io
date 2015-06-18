@@ -1,12 +1,12 @@
 ---
-date: '2011-07-13T00:00:00-0400'
-year: '2011'
-title: 'Ultimate Fallout (2011) #1'
-issue: 1
+date: '2005-06-08T00:00:00-0400'
+year: '2005'
+title: 'Ultimate Spider-Man (2000) #78'
+issue: 78
 series:
-  period: '2011'
-  name: Ultimate Fallout
-url: http://marvel.com/comics/issue/39967/ultimate_fallout_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Ultimate Spider-Man
+url: http://marvel.com/comics/issue/2078/ultimate_spider-man_2000_78?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4d9f3375c8811
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4bc63560c6928
   extension: jpg
