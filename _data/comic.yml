@@ -1,12 +1,12 @@
 ---
-date: '2007-11-21T00:00:00-0500'
-year: '2007'
-title: 'New X-Men (2004) #44'
-issue: 44
+date: '2011-09-21T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself: Youth in Revolt (2011) #5'
+issue: 5
 series:
-  period: '2004'
-  name: New X-Men
-url: http://marvel.com/comics/issue/17223/new_x-men_2004_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Fear Itself: Youth in Revolt'
+url: http://marvel.com/comics/issue/38444/fear_itself_youth_in_revolt_2011_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/513a89a587330
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/80/4e77803989dc4
   extension: jpg
