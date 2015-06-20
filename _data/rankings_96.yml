@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man (Ultimate)
   score: 14
-- name: Doctor Octopus (Ultimate)
-  score: 6
 - name: Beast (Ultimate)
+  score: 6
+- name: Doctor Octopus (Ultimate)
   score: 6
 - name: Storm (Ultimate)
   score: 5
-- name: X-23
+- name: X-Men (Ultimate)
   score: 3
