@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man (Ultimate)
   score: 10
-- name: Doctor Octopus (Ultimate)
-  score: 6
 - name: Captain America
+  score: 6
+- name: Doctor Octopus (Ultimate)
   score: 6
 - name: Thing
   score: 3
-- name: Spider-Man
+- name: X-23
   score: 3
