@@ -1,12 +1,12 @@
 ---
-date: '2003-01-10T00:00:00-0500'
-year: '2003'
-title: 'The Call of Duty: The Precinct (2002) #5'
-issue: 5
+date: '2011-09-21T00:00:00-0400'
+year: '2011'
+title: 'X-Factor (2005) #225'
+issue: 225
 series:
-  period: '2002'
-  name: 'The Call of Duty: The Precinct'
-url: http://marvel.com/comics/issue/18767/the_call_of_duty_the_precinct_2002_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: X-Factor
+url: http://marvel.com/comics/issue/35275/x-factor_2005_225?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bb6dba881196
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/4e7393b68f84f
   extension: jpg
