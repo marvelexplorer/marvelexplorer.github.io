@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 7
-- name: X-Men
-  score: 6
 - name: Spider-Man
+  score: 6
+- name: X-Men
   score: 6
 - name: Human Torch
   score: 4
-- name: Daredevil
+- name: Invisible Woman
   score: 3
