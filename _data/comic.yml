@@ -1,12 +1,12 @@
 ---
-date: '2006-02-15T00:00:00-0500'
-year: '2006'
-title: 'Punisher Vs. Bullseye (2005) #4'
-issue: 4
+date: '2003-09-01T00:00:00-0400'
+year: '2003'
+title: 'Daredevil (1998) #49'
+issue: 49
 series:
-  period: '2005'
-  name: Punisher Vs. Bullseye
-url: http://marvel.com/comics/issue/3469/punisher_vs_bullseye_2005_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15652/daredevil_1998_49?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bc604a803a3f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bb3cb24bd2d7
   extension: jpg
