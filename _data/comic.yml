@@ -1,12 +1,12 @@
 ---
-date: '1990-02-10T00:00:00-0500'
-year: '1990'
-title: 'Fantastic Four (1961) #335'
-issue: 335
+date: '2009-04-29T00:00:00-0400'
+year: '2009'
+title: 'Avengers/Invaders (2008) #10'
+issue: 10
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13156/fantastic_four_1961_335?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Avengers/Invaders
+url: http://marvel.com/comics/issue/23975/avengersinvaders_2008_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c366a37c4d3a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4f84795eb9257
   extension: jpg
