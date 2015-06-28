@@ -1,12 +1,12 @@
 ---
-date: '1991-07-20T00:00:00-0400'
-year: '1991'
-title: 'Captain America (1968) #388'
-issue: 388
+date: '1999-02-10T00:00:00-0500'
+year: '1999'
+title: 'Captain America (1998) #14'
+issue: 14
 series:
-  period: '1968'
+  period: '1998'
   name: Captain America
-url: http://marvel.com/comics/issue/7769/captain_america_1968_388?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/12772/captain_america_1998_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/5294f641587bf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/50b3b8ec3fdc5
   extension: jpg
