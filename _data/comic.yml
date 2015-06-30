@@ -1,12 +1,12 @@
 ---
-date: '1973-08-10T00:00:00-0400'
-year: '1973'
-title: 'Incredible Hulk (1962) #166'
-issue: 166
+date: '2004-10-06T00:00:00-0400'
+year: '2004'
+title: 'Hulk & Thing: Hard Knocks (2004) #2'
+issue: 2
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/8977/incredible_hulk_1962_166?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: 'Hulk & Thing: Hard Knocks'
+url: http://marvel.com/comics/issue/865/hulk_thing_hard_knocks_2004_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5284ea82357da
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bc6768b7cacb
   extension: jpg
