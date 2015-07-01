@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 6
-- name: Captain America
+- name: Hulk
   score: 4
-- name: X-Men
+- name: Captain America
   score: 4
 - name: Thor
   score: 4
-- name: Cyclops
+- name: X-Men
   score: 4
