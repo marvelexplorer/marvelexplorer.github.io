@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
   score: 8
-- name: Bishop
-  score: 3
 - name: Hulk
   score: 3
 - name: Cyclops
+  score: 3
+- name: Bishop
   score: 3
 - name: Avengers
   score: 3
