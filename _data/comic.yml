@@ -1,12 +1,12 @@
 ---
-date: '1984-09-10T00:00:00-0400'
-year: '1984'
-title: 'Thor (1966) #347'
-issue: 347
+date: '2007-11-14T00:00:00-0500'
+year: '2007'
+title: 'Marvel Adventures Hulk (2007) #5'
+issue: 5
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11675/thor_1966_347?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Marvel Adventures Hulk
+url: http://marvel.com/comics/issue/17267/marvel_adventures_hulk_2007_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4bb4fd55eec9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4f63a12ba2860
   extension: jpg
