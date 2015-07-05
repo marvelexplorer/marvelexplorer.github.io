@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
-  score: 8
+  score: 9
 - name: Hulk
   score: 4
-- name: Spider-Man
-  score: 3
 - name: Thor
+  score: 3
+- name: Spider-Man
   score: 3
 - name: Avengers
   score: 3
