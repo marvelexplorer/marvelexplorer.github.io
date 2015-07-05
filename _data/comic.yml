@@ -1,12 +1,12 @@
 ---
-date: '2002-03-01T00:00:00-0500'
-year: '2002'
-title: 'Black Panther (1998) #40'
-issue: 40
+date: '2011-08-24T00:00:00-0400'
+year: '2011'
+title: 'The Iron Age: Omega (2010) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Black Panther
-url: http://marvel.com/comics/issue/12609/black_panther_1998_40?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'The Iron Age: Omega'
+url: http://marvel.com/comics/issue/35106/the_iron_age_omega_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc34c693f278
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4dd19113bc8a0
   extension: jpg
