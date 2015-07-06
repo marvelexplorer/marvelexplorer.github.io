@@ -1,12 +1,12 @@
 ---
-date: '1979-01-03T00:00:00-0500'
-year: '1979'
-title: 'X-Men Annual (1970) #3'
+date: '1983-05-10T00:00:00-0400'
+year: '1983'
+title: 'New Mutants (1983) #3'
 issue: 3
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12363/x-men_annual_1970_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1983'
+  name: New Mutants
+url: http://marvel.com/comics/issue/10366/new_mutants_1983_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4f675b712d861
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc473af60bdd
   extension: jpg
