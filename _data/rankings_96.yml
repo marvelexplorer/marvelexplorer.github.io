@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
   score: 8
-- name: Avengers
+- name: Colossus
   score: 4
+- name: Avengers
+  score: 3
 - name: Hulk
   score: 3
 - name: Fantastic Four
-  score: 3
-- name: Spider-Man
   score: 3
