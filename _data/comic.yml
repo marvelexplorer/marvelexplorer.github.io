@@ -1,12 +1,12 @@
 ---
-date: '2008-01-09T00:00:00-0500'
-year: '2008'
-title: 'Mighty Avengers (2007) #7'
-issue: 7
+date: '2000-01-10T00:00:00-0500'
+year: '2000'
+title: 'Iron Man (1998) #24'
+issue: 24
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/17247/mighty_avengers_2007_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19896/iron_man_1998_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4d24f3d7dbe4d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/50b3af37f3ffa
   extension: jpg
