@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 6
-- name: Spider-Man
-  score: 5
 - name: Colossus
   score: 5
-- name: Captain Marvel (Carol Danvers)
+- name: Spider-Man
+  score: 5
+- name: Fantastic Four
   score: 3
 - name: Storm
   score: 3
