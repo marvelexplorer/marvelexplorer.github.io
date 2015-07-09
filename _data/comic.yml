@@ -1,12 +1,12 @@
 ---
-date: '1967-07-10T00:00:00-0400'
-year: '1967'
-title: 'Daredevil (1963) #30'
-issue: 30
+date: '2005-03-23T00:00:00-0500'
+year: '2005'
+title: 'New Avengers (2004) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8296/daredevil_1963_30?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/1628/new_avengers_2004_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4f67595d475c8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4f7dabc27bd16
   extension: jpg
