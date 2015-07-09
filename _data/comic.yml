@@ -1,12 +1,12 @@
 ---
-date: '2005-03-23T00:00:00-0500'
-year: '2005'
-title: 'New Avengers (2004) #4'
-issue: 4
+date: '1968-02-10T00:00:00-0500'
+year: '1968'
+title: 'Tales of Suspense (1959) #98'
+issue: 98
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/1628/new_avengers_2004_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11345/tales_of_suspense_1959_98?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4f7dabc27bd16
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/536d45752f417
   extension: jpg
