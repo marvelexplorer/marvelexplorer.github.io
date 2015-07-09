@@ -1,12 +1,12 @@
 ---
-date: '2011-01-05T00:00:00-0500'
-year: '2011'
-title: 'Wolverine: The Best There Is (2011) #2'
-issue: 2
+date: '1996-08-10T00:00:00-0400'
+year: '1996'
+title: 'Iron Man (1968) #331'
+issue: 331
 series:
-  period: '2011'
-  name: 'Wolverine: The Best There Is'
-url: http://marvel.com/comics/issue/34694/wolverine_the_best_there_is_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9585/iron_man_1968_331?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f68aeae1068a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5148b96c2128c
   extension: jpg
