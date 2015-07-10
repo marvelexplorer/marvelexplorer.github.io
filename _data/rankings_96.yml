@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
-  score: 8
+  score: 7
 - name: Iron Man
   score: 6
 - name: Storm
   score: 4
-- name: Iron Patriot (James Rhodes)
-  score: 3
 - name: Colossus
+  score: 4
+- name: Iron Patriot (James Rhodes)
   score: 3
