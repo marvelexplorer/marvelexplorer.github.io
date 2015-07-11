@@ -1,7 +1,7 @@
 ---
-- name: Wolverine
-  score: 23
 - name: Iron Man
+  score: 23
+- name: Wolverine
   score: 23
 - name: Storm (Ultimate)
   score: 19
