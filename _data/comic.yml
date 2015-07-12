@@ -1,12 +1,12 @@
 ---
-date: '2012-04-11T00:00:00-0400'
-year: '2012'
-title: 'Avenging Spider-Man (2011) #6'
-issue: 6
+date: '1967-08-10T00:00:00-0400'
+year: '1967'
+title: 'Daredevil (1963) #31'
+issue: 31
 series:
-  period: '2011'
-  name: Avenging Spider-Man
-url: http://marvel.com/comics/issue/39253/avenging_spider-man_2011_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8307/daredevil_1963_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/4f0f50c8725c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc36f8ce128b
   extension: jpg
