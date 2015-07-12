@@ -1,12 +1,12 @@
 ---
-date: '1999-01-10T00:00:00-0500'
-year: '1999'
-title: 'Thor (1998) #7'
-issue: 7
+date: '2009-11-18T00:00:00-0500'
+year: '2009'
+title: 'Mighty Avengers (2007) #31'
+issue: 31
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18697/thor_1998_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/25975/mighty_avengers_2007_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4d24dc43ade7d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f7c94a00e459
   extension: jpg
