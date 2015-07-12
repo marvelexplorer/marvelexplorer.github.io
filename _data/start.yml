@@ -1,7 +1,9 @@
 ---
-name: Defenders
-description: ''
-url: http://marvel.com/universe/Defenders?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Guardians of the Galaxy
+description: A group of cosmic adventurers brought together by Star-Lord, the  Guardians
+  of the Galaxy protect the universe from threats all  across space. The team also
+  includes Drax, Gamora, Groot and Rocket  Raccoon!
+url: http://marvel.com/universe/Guardians_of_the_Galaxy?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/526031e9c785a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/50febd8be6b5d
   extension: jpg
