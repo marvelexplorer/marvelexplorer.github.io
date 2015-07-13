@@ -1,11 +1,11 @@
 ---
-- name: Iron Man
-  score: 24
 - name: Wolverine
+  score: 24
+- name: Iron Man
   score: 24
 - name: Spider-Man
   score: 18
-- name: Beast (Ultimate)
-  score: 16
 - name: Storm (Ultimate)
   score: 16
+- name: Captain America
+  score: 15
