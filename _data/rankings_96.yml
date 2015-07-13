@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
   score: 6
-- name: Wolverine
-  score: 4
 - name: Thor
   score: 4
-- name: Human Torch
+- name: Wolverine
+  score: 4
+- name: Iron Patriot (James Rhodes)
   score: 3
-- name: Storm
+- name: Human Torch
   score: 3
