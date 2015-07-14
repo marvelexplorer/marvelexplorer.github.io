@@ -1,11 +1,11 @@
 ---
-- name: Mr. Fantastic
+- name: Iron Man
   score: 4
-- name: Wolverine
+- name: Mr. Fantastic
   score: 4
 - name: Thor
   score: 4
-- name: Iron Man
-  score: 4
+- name: Hulk
+  score: 3
 - name: Cyclops
   score: 3

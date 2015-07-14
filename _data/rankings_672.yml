@@ -1,11 +1,11 @@
 ---
-- name: Iron Man
-  score: 24
 - name: Wolverine
+  score: 24
+- name: Iron Man
   score: 24
 - name: Spider-Man
   score: 18
 - name: Captain America
   score: 15
-- name: Mr. Fantastic
+- name: Hulk
   score: 14
