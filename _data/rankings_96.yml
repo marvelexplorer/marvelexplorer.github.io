@@ -1,11 +1,11 @@
 ---
-- name: Mr. Fantastic
-  score: 4
 - name: Thor
+  score: 4
+- name: Mr. Fantastic
   score: 4
 - name: Avengers
   score: 3
 - name: Fantastic Four
   score: 3
-- name: Hulk
+- name: Human Torch
   score: 3
