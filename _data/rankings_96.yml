@@ -1,11 +1,11 @@
 ---
+- name: Mr. Fantastic
+  score: 4
 - name: Thor
   score: 4
 - name: Wolverine
   score: 4
-- name: Mr. Fantastic
-  score: 4
-- name: Invisible Woman
+- name: Thing
   score: 3
-- name: Iron Man
+- name: Hulk
   score: 3
