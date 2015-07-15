@@ -1,11 +1,11 @@
 ---
 - name: Thor
   score: 5
-- name: Avengers
-  score: 4
 - name: Mr. Fantastic
   score: 4
-- name: Beast
+- name: Avengers
+  score: 4
+- name: Thing
   score: 3
 - name: Wolverine
   score: 3
