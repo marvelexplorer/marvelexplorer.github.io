@@ -1,11 +1,11 @@
 ---
-- name: Thor
-  score: 4
 - name: Mr. Fantastic
   score: 4
-- name: Invisible Woman
+- name: Thor
+  score: 4
+- name: Wolverine
   score: 3
-- name: Iron Man
+- name: Human Torch
   score: 3
-- name: Fantastic Four
+- name: Beast
   score: 3
