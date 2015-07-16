@@ -1,11 +1,11 @@
 ---
 - name: Fantastic Four
   score: 5
-- name: Avengers
-  score: 4
 - name: Wolverine
   score: 4
 - name: Human Torch
   score: 4
-- name: Mr. Fantastic
+- name: Avengers
+  score: 4
+- name: Beast
   score: 3
