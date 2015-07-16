@@ -1,11 +1,11 @@
 ---
-- name: Fantastic Four
-  score: 5
 - name: Wolverine
   score: 5
-- name: Human Torch
-  score: 4
+- name: Fantastic Four
+  score: 5
 - name: Nightcrawler
   score: 4
-- name: Avengers
+- name: Human Torch
+  score: 4
+- name: X-Men
   score: 3
