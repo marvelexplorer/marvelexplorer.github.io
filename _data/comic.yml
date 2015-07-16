@@ -1,12 +1,12 @@
 ---
-date: '2002-07-01T00:00:00-0400'
-year: '2002'
-title: 'Daredevil (1998) #33'
-issue: 33
+date: '1972-01-10T00:00:00-0500'
+year: '1972'
+title: 'Daredevil (1963) #83'
+issue: 83
 series:
-  period: '1998'
+  period: '1963'
   name: Daredevil
-url: http://marvel.com/comics/issue/15635/daredevil_1998_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/8435/daredevil_1963_83?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bb79dffc4e41
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/90/557849b99094a
   extension: jpg
