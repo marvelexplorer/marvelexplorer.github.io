@@ -1,11 +1,11 @@
 ---
 - name: Fantastic Four
   score: 5
-- name: Thor
+- name: Avengers
+  score: 4
+- name: Wolverine
   score: 4
 - name: Human Torch
   score: 4
-- name: Avengers
-  score: 4
-- name: Ares
+- name: Hercules
   score: 3
