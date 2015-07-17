@@ -1,12 +1,12 @@
 ---
-date: '2002-03-01T00:00:00-0500'
-year: '2002'
-title: 'Avengers (1998) #50'
-issue: 50
+date: '2012-03-07T00:00:00-0500'
+year: '2012'
+title: 'Marvel''s The Avengers Prelude: Fury''s Big Week (2011) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17535/avengers_1998_50?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Marvel''s The Avengers Prelude: Fury''s Big Week'
+url: http://marvel.com/comics/issue/41338/marvels_the_avengers_prelude_furys_big_week_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4c7d47a5320c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4ee26c025e27e
   extension: jpg
