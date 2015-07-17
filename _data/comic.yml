@@ -1,12 +1,12 @@
 ---
-date: '1997-05-01T00:00:00-0400'
-year: '1997'
-title: 'Iron Man (1996) #7'
-issue: 7
+date: '2008-06-04T00:00:00-0400'
+year: '2008'
+title: 'Wolverine: Dangerous Games (2008) #1'
+issue: 1
 series:
-  period: '1996'
-  name: Iron Man
-url: http://marvel.com/comics/issue/16338/iron_man_1996_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: 'Wolverine: Dangerous Games'
+url: http://marvel.com/comics/issue/21384/wolverine_dangerous_games_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f7ef8c422141
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb7c7f0528a3
   extension: jpg
