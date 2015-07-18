@@ -1,11 +1,11 @@
 ---
-- name: X-Men
-  score: 6
 - name: Wolverine
+  score: 6
+- name: X-Men
   score: 6
 - name: Nightcrawler
   score: 4
-- name: Quicksilver
-  score: 3
 - name: Colossus
+  score: 4
+- name: Beast
   score: 3
