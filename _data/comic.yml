@@ -1,12 +1,12 @@
 ---
-date: '1941-04-10T00:00:00-0500'
-year: '1941'
-title: 'Human Torch (1940) #4'
-issue: 4
+date: '1996-08-10T00:00:00-0400'
+year: '1996'
+title: 'Uncanny X-Men (1963) #335'
+issue: 335
 series:
-  period: '1940'
-  name: Human Torch
-url: http://marvel.com/comics/issue/8899/human_torch_1940_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13876/uncanny_x-men_1963_335?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc36ff14c630
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bb8546c124e8
   extension: jpg
