@@ -1,12 +1,12 @@
 ---
-date: '1994-11-01T00:00:00-0500'
-year: '1994'
-title: 'X-Factor (1986) #108'
-issue: 108
+date: '1997-10-10T00:00:00-0400'
+year: '1997'
+title: 'Avengers (1996) #12'
+issue: 12
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12184/x-factor_1986_108?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1996'
+  name: Avengers
+url: http://marvel.com/comics/issue/17754/avengers_1996_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/53f4f00835f8d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6dcd619d2c
   extension: jpg
