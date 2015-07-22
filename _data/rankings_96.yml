@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
   score: 6
-- name: Nick Fury
-  score: 4
 - name: X-Men
+  score: 4
+- name: Nick Fury
   score: 4
 - name: Wolverine
   score: 4
-- name: Archangel
+- name: Captain America
   score: 3
