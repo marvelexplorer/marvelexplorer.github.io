@@ -1,9 +1,7 @@
 ---
-name: Super-Skrull
-description: After the Fantastic Four stopped the Skrulls' attempted invasion of Earth,
-  Skrull Emperor Dorrek invested vast resources into creating a superbeing of his
-  own.
-url: http://marvel.com/universe/Super-Skrull?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Doctor Doom
+description: ''
+url: http://marvel.com/universe/Doctor_Doom_%28Victor_von_Doom%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/53176bb096d17
   extension: jpg
