@@ -1,11 +1,11 @@
 ---
-- name: Wolverine
+- name: Iron Man
   score: 4
 - name: Archangel
   score: 4
-- name: Iron Man
+- name: Wolverine
   score: 4
 - name: Cyclops
   score: 3
-- name: Fantastic Four
+- name: Captain America
   score: 3
