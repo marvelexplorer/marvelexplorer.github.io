@@ -1,12 +1,12 @@
 ---
-date: '2006-06-28T00:00:00-0400'
+date: '2006-10-11T00:00:00-0400'
 year: '2006'
-title: 'Amazing Spider-Man (1999) #533'
-issue: 533
+title: 'Wolverine Origins (2006) #7'
+issue: 7
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/4277/amazing_spider-man_1999_533?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/5255/wolverine_origins_2006_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4f68e5bf81a7c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4d251932ec3e5
   extension: jpg
