@@ -1,11 +1,11 @@
 ---
 - name: Archangel
   score: 4
-- name: Beast
-  score: 4
 - name: Thor
+  score: 4
+- name: Beast
   score: 4
 - name: X-Men
   score: 3
-- name: Wolverine
+- name: Invisible Woman
   score: 3
