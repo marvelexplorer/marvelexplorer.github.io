@@ -1,11 +1,11 @@
 ---
-- name: Archangel
+- name: Iron Man
   score: 4
 - name: Beast
   score: 4
 - name: Thor
   score: 4
-- name: Wolverine
-  score: 3
-- name: Iron Man
+- name: Archangel
+  score: 4
+- name: Doctor Strange
   score: 3
