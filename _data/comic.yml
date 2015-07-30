@@ -1,12 +1,12 @@
 ---
-date: '2007-06-20T00:00:00-0400'
-year: '2007'
-title: 'X-Men: Endangered Species (2007) #1'
-issue: 1
+date: '1980-08-10T00:00:00-0400'
+year: '1980'
+title: 'Uncanny X-Men (1963) #136'
+issue: 136
 series:
-  period: '2007'
-  name: 'X-Men: Endangered Species'
-url: http://marvel.com/comics/issue/15874/x-men_endangered_species_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12454/uncanny_x-men_1963_136?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bc49468e60ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/5372a9060f169
   extension: jpg
