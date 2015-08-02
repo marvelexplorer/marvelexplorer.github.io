@@ -1,12 +1,12 @@
 ---
-date: '1979-05-10T00:00:00-0400'
-year: '1979'
-title: 'Uncanny X-Men (1963) #121'
-issue: 121
+date: '2011-10-12T00:00:00-0400'
+year: '2011'
+title: 'Alpha Flight (2011) #5'
+issue: 5
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12438/uncanny_x-men_1963_121?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Alpha Flight
+url: http://marvel.com/comics/issue/38568/alpha_flight_2011_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/5372adb16cb47
+  path: http://i.annihil.us/u/prod/marvel/i/mg/0/03/4e861404061d4
   extension: jpg
