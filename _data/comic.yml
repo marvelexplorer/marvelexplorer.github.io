@@ -1,12 +1,12 @@
 ---
-date: '2004-07-28T00:00:00-0400'
-year: '2004'
-title: 'Astonishing X-Men (2004) #3'
-issue: 3
+date: '1974-12-10T00:00:00-0500'
+year: '1974'
+title: 'Incredible Hulk (1962) #182'
+issue: 182
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/531/astonishing_x-men_2004_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/8993/incredible_hulk_1962_182?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/519681495c52e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/4f5683f6ea6fc
   extension: jpg
