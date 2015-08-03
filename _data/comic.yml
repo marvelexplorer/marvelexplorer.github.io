@@ -1,12 +1,12 @@
 ---
-date: '1999-09-01T00:00:00-0400'
+date: '1999-01-20T00:00:00-0500'
 year: '1999'
-title: 'Earth X (1999) #6'
-issue: 6
+title: 'Uncanny X-Men (1963) #364'
+issue: 364
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8556/earth_x_1999_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13905/uncanny_x-men_1963_364?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bb6778e51c83
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/10/51153adadb3b0
   extension: jpg
