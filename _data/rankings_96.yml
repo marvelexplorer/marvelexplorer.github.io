@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
-  score: 8
-- name: X-Men
-  score: 6
+  score: 9
 - name: Human Torch
+  score: 6
+- name: X-Men
   score: 6
 - name: Fantastic Four
   score: 4
-- name: Runaways
+- name: Nick Fury
   score: 3
