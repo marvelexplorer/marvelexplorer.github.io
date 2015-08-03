@@ -1,11 +1,11 @@
 ---
-- name: Human Torch
-  score: 8
 - name: Wolverine
   score: 8
-- name: X-Men
+- name: Human Torch
+  score: 8
+- name: Hulk
   score: 4
 - name: Fantastic Four
   score: 4
-- name: Wasp
-  score: 3
+- name: X-Men
+  score: 4
