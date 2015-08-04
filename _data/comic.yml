@@ -1,12 +1,12 @@
 ---
-date: '1983-02-10T00:00:00-0500'
-year: '1983'
-title: 'Daredevil (1964) #191'
-issue: 191
+date: '1998-05-10T00:00:00-0400'
+year: '1998'
+title: 'Deadpool (1997) #16'
+issue: 16
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8175/daredevil_1964_191?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1997'
+  name: Deadpool
+url: http://marvel.com/comics/issue/8469/deadpool_1997_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc47aa4d87dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f18796ddb782
   extension: jpg
