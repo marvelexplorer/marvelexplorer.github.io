@@ -1,11 +1,11 @@
 ---
 - name: Human Torch
-  score: 8
+  score: 9
 - name: Wolverine
   score: 6
 - name: Fantastic Four
   score: 4
 - name: Hulk
   score: 4
-- name: Avengers
+- name: Victor Mancha
   score: 3
