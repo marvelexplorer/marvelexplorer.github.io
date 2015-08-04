@@ -1,12 +1,12 @@
 ---
-date: '2003-02-01T00:00:00-0500'
-year: '2003'
-title: 'Daredevil (1998) #40'
-issue: 40
+date: '1983-02-10T00:00:00-0500'
+year: '1983'
+title: 'Daredevil (1964) #191'
+issue: 191
 series:
-  period: '1998'
+  period: '1964'
   name: Daredevil
-url: http://marvel.com/comics/issue/15643/daredevil_1998_40?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/8175/daredevil_1964_191?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/10/4bb6eb4a12b10
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc47aa4d87dd
   extension: jpg
