@@ -1,11 +1,11 @@
 ---
-- name: Human Torch
-  score: 6
 - name: Wolverine
+  score: 6
+- name: Human Torch
   score: 6
 - name: Nick Fury
   score: 5
-- name: Mr. Fantastic
-  score: 3
-- name: Victor Mancha
+- name: X-Men
+  score: 4
+- name: Sub-Mariner
   score: 3
