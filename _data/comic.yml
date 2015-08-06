@@ -1,12 +1,12 @@
 ---
-date: '1994-01-10T00:00:00-0500'
-year: '1994'
-title: 'Cable (1993) #7'
-issue: 7
+date: '1993-08-10T00:00:00-0400'
+year: '1993'
+title: 'X-Men (1991) #23'
+issue: 23
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7448/cable_1993_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14310/x-men_1991_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/50b3fa751c674
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/55806570c97e3
   extension: jpg
