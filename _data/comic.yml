@@ -1,12 +1,12 @@
 ---
-date: '2004-12-22T00:00:00-0500'
-year: '2004'
-title: 'Astonishing X-Men (2004) #7'
-issue: 7
+date: '2009-09-23T00:00:00-0400'
+year: '2009'
+title: 'Wolverine: First Class (2008) #19'
+issue: 19
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/38/astonishing_x-men_2004_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: 'Wolverine: First Class'
+url: http://marvel.com/comics/issue/27177/wolverine_first_class_2008_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5140adb830774
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4c7ca8f0a2d3e
   extension: jpg
