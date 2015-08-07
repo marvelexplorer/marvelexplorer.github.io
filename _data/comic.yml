@@ -1,12 +1,12 @@
 ---
-date: '1967-04-10T00:00:00-0500'
-year: '1967'
-title: 'Daredevil (1964) #27'
-issue: 27
+date: '2012-11-28T00:00:00-0500'
+year: '2012'
+title: 'A+X (2012) #2'
+issue: 2
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8262/daredevil_1964_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: A+X
+url: http://marvel.com/comics/issue/43495/ax_2012_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc36f7911b91
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/511c10e3f129c
   extension: jpg
