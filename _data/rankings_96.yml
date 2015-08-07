@@ -1,11 +1,11 @@
 ---
-- name: Human Torch
-  score: 5
 - name: Wolverine
+  score: 6
+- name: Human Torch
   score: 5
 - name: X-Men
   score: 5
 - name: Sub-Mariner
   score: 4
-- name: Spider-Man
+- name: Iron Man
   score: 3
