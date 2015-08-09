@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
-  score: 6
+  score: 7
 - name: X-Men
   score: 5
 - name: Rogue
   score: 4
-- name: Archangel
+- name: Spider-Man
   score: 3
-- name: Loki
+- name: Avengers
   score: 3
