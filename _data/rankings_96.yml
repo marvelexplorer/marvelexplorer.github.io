@@ -3,9 +3,9 @@
   score: 9
 - name: X-Men
   score: 5
-- name: Rogue
-  score: 4
 - name: Iron Man
   score: 4
-- name: Loki
+- name: Rogue
+  score: 4
+- name: Archangel
   score: 3
