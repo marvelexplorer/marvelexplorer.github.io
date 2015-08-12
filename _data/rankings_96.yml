@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 6
-- name: Thor
-  score: 3
 - name: X-Men
   score: 3
-- name: Loki
+- name: Archangel
   score: 3
-- name: Black Panther
+- name: Thor
+  score: 3
+- name: Loki
   score: 3
