@@ -1,11 +1,11 @@
 ---
 - name: Thor
   score: 5
+- name: Doctor Doom
+  score: 4
 - name: Fantastic Four
   score: 4
 - name: Wolverine
   score: 4
-- name: Doctor Doom
-  score: 3
 - name: Mr. Fantastic
   score: 3
