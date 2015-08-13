@@ -1,11 +1,11 @@
 ---
-- name: Doctor Doom
+- name: Thor
   score: 4
 - name: Fantastic Four
   score: 4
 - name: Wolverine
   score: 4
-- name: Invisible Woman
-  score: 3
+- name: Doctor Doom
+  score: 4
 - name: Black Panther
   score: 3
