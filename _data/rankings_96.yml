@@ -1,9 +1,9 @@
 ---
 - name: Doctor Doom
   score: 4
-- name: Fantastic Four
-  score: 4
 - name: Thor
+  score: 4
+- name: Fantastic Four
   score: 4
 - name: Invisible Woman
   score: 3
