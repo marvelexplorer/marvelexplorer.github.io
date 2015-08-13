@@ -1,10 +1,10 @@
 ---
 - name: Wolverine
   score: 37
+- name: Iron Man
+  score: 26
 - name: X-Men
   score: 26
-- name: Iron Man
-  score: 25
 - name: Fantastic Four
   score: 19
 - name: Human Torch
