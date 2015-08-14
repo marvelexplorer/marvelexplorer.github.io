@@ -1,11 +1,11 @@
 ---
-- name: Beast
+- name: Fantastic Four
   score: 4
 - name: Thor
   score: 4
-- name: Fantastic Four
+- name: Beast
   score: 4
-- name: Storm
+- name: Iceman
   score: 3
-- name: Invisible Woman
+- name: Cyclops
   score: 3
