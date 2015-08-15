@@ -1,11 +1,11 @@
 ---
-- name: Thor
+- name: Spider-Man
   score: 4
 - name: Fantastic Four
   score: 4
+- name: Thor
+  score: 4
 - name: Beast
   score: 4
-- name: Spider-Man
-  score: 3
-- name: Doctor Doom
+- name: Cyclops
   score: 3
