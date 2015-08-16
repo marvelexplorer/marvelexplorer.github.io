@@ -1,12 +1,12 @@
 ---
-date: '1969-05-10T00:00:00-0400'
-year: '1969'
-title: 'Thor (1966) #164'
-issue: 164
+date: '2003-03-01T00:00:00-0500'
+year: '2003'
+title: 'Iron Man (1998) #64'
+issue: 64
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11492/thor_1966_164?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19940/iron_man_1998_64?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4f63500d2d9da
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb7d0fcd1a08
   extension: jpg
