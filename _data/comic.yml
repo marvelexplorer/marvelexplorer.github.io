@@ -1,12 +1,12 @@
 ---
-date: '1996-11-01T00:00:00-0500'
-year: '1996'
-title: 'Excalibur (1988) #103'
-issue: 103
+date: '1994-03-10T00:00:00-0500'
+year: '1994'
+title: 'Cable (1993) #9'
+issue: 9
 series:
-  period: '1988'
-  name: Excalibur
-url: http://marvel.com/comics/issue/8567/excalibur_1988_103?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7470/cable_1993_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/55b002a499585
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/50b3f88100154
   extension: jpg
