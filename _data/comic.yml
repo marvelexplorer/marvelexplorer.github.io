@@ -1,12 +1,12 @@
 ---
-date: '1996-08-10T00:00:00-0400'
-year: '1996'
-title: 'Incredible Hulk (1962) #444'
-issue: 444
+date: '2007-07-25T00:00:00-0400'
+year: '2007'
+title: 'Onslaught Reborn (2006) #4'
+issue: 4
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9255/incredible_hulk_1962_444?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Onslaught Reborn
+url: http://marvel.com/comics/issue/5956/onslaught_reborn_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bb8717bcdd79
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/4bc3572e49895
   extension: jpg
