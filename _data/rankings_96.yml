@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 6
-- name: Iron Man
+- name: Spider-Man
   score: 4
 - name: Beast
   score: 4
-- name: Spider-Man
+- name: Nightcrawler
   score: 4
-- name: Storm
+- name: Colossus
   score: 4
