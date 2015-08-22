@@ -1,12 +1,12 @@
 ---
-date: '2007-10-17T00:00:00-0400'
-year: '2007'
-title: 'Marvel Zombies 2 (2007) #1'
-issue: 1
+date: '1988-02-10T00:00:00-0500'
+year: '1988'
+title: 'Fantastic Four (1961) #311'
+issue: 311
 series:
-  period: '2007'
-  name: Marvel Zombies 2
-url: http://marvel.com/comics/issue/16547/marvel_zombies_2_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13130/fantastic_four_1961_311?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4f6780b6500b0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/55d4aee21d2cd
   extension: jpg
