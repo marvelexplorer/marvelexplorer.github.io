@@ -1,11 +1,8 @@
 ---
-name: Wild Child
-description: Kyle Gibney's mutant powers emerged at an early age and left him with
-  a freakish appearance, horrifying his parents, who kicked him out of the house,
-  where he was eventually found and experimented upon by the Secret Empire and, later,
-  Department H, who dubbed Gibney Wild Child and placed him with Gamma Flight, the
-  entry-level team whose recruits can eventually graduate to Alpha Flight.
-url: http://marvel.com/universe/Wild_Child?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Sunfire
+description: Shiro Yoshida’s mother was exposed to the atomic devastation of Hiroshima
+  during World War II and died giving birth to him.
+url: http://marvel.com/universe/Sunfire_%28Shiro_Yoshida%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/00/4c003a6b5d11a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/53629b9e24ef5
   extension: jpg

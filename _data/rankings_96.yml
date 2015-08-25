@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 6
-- name: Mr. Fantastic
-  score: 4
-- name: Spider-Man
+- name: Iron Man
   score: 4
 - name: Thing
   score: 4
-- name: Iron Man
+- name: Mr. Fantastic
+  score: 4
+- name: Spider-Man
   score: 4
