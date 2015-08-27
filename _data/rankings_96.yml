@@ -1,11 +1,11 @@
 ---
-- name: Spider-Man
-  score: 5
 - name: Wolverine
+  score: 5
+- name: Spider-Man
   score: 5
 - name: Mr. Fantastic
   score: 4
-- name: Galactus
+- name: X-Men
   score: 3
-- name: Human Torch
+- name: Galactus
   score: 3
