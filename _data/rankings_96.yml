@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 8
-- name: Wolverine
-  score: 6
 - name: X-Men
+  score: 6
+- name: Wolverine
   score: 6
 - name: Fantastic Four
   score: 4
-- name: Archangel
+- name: Iron Man
   score: 3
