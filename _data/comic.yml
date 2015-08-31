@@ -1,12 +1,12 @@
 ---
-date: '2011-08-24T00:00:00-0400'
-year: '2011'
-title: 'The Iron Age: Omega (2010) #1'
-issue: 1
+date: '1982-02-10T00:00:00-0500'
+year: '1982'
+title: 'Marvel Super-Heroes (1967) #382'
+issue: 382
 series:
-  period: '2010'
-  name: 'The Iron Age: Omega'
-url: http://marvel.com/comics/issue/35106/the_iron_age_omega_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Marvel Super-Heroes
+url: http://marvel.com/comics/issue/15410/marvel_super-heroes_1967_382?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4dd19113bc8a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/50b41c99e9d6b
   extension: jpg
