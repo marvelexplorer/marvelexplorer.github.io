@@ -1,12 +1,12 @@
 ---
-date: '2008-12-10T00:00:00-0500'
-year: '2008'
-title: 'Amazing Spider-Man (1999) #580'
-issue: 580
+date: '1982-01-16T00:00:00-0500'
+year: '1982'
+title: 'Amazing Spider-Man Annual (1964) #16'
+issue: 16
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/22863/amazing_spider-man_1999_580?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Amazing Spider-Man Annual
+url: http://marvel.com/comics/issue/16890/amazing_spider-man_annual_1964_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4e8f14738e3ff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4bb554f679b42
   extension: jpg
