@@ -1,12 +1,12 @@
 ---
-date: '2000-04-10T00:00:00-0400'
-year: '2000'
-title: 'Spider-Girl (1998) #19'
-issue: 19
+date: '2011-06-22T00:00:00-0400'
+year: '2011'
+title: 'Fantastic Four: The Last Stand (2011) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Spider-Girl
-url: http://marvel.com/comics/issue/13336/spider-girl_1998_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Fantastic Four: The Last Stand'
+url: http://marvel.com/comics/issue/39602/fantastic_four_the_last_stand_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc472161bbe5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4d88c34a87a6a
   extension: jpg
