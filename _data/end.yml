@@ -1,8 +1,10 @@
 ---
-name: Mary Jane Watson
-description: Mary Jane Watson was the guiding light in Peter Parker's life, and their
-  love had overcome countless obstacles.
-url: http://marvel.com/universe/Watson,_Mary_Jane?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Spider-Man
+description: Bitten by a radioactive spider, high school student Peter Parker gained
+  the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter
+  hoped to start a career using his new abilities. Taught that with great power comes
+  great responsibility, Spidey has vowed to use his powers to help people.
+url: http://marvel.com/universe/Spider-Man_(Peter_Parker)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/528d33d000749
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b
   extension: jpg
