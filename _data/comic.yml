@@ -1,12 +1,12 @@
 ---
-date: '2006-11-15T00:00:00-0500'
-year: '2006'
-title: 'Marvel 1602: Fantastick Four (2006) #3'
-issue: 3
+date: '1974-04-10T00:00:00-0400'
+year: '1974'
+title: 'Fantastic Four (1961) #145'
+issue: 145
 series:
-  period: '2006'
-  name: 'Marvel 1602: Fantastick Four'
-url: http://marvel.com/comics/issue/5428/marvel_1602_fantastick_four_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/12945/fantastic_four_1961_145?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/0/03/51f922019b910
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/518289162ca73
   extension: jpg
