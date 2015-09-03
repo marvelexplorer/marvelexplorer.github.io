@@ -1,12 +1,12 @@
 ---
-date: '1984-12-10T00:00:00-0500'
-year: '1984'
-title: 'Secret Wars (1984) #8'
-issue: 8
+date: '1999-02-10T00:00:00-0500'
+year: '1999'
+title: 'Avengers Forever (1998) #3'
+issue: 3
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10590/secret_wars_1984_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers Forever
+url: http://marvel.com/comics/issue/12406/avengers_forever_1998_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4f68ca89082a6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc47c9d9aac1
   extension: jpg
