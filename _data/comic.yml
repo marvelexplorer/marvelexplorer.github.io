@@ -1,12 +1,12 @@
 ---
-date: '1967-09-10T00:00:00-0400'
-year: '1967'
-title: 'Daredevil (1964) #32'
-issue: 32
+date: '1991-02-20T00:00:00-0500'
+year: '1991'
+title: 'Marvel Comics Presents (1988) #70'
+issue: 70
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8318/daredevil_1964_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10153/marvel_comics_presents_1988_70?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc36f91e6152
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4c365158a1f7c
   extension: jpg
