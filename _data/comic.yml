@@ -1,12 +1,12 @@
 ---
-date: '1963-08-10T00:00:00-0400'
-year: '1963'
-title: 'Strange Tales (1951) #111'
-issue: 111
+date: '1986-09-10T00:00:00-0400'
+year: '1986'
+title: 'Fantastic Four (1961) #294'
+issue: 294
 series:
-  period: '1951'
-  name: Strange Tales
-url: http://marvel.com/comics/issue/11030/strange_tales_1951_111?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13110/fantastic_four_1961_294?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc371dbefc44
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/80/4bb6712ab7abb
   extension: jpg
