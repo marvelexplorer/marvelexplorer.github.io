@@ -1,12 +1,12 @@
 ---
-date: '2008-01-09T00:00:00-0500'
-year: '2008'
-title: 'Wolverine (2003) #61'
-issue: 61
+date: '1993-04-10T00:00:00-0400'
+year: '1993'
+title: 'Iron Man (1968) #291'
+issue: 291
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/17588/wolverine_2003_61?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9540/iron_man_1968_291?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4d250178bd5da
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/04/4f7ef5eedc793
   extension: jpg
