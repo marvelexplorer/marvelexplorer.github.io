@@ -1,11 +1,11 @@
 ---
-- name: Thing
+- name: Captain America
   score: 5
 - name: Fantastic Four
   score: 5
+- name: Thing
+  score: 5
 - name: Human Torch
   score: 5
-- name: Captain America
-  score: 5
-- name: Spider-Man
+- name: Iron Man
   score: 4
