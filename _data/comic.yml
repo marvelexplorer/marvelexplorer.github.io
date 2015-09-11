@@ -1,12 +1,12 @@
 ---
-date: '2006-08-23T00:00:00-0400'
+date: '2006-10-04T00:00:00-0400'
 year: '2006'
-title: 'Wolverine (2003) #45'
-issue: 45
+title: 'Giant-Size Wolverine (2006) #1'
+issue: 1
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/4751/wolverine_2003_45?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Giant-Size Wolverine
+url: http://marvel.com/comics/issue/5217/giant-size_wolverine_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4d24e74a43b0c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4f7aff7e147a2
   extension: jpg
