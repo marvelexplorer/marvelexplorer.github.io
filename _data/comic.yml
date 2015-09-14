@@ -1,12 +1,12 @@
 ---
-date: '1997-10-10T00:00:00-0400'
-year: '1997'
-title: 'Uncanny X-Men (1963) #348'
-issue: 348
+date: '2011-08-31T00:00:00-0400'
+year: '2011'
+title: 'Gambit: From the Marvel Vault (2011) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13889/uncanny_x-men_1963_348?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Gambit: From the Marvel Vault'
+url: http://marvel.com/comics/issue/38441/gambit_from_the_marvel_vault_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/51a8dab68311c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4e53ba2036c9b
   extension: jpg
