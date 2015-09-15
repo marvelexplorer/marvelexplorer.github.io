@@ -1,12 +1,12 @@
 ---
-date: '2007-11-14T00:00:00-0500'
-year: '2007'
-title: 'New Avengers (2004) #36'
-issue: 36
+date: '2008-05-14T00:00:00-0400'
+year: '2008'
+title: 'Wolverine (2003) #65'
+issue: 65
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/17225/new_avengers_2004_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/21180/wolverine_2003_65?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4f7efb324efa4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4d24f04dd2cbe
   extension: jpg
