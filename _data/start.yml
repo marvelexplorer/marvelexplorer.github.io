@@ -1,10 +1,8 @@
 ---
-name: Thor
-description: "As the Norse God of thunder and lightning, Thor wields one of the greatest
-  weapons ever made, the enchanted hammer Mjolnir.\r\nWhile others have described
-  Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's
-  self-assured, and he would never, ever stop fighting for a worthwhile cause.\r\n\r\n"
-url: http://marvel.com/universe/Thor_(Thor_Odinson)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Sif
+description: Sif was born a second generation goddess of Asgard and eventually became
+  Thor's lover.
+url: http://marvel.com/universe/Sif?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/527bb6fc4ec43
   extension: jpg
