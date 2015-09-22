@@ -1,12 +1,12 @@
 ---
-date: '2006-07-12T00:00:00-0400'
-year: '2006'
-title: 'Marvel Adventures Fantastic Four (2005) #14'
-issue: 14
+date: '2011-03-30T00:00:00-0400'
+year: '2011'
+title: 'Amazing Spider-Man (1999) #657'
+issue: 657
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/4477/marvel_adventures_fantastic_four_2005_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/35497/amazing_spider-man_1999_657?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc5d7a8ba74a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4e9850af7fd30
   extension: jpg
