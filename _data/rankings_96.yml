@@ -1,11 +1,11 @@
 ---
-- name: Spider-Man
-  score: 7
 - name: Iron Man
   score: 6
 - name: Wolverine
   score: 6
-- name: Storm
+- name: Spider-Man
+  score: 6
+- name: Mr. Fantastic
   score: 3
-- name: Gambit
+- name: Storm
   score: 3
