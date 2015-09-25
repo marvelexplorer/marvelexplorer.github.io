@@ -1,12 +1,12 @@
 ---
-date: '1997-08-01T00:00:00-0400'
-year: '1997'
-title: 'Fantastic Four (1996) #10'
-issue: 10
+date: '1974-04-10T00:00:00-0400'
+year: '1974'
+title: 'Fantastic Four (1961) #145'
+issue: 145
 series:
-  period: '1996'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13313/fantastic_four_1996_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/12945/fantastic_four_1961_145?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc335c97d007
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/518289162ca73
   extension: jpg
