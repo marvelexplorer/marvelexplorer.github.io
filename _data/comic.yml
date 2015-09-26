@@ -1,12 +1,12 @@
 ---
-date: '2006-12-20T00:00:00-0500'
-year: '2006'
-title: 'Friendly Neighborhood Spider-Man (2005) #15'
-issue: 15
+date: '2010-03-24T00:00:00-0400'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #626'
+issue: 626
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/5663/friendly_neighborhood_spider-man_2005_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30301/amazing_spider-man_1999_626?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc5b537a5036
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4e84d814962db
   extension: jpg
