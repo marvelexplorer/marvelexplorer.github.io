@@ -1,12 +1,12 @@
 ---
-date: '2011-09-28T00:00:00-0400'
-year: '2011'
-title: 'Amazing Spider-Man (1999) #670'
-issue: 670
+date: '1978-08-10T00:00:00-0400'
+year: '1978'
+title: 'Amazing Spider-Man (1963) #183'
+issue: 183
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/35522/amazing_spider-man_1999_670?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6575/amazing_spider-man_1963_183?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4e80baa09a761
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/03/526175455d44a
   extension: jpg
