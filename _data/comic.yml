@@ -1,12 +1,12 @@
 ---
-date: '2008-07-02T00:00:00-0400'
-year: '2008'
-title: 'Astonishing X-Men (2004) #25'
-issue: 25
+date: '2003-03-01T00:00:00-0500'
+year: '2003'
+title: 'New X-Men (2001) #136'
+issue: 136
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/21511/astonishing_x-men_2004_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14955/new_x-men_2001_136?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/4bb7987f9ec4a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c35ed03582e4
   extension: jpg
