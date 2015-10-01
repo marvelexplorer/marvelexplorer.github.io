@@ -1,12 +1,12 @@
 ---
-date: '1990-09-10T00:00:00-0400'
+date: '1990-12-10T00:00:00-0500'
 year: '1990'
-title: 'Spider-Man (1990) #2'
-issue: 2
+title: 'Spider-Man (1990) #5'
+issue: 5
 series:
   period: '1990'
   name: Spider-Man
-url: http://marvel.com/comics/issue/10778/spider-man_1990_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/10811/spider-man_1990_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/50ad07a9cee1f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/50ad0621bf834
   extension: jpg
