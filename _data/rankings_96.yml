@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 14
-- name: Mr. Fantastic
-  score: 3
 - name: Fantastic Four
   score: 3
 - name: Human Torch
+  score: 3
+- name: Mr. Fantastic
   score: 3
 - name: Iron Man
   score: 3
