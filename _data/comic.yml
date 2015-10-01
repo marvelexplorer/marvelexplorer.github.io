@@ -1,12 +1,12 @@
 ---
-date: '2011-03-16T00:00:00-0400'
-year: '2011'
-title: 'X-Factor (2005) #217'
-issue: 217
+date: '2002-08-01T00:00:00-0400'
+year: '2002'
+title: 'Spider-Man/Black Cat: Evil That Men Do (2002) #1'
+issue: 1
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/35288/x-factor_2005_217?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: 'Spider-Man/Black Cat: Evil That Men Do'
+url: http://marvel.com/comics/issue/14535/spider-manblack_cat_evil_that_men_do_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/4d7a41230c0fc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bc46ade57a89
   extension: jpg
