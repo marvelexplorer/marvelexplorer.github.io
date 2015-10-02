@@ -1,12 +1,12 @@
 ---
-date: '1967-02-10T00:00:00-0500'
-year: '1967'
-title: 'Strange Tales (1951) #153'
-issue: 153
+date: '2001-02-10T00:00:00-0500'
+year: '2001'
+title: 'Black Widow: Breakdown (2001) #2'
+issue: 2
 series:
-  period: '1951'
-  name: Strange Tales
-url: http://marvel.com/comics/issue/11076/strange_tales_1951_153?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: 'Black Widow: Breakdown'
+url: http://marvel.com/comics/issue/14810/black_widow_breakdown_2001_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4bc3735b98d99
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc467340a6aa
   extension: jpg
