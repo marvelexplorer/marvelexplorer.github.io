@@ -1,7 +1,10 @@
 ---
-name: Baron Zemo (Heinrich Zemo)
-description: ''
-url: http://marvel.com/universe/Baron_Zemo_(Heinrich_Zemo)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Avengers
+description: Earth's Mightiest Heroes joined forces to take on threats that were too
+  big for any one hero to tackle. With a roster that has included Captain America,
+  Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers
+  have come to be regarded as Earth's No. 1 team.
+url: http://marvel.com/universe/Avengers?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c0041f84c9fe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7
   extension: jpg
