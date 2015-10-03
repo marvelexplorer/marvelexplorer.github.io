@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 12
-- name: Secret Warriors
+- name: Mr. Fantastic
   score: 3
 - name: Hulk
   score: 3
-- name: Hydra
+- name: Secret Warriors
   score: 3
-- name: Fantastic Four
+- name: Hydra
   score: 3
