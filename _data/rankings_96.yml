@@ -3,9 +3,9 @@
   score: 12
 - name: Black Widow
   score: 3
-- name: Hydra
-  score: 3
 - name: Human Torch
+  score: 3
+- name: Daredevil
   score: 3
 - name: Hulk
   score: 3
