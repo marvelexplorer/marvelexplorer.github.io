@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 11
-- name: Black Widow
+- name: Hulk
   score: 3
-- name: Daredevil
+- name: Hydra
   score: 3
-- name: Human Torch
+- name: Secret Warriors
   score: 3
-- name: Punisher
+- name: Fantastic Four
   score: 3
