@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 11
-- name: Fantastic Four
-  score: 4
 - name: Hydra
   score: 3
 - name: Human Torch
   score: 3
 - name: Secret Warriors
+  score: 3
+- name: Fantastic Four
   score: 3
