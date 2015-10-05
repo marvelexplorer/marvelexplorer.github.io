@@ -3,9 +3,9 @@
   score: 10
 - name: Fantastic Four
   score: 3
-- name: Hydra
-  score: 3
 - name: Human Torch
   score: 3
 - name: X-Men
+  score: 3
+- name: Hydra
   score: 3
