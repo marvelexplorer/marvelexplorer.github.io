@@ -1,12 +1,12 @@
 ---
-date: '1999-04-10T00:00:00-0400'
-year: '1999'
-title: 'Avengers Forever (1998) #4'
-issue: 4
+date: '1996-02-10T00:00:00-0500'
+year: '1996'
+title: 'Iron Man (1968) #325'
+issue: 325
 series:
-  period: '1998'
-  name: Avengers Forever
-url: http://marvel.com/comics/issue/12407/avengers_forever_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9578/iron_man_1968_325?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bc47c9880436
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/50b51a8e06971
   extension: jpg
