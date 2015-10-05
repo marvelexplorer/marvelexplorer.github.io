@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 7
-- name: Punisher
+- name: Scarlet Witch
   score: 3
-- name: Human Torch
-  score: 3
-- name: Fantastic Four
+- name: Secret Warriors
   score: 3
 - name: X-Men
+  score: 3
+- name: Hydra
   score: 3
