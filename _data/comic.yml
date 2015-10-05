@@ -1,12 +1,12 @@
 ---
-date: '1996-02-10T00:00:00-0500'
-year: '1996'
-title: 'Iron Man (1968) #325'
-issue: 325
+date: '1977-10-10T00:00:00-0400'
+year: '1977'
+title: 'Avengers (1963) #164'
+issue: 164
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9578/iron_man_1968_325?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7024/avengers_1963_164?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/50b51a8e06971
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/40/4db1b31242811
   extension: jpg
