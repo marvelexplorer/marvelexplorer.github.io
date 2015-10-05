@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 7
-- name: Scarlet Witch
-  score: 3
-- name: Secret Warriors
-  score: 3
 - name: X-Men
   score: 3
 - name: Hydra
+  score: 3
+- name: Secret Warriors
+  score: 3
+- name: Scarlet Witch
   score: 3
