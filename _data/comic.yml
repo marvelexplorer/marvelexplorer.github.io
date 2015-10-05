@@ -1,12 +1,12 @@
 ---
-date: '1998-07-10T00:00:00-0400'
-year: '1998'
-title: 'Captain America (1998) #7'
-issue: 7
+date: '2004-11-03T00:00:00-0500'
+year: '2004'
+title: 'Avengers (1998) #503'
+issue: 503
 series:
   period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12814/captain_america_1998_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Avengers
+url: http://marvel.com/comics/issue/923/avengers_1998_503?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4e95c563db7b8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f5a4f71e8dd5
   extension: jpg
