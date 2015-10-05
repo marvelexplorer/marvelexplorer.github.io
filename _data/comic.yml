@@ -1,12 +1,12 @@
 ---
-date: '2007-06-13T00:00:00-0400'
-year: '2007'
-title: 'Avengers Classic (2007) #1'
-issue: 1
+date: '2010-03-03T00:00:00-0500'
+year: '2010'
+title: 'Mighty Avengers (2007) #34'
+issue: 34
 series:
   period: '2007'
-  name: Avengers Classic
-url: http://marvel.com/comics/issue/15858/avengers_classic_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/29288/mighty_avengers_2007_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc49543209ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f7c983a17847
   extension: jpg
