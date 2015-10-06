@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 5
+  score: 4
 - name: Scarlet Witch
   score: 4
-- name: Secret Warriors
-  score: 3
 - name: Fantastic Four
+  score: 3
+- name: Hulk
   score: 3
 - name: Avengers
   score: 3
