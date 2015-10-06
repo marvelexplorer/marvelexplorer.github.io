@@ -1,9 +1,9 @@
 ---
 - name: Spider-Man
   score: 6
-- name: Fantastic Four
-  score: 3
-- name: Captain America
+- name: Avengers
+  score: 4
+- name: X-Men
   score: 3
 - name: Scarlet Witch
   score: 3
