@@ -1,12 +1,12 @@
 ---
-date: '2009-04-29T00:00:00-0400'
-year: '2009'
-title: 'X-Men Origins: Wolverine (2009) #1'
-issue: 1
+date: '1985-11-10T00:00:00-0500'
+year: '1985'
+title: 'Uncanny X-Men (1963) #199'
+issue: 199
 series:
-  period: '2009'
-  name: 'X-Men Origins: Wolverine'
-url: http://marvel.com/comics/issue/23947/x-men_origins_wolverine_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13740/uncanny_x-men_1963_199?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/4bb579467d919
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/5114144dc26ae
   extension: jpg
