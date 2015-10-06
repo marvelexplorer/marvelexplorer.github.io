@@ -1,12 +1,12 @@
 ---
-date: '2001-01-01T00:00:00-0500'
-year: '2001'
-title: 'Cable (1993) #87'
-issue: 87
+date: '2008-08-13T00:00:00-0400'
+year: '2008'
+title: 'Astonishing X-Men (2004) #26'
+issue: 26
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7467/cable_1993_87?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/21714/astonishing_x-men_2004_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb6e3bb34a85
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c361c83d31ce
   extension: jpg
