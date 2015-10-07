@@ -1,12 +1,12 @@
 ---
-date: '2008-08-13T00:00:00-0400'
-year: '2008'
-title: 'Astonishing X-Men (2004) #26'
-issue: 26
+date: '2006-11-22T00:00:00-0500'
+year: '2006'
+title: 'X-Factor (2005) #13'
+issue: 13
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/21714/astonishing_x-men_2004_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: X-Factor
+url: http://marvel.com/comics/issue/5594/x-factor_2005_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c361c83d31ce
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc5b9d73a403
   extension: jpg

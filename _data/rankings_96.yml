@@ -1,11 +1,11 @@
 ---
+- name: Human Torch
+  score: 4
+- name: X-Men
+  score: 4
 - name: Spider-Man
   score: 4
 - name: Avengers
   score: 4
-- name: X-Men
-  score: 4
-- name: Human Torch
-  score: 4
-- name: Black Widow
+- name: Punisher
   score: 3
