@@ -1,12 +1,12 @@
 ---
-date: '1968-06-10T00:00:00-0400'
+date: '1968-05-10T00:00:00-0400'
 year: '1968'
-title: 'Sub-Mariner (1968) #2'
-issue: 2
+title: 'Thor (1966) #152'
+issue: 152
 series:
-  period: '1968'
-  name: Sub-Mariner
-url: http://marvel.com/comics/issue/17073/sub-mariner_1968_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11480/thor_1966_152?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/50adfcb21c7bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb8475a6c0fe
   extension: jpg
