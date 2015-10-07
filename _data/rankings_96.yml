@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 5
-- name: Avengers
-  score: 4
 - name: Human Torch
   score: 4
-- name: Secret Warriors
+- name: Avengers
+  score: 4
+- name: Hydra
   score: 3
-- name: Nick Fury
+- name: Black Widow
   score: 3
