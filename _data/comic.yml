@@ -1,12 +1,12 @@
 ---
-date: '1995-11-10T00:00:00-0500'
-year: '1995'
-title: 'Thor (1966) #492'
-issue: 492
+date: '2011-11-30T00:00:00-0500'
+year: '2011'
+title: 'Avengers Origins: Thor (2011) #1'
+issue: 1
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11820/thor_1966_492?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Avengers Origins: Thor'
+url: http://marvel.com/comics/issue/41109/avengers_origins_thor_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bc46eb75dbee
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4e24f2f5ae910
   extension: jpg
