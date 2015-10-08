@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 6
-- name: Avengers
-  score: 4
 - name: Human Torch
   score: 4
-- name: Captain America
-  score: 3
 - name: Scarlet Witch
+  score: 3
+- name: Hulk
+  score: 3
+- name: Captain America
   score: 3

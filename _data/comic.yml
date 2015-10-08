@@ -1,12 +1,12 @@
 ---
-date: '2006-02-22T00:00:00-0500'
+date: '2006-09-06T00:00:00-0400'
 year: '2006'
-title: 'Astonishing X-Men (2004) #13'
-issue: 13
+title: 'X-Men: Phoenix - Warsong (2006) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/3475/astonishing_x-men_2004_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: 'X-Men: Phoenix - Warsong'
+url: http://marvel.com/comics/issue/5043/x-men_phoenix_-_warsong_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc60493dc84b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc5cc1c59a5c
   extension: jpg
