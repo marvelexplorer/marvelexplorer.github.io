@@ -1,12 +1,12 @@
 ---
-date: '2007-03-07T00:00:00-0500'
-year: '2007'
-title: 'Marvel Zombies/Army of Darkness (2007) #1'
-issue: 1
+date: '2003-05-01T00:00:00-0400'
+year: '2003'
+title: 'X-Treme X-Men (2001) #22'
+issue: 22
 series:
-  period: '2007'
-  name: Marvel Zombies/Army of Darkness
-url: http://marvel.com/comics/issue/6093/marvel_zombiesarmy_of_darkness_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15025/x-treme_x-men_2001_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5a3d5e8a71
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc3682077b56
   extension: jpg
