@@ -1,12 +1,12 @@
 ---
-date: '2008-03-05T00:00:00-0500'
-year: '2008'
-title: 'Cable (2008) #1'
-issue: 1
+date: '2005-03-02T00:00:00-0500'
+year: '2005'
+title: 'X-Men: Age of Apocalypse One Shot (2005)'
+issue: 0
 series:
-  period: '2008'
-  name: Cable
-url: http://marvel.com/comics/issue/20897/cable_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/1930/x-men_age_of_apocalypse_one_shot_2005?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/80/4ea17c010dfa6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc63e65f2848
   extension: jpg
