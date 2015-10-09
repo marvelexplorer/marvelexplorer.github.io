@@ -1,12 +1,12 @@
 ---
-date: '2007-02-28T00:00:00-0500'
-year: '2007'
-title: 'Black Panther (2005) #25'
-issue: 25
+date: '2011-01-12T00:00:00-0500'
+year: '2011'
+title: 'Black Panther: The Man Without Fear (2010) #514'
+issue: 514
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/6047/black_panther_2005_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Black Panther: The Man Without Fear'
+url: http://marvel.com/comics/issue/30373/black_panther_the_man_without_fear_2010_514?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc5a56fd5442
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4cb6085c12932
   extension: jpg
