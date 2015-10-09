@@ -1,10 +1,10 @@
 ---
 - name: X-Men
   score: 8
+- name: Wolverine
+  score: 4
 - name: Human Torch
   score: 4
-- name: Captain America
-  score: 3
 - name: Scarlet Witch
   score: 3
 - name: Spider-Man
