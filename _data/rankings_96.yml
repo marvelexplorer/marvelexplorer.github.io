@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 8
-- name: Wolverine
-  score: 4
 - name: Human Torch
   score: 4
-- name: Storm
+- name: Wolverine
+  score: 4
+- name: Captain America
   score: 3
-- name: Spider-Man
+- name: Storm
   score: 3
