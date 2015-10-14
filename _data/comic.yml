@@ -1,12 +1,12 @@
 ---
-date: '1974-12-10T00:00:00-0500'
-year: '1974'
-title: 'Vampire Tales (1973) #8'
-issue: 8
+date: '2006-10-18T00:00:00-0400'
+year: '2006'
+title: 'Blade (2006) #2'
+issue: 2
 series:
-  period: '1973'
-  name: Vampire Tales
-url: http://marvel.com/comics/issue/11952/vampire_tales_1973_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Blade
+url: http://marvel.com/comics/issue/5288/blade_2006_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc481661cf09
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc5bfd4e614f
   extension: jpg
