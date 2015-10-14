@@ -1,12 +1,12 @@
 ---
-date: '2007-12-19T00:00:00-0500'
-year: '2007'
-title: 'Immortal Iron Fist (2006) #11'
-issue: 11
+date: '1985-08-10T00:00:00-0400'
+year: '1985'
+title: 'Secret Wars II (1985) #2'
+issue: 2
 series:
-  period: '2006'
-  name: Immortal Iron Fist
-url: http://marvel.com/comics/issue/17258/immortal_iron_fist_2006_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1985'
+  name: Secret Wars II
+url: http://marvel.com/comics/issue/18885/secret_wars_ii_1985_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/51b74e78ea8f5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/4c35ed4818957
   extension: jpg
