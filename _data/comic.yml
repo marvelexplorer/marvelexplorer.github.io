@@ -1,12 +1,12 @@
 ---
-date: '2002-10-10T00:00:00-0400'
-year: '2002'
-title: 'Spider-Man''s Tangled Web (2001) #17'
-issue: 17
+date: '1971-10-10T00:00:00-0400'
+year: '1971'
+title: 'Amazing Spider-Man (1963) #101'
+issue: 101
 series:
-  period: '2001'
-  name: Spider-Man's Tangled Web
-url: http://marvel.com/comics/issue/10918/spider-mans_tangled_web_2001_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6485/amazing_spider-man_1963_101?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc4707e0ac25
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4c8a81ef3d238
   extension: jpg
