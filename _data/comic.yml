@@ -1,12 +1,12 @@
 ---
-date: '1985-03-10T00:00:00-0500'
-year: '1985'
-title: 'Secret Wars (1984) #11'
-issue: 11
+date: '2011-06-08T00:00:00-0400'
+year: '2011'
+title: 'Incredible Hulks (2009) #630'
+issue: 630
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10582/secret_wars_1984_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Incredible Hulks
+url: http://marvel.com/comics/issue/36044/incredible_hulks_2009_630?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f68cb3003fe7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f57be0ad16a8
   extension: jpg
