@@ -1,12 +1,12 @@
 ---
-date: '2011-05-04T00:00:00-0400'
-year: '2011'
-title: 'Captain America: First Vengeance (2010) #1'
-issue: 1
+date: '1941-04-10T00:00:00-0500'
+year: '1941'
+title: 'Human Torch (1940) #4'
+issue: 4
 series:
-  period: '2010'
-  name: 'Captain America: First Vengeance'
-url: http://marvel.com/comics/issue/38423/captain_america_first_vengeance_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1940'
+  name: Human Torch
+url: http://marvel.com/comics/issue/8899/human_torch_1940_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d5a8ea4972d5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc36ff14c630
   extension: jpg
