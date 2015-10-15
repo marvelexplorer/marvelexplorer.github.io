@@ -1,12 +1,12 @@
 ---
-date: '2007-06-20T00:00:00-0400'
-year: '2007'
-title: 'Captain America (2004) #27'
-issue: 27
+date: '2011-05-04T00:00:00-0400'
+year: '2011'
+title: 'Captain America: First Vengeance (2010) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/15824/captain_america_2004_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Captain America: First Vengeance'
+url: http://marvel.com/comics/issue/38423/captain_america_first_vengeance_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4f75af16a39fa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d5a8ea4972d5
   extension: jpg
