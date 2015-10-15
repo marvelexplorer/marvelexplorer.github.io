@@ -1,12 +1,12 @@
 ---
-date: '2007-06-13T00:00:00-0400'
-year: '2007'
-title: 'Blade (2006) #10'
-issue: 10
+date: '2012-05-09T00:00:00-0400'
+year: '2012'
+title: 'New Avengers (2010) #24'
+issue: 24
 series:
-  period: '2006'
-  name: Blade
-url: http://marvel.com/comics/issue/15854/blade_2006_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/35241/new_avengers_2010_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc4951d1458b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4f183f642d472
   extension: jpg
