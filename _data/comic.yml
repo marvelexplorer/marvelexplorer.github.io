@@ -1,12 +1,12 @@
 ---
-date: '2011-04-13T00:00:00-0400'
-year: '2011'
-title: 'Carnage (2010) #4'
-issue: 4
+date: '2003-06-10T00:00:00-0400'
+year: '2003'
+title: 'Wolverine: Xisle (2003) #2'
+issue: 2
 series:
-  period: '2010'
-  name: Carnage
-url: http://marvel.com/comics/issue/36273/carnage_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: 'Wolverine: Xisle'
+url: http://marvel.com/comics/issue/18287/wolverine_xisle_2003_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4f638ebac89cc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb793c83bfa7
   extension: jpg
