@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 8
-- name: Spider-Man
-  score: 5
 - name: Wolverine
   score: 5
-- name: Storm
+- name: Spider-Man
+  score: 5
+- name: Avengers
   score: 3
-- name: Human Torch
+- name: Scarlet Witch
   score: 3
