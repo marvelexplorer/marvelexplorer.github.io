@@ -1,12 +1,12 @@
 ---
-date: '1984-09-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #5'
-issue: 5
+date: '1986-05-10T00:00:00-0400'
+year: '1986'
+title: 'X-Factor (1986) #4'
+issue: 4
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10587/secret_wars_1984_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12257/x-factor_1986_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4f68c921d9b01
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4e85f3d103eb2
   extension: jpg
