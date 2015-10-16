@@ -1,12 +1,12 @@
 ---
-date: '1972-06-10T00:00:00-0400'
-year: '1972'
-title: 'Amazing Spider-Man (1963) #109'
-issue: 109
+date: '1984-09-10T00:00:00-0400'
+year: '1984'
+title: 'Secret Wars (1984) #5'
+issue: 5
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6493/amazing_spider-man_1963_109?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10587/secret_wars_1984_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb80b0f428cd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4f68c921d9b01
   extension: jpg
