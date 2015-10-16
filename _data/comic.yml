@@ -1,12 +1,12 @@
 ---
-date: '1989-01-13T00:00:00-0500'
+date: '1989-08-10T00:00:00-0400'
 year: '1989'
-title: 'X-Men Annual (1970) #13'
-issue: 13
+title: 'Uncanny X-Men (1963) #247'
+issue: 247
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12359/x-men_annual_1970_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13788/uncanny_x-men_1963_247?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/50ad3e003e46d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/40/50ad2ba0b67cb
   extension: jpg
