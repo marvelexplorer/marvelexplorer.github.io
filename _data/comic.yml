@@ -1,12 +1,12 @@
 ---
-date: '1999-09-01T00:00:00-0400'
-year: '1999'
-title: 'Uncanny X-Men (1963) #372'
-issue: 372
+date: '2004-12-15T00:00:00-0500'
+year: '2004'
+title: 'Official Handbook of the Marvel Universe (2004) #8'
+issue: 8
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13913/uncanny_x-men_1963_372?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Official Handbook of the Marvel Universe
+url: http://marvel.com/comics/issue/1489/official_handbook_of_the_marvel_universe_2004_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/50b3b3febd9ac
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc65a8e339db
   extension: jpg
