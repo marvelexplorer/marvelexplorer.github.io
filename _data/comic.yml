@@ -1,12 +1,12 @@
 ---
-date: '1996-09-10T00:00:00-0400'
-year: '1996'
-title: 'Cable (1993) #35'
-issue: 35
+date: '1993-01-10T00:00:00-0500'
+year: '1993'
+title: 'X-Men (1991) #16'
+issue: 16
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7410/cable_1993_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14302/x-men_1991_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb5881d5c4c2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/558024e6ad574
   extension: jpg
