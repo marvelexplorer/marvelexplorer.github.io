@@ -1,12 +1,12 @@
 ---
-date: '2011-09-14T00:00:00-0400'
+date: '2011-02-02T00:00:00-0500'
 year: '2011'
-title: 'Spider-Island: The Amazing Spider-Girl (2011) #2'
-issue: 2
+title: 'Spider-Girl (2010) #3'
+issue: 3
 series:
-  period: '2011'
-  name: 'Spider-Island: The Amazing Spider-Girl'
-url: http://marvel.com/comics/issue/39714/spider-island_the_amazing_spider-girl_2011_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Spider-Girl
+url: http://marvel.com/comics/issue/30031/spider-girl_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4e68ca11a8c1b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/4cb60d51b0c44
   extension: jpg
