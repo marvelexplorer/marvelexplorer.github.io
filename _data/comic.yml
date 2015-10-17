@@ -1,12 +1,12 @@
 ---
-date: '2009-08-19T00:00:00-0400'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #603'
-issue: 603
+date: '2004-12-29T00:00:00-0500'
+year: '2004'
+title: 'Amazing Spider-Man (1999) #515'
+issue: 515
 series:
   period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/24410/amazing_spider-man_1999_603?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/1409/amazing_spider-man_1999_515?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4e8612ec6f7f1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bc66100b3d90
   extension: jpg
