@@ -1,12 +1,12 @@
 ---
-date: '2008-10-08T00:00:00-0400'
-year: '2008'
-title: 'Amazing Spider-Man Family (2008) #2'
-issue: 2
+date: '2001-07-10T00:00:00-0400'
+year: '2001'
+title: 'Wolverine (1988) #164'
+issue: 164
 series:
-  period: '2008'
-  name: Amazing Spider-Man Family
-url: http://marvel.com/comics/issue/22372/amazing_spider-man_family_2008_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14108/wolverine_1988_164?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb6cdc637089
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4bb68a9922177
   extension: jpg
