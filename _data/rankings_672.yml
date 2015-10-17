@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 48
+  score: 49
 - name: Iron Man
   score: 26
 - name: Wolverine
   score: 25
 - name: Human Torch
-  score: 21
+  score: 20
 - name: X-Men
   score: 18
