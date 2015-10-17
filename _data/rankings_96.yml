@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 6
-- name: Wolverine
-  score: 5
 - name: Sub-Mariner
   score: 4
 - name: X-Men
   score: 4
-- name: Colossus
+- name: Wolverine
+  score: 4
+- name: Storm
   score: 3
