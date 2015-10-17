@@ -1,12 +1,12 @@
 ---
-date: '1989-08-10T00:00:00-0400'
+date: '1989-11-20T00:00:00-0500'
 year: '1989'
-title: 'Uncanny X-Men (1963) #247'
-issue: 247
+title: 'Uncanny X-Men (1963) #252'
+issue: 252
 series:
   period: '1963'
   name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13788/uncanny_x-men_1963_247?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13793/uncanny_x-men_1963_252?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/40/50ad2ba0b67cb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/f0/50ad28accbfc8
   extension: jpg
