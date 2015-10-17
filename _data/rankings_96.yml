@@ -1,9 +1,9 @@
 ---
 - name: Spider-Man
   score: 8
-- name: Wolverine
-  score: 4
 - name: Sub-Mariner
+  score: 4
+- name: Wolverine
   score: 4
 - name: Storm
   score: 3
