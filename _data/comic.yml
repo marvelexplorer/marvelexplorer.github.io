@@ -1,12 +1,12 @@
 ---
-date: '2011-09-07T00:00:00-0400'
-year: '2011'
-title: 'Hulk (2008) #40'
-issue: 40
+date: '2012-02-01T00:00:00-0500'
+year: '2012'
+title: 'Venom (2011) #13'
+issue: 13
 series:
-  period: '2008'
-  name: Hulk
-url: http://marvel.com/comics/issue/37048/hulk_2008_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Venom
+url: http://marvel.com/comics/issue/40639/venom_2011_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4e5fd2401a095
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4f26edfa0ac75
   extension: jpg
