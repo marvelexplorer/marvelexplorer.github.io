@@ -4,8 +4,8 @@
 - name: Thing
   score: 4
 - name: Wolverine
-  score: 4
-- name: Hulk
   score: 3
 - name: Iron Man
+  score: 3
+- name: Hulk
   score: 3
