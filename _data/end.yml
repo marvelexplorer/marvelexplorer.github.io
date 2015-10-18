@@ -1,7 +1,9 @@
 ---
-name: Juggernaut
-description: ''
-url: http://marvel.com/universe/Juggernaut_(Cain_Marko)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Vision
+description: The metal monstrosity called Ultron created the synthetic humanoid known
+  as the Vision from the remains of the original android Human Torch of the 1940s
+  to serve as a vehicle of vengeance against the Avengers.
+url: http://marvel.com/universe/Vision_(Victor_Shade)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/528d340442cca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594
   extension: jpg
