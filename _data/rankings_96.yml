@@ -1,10 +1,10 @@
 ---
 - name: Spider-Man
   score: 11
+- name: Iron Man
+  score: 4
 - name: Thing
   score: 4
-- name: Sub-Mariner
-  score: 3
 - name: Vision
   score: 3
 - name: Hulk
