@@ -1,12 +1,12 @@
 ---
-date: '2011-04-13T00:00:00-0400'
-year: '2011'
-title: 'Amazing Spider-Man (1999) #658'
-issue: 658
+date: '1983-10-10T00:00:00-0400'
+year: '1983'
+title: 'Fantastic Four (1961) #259'
+issue: 259
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/39019/amazing_spider-man_1999_658?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13071/fantastic_four_1961_259?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4e9f19aab4715
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb793ccdd1c6
   extension: jpg
