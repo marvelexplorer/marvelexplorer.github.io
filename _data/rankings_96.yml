@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 10
-- name: Cyclops
+- name: Iron Man
   score: 4
 - name: Avengers
   score: 4
-- name: Iron Man
-  score: 4
+- name: Vision
+  score: 3
 - name: Thing
   score: 3
