@@ -1,12 +1,12 @@
 ---
-date: '2011-08-10T00:00:00-0400'
-year: '2011'
-title: 'X-Men (2010) #15.1'
-issue: 15.1
+date: '2001-11-01T00:00:00-0500'
+year: '2001'
+title: 'New X-Men (2001) #118'
+issue: 118
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/40665/x-men_2010_15.1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14937/new_x-men_2001_118?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4dcaf722a0387
-  extension: jpg
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4e5eadba5bcac
+  extension: png
