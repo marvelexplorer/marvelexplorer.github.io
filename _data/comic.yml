@@ -1,12 +1,12 @@
 ---
-date: '2009-08-19T00:00:00-0400'
-year: '2009'
-title: 'Mighty Avengers (2007) #28'
-issue: 28
+date: '2003-09-02T00:00:00-0400'
+year: '2003'
+title: 'Avengers (1998) #69'
+issue: 69
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/25972/mighty_avengers_2007_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17555/avengers_1998_69?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f7c9338178f0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bb6a4713a956
   extension: jpg
