@@ -1,8 +1,7 @@
 ---
-name: Spiral (Rita Wayword)
-description: Spiral was created to be an agent of Mojo, the despotic leader of Mojo
-  World, often used as his favored personal servant, executioner, and spy.
-url: http://marvel.com/universe/Spiral_%28Rita_Wayword%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Blob
+description: ''
+url: http://marvel.com/universe/Blob?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c003ad84f314
-  extension: jpg
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/4c7c648178328
+  extension: png
