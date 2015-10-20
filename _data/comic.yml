@@ -1,12 +1,12 @@
 ---
-date: '2008-11-12T00:00:00-0500'
-year: '2008'
-title: 'Amazing Spider-Man (1999) #577'
-issue: 577
+date: '1977-11-10T00:00:00-0500'
+year: '1977'
+title: 'Amazing Spider-Man (1963) #174'
+issue: 174
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/22468/amazing_spider-man_1999_577?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6565/amazing_spider-man_1963_174?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4e8f1dff1246a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/52950213acbc9
   extension: jpg
