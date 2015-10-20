@@ -1,12 +1,12 @@
 ---
-date: '1977-04-10T00:00:00-0500'
-year: '1977'
-title: 'Marvel Team-Up (1972) #56'
-issue: 56
+date: '1998-12-10T00:00:00-0500'
+year: '1998'
+title: 'Avengers (1998) #11'
+issue: 11
 series:
-  period: '1972'
-  name: Marvel Team-Up
-url: http://marvel.com/comics/issue/19677/marvel_team-up_1972_56?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17492/avengers_1998_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4badf4f8e00db
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb6b7e067bd5
   extension: jpg

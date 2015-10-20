@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 10
-- name: Cyclops
-  score: 4
+  score: 11
 - name: Vision
   score: 4
-- name: J. Jonah Jameson
-  score: 3
+- name: Cyclops
+  score: 4
 - name: Thing
+  score: 3
+- name: Daredevil
   score: 3
