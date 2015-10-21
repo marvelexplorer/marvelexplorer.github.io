@@ -1,12 +1,12 @@
 ---
-date: '1972-07-10T00:00:00-0400'
-year: '1972'
-title: 'Amazing Adventures (1970) #13'
-issue: 13
+date: '1996-08-01T00:00:00-0400'
+year: '1996'
+title: 'X-Factor (1986) #125'
+issue: 125
 series:
-  period: '1970'
-  name: Amazing Adventures
-url: http://marvel.com/comics/issue/23249/amazing_adventures_1970_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12203/x-factor_1986_125?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bb53c4c253e0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bb57b80dc3b0
   extension: jpg
