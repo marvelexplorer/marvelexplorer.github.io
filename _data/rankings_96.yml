@@ -1,9 +1,9 @@
 ---
 - name: Spider-Man
   score: 6
-- name: Vision
-  score: 4
 - name: Cyclops
+  score: 4
+- name: Vision
   score: 4
 - name: Storm
   score: 3
