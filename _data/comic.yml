@@ -1,12 +1,12 @@
 ---
-date: '2007-05-02T00:00:00-0400'
-year: '2007'
-title: 'Astonishing X-Men (2004) #21'
-issue: 21
+date: '1989-06-10T00:00:00-0400'
+year: '1989'
+title: 'Uncanny X-Men (1963) #245'
+issue: 245
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/6120/astonishing_x-men_2004_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13786/uncanny_x-men_1963_245?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bb8846d89d2f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/50ad2d0fd8a99
   extension: jpg
