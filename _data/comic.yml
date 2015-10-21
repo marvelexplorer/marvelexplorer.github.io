@@ -1,12 +1,12 @@
 ---
-date: '1996-08-01T00:00:00-0400'
-year: '1996'
-title: 'X-Factor (1986) #125'
-issue: 125
+date: '1990-06-10T00:00:00-0400'
+year: '1990'
+title: 'Uncanny X-Men (1963) #262'
+issue: 262
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12203/x-factor_1986_125?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13803/uncanny_x-men_1963_262?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bb57b80dc3b0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/50ad09e024fc0
   extension: jpg
