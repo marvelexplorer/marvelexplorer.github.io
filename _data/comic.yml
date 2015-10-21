@@ -1,12 +1,12 @@
 ---
-date: '2002-11-01T00:00:00-0500'
-year: '2002'
-title: 'New X-Men (2001) #132'
-issue: 132
+date: '1972-07-10T00:00:00-0400'
+year: '1972'
+title: 'Amazing Adventures (1970) #13'
+issue: 13
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14951/new_x-men_2001_132?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: Amazing Adventures
+url: http://marvel.com/comics/issue/23249/amazing_adventures_1970_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4c35ed38e05b7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bb53c4c253e0
   extension: jpg

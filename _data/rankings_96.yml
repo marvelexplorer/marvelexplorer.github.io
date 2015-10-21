@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 6
-- name: Cyclops
-  score: 4
 - name: Vision
   score: 4
-- name: Storm
+- name: Cyclops
+  score: 4
+- name: Polaris
   score: 3
-- name: She-Hulk (Jennifer Walters)
+- name: Storm
   score: 3
