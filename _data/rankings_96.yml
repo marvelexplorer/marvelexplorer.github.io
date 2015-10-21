@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 9
-- name: Vision
-  score: 4
 - name: Cyclops
   score: 4
 - name: Daredevil
   score: 4
-- name: She-Hulk (Jennifer Walters)
+- name: Vision
+  score: 4
+- name: Thing
   score: 3
