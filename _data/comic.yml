@@ -1,12 +1,12 @@
 ---
-date: '1997-03-01T00:00:00-0500'
-year: '1997'
-title: 'Iron Man (1996) #5'
-issue: 5
+date: '1976-09-10T00:00:00-0400'
+year: '1976'
+title: 'Iron Man (1968) #90'
+issue: 90
 series:
-  period: '1996'
+  period: '1968'
   name: Iron Man
-url: http://marvel.com/comics/issue/16336/iron_man_1996_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/9649/iron_man_1968_90?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4f7ef80448a18
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/50adb2d36d800
   extension: jpg
