@@ -1,11 +1,11 @@
 ---
 - name: Cyclops
-  score: 5
+  score: 6
 - name: Vision
   score: 4
-- name: Storm
+- name: Iron Man
   score: 3
 - name: Beast
   score: 3
-- name: Iron Man
+- name: Spider-Man
   score: 3
