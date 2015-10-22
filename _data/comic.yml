@@ -1,12 +1,12 @@
 ---
-date: '2007-10-24T00:00:00-0400'
-year: '2007'
-title: 'X-Men: First Class (2007) #5'
-issue: 5
+date: '1975-02-10T00:00:00-0500'
+year: '1975'
+title: 'Uncanny X-Men (1963) #92'
+issue: 92
 series:
-  period: '2007'
-  name: 'X-Men: First Class'
-url: http://marvel.com/comics/issue/16584/x-men_first_class_2007_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12546/uncanny_x-men_1963_92?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4f6a0c4ae8ad6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4f68b190a0a22
   extension: jpg
