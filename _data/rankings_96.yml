@@ -1,9 +1,9 @@
 ---
 - name: Cyclops
   score: 6
-- name: Vision
-  score: 4
 - name: Iron Man
+  score: 3
+- name: Daredevil
   score: 3
 - name: Beast
   score: 3
