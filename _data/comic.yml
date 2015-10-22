@@ -1,12 +1,12 @@
 ---
-date: '1983-03-10T00:00:00-0500'
-year: '1983'
-title: 'Uncanny X-Men (1963) #167'
-issue: 167
+date: '2008-08-06T00:00:00-0400'
+year: '2008'
+title: 'Cable (2008) #6'
+issue: 6
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13708/uncanny_x-men_1963_167?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Cable
+url: http://marvel.com/comics/issue/21758/cable_2008_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c362e6d980b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ea18b6d6855a
   extension: jpg
