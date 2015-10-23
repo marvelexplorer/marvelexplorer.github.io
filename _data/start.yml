@@ -1,11 +1,7 @@
 ---
-name: Wolfsbane
-description: Rahne Sinclair was an orphan in Scotland, raised by Reverend Craig, who,
-  when her powers manifested, attempted to perform an exorcism to cast out what he
-  perceived was the devil, after which Rahne was rescued by Doctor Moira MacTaggert
-  who legally adopted her, and was introduced to Charles Xavier and enrolled as part
-  of his New Mutants training team.
-url: http://marvel.com/universe/Wolfsbane?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: X-Factor
+description: ''
+url: http://marvel.com/universe/X-Factor?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c003a687658c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/5274136b4372f
   extension: jpg
