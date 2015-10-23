@@ -1,11 +1,11 @@
 ---
-- name: X-Men
+- name: Wolverine
   score: 4
-- name: Havok
+- name: X-Men
   score: 4
 - name: Cyclops
   score: 4
+- name: Havok
+  score: 4
 - name: She-Hulk (Jennifer Walters)
-  score: 3
-- name: Black Panther
   score: 3
