@@ -1,11 +1,11 @@
 ---
+- name: Havok
+  score: 4
 - name: Colossus
+  score: 4
+- name: X-Men
   score: 4
 - name: Black Panther
   score: 4
-- name: Havok
-  score: 4
 - name: Wolverine
-  score: 4
-- name: X-Men
   score: 4
