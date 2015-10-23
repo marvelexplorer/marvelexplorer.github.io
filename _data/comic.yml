@@ -1,12 +1,12 @@
 ---
-date: '2011-11-09T00:00:00-0500'
-year: '2011'
-title: 'Black Panther: The Most Dangerous Man Alive  (2010) #525'
-issue: 525
+date: '2001-01-01T00:00:00-0500'
+year: '2001'
+title: 'Maximum Security (2000) #3'
+issue: 3
 series:
-  period: '2010'
-  name: 'Black Panther: The Most Dangerous Man Alive '
-url: http://marvel.com/comics/issue/36788/black_panther_the_most_dangerous_man_alive_2010_525?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Maximum Security
+url: http://marvel.com/comics/issue/10286/maximum_security_2000_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4ea9b24a5d9e2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/539863d922d01
   extension: jpg
