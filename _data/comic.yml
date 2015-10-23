@@ -1,12 +1,12 @@
 ---
-date: '1975-10-10T00:00:00-0400'
-year: '1975'
-title: 'Uncanny X-Men (1963) #95'
-issue: 95
+date: '2004-12-15T00:00:00-0500'
+year: '2004'
+title: 'X-Men (2004) #165'
+issue: 165
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12549/uncanny_x-men_1963_95?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/1415/x-men_2004_165?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5372b68ca9ba4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc65f9ad512c
   extension: jpg
