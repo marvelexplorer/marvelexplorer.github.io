@@ -1,12 +1,12 @@
 ---
-date: '2004-12-15T00:00:00-0500'
-year: '2004'
-title: 'X-Men (2004) #165'
-issue: 165
+date: '2001-10-01T00:00:00-0400'
+year: '2001'
+title: 'New X-Men (2001) #117'
+issue: 117
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/1415/x-men_2004_165?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14936/new_x-men_2001_117?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc65f9ad512c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc46b330096b
   extension: jpg
