@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 6
-- name: Colossus
+- name: Wolverine
   score: 4
 - name: Beast
   score: 4
-- name: Havok
+- name: Colossus
   score: 4
-- name: Wolverine
+- name: Havok
   score: 4
