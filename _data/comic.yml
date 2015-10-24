@@ -1,12 +1,12 @@
 ---
-date: '2008-08-06T00:00:00-0400'
-year: '2008'
-title: 'Cable (2008) #6'
-issue: 6
+date: '2011-01-19T00:00:00-0500'
+year: '2011'
+title: 'Deadpool Max (2010) #4'
+issue: 4
 series:
-  period: '2008'
-  name: Cable
-url: http://marvel.com/comics/issue/21758/cable_2008_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Deadpool Max
+url: http://marvel.com/comics/issue/32232/deadpool_max_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ea18b6d6855a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4cb780cf70c9e
   extension: jpg
