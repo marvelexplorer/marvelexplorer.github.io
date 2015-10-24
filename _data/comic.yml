@@ -1,12 +1,12 @@
 ---
-date: '1996-07-01T00:00:00-0400'
-year: '1996'
-title: 'X-Men (1991) #54'
-issue: 54
+date: '1984-10-10T00:00:00-0400'
+year: '1984'
+title: 'Secret Wars (1984) #6'
+issue: 6
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14344/x-men_1991_54?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10588/secret_wars_1984_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb86d42d4fd7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/b0/4f68c9758c6cf
   extension: jpg

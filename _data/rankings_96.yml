@@ -1,9 +1,9 @@
 ---
 - name: X-Men
   score: 7
-- name: Colossus
-  score: 5
 - name: Beast
+  score: 6
+- name: Colossus
   score: 5
 - name: Wolverine
   score: 5
