@@ -1,12 +1,12 @@
 ---
-date: '2006-11-08T00:00:00-0500'
-year: '2006'
-title: 'Wolverine Origins (2006) #8'
-issue: 8
+date: '2001-12-01T00:00:00-0500'
+year: '2001'
+title: 'Wolverine (1988) #169'
+issue: 169
 series:
-  period: '2006'
-  name: Wolverine Origins
-url: http://marvel.com/comics/issue/5426/wolverine_origins_2006_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14113/wolverine_1988_169?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/51e078da740a5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bb6776f32160
   extension: jpg
