@@ -1,12 +1,12 @@
 ---
-date: '2011-01-26T00:00:00-0500'
-year: '2011'
-title: 'Avengers (2010) #9'
-issue: 9
+date: '1965-11-10T00:00:00-0500'
+year: '1965'
+title: 'Tales of Suspense (1959) #71'
+issue: 71
 series:
-  period: '2010'
-  name: Avengers
-url: http://marvel.com/comics/issue/29212/avengers_2010_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11316/tales_of_suspense_1959_71?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f50dff0e2982
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/536d4d39b6768
   extension: jpg
