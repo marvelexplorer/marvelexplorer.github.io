@@ -1,12 +1,12 @@
 ---
-date: '2001-12-01T00:00:00-0500'
-year: '2001'
-title: 'Wolverine (1988) #169'
-issue: 169
+date: '2006-06-07T00:00:00-0400'
+year: '2006'
+title: 'Civil War: Front Line (2006) #1'
+issue: 1
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14113/wolverine_1988_169?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'Civil War: Front Line'
+url: http://marvel.com/comics/issue/4339/civil_war_front_line_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bb6776f32160
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f75b66dbe502
   extension: jpg
