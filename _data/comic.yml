@@ -1,12 +1,12 @@
 ---
-date: '2004-05-26T00:00:00-0400'
-year: '2004'
-title: 'Wolverine/Punisher (2004) #3'
-issue: 3
+date: '1970-11-10T00:00:00-0500'
+year: '1970'
+title: 'Avengers (1963) #82'
+issue: 82
 series:
-  period: '2004'
-  name: Wolverine/Punisher
-url: http://marvel.com/comics/issue/675/wolverinepunisher_2004_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7335/avengers_1963_82?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc684a0cd5fa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4e93582010b3e
   extension: jpg
