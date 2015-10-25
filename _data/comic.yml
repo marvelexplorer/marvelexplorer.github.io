@@ -1,12 +1,12 @@
 ---
-date: '1992-03-10T00:00:00-0500'
-year: '1992'
-title: 'X-Men (1991) #6'
-issue: 6
+date: '2007-02-28T00:00:00-0500'
+year: '2007'
+title: 'Wolverine (2003) #51'
+issue: 51
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14350/x-men_1991_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/5967/wolverine_2003_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc365912ef2e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4d251b809effb
   extension: jpg
