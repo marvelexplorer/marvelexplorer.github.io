@@ -1,12 +1,12 @@
 ---
-date: '1991-10-10T00:00:00-0400'
-year: '1991'
-title: 'X-Factor (1986) #71'
-issue: 71
+date: '2003-04-01T00:00:00-0500'
+year: '2003'
+title: 'Uncanny X-Men (1963) #419'
+issue: 419
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12292/x-factor_1986_71?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13960/uncanny_x-men_1963_419?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/4bc37db63996f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4bc46a6810460
   extension: jpg
