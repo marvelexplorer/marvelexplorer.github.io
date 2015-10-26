@@ -1,12 +1,12 @@
 ---
-date: '2007-05-09T00:00:00-0400'
-year: '2007'
-title: 'Marvel Zombies: Dead Days (2007) #1'
-issue: 1
+date: '2002-02-01T00:00:00-0500'
+year: '2002'
+title: 'X-Treme X-Men: The Savage Land (2001) #4'
+issue: 4
 series:
-  period: '2007'
-  name: 'Marvel Zombies: Dead Days'
-url: http://marvel.com/comics/issue/13479/marvel_zombies_dead_days_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: 'X-Treme X-Men: The Savage Land'
+url: http://marvel.com/comics/issue/12397/x-treme_x-men_the_savage_land_2001_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bb87f6aaef92
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc46cc689925
   extension: jpg
