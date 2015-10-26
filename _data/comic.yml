@@ -1,12 +1,12 @@
 ---
-date: '1993-12-10T00:00:00-0500'
-year: '1993'
-title: 'Alpha Flight (1983) #127'
-issue: 127
+date: '1975-01-10T00:00:00-0500'
+year: '1975'
+title: 'Giant-Size Defenders (1974) #3'
+issue: 3
 series:
-  period: '1983'
-  name: Alpha Flight
-url: http://marvel.com/comics/issue/12668/alpha_flight_1983_127?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1974'
+  name: Giant-Size Defenders
+url: http://marvel.com/comics/issue/20028/giant-size_defenders_1974_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/4ce589bf3f9b7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c5319e35f6ab
   extension: jpg

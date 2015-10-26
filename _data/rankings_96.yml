@@ -1,11 +1,11 @@
 ---
-- name: X-Men
-  score: 9
 - name: Wolverine
+  score: 9
+- name: X-Men
   score: 9
 - name: Iron Man
   score: 6
-- name: Cyclops
+- name: Beast
   score: 3
 - name: Archangel
   score: 3
