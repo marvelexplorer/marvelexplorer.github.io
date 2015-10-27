@@ -1,12 +1,12 @@
 ---
-date: '1983-04-10T00:00:00-0500'
-year: '1983'
-title: 'Iron Man (1968) #169'
-issue: 169
+date: '2006-11-08T00:00:00-0500'
+year: '2006'
+title: 'Wolverine Origins (2006) #8'
+issue: 8
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9404/iron_man_1968_169?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/5426/wolverine_origins_2006_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/516c60487020f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/51e078da740a5
   extension: jpg
