@@ -1,9 +1,9 @@
 ---
 - name: Spider-Man
   score: 42
-- name: Wolverine
-  score: 28
 - name: Iron Man
+  score: 27
+- name: Wolverine
   score: 27
 - name: X-Men
   score: 22
