@@ -1,12 +1,12 @@
 ---
-date: '2003-10-15T00:00:00-0400'
-year: '2003'
-title: 'X-Treme X-Men (2001) #30'
-issue: 30
+date: '2011-06-01T00:00:00-0400'
+year: '2011'
+title: 'Wolverine/Hercules: Myths, Monsters & Mutants (2010) #4'
+issue: 4
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15034/x-treme_x-men_2001_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Wolverine/Hercules: Myths, Monsters & Mutants'
+url: http://marvel.com/comics/issue/35809/wolverinehercules_myths_monsters_mutants_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc36843e5203
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/55d20e829687c
   extension: jpg
