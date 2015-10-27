@@ -1,12 +1,12 @@
 ---
-date: '2000-04-01T00:00:00-0500'
-year: '2000'
-title: 'Cable (1993) #78'
-issue: 78
+date: '1993-11-10T00:00:00-0500'
+year: '1993'
+title: 'Cable (1993) #5'
+issue: 5
 series:
   period: '1993'
   name: Cable
-url: http://marvel.com/comics/issue/7457/cable_1993_78?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/7426/cable_1993_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/50b3ad8ea944c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/50b5227c125c3
   extension: jpg
