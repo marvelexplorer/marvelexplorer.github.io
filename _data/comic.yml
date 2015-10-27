@@ -1,12 +1,12 @@
 ---
-date: '2011-11-09T00:00:00-0500'
-year: '2011'
-title: 'X-Men Legacy (2008) #258'
-issue: 258
+date: '2000-04-01T00:00:00-0500'
+year: '2000'
+title: 'Cable (1993) #78'
+issue: 78
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/38100/x-men_legacy_2008_258?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7457/cable_1993_78?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/51a4e6fb9598f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/50b3ad8ea944c
   extension: jpg
