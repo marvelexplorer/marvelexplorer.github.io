@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 11
-- name: X-Men
-  score: 9
 - name: Iron Man
   score: 8
-- name: Polaris
+- name: X-Men
+  score: 8
+- name: Beast
   score: 3
-- name: Archangel
+- name: Rogue
   score: 3
