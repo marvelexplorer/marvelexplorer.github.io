@@ -1,12 +1,12 @@
 ---
-date: '2009-03-18T00:00:00-0400'
-year: '2009'
-title: 'X-Force (2008) #13'
-issue: 13
+date: '2001-11-01T00:00:00-0500'
+year: '2001'
+title: 'X-Treme X-Men: The Savage Land (2001) #1'
+issue: 1
 series:
-  period: '2008'
-  name: X-Force
-url: http://marvel.com/comics/issue/23772/x-force_2008_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: 'X-Treme X-Men: The Savage Land'
+url: http://marvel.com/comics/issue/12394/x-treme_x-men_the_savage_land_2001_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/4bb5999361573
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4bc46cd0aadb8
   extension: jpg
