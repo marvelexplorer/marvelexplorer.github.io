@@ -1,12 +1,12 @@
 ---
-date: '2002-04-01T00:00:00-0500'
-year: '2002'
-title: 'Black Panther (1998) #41'
-issue: 41
+date: '2006-10-25T00:00:00-0400'
+year: '2006'
+title: 'Black Panther (2005) #21'
+issue: 21
 series:
-  period: '1998'
+  period: '2005'
   name: Black Panther
-url: http://marvel.com/comics/issue/12610/black_panther_1998_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/5243/black_panther_2005_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc34a8938ac4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/4bc5c1a4ac4f1
   extension: jpg
