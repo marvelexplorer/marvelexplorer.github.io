@@ -1,12 +1,12 @@
 ---
-date: '2007-05-23T00:00:00-0400'
-year: '2007'
-title: 'Captain America (2004) #26'
-issue: 26
+date: '2011-06-01T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself (2010) #3'
+issue: 3
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/6152/captain_america_2004_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Fear Itself
+url: http://marvel.com/comics/issue/41147/fear_itself_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f75ae9b534a4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4f621b6d00758
   extension: jpg

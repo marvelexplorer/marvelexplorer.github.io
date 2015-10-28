@@ -2,10 +2,10 @@
 - name: Wolverine
   score: 12
 - name: Iron Man
-  score: 9
+  score: 10
 - name: X-Men
-  score: 7
-- name: Wasp
+  score: 6
+- name: Archangel
   score: 3
 - name: Cyclops
   score: 3
