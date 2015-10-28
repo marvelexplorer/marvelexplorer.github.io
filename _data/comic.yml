@@ -1,12 +1,12 @@
 ---
-date: '2006-10-25T00:00:00-0400'
-year: '2006'
-title: 'Black Panther (2005) #21'
-issue: 21
+date: '1940-06-01T00:00:00-0400'
+year: '1940'
+title: 'Marvel Mystery Comics (1939) #8'
+issue: 8
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/5243/black_panther_2005_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16791/marvel_mystery_comics_1939_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/4bc5c1a4ac4f1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc37b5b1a9f1
   extension: jpg
