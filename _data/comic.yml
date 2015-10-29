@@ -1,12 +1,12 @@
 ---
-date: '1978-04-10T00:00:00-0500'
-year: '1978'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #17'
-issue: 17
+date: '2009-09-02T00:00:00-0400'
+year: '2009'
+title: 'Mystic Comics 70th Anniversary Special (2009) #1'
+issue: 1
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14620/peter_parker_the_spectacular_spider-man_1976_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Mystic Comics 70th Anniversary Special
+url: http://marvel.com/comics/issue/26021/mystic_comics_70th_anniversary_special_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc35d7e561a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bb4919a68f80
   extension: jpg
