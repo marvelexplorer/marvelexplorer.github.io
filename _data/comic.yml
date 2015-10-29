@@ -1,12 +1,12 @@
 ---
-date: '2009-09-02T00:00:00-0400'
-year: '2009'
-title: 'Mystic Comics 70th Anniversary Special (2009) #1'
-issue: 1
+date: '1992-05-10T00:00:00-0400'
+year: '1992'
+title: 'X-Men (1991) #8'
+issue: 8
 series:
-  period: '2009'
-  name: Mystic Comics 70th Anniversary Special
-url: http://marvel.com/comics/issue/26021/mystic_comics_70th_anniversary_special_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14372/x-men_1991_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bb4919a68f80
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/557f30e2c8c48
   extension: jpg
