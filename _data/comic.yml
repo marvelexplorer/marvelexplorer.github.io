@@ -1,12 +1,12 @@
 ---
-date: '1987-08-10T00:00:00-0400'
-year: '1987'
-title: 'Fantastic Four (1961) #305'
-issue: 305
+date: '1997-09-01T00:00:00-0400'
+year: '1997'
+title: 'Fantastic Four (1996) #11'
+issue: 11
 series:
-  period: '1961'
+  period: '1996'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13123/fantastic_four_1961_305?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13314/fantastic_four_1996_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/537a5f91e7540
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc35f444834b
   extension: jpg
