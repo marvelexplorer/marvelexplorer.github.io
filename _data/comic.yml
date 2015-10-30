@@ -1,12 +1,12 @@
 ---
-date: '1997-09-01T00:00:00-0400'
-year: '1997'
-title: 'Fantastic Four (1996) #11'
-issue: 11
+date: '1981-04-10T00:00:00-0500'
+year: '1981'
+title: 'Thor (1966) #306'
+issue: 306
 series:
-  period: '1996'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13314/fantastic_four_1996_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11634/thor_1966_306?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc35f444834b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/518018c1acc48
   extension: jpg
