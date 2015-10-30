@@ -1,12 +1,12 @@
 ---
-date: '1992-11-20T00:00:00-0500'
-year: '1992'
-title: 'Thor (1966) #454'
-issue: 454
+date: '1999-10-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers Forever (1998) #11'
+issue: 11
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11782/thor_1966_454?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers Forever
+url: http://marvel.com/comics/issue/12403/avengers_forever_1998_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f68b5de6a069
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc47ca7db73e
   extension: jpg
