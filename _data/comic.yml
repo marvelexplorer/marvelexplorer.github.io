@@ -1,12 +1,12 @@
 ---
-date: '2008-01-09T00:00:00-0500'
-year: '2008'
-title: 'Wolverine (2003) #61'
-issue: 61
+date: '2011-09-14T00:00:00-0400'
+year: '2011'
+title: 'Uncanny X-Force (2010) #15'
+issue: 15
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/17588/wolverine_2003_61?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Uncanny X-Force
+url: http://marvel.com/comics/issue/35298/uncanny_x-force_2010_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4d250178bd5da
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4e67d2e80e4a6
   extension: jpg
