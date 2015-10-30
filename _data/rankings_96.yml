@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
-  score: 8
+  score: 7
 - name: Iron Man
   score: 7
 - name: Spider-Man
   score: 6
-- name: Polaris
+- name: Mr. Fantastic
   score: 3
 - name: Rogue
   score: 3
