@@ -1,12 +1,12 @@
 ---
-date: '2005-07-13T00:00:00-0400'
-year: '2005'
-title: 'New Avengers (2004) #7'
-issue: 7
+date: '1999-06-02T00:00:00-0400'
+year: '1999'
+title: 'Amazing Spider-Man (1999) #6'
+issue: 6
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/1975/new_avengers_2004_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/37900/amazing_spider-man_1999_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f7db39021b77
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4e81d53be634c
   extension: jpg
