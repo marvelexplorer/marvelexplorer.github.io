@@ -1,12 +1,12 @@
 ---
-date: '2001-11-01T00:00:00-0500'
-year: '2001'
-title: 'Spider-Man''s Tangled Web (2001) #6'
-issue: 6
+date: '2002-07-01T00:00:00-0400'
+year: '2002'
+title: 'X-Treme X-Men (2001) #13'
+issue: 13
 series:
   period: '2001'
-  name: Spider-Man's Tangled Web
-url: http://marvel.com/comics/issue/10925/spider-mans_tangled_web_2001_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15015/x-treme_x-men_2001_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4bc4705f19282
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc36801c2e65
   extension: jpg
