@@ -1,12 +1,12 @@
 ---
-date: '2007-10-24T00:00:00-0400'
-year: '2007'
-title: 'X-Men: First Class (2007) #5'
-issue: 5
+date: '1993-07-10T00:00:00-0400'
+year: '1993'
+title: 'Incredible Hulk (1962) #407'
+issue: 407
 series:
-  period: '2007'
-  name: 'X-Men: First Class'
-url: http://marvel.com/comics/issue/16584/x-men_first_class_2007_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9218/incredible_hulk_1962_407?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4f6a0c4ae8ad6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5261613cac57a
   extension: jpg
