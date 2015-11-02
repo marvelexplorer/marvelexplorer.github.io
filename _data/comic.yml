@@ -1,12 +1,12 @@
 ---
-date: '2005-07-27T00:00:00-0400'
-year: '2005'
-title: 'Daredevil Vs. Punisher (2005) #2'
-issue: 2
+date: '1976-04-10T00:00:00-0500'
+year: '1976'
+title: 'Daredevil (1964) #132'
+issue: 132
 series:
-  period: '2005'
-  name: Daredevil Vs. Punisher
-url: http://marvel.com/comics/issue/2203/daredevil_vs_punisher_2005_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8110/daredevil_1964_132?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bc62eb0eac35
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc335f8593fa
   extension: jpg
