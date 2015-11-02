@@ -1,12 +1,12 @@
 ---
-date: '2002-02-01T00:00:00-0500'
-year: '2002'
-title: 'Deadpool (1997) #61'
-issue: 61
+date: '2000-03-01T00:00:00-0500'
+year: '2000'
+title: 'X-Men (1991) #98'
+issue: 98
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8519/deadpool_1997_61?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14392/x-men_1991_98?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4f2189e7085a3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bb567359de5d
   extension: jpg
