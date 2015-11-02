@@ -1,11 +1,11 @@
 ---
+- name: Wolverine
+  score: 5
 - name: Hulk
   score: 5
 - name: X-Men
   score: 4
-- name: Spider-Man
+- name: Loners
   score: 4
 - name: Iron Man
-  score: 4
-- name: Wolverine
   score: 4
