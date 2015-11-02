@@ -1,12 +1,12 @@
 ---
-date: '1972-02-10T00:00:00-0500'
-year: '1972'
-title: 'Uncanny X-Men (1963) #74'
-issue: 74
+date: '2001-09-01T00:00:00-0400'
+year: '2001'
+title: 'X-Treme X-Men (2001) #3'
+issue: 3
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12526/uncanny_x-men_1963_74?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15033/x-treme_x-men_2001_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4f67bad153eb8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc3238309c1a
   extension: jpg
