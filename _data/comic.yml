@@ -1,12 +1,12 @@
 ---
-date: '1990-02-10T00:00:00-0500'
-year: '1990'
-title: 'Incredible Hulk (1962) #366'
-issue: 366
+date: '2010-09-15T00:00:00-0400'
+year: '2010'
+title: 'Avengers & the Infinity Gauntlet (2010) #2'
+issue: 2
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9177/incredible_hulk_1962_366?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Avengers & the Infinity Gauntlet
+url: http://marvel.com/comics/issue/32479/avengers_the_infinity_gauntlet_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bb609e2bb191
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4f7b1638eaedf
   extension: jpg
