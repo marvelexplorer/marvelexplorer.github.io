@@ -1,11 +1,11 @@
 ---
-- name: X-Men
+- name: Hulk
   score: 5
 - name: Wolverine
   score: 5
-- name: Hulk
+- name: X-Men
   score: 5
 - name: Loners
   score: 4
-- name: Spider-Woman (Mattie Franklin)
+- name: Iceman
   score: 3
