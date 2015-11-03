@@ -1,12 +1,12 @@
 ---
-date: '1996-12-10T00:00:00-0500'
-year: '1996'
-title: 'Avengers (1996) #2'
-issue: 2
+date: '2007-12-19T00:00:00-0500'
+year: '2007'
+title: 'Marvel Adventures the Avengers (2006) #19'
+issue: 19
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17756/avengers_1996_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/17381/marvel_adventures_the_avengers_2006_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bb85467110b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4f6399c2b07bb
   extension: jpg
