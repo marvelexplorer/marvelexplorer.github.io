@@ -1,12 +1,12 @@
 ---
-date: '1999-03-01T00:00:00-0500'
-year: '1999'
-title: 'X-Men (1991) #85'
-issue: 85
+date: '1996-07-01T00:00:00-0400'
+year: '1996'
+title: 'Excalibur (1988) #99'
+issue: 99
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14378/x-men_1991_85?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Excalibur
+url: http://marvel.com/comics/issue/8686/excalibur_1988_99?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc4687e1457f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/55affcff80fbd
   extension: jpg
