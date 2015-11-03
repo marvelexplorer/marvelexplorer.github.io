@@ -1,12 +1,12 @@
 ---
-date: '2008-06-04T00:00:00-0400'
-year: '2008'
-title: 'Wolverine: Dangerous Games (2008) #1'
+date: '1998-07-10T00:00:00-0400'
+year: '1998'
+title: 'Thor (1998) #1'
 issue: 1
 series:
-  period: '2008'
-  name: 'Wolverine: Dangerous Games'
-url: http://marvel.com/comics/issue/21384/wolverine_dangerous_games_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/18631/thor_1998_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb7c7f0528a3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4d24f01cc3f46
   extension: jpg
