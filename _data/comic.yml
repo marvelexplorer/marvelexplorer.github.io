@@ -1,12 +1,12 @@
 ---
-date: '1989-02-10T00:00:00-0500'
-year: '1989'
-title: 'Fantastic Four (1961) #323'
-issue: 323
+date: '1996-12-10T00:00:00-0500'
+year: '1996'
+title: 'Avengers (1996) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13143/fantastic_four_1961_323?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1996'
+  name: Avengers
+url: http://marvel.com/comics/issue/17756/avengers_1996_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/50b52436dc888
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bb85467110b9
   extension: jpg
