@@ -1,12 +1,12 @@
 ---
-date: '2012-03-28T00:00:00-0400'
-year: '2012'
-title: 'Secret Avengers (2010) #24'
-issue: 24
+date: '1988-02-10T00:00:00-0500'
+year: '1988'
+title: 'Fantastic Four (1961) #311'
+issue: 311
 series:
-  period: '2010'
-  name: Secret Avengers
-url: http://marvel.com/comics/issue/35167/secret_avengers_2010_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13130/fantastic_four_1961_311?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/90/518d170287238
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/55d4aee21d2cd
   extension: jpg
