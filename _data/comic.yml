@@ -1,12 +1,12 @@
 ---
-date: '1976-01-10T00:00:00-0500'
-year: '1976'
-title: 'Howard the Duck (1976) #1'
-issue: 1
+date: '2009-07-22T00:00:00-0400'
+year: '2009'
+title: 'Amazing Spider-Man (1999) #600'
+issue: 600
 series:
-  period: '1976'
-  name: Howard the Duck
-url: http://marvel.com/comics/issue/21096/howard_the_duck_1976_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/24407/amazing_spider-man_1999_600?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bb825ed7ee74
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4e8dd3d1b7bc8
   extension: jpg
