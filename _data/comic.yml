@@ -1,12 +1,12 @@
 ---
-date: '2009-07-22T00:00:00-0400'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #600'
-issue: 600
+date: '2002-04-01T00:00:00-0500'
+year: '2002'
+title: 'Avengers (1998) #51'
+issue: 51
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/24407/amazing_spider-man_1999_600?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17536/avengers_1998_51?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4e8dd3d1b7bc8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/50b3a19f14d90
   extension: jpg
