@@ -1,12 +1,12 @@
 ---
-date: '2004-12-29T00:00:00-0500'
-year: '2004'
-title: 'Captain America (2004) #2'
-issue: 2
+date: '1996-10-01T00:00:00-0400'
+year: '1996'
+title: 'Onslaught: Marvel Universe (1996) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/1492/captain_america_2004_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1996'
+  name: 'Onslaught: Marvel Universe'
+url: http://marvel.com/comics/issue/10453/onslaught_marvel_universe_1996_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/5140ad1091316
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc47390b10ed
   extension: jpg
