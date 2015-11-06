@@ -1,12 +1,12 @@
 ---
-date: '1982-05-10T00:00:00-0400'
-year: '1982'
-title: 'Marvel Fanfare (1982) #2'
-issue: 2
+date: '1997-10-10T00:00:00-0400'
+year: '1997'
+title: 'Avengers (1996) #12'
+issue: 12
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19793/marvel_fanfare_1982_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1996'
+  name: Avengers
+url: http://marvel.com/comics/issue/17754/avengers_1996_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/10/4bb5c6cfbcd3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6dcd619d2c
   extension: jpg
