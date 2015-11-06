@@ -1,12 +1,12 @@
 ---
-date: '2010-06-03T00:00:00-0400'
-year: '2010'
-title: 'Hawkeye & Mockingbird (2010) #1'
-issue: 1
+date: '2004-12-29T00:00:00-0500'
+year: '2004'
+title: 'Captain America (2004) #2'
+issue: 2
 series:
-  period: '2010'
-  name: Hawkeye & Mockingbird
-url: http://marvel.com/comics/issue/30011/hawkeye_mockingbird_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/1492/captain_america_2004_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f57826b95a37
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/5140ad1091316
   extension: jpg
