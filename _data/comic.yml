@@ -1,12 +1,12 @@
 ---
-date: '1997-10-10T00:00:00-0400'
-year: '1997'
-title: 'Avengers (1996) #12'
-issue: 12
+date: '1984-09-10T00:00:00-0400'
+year: '1984'
+title: 'Secret Wars (1984) #5'
+issue: 5
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17754/avengers_1996_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10587/secret_wars_1984_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6dcd619d2c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4f68c921d9b01
   extension: jpg
