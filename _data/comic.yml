@@ -1,12 +1,12 @@
 ---
-date: '1979-01-03T00:00:00-0500'
-year: '1979'
-title: 'X-Men Annual (1970) #3'
-issue: 3
+date: '1982-04-10T00:00:00-0500'
+year: '1982'
+title: 'Thor (1966) #318'
+issue: 318
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12363/x-men_annual_1970_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11646/thor_1966_318?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4f675b712d861
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/52026af51eca4
   extension: jpg
