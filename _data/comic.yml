@@ -1,12 +1,12 @@
 ---
-date: '1995-10-10T00:00:00-0400'
-year: '1995'
-title: 'Thor (1966) #491'
-issue: 491
+date: '1965-02-10T00:00:00-0500'
+year: '1965'
+title: 'Journey Into Mystery (1952) #113'
+issue: 113
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11819/thor_1966_491?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1952'
+  name: Journey Into Mystery
+url: http://marvel.com/comics/issue/9688/journey_into_mystery_1952_113?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bc46ebca32c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4f639bd8398e9
   extension: jpg
