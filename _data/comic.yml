@@ -1,12 +1,12 @@
 ---
-date: '2002-02-01T00:00:00-0500'
-year: '2002'
-title: 'Daredevil (1998) #28'
-issue: 28
+date: '2007-10-17T00:00:00-0400'
+year: '2007'
+title: 'X-Men: Die by the Sword (2007) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/15629/daredevil_1998_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'X-Men: Die by the Sword'
+url: http://marvel.com/comics/issue/16590/x-men_die_by_the_sword_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bb846299068a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc392a803ce9
   extension: jpg
