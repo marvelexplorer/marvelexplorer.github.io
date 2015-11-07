@@ -1,12 +1,12 @@
 ---
-date: '1940-09-01T00:00:00-0400'
-year: '1940'
-title: 'Marvel Mystery Comics (1939) #11'
-issue: 11
+date: '2011-04-06T00:00:00-0400'
+year: '2011'
+title: 'Skaar: King of the Savage Land (2011) #1'
+issue: 1
 series:
-  period: '1939'
-  name: Marvel Mystery Comics
-url: http://marvel.com/comics/issue/16716/marvel_mystery_comics_1939_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Skaar: King of the Savage Land'
+url: http://marvel.com/comics/issue/38542/skaar_king_of_the_savage_land_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bb5b92cac6f7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7df1cfa5765
   extension: jpg
