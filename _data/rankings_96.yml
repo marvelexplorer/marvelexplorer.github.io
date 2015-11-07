@@ -1,11 +1,11 @@
 ---
-- name: Wolverine
-  score: 6
 - name: X-Men
+  score: 6
+- name: Wolverine
   score: 6
 - name: Gambit
   score: 5
-- name: Beast
-  score: 3
 - name: Avengers
+  score: 4
+- name: Beast
   score: 3
