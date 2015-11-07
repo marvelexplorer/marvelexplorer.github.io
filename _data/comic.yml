@@ -1,12 +1,12 @@
 ---
-date: '1985-12-10T00:00:00-0500'
-year: '1985'
-title: 'Daredevil (1964) #225'
-issue: 225
+date: '2002-06-01T00:00:00-0400'
+year: '2002'
+title: 'Spider-Man''s Tangled Web (2001) #13'
+issue: 13
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8213/daredevil_1964_225?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Spider-Man's Tangled Web
+url: http://marvel.com/comics/issue/10914/spider-mans_tangled_web_2001_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bc35ecace798
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4c7d61ac9a684
   extension: jpg
