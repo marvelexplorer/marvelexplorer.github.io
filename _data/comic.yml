@@ -1,12 +1,12 @@
 ---
-date: '2005-10-26T00:00:00-0400'
-year: '2005'
-title: 'New Avengers (2004) #12'
-issue: 12
+date: '2006-01-25T00:00:00-0500'
+year: '2006'
+title: 'New Avengers Vol.2: Sentry (2006)'
+issue: 0
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/2419/new_avengers_2004_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/4004/new_avengers_vol.2_sentry_2006?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4f7e01949a402
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bc5f64f2aff6
   extension: jpg
