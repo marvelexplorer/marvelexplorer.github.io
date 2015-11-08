@@ -1,12 +1,12 @@
 ---
-date: '2001-12-01T00:00:00-0500'
-year: '2001'
-title: 'Elektra (2001) #4'
-issue: 4
+date: '1981-11-10T00:00:00-0500'
+year: '1981'
+title: 'Daredevil (1964) #176'
+issue: 176
 series:
-  period: '2001'
-  name: Elektra
-url: http://marvel.com/comics/issue/20081/elektra_2001_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8158/daredevil_1964_176?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb682f4aaa1d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4c7d1e17e4d54
   extension: jpg
