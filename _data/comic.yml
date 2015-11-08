@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
-year: '2006'
-title: 'New Avengers Vol.2: Sentry (2006)'
-issue: 0
+date: '2001-12-01T00:00:00-0500'
+year: '2001'
+title: 'Elektra (2001) #4'
+issue: 4
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/4004/new_avengers_vol.2_sentry_2006?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: Elektra
+url: http://marvel.com/comics/issue/20081/elektra_2001_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bc5f64f2aff6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb682f4aaa1d
   extension: jpg
