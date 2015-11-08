@@ -1,12 +1,12 @@
 ---
-date: '2000-01-01T00:00:00-0500'
-year: '2000'
-title: 'Earth X (1999) #10'
-issue: 10
+date: '1964-07-10T00:00:00-0400'
+year: '1964'
+title: 'Tales of Suspense (1959) #55'
+issue: 55
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8549/earth_x_1999_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11298/tales_of_suspense_1959_55?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/4bb677894650e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/536d5a9e5e1dd
   extension: jpg
