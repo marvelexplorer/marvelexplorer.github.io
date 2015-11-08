@@ -1,12 +1,12 @@
 ---
-date: '2004-07-07T00:00:00-0400'
-year: '2004'
-title: 'Loki (2004) #1'
-issue: 1
+date: '1978-02-10T00:00:00-0500'
+year: '1978'
+title: 'What If? (1977) #7'
+issue: 7
 series:
-  period: '2004'
-  name: Loki
-url: http://marvel.com/comics/issue/608/loki_2004_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: What If?
+url: http://marvel.com/comics/issue/12165/what_if_1977_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4bc689aea7ae9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bb7aa3537a4d
   extension: jpg
