@@ -1,12 +1,12 @@
 ---
-date: '1978-02-10T00:00:00-0500'
-year: '1978'
-title: 'What If? (1977) #7'
-issue: 7
+date: '2005-01-12T00:00:00-0500'
+year: '2005'
+title: 'Marvel Knights Spider-Man (2004) #10'
+issue: 10
 series:
-  period: '1977'
-  name: What If?
-url: http://marvel.com/comics/issue/12165/what_if_1977_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Marvel Knights Spider-Man
+url: http://marvel.com/comics/issue/1523/marvel_knights_spider-man_2004_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bb7aa3537a4d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc658c8e0321
   extension: jpg
