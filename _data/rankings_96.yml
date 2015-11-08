@@ -1,11 +1,11 @@
 ---
+- name: X-Men
+  score: 4
 - name: Wasp
   score: 4
 - name: Thor
   score: 4
 - name: Wolverine
   score: 4
-- name: X-Men
-  score: 4
-- name: Spider-Man
+- name: Rogue
   score: 3
