@@ -1,12 +1,12 @@
 ---
-date: '1999-11-01T00:00:00-0500'
-year: '1999'
-title: 'Uncanny X-Men (1963) #374'
-issue: 374
+date: '1981-01-05T00:00:00-0500'
+year: '1981'
+title: 'X-Men Annual (1970) #5'
+issue: 5
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13915/uncanny_x-men_1963_374?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12365/x-men_annual_1970_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/50b51538e5f20
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4de7f855da53e
   extension: jpg
