@@ -1,12 +1,12 @@
 ---
-date: '2004-09-08T00:00:00-0400'
-year: '2004'
-title: 'X-Force (2004) #2'
-issue: 2
+date: '2012-07-25T00:00:00-0400'
+year: '2012'
+title: 'Uncanny X-Force (2010) #28'
+issue: 28
 series:
-  period: '2004'
-  name: X-Force
-url: http://marvel.com/comics/issue/806/x-force_2004_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Uncanny X-Force
+url: http://marvel.com/comics/issue/40445/uncanny_x-force_2010_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc67b6d6d480
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/40/5005c25c4d112
   extension: jpg
