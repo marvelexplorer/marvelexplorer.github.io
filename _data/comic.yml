@@ -1,12 +1,12 @@
 ---
-date: '2002-01-01T00:00:00-0500'
-year: '2002'
-title: 'X-Treme X-Men (2001) #7'
-issue: 7
+date: '2006-10-25T00:00:00-0400'
+year: '2006'
+title: 'X-Men (2004) #192'
+issue: 192
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15054/x-treme_x-men_2001_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/5202/x-men_2004_192?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc36719f2187
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc5c4d5536cc
   extension: jpg
