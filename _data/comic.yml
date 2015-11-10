@@ -1,12 +1,12 @@
 ---
-date: '1991-11-10T00:00:00-0500'
-year: '1991'
-title: 'X-Men (1991) #2'
-issue: 2
+date: '2011-08-10T00:00:00-0400'
+year: '2011'
+title: 'New Mutants (2009) #29'
+issue: 29
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14306/x-men_1991_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: New Mutants
+url: http://marvel.com/comics/issue/36504/new_mutants_2009_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc3657cb9403
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/5155d121dc396
   extension: jpg
