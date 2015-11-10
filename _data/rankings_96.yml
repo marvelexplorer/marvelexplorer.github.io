@@ -1,11 +1,11 @@
 ---
-- name: Thor
+- name: X-Men
   score: 4
-- name: Spider-Man
+- name: Thor
   score: 4
 - name: Colossus
   score: 4
-- name: Daredevil
+- name: Spider-Man
   score: 4
-- name: X-Men
+- name: Daredevil
   score: 4
