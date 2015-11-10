@@ -1,12 +1,12 @@
 ---
-date: '2007-07-18T00:00:00-0400'
-year: '2007'
-title: 'World War Hulk (2007) #2'
-issue: 2
+date: '2006-09-06T00:00:00-0400'
+year: '2006'
+title: 'Marvel 1602: Fantastick Four (2006) #1'
+issue: 1
 series:
-  period: '2007'
-  name: World War Hulk
-url: http://marvel.com/comics/issue/15984/world_war_hulk_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'Marvel 1602: Fantastick Four'
+url: http://marvel.com/comics/issue/5103/marvel_1602_fantastick_four_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f674bf82d748
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/51f9221dcdad7
   extension: jpg
