@@ -1,9 +1,9 @@
 ---
 - name: Thor
   score: 4
-- name: Colossus
-  score: 4
 - name: Spider-Man
+  score: 4
+- name: Colossus
   score: 4
 - name: Daredevil
   score: 4
