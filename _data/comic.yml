@@ -1,12 +1,12 @@
 ---
-date: '1981-10-10T00:00:00-0400'
-year: '1981'
-title: 'Daredevil (1964) #175'
-issue: 175
+date: '2011-10-12T00:00:00-0400'
+year: '2011'
+title: 'Punishermax (2010) #18'
+issue: 18
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8157/daredevil_1964_175?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Punishermax
+url: http://marvel.com/comics/issue/35470/punishermax_2010_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/4bb6ecfec6f53
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4e8c6f167222a
   extension: jpg
