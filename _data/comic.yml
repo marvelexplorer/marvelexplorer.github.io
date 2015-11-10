@@ -1,12 +1,12 @@
 ---
-date: '2007-05-23T00:00:00-0400'
-year: '2007'
-title: 'Captain America (2004) #26'
-issue: 26
+date: '2011-03-02T00:00:00-0500'
+year: '2011'
+title: 'Heroes for Hire (2010) #4'
+issue: 4
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/6152/captain_america_2004_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Heroes for Hire
+url: http://marvel.com/comics/issue/37187/heroes_for_hire_2010_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f75ae9b534a4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4d2c7b084c0bc
   extension: jpg
