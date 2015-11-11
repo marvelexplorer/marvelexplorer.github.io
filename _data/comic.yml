@@ -1,12 +1,12 @@
 ---
-date: '1998-01-10T00:00:00-0500'
-year: '1998'
-title: 'Wolverine (1988) #120'
-issue: 120
+date: '2010-01-20T00:00:00-0500'
+year: '2010'
+title: 'Wolverine Weapon X (2009) #9'
+issue: 9
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14060/wolverine_1988_120?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Wolverine Weapon X
+url: http://marvel.com/comics/issue/27232/wolverine_weapon_x_2009_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f63492f12374
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/51e43d53d4af5
   extension: jpg
