@@ -1,12 +1,12 @@
 ---
-date: '2006-10-18T00:00:00-0400'
-year: '2006'
-title: 'Claws (2006) #3'
-issue: 3
+date: '2010-04-07T00:00:00-0400'
+year: '2010'
+title: 'Wolverine Weapon X (2009) #12'
+issue: 12
 series:
-  period: '2006'
-  name: Claws
-url: http://marvel.com/comics/issue/5189/claws_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Wolverine Weapon X
+url: http://marvel.com/comics/issue/30645/wolverine_weapon_x_2009_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4bc5c66065464
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/51e43e5a51b9a
   extension: jpg
