@@ -1,12 +1,12 @@
 ---
-date: '2008-07-16T00:00:00-0400'
-year: '2008'
-title: 'Mighty Avengers (2007) #16'
-issue: 16
+date: '2011-10-12T00:00:00-0400'
+year: '2011'
+title: 'New Avengers (2010) #17'
+issue: 17
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/21537/mighty_avengers_2007_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/35247/new_avengers_2010_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4d24fc7a0105e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4e8b6f736cd54
   extension: jpg
