@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
-year: '2011'
-title: 'Shame Itself (2011) #1'
-issue: 1
+date: '1968-04-10T00:00:00-0500'
+year: '1968'
+title: 'Fantastic Four (1961) #73'
+issue: 73
 series:
-  period: '2011'
-  name: Shame Itself
-url: http://marvel.com/comics/issue/41161/shame_itself_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13281/fantastic_four_1961_73?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4ec53ab6db90c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5372ca2a9ec0c
   extension: jpg
