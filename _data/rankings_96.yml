@@ -1,11 +1,11 @@
 ---
 - name: Colossus
   score: 6
-- name: X-Men
-  score: 5
 - name: Spider-Man
   score: 5
-- name: Wolverine
+- name: X-Men
+  score: 5
+- name: Daredevil
   score: 4
-- name: Nightcrawler
+- name: Storm
   score: 4
