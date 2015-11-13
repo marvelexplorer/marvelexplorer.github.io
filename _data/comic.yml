@@ -1,12 +1,12 @@
 ---
-date: '1976-01-10T00:00:00-0500'
-year: '1976'
-title: 'Champions (1975) #2'
-issue: 2
+date: '1975-10-10T00:00:00-0400'
+year: '1975'
+title: 'Champions (1975) #1'
+issue: 1
 series:
   period: '1975'
   name: Champions
-url: http://marvel.com/comics/issue/8064/champions_1975_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/8055/champions_1975_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb7d82fd165b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc3337f04c5d
   extension: jpg
