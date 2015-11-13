@@ -1,9 +1,9 @@
 ---
 - name: Daredevil
   score: 7
-- name: Fantastic Four
-  score: 4
 - name: X-Men
+  score: 4
+- name: Fantastic Four
   score: 4
 - name: Spider-Man
   score: 4
