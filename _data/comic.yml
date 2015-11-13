@@ -1,12 +1,12 @@
 ---
-date: '1970-03-10T00:00:00-0500'
-year: '1970'
-title: 'Daredevil (1964) #62'
-issue: 62
+date: '2007-02-07T00:00:00-0500'
+year: '2007'
+title: 'Squadron Supreme: Hyperion Vs. Nighthawk (2007) #2'
+issue: 2
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8412/daredevil_1964_62?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Squadron Supreme: Hyperion Vs. Nighthawk'
+url: http://marvel.com/comics/issue/6013/squadron_supreme_hyperion_vs_nighthawk_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/557842f3ca833
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc5a6f4149d1
   extension: jpg
