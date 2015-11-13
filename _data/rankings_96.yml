@@ -1,11 +1,11 @@
 ---
 - name: Daredevil
   score: 7
-- name: Fantastic Four
+- name: Iron Man
   score: 4
-- name: Spider-Man
+- name: Fantastic Four
   score: 4
 - name: Storm
   score: 4
-- name: Cyclops
-  score: 3
+- name: Spider-Man
+  score: 4
