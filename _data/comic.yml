@@ -1,12 +1,12 @@
 ---
-date: '2011-03-30T00:00:00-0400'
+date: '2011-02-09T00:00:00-0500'
 year: '2011'
-title: 'Age of X: Universe (2011) #1'
-issue: 1
+title: 'Captain America & the Korvac Saga (2010) #3'
+issue: 3
 series:
-  period: '2011'
-  name: 'Age of X: Universe'
-url: http://marvel.com/comics/issue/38524/age_of_x_universe_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Captain America & the Korvac Saga
+url: http://marvel.com/comics/issue/33863/captain_america_the_korvac_saga_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/4f57719ff38c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4d52dcefa9295
   extension: jpg
