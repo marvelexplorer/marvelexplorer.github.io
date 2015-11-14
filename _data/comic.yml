@@ -1,12 +1,12 @@
 ---
-date: '1995-08-10T00:00:00-0400'
-year: '1995'
-title: 'Incredible Hulk (1962) #432'
-issue: 432
+date: '2006-10-04T00:00:00-0400'
+year: '2006'
+title: 'Irredeemable Ant-Man (2006) #1'
+issue: 1
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9243/incredible_hulk_1962_432?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Irredeemable Ant-Man
+url: http://marvel.com/comics/issue/5199/irredeemable_ant-man_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/5382c1a45a574
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/517acfdbb7f0f
   extension: jpg
