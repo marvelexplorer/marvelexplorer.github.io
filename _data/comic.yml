@@ -1,12 +1,12 @@
 ---
-date: '1997-08-01T00:00:00-0400'
-year: '1997'
-title: 'Iron Man (1996) #10'
-issue: 10
+date: '2005-10-26T00:00:00-0400'
+year: '2005'
+title: 'Hulk: Destruction (2005) #4'
+issue: 4
 series:
-  period: '1996'
-  name: Iron Man
-url: http://marvel.com/comics/issue/16329/iron_man_1996_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: 'Hulk: Destruction'
+url: http://marvel.com/comics/issue/2499/hulk_destruction_2005_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bc351c79591d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc61ef49e55a
   extension: jpg
