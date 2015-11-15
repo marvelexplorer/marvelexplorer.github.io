@@ -1,12 +1,12 @@
 ---
-date: '1977-08-10T00:00:00-0400'
-year: '1977'
-title: 'Uncanny X-Men (1963) #106'
-issue: 106
+date: '2010-03-31T00:00:00-0400'
+year: '2010'
+title: 'X-Men: Second Coming (2010) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12421/uncanny_x-men_1963_106?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'X-Men: Second Coming'
+url: http://marvel.com/comics/issue/30274/x-men_second_coming_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/5372b0a002e58
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/513a6ca9481a8
   extension: jpg
