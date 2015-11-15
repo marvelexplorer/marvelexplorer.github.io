@@ -1,12 +1,12 @@
 ---
-date: '2010-03-31T00:00:00-0400'
-year: '2010'
-title: 'X-Men: Second Coming (2010) #1'
-issue: 1
+date: '1991-01-07T00:00:00-0500'
+year: '1991'
+title: 'New Mutants Annual (1984) #7'
+issue: 7
 series:
-  period: '2010'
-  name: 'X-Men: Second Coming'
-url: http://marvel.com/comics/issue/30274/x-men_second_coming_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1984'
+  name: New Mutants Annual
+url: http://marvel.com/comics/issue/10341/new_mutants_annual_1984_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/513a6ca9481a8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/4d93972d20799
   extension: jpg
