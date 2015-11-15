@@ -1,12 +1,12 @@
 ---
-date: '1991-01-07T00:00:00-0500'
-year: '1991'
-title: 'New Mutants Annual (1984) #7'
-issue: 7
+date: '2009-06-17T00:00:00-0400'
+year: '2009'
+title: 'Cable (2008) #15'
+issue: 15
 series:
-  period: '1984'
-  name: New Mutants Annual
-url: http://marvel.com/comics/issue/10341/new_mutants_annual_1984_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Cable
+url: http://marvel.com/comics/issue/24631/cable_2008_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/4d93972d20799
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4ea1ba4b5cb88
   extension: jpg
