@@ -1,12 +1,12 @@
 ---
-date: '2009-06-17T00:00:00-0400'
-year: '2009'
-title: 'Cable (2008) #15'
-issue: 15
+date: '1995-06-01T00:00:00-0400'
+year: '1995'
+title: 'X-Men: Omega (1995) #1'
+issue: 1
 series:
-  period: '2008'
-  name: Cable
-url: http://marvel.com/comics/issue/24631/cable_2008_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1995'
+  name: 'X-Men: Omega'
+url: http://marvel.com/comics/issue/12370/x-men_omega_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4ea1ba4b5cb88
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/51e6fca118f42
   extension: jpg
