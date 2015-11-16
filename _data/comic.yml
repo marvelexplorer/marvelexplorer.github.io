@@ -1,12 +1,12 @@
 ---
-date: '1995-11-01T00:00:00-0500'
-year: '1995'
-title: 'The Last Avengers Story (1995) #1'
-issue: 1
+date: '2010-07-21T00:00:00-0400'
+year: '2010'
+title: 'New Avengers (2010) #2'
+issue: 2
 series:
-  period: '1995'
-  name: The Last Avengers Story
-url: http://marvel.com/comics/issue/23313/the_last_avengers_story_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/32711/new_avengers_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4bb5cea2eabd5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4f6233aeec599
   extension: jpg
