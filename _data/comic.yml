@@ -1,12 +1,12 @@
 ---
-date: '2008-12-31T00:00:00-0500'
-year: '2008'
-title: 'Avengers/Invaders (2008) #7'
-issue: 7
+date: '2004-06-16T00:00:00-0400'
+year: '2004'
+title: 'Thor (1998) #81'
+issue: 81
 series:
-  period: '2008'
-  name: Avengers/Invaders
-url: http://marvel.com/comics/issue/22935/avengersinvaders_2008_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/715/thor_1998_81?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/4f84716fb7fbe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc68163c5119
   extension: jpg
