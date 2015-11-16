@@ -1,12 +1,12 @@
 ---
-date: '2005-12-28T00:00:00-0500'
+date: '2005-02-23T00:00:00-0500'
 year: '2005'
-title: 'X-Men and Power Pack (2005) #3'
-issue: 3
+title: 'X-Men (2004) #167'
+issue: 167
 series:
-  period: '2005'
-  name: X-Men and Power Pack
-url: http://marvel.com/comics/issue/3207/x-men_and_power_pack_2005_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/1614/x-men_2004_167?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc60eb78a54a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc6530e2c4bd
   extension: jpg
