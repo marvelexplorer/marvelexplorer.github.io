@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
-year: '2006'
-title: 'New Avengers Vol.2: Sentry (2006)'
-issue: 0
+date: '2008-12-31T00:00:00-0500'
+year: '2008'
+title: 'Avengers/Invaders (2008) #7'
+issue: 7
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/4004/new_avengers_vol.2_sentry_2006?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Avengers/Invaders
+url: http://marvel.com/comics/issue/22935/avengersinvaders_2008_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bc5f64f2aff6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/4f84716fb7fbe
   extension: jpg
