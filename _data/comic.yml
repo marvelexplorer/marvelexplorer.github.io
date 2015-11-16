@@ -1,12 +1,12 @@
 ---
-date: '2000-03-01T00:00:00-0500'
-year: '2000'
-title: 'Earth X (1999) #11'
-issue: 11
+date: '1982-06-10T00:00:00-0400'
+year: '1982'
+title: 'Marvel Super-Heroes (1967) #386'
+issue: 386
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8550/earth_x_1999_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Marvel Super-Heroes
+url: http://marvel.com/comics/issue/15414/marvel_super-heroes_1967_386?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bb7c187c41b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/50ad759b52458
   extension: jpg
