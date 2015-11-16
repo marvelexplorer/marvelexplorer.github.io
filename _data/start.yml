@@ -1,10 +1,10 @@
 ---
-name: Thor
-description: "As the Norse God of thunder and lightning, Thor wields one of the greatest
-  weapons ever made, the enchanted hammer Mjolnir.\r\nWhile others have described
-  Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's
-  self-assured, and he would never, ever stop fighting for a worthwhile cause.\r\n\r\n"
-url: http://marvel.com/universe/Thor_(Thor_Odinson)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Hulk
+description: Caught in a gamma bomb explosion while trying to save the life of a teenager,
+  Dr. Bruce Banner was transformed into the incredibly powerful creature called the
+  Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger
+  the Hulk gets.
+url: http://marvel.com/universe/Hulk_(Bruce_Banner)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0
   extension: jpg

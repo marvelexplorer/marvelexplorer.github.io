@@ -1,12 +1,12 @@
 ---
-date: '1981-01-10T00:00:00-0500'
-year: '1981'
-title: 'Incredible Hulk (1962) #255'
-issue: 255
+date: '2010-03-17T00:00:00-0400'
+year: '2010'
+title: 'Hulk (2008) #21'
+issue: 21
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9066/incredible_hulk_1962_255?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Hulk
+url: http://marvel.com/comics/issue/30416/hulk_2008_21?utm_campaign=apiRef&utm_source=3100c35abc567e749449fbd38751a5e9
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/527a63d30f1d5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f634bb057b74
   extension: jpg
