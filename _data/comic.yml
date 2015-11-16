@@ -1,12 +1,12 @@
 ---
-date: '2004-06-16T00:00:00-0400'
-year: '2004'
-title: 'Thor (1998) #81'
-issue: 81
+date: '1981-01-10T00:00:00-0500'
+year: '1981'
+title: 'Incredible Hulk (1962) #255'
+issue: 255
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/715/thor_1998_81?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9066/incredible_hulk_1962_255?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc68163c5119
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/527a63d30f1d5
   extension: jpg
