@@ -1,12 +1,12 @@
 ---
-date: '2011-06-15T00:00:00-0400'
+date: '2011-02-23T00:00:00-0500'
 year: '2011'
-title: 'Avengers (2010) #14'
-issue: 14
+title: 'Amazing Spider-Man (1999) #655'
+issue: 655
 series:
-  period: '2010'
-  name: Avengers
-url: http://marvel.com/comics/issue/29200/avengers_2010_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/35517/amazing_spider-man_1999_655?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/0/04/4f4fed6b61d9f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4e983f36743b2
   extension: jpg
