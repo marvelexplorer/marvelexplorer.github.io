@@ -1,12 +1,12 @@
 ---
-date: '1993-01-01T00:00:00-0500'
-year: '1993'
-title: 'Fantastic Four (1961) #372'
-issue: 372
+date: '1983-09-10T00:00:00-0400'
+year: '1983'
+title: 'Fantastic Four (1961) #258'
+issue: 258
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13197/fantastic_four_1961_372?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13070/fantastic_four_1961_258?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/526164c519e07
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4c7d5b6e459e2
   extension: jpg
