@@ -1,12 +1,12 @@
 ---
-date: '1997-10-10T00:00:00-0400'
+date: '1997-10-01T00:00:00-0400'
 year: '1997'
-title: 'Avengers (1996) #12'
+title: 'Iron Man (1996) #12'
 issue: 12
 series:
   period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17754/avengers_1996_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Iron Man
+url: http://marvel.com/comics/issue/16331/iron_man_1996_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6dcd619d2c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f7ef7344300d
   extension: jpg
