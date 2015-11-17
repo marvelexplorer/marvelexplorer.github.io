@@ -1,12 +1,12 @@
 ---
-date: '2011-02-16T00:00:00-0500'
-year: '2011'
-title: 'Wolverine (2010) #6'
-issue: 6
+date: '2002-08-15T00:00:00-0400'
+year: '2002'
+title: 'New X-Men (2001) #128'
+issue: 128
 series:
-  period: '2010'
-  name: Wolverine
-url: http://marvel.com/comics/issue/30232/wolverine_2010_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14947/new_x-men_2001_128?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4f689289a914f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4c35ee3f8bd1b
   extension: jpg
