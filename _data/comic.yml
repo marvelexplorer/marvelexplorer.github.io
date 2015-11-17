@@ -1,12 +1,12 @@
 ---
-date: '2006-11-22T00:00:00-0500'
+date: '2006-02-01T00:00:00-0500'
 year: '2006'
-title: 'X-Factor (2005) #13'
-issue: 13
+title: 'X-Factor (2005) #3'
+issue: 3
 series:
   period: '2005'
   name: X-Factor
-url: http://marvel.com/comics/issue/5594/x-factor_2005_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/3372/x-factor_2005_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc5b9d73a403
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc60afde987a
   extension: jpg
