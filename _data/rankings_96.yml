@@ -1,9 +1,9 @@
 ---
 - name: Captain America
   score: 7
-- name: X-Men
-  score: 5
 - name: Hulk
+  score: 5
+- name: X-Men
   score: 5
 - name: Wasp
   score: 3
