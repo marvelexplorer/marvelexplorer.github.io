@@ -1,12 +1,12 @@
 ---
-date: '1977-12-10T00:00:00-0500'
-year: '1977'
-title: 'Incredible Hulk (1962) #218'
-issue: 218
+date: '2011-06-01T00:00:00-0400'
+year: '2011'
+title: 'Hulk (2008) #34'
+issue: 34
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9029/incredible_hulk_1962_218?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Hulk
+url: http://marvel.com/comics/issue/37057/hulk_2008_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5382c8c418f33
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/80/4f5778c8e8bb6
   extension: jpg
