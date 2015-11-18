@@ -1,12 +1,12 @@
 ---
-date: '1995-11-01T00:00:00-0500'
-year: '1995'
-title: 'The Last Avengers Story (1995) #1'
-issue: 1
+date: '1992-11-20T00:00:00-0500'
+year: '1992'
+title: 'Thor (1966) #454'
+issue: 454
 series:
-  period: '1995'
-  name: The Last Avengers Story
-url: http://marvel.com/comics/issue/23313/the_last_avengers_story_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11782/thor_1966_454?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4bb5cea2eabd5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f68b5de6a069
   extension: jpg
