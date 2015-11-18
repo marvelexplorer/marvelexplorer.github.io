@@ -1,12 +1,12 @@
 ---
-date: '1979-06-10T00:00:00-0400'
-year: '1979'
-title: 'Captain America (1968) #234'
-issue: 234
+date: '2001-04-01T00:00:00-0500'
+year: '2001'
+title: 'Daredevil (1998) #15'
+issue: 15
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7615/captain_america_1968_234?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15615/daredevil_1998_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/51ed864ed3e37
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bb68dd87194b
   extension: jpg
