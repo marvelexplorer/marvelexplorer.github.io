@@ -1,12 +1,12 @@
 ---
-date: '2010-06-02T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man (1999) #633'
-issue: 633
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Spider-Man: Quality of Life (2002) #4'
+issue: 4
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/30308/amazing_spider-man_1999_633?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: 'Spider-Man: Quality of Life'
+url: http://marvel.com/comics/issue/18814/spider-man_quality_of_life_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4e89df0d27fd1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4badfbbdddf11
   extension: jpg
