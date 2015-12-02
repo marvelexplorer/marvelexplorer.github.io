@@ -1,12 +1,12 @@
 ---
-date: '2002-10-01T00:00:00-0400'
-year: '2002'
-title: 'Spider-Man: Quality of Life (2002) #4'
-issue: 4
+date: '1974-08-10T00:00:00-0400'
+year: '1974'
+title: 'Amazing Spider-Man (1963) #135'
+issue: 135
 series:
-  period: '2002'
-  name: 'Spider-Man: Quality of Life'
-url: http://marvel.com/comics/issue/18814/spider-man_quality_of_life_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6522/amazing_spider-man_1963_135?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4badfbbdddf11
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50b432a9041e5
   extension: jpg
