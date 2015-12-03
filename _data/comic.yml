@@ -1,12 +1,12 @@
 ---
-date: '1974-08-10T00:00:00-0400'
-year: '1974'
-title: 'Amazing Spider-Man (1963) #135'
-issue: 135
+date: '1977-12-10T00:00:00-0500'
+year: '1977'
+title: 'Amazing Spider-Man (1963) #175'
+issue: 175
 series:
   period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6522/amazing_spider-man_1963_135?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6566/amazing_spider-man_1963_175?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50b432a9041e5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/529501df8f975
   extension: jpg
