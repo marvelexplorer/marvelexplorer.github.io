@@ -1,8 +1,8 @@
 ---
 - name: Spider-Man
-  score: 7
+  score: 6
 - name: X-Men
-  score: 5
+  score: 6
 - name: Hulk
   score: 4
 - name: Thor
