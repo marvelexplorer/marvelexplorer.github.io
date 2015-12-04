@@ -1,12 +1,12 @@
 ---
-date: '1986-11-10T00:00:00-0500'
-year: '1986'
-title: 'Uncanny X-Men (1963) #211'
-issue: 211
+date: '2012-06-20T00:00:00-0400'
+year: '2012'
+title: 'Astonishing X-Men (2004) #51'
+issue: 51
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13752/uncanny_x-men_1963_211?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/40803/astonishing_x-men_2004_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb65a45d3c28
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4fd6340c856a3
   extension: jpg
