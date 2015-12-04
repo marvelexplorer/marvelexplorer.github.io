@@ -1,11 +1,11 @@
 ---
-- name: Spider-Man
-  score: 6
 - name: X-Men
+  score: 7
+- name: Spider-Man
   score: 6
 - name: Thor
   score: 4
-- name: Emma Frost
-  score: 3
 - name: Captain America
+  score: 3
+- name: Hulk
   score: 3
