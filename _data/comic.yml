@@ -1,12 +1,12 @@
 ---
-date: '1996-11-10T00:00:00-0500'
-year: '1996'
-title: 'X-Men: Clan Destine (1996) #2'
-issue: 2
+date: '1979-11-10T00:00:00-0500'
+year: '1979'
+title: 'Uncanny X-Men (1963) #127'
+issue: 127
 series:
-  period: '1996'
-  name: 'X-Men: Clan Destine'
-url: http://marvel.com/comics/issue/21141/x-men_clan_destine_1996_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12444/uncanny_x-men_1963_127?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb5674ac0fb3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/5372aae4dcc77
   extension: jpg
