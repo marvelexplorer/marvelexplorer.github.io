@@ -1,12 +1,12 @@
 ---
-date: '2007-05-16T00:00:00-0400'
-year: '2007'
-title: 'Mighty Avengers (2007) #3'
-issue: 3
+date: '2008-02-20T00:00:00-0500'
+year: '2008'
+title: 'Incredible Hercules (2008) #114'
+issue: 114
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/13477/mighty_avengers_2007_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Incredible Hercules
+url: http://marvel.com/comics/issue/20636/incredible_hercules_2008_114?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4d2509011df09
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/60/4bc31a0142df6
   extension: jpg
