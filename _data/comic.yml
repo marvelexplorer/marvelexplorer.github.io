@@ -1,12 +1,12 @@
 ---
-date: '1992-08-10T00:00:00-0400'
-year: '1992'
-title: 'Captain America (1968) #404'
-issue: 404
+date: '2005-09-21T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #10'
+issue: 10
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7785/captain_america_1968_404?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/2626/new_avengers_2004_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/50acf4fb3eed3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/4f7dfbda0e3b9
   extension: jpg
