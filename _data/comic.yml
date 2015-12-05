@@ -1,12 +1,12 @@
 ---
-date: '1987-07-10T00:00:00-0400'
-year: '1987'
-title: 'Uncanny X-Men (1963) #219'
-issue: 219
+date: '2011-06-01T00:00:00-0400'
+year: '2011'
+title: 'X-Men (2010) #12'
+issue: 12
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13760/uncanny_x-men_1963_219?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/32188/x-men_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/511418eba4305
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f4fd9e7dddef
   extension: jpg
