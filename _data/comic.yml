@@ -1,12 +1,12 @@
 ---
-date: '1998-06-10T00:00:00-0400'
-year: '1998'
-title: 'Avengers (1998) #5'
-issue: 5
+date: '1986-12-10T00:00:00-0500'
+year: '1986'
+title: 'X-Factor (1986) #11'
+issue: 11
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17534/avengers_1998_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12186/x-factor_1986_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb6f971cc62f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/50b41014bf497
   extension: jpg
