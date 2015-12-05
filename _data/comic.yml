@@ -1,12 +1,12 @@
 ---
-date: '2012-06-20T00:00:00-0400'
-year: '2012'
-title: 'Marvel Universe Avengers: Earth''s Mightiest Heroes (2011) #3'
-issue: 3
+date: '2008-01-09T00:00:00-0500'
+year: '2008'
+title: 'Civil War Chronicles (2007) #7'
+issue: 7
 series:
-  period: '2011'
-  name: 'Marvel Universe Avengers: Earth''s Mightiest Heroes'
-url: http://marvel.com/comics/issue/41691/marvel_universe_avengers_earths_mightiest_heroes_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Civil War Chronicles
+url: http://marvel.com/comics/issue/17657/civil_war_chronicles_2007_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4fd652127fde2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc33e6b268b1
   extension: jpg
