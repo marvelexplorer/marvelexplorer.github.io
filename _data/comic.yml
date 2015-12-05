@@ -1,12 +1,12 @@
 ---
-date: '2010-09-09T00:00:00-0400'
+date: '2010-01-27T00:00:00-0500'
 year: '2010'
-title: 'X-Men (2010) #3'
-issue: 3
+title: 'Wolverine Origins (2006) #44'
+issue: 44
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/32193/x-men_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/29871/wolverine_origins_2006_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4f4fe48bbfbe3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/51e0879045835
   extension: jpg
