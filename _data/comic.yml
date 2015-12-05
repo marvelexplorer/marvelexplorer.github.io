@@ -1,12 +1,12 @@
 ---
-date: '2005-09-21T00:00:00-0400'
-year: '2005'
-title: 'New Avengers (2004) #10'
-issue: 10
+date: '2007-05-16T00:00:00-0400'
+year: '2007'
+title: 'Mighty Avengers (2007) #3'
+issue: 3
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/2626/new_avengers_2004_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/13477/mighty_avengers_2007_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/4f7dfbda0e3b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4d2509011df09
   extension: jpg
