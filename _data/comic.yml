@@ -1,12 +1,12 @@
 ---
-date: '2006-08-09T00:00:00-0400'
-year: '2006'
-title: 'Marvel Adventures Fantastic Four (2005) #15'
-issue: 15
+date: '1994-12-10T00:00:00-0500'
+year: '1994'
+title: 'Fantastic Four (1961) #395'
+issue: 395
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/4793/marvel_adventures_fantastic_four_2005_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13222/fantastic_four_1961_395?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bc5cf8fd1757
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4ea07e9fe2681
   extension: jpg
