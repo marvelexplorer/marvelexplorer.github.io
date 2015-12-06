@@ -1,12 +1,12 @@
 ---
-date: '2005-10-05T00:00:00-0400'
-year: '2005'
-title: 'Fantastic Four/Iron Man: Big in Japan (2005) #1'
-issue: 1
+date: '1975-02-10T00:00:00-0500'
+year: '1975'
+title: 'Thor (1966) #232'
+issue: 232
 series:
-  period: '2005'
-  name: 'Fantastic Four/Iron Man: Big in Japan'
-url: http://marvel.com/comics/issue/2463/fantastic_fouriron_man_big_in_japan_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11560/thor_1966_232?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc327e3186f4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4f202665a8c93
   extension: jpg
