@@ -1,12 +1,12 @@
 ---
-date: '1984-08-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #4'
-issue: 4
+date: '1989-05-10T00:00:00-0400'
+year: '1989'
+title: 'Fantastic Four (1961) #326'
+issue: 326
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10586/secret_wars_1984_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13146/fantastic_four_1961_326?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4f68c8d5b1951
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/55d4aed82fd6f
   extension: jpg
