@@ -1,12 +1,12 @@
 ---
-date: '1970-11-10T00:00:00-0500'
-year: '1970'
-title: 'Thor (1966) #182'
-issue: 182
+date: '2008-06-04T00:00:00-0400'
+year: '2008'
+title: 'Invincible Iron Man (2008) #2'
+issue: 2
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11510/thor_1966_182?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Invincible Iron Man
+url: http://marvel.com/comics/issue/21416/invincible_iron_man_2008_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f63581b6e0df
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4f7a01a7cca49
   extension: jpg
