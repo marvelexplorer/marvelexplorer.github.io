@@ -1,12 +1,12 @@
 ---
-date: '1975-02-10T00:00:00-0500'
-year: '1975'
-title: 'Thor (1966) #232'
-issue: 232
+date: '1997-10-10T00:00:00-0400'
+year: '1997'
+title: 'Avengers (1996) #12'
+issue: 12
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11560/thor_1966_232?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1996'
+  name: Avengers
+url: http://marvel.com/comics/issue/17754/avengers_1996_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4f202665a8c93
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6dcd619d2c
   extension: jpg
