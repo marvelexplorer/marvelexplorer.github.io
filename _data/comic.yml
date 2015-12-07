@@ -1,12 +1,12 @@
 ---
-date: '1990-01-14T00:00:00-0500'
-year: '1990'
-title: 'X-Men Annual (1970) #14'
-issue: 14
+date: '1992-09-10T00:00:00-0400'
+year: '1992'
+title: 'X-Men (1991) #12'
+issue: 12
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12360/x-men_annual_1970_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14298/x-men_1991_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/f0/52618b9433199
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/557f34fab3a50
   extension: jpg
