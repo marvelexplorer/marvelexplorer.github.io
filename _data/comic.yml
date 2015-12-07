@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself: The Fearless (2011) #2'
-issue: 2
+date: '2006-03-22T00:00:00-0500'
+year: '2006'
+title: 'Captain America (2004) #16'
+issue: 16
 series:
-  period: '2011'
-  name: 'Fear Itself: The Fearless'
-url: http://marvel.com/comics/issue/39956/fear_itself_the_fearless_2011_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/3910/captain_america_2004_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4eb017863a540
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bc5fd1135bdc
   extension: jpg
