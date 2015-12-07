@@ -1,12 +1,12 @@
 ---
-date: '1998-03-10T00:00:00-0500'
-year: '1998'
-title: 'Fantastic Four (1998) #3'
-issue: 3
+date: '1971-03-10T00:00:00-0500'
+year: '1971'
+title: 'Amazing Adventures (1970) #5'
+issue: 5
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/15549/fantastic_four_1998_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: Amazing Adventures
+url: http://marvel.com/comics/issue/23279/amazing_adventures_1970_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/51b8acb50ef55
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/50ade7d8921a0
   extension: jpg
