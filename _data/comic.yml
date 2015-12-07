@@ -1,12 +1,12 @@
 ---
-date: '2006-07-19T00:00:00-0400'
-year: '2006'
-title: 'X-Men Fairy Tales (2006) #3'
-issue: 3
+date: '1991-09-10T00:00:00-0400'
+year: '1991'
+title: 'Uncanny X-Men (1963) #280'
+issue: 280
 series:
-  period: '2006'
-  name: X-Men Fairy Tales
-url: http://marvel.com/comics/issue/4476/x-men_fairy_tales_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13821/uncanny_x-men_1963_280?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/90/53767ffe19f6e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/511420b27bc44
   extension: jpg
