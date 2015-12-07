@@ -1,12 +1,12 @@
 ---
-date: '1991-11-10T00:00:00-0500'
-year: '1991'
-title: 'X-Men (1991) #2'
-issue: 2
+date: '1985-07-10T00:00:00-0400'
+year: '1985'
+title: 'Secret Wars II (1985) #1'
+issue: 1
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14306/x-men_1991_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1985'
+  name: Secret Wars II
+url: http://marvel.com/comics/issue/18884/secret_wars_ii_1985_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc3657cb9403
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bb5cd6eade31
   extension: jpg
