@@ -1,7 +1,7 @@
 ---
-- name: Avengers
-  score: 7
 - name: Iron Man
+  score: 6
+- name: Avengers
   score: 6
 - name: Fantastic Four
   score: 5
