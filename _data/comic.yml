@@ -1,12 +1,12 @@
 ---
-date: '2011-05-04T00:00:00-0400'
+date: '2011-10-12T00:00:00-0400'
 year: '2011'
-title: 'Captain America: Hail Hydra (2010) #5'
-issue: 5
+title: 'New Avengers (2010) #17'
+issue: 17
 series:
   period: '2010'
-  name: 'Captain America: Hail Hydra'
-url: http://marvel.com/comics/issue/36231/captain_america_hail_hydra_2010_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: New Avengers
+url: http://marvel.com/comics/issue/35247/new_avengers_2010_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4f623cd937307
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4e8b6f736cd54
   extension: jpg
