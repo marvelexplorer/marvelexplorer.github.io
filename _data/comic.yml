@@ -1,12 +1,12 @@
 ---
-date: '2011-12-14T00:00:00-0500'
-year: '2011'
-title: 'Carnage, U.S.A. (2011) #1'
-issue: 1
+date: '1982-07-10T00:00:00-0400'
+year: '1982'
+title: 'Avengers (1963) #221'
+issue: 221
 series:
-  period: '2011'
-  name: Carnage, U.S.A.
-url: http://marvel.com/comics/issue/40355/carnage_usa_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7088/avengers_1963_221?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/51d3262cd6f69
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/10/4babed45aebd9
   extension: jpg
