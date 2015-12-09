@@ -1,12 +1,12 @@
 ---
-date: '2011-10-12T00:00:00-0400'
-year: '2011'
-title: 'New Avengers (2010) #17'
-issue: 17
+date: '1989-11-10T00:00:00-0500'
+year: '1989'
+title: 'Avengers West Coast Annual (1989) #4'
+issue: 4
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/35247/new_avengers_2010_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1989'
+  name: Avengers West Coast Annual
+url: http://marvel.com/comics/issue/17842/avengers_west_coast_annual_1989_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4e8b6f736cd54
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/521671201a4db
   extension: jpg
