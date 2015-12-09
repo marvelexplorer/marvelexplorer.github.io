@@ -1,12 +1,12 @@
 ---
-date: '1989-11-10T00:00:00-0500'
-year: '1989'
-title: 'Avengers West Coast Annual (1989) #4'
-issue: 4
+date: '2002-05-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #52'
+issue: 52
 series:
-  period: '1989'
-  name: Avengers West Coast Annual
-url: http://marvel.com/comics/issue/17842/avengers_west_coast_annual_1989_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17537/avengers_1998_52?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/521671201a4db
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4c362a3e31e7b
   extension: jpg
