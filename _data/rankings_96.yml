@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 6
-- name: Fantastic Four
-  score: 5
 - name: Iron Man
   score: 5
 - name: Thing
   score: 5
 - name: Spider-Man
   score: 5
+- name: Fantastic Four
+  score: 4

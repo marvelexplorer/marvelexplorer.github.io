@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
+date: '2011-10-05T00:00:00-0400'
 year: '2011'
-title: 'Avengers 1959 (2011) #3'
-issue: 3
+title: 'Avengers 1959 (2011) #1'
+issue: 1
 series:
   period: '2011'
   name: Avengers 1959
-url: http://marvel.com/comics/issue/40357/avengers_1959_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/40360/avengers_1959_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4ea9574feb2fa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/30/4e80d0fb2b010
   extension: jpg
