@@ -1,12 +1,12 @@
 ---
-date: '2000-02-01T00:00:00-0500'
-year: '2000'
-title: 'Cable (1993) #76'
-issue: 76
+date: '1987-02-10T00:00:00-0500'
+year: '1987'
+title: 'Uncanny X-Men (1963) #214'
+issue: 214
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7455/cable_1993_76?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13755/uncanny_x-men_1963_214?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb589c75b195
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/50b40e4a4337a
   extension: jpg
