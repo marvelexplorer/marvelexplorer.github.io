@@ -1,12 +1,12 @@
 ---
-date: '2003-03-01T00:00:00-0500'
-year: '2003'
-title: 'X-Treme X-Men (2001) #20'
-issue: 20
+date: '1993-09-10T00:00:00-0400'
+year: '1993'
+title: 'Uncanny X-Men (1963) #304'
+issue: 304
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15023/x-treme_x-men_2001_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13845/uncanny_x-men_1963_304?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bc368162a79c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bb3b7e47ca3c
   extension: jpg
