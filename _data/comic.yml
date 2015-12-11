@@ -1,12 +1,12 @@
 ---
-date: '2007-02-14T00:00:00-0500'
-year: '2007'
-title: 'Thunderbolts (2006) #111'
-issue: 111
+date: '2010-01-13T00:00:00-0500'
+year: '2010'
+title: 'Invincible Iron Man (2008) #22'
+issue: 22
 series:
-  period: '2006'
-  name: Thunderbolts
-url: http://marvel.com/comics/issue/5965/thunderbolts_2006_111?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Invincible Iron Man
+url: http://marvel.com/comics/issue/28334/invincible_iron_man_2008_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4bc5a8c0b360d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f7c9550a80a4
   extension: jpg
