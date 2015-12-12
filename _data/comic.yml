@@ -1,12 +1,12 @@
 ---
-date: '2011-10-26T00:00:00-0400'
-year: '2011'
-title: 'Avengers: Solo (2011) #1'
-issue: 1
+date: '2002-09-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #56'
+issue: 56
 series:
-  period: '2011'
-  name: 'Avengers: Solo'
-url: http://marvel.com/comics/issue/40422/avengers_solo_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17541/avengers_1998_56?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4e284dbf9cb6b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb6a9b4f3173
   extension: jpg
