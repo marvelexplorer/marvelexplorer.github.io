@@ -1,12 +1,12 @@
 ---
-date: '2002-12-01T00:00:00-0500'
-year: '2002'
-title: 'Avengers (1998) #59'
-issue: 59
+date: '1998-03-10T00:00:00-0500'
+year: '1998'
+title: 'Captain America (1998) #3'
+issue: 3
 series:
   period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17544/avengers_1998_59?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Captain America
+url: http://marvel.com/comics/issue/12789/captain_america_1998_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb6a980c0dc8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/4e9469c539434
   extension: jpg
