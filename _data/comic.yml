@@ -1,12 +1,12 @@
 ---
-date: '1983-01-10T00:00:00-0500'
-year: '1983'
-title: 'Marvel Fanfare (1982) #6'
-issue: 6
+date: '2003-01-10T00:00:00-0500'
+year: '2003'
+title: 'Spider-Man''s Tangled Web (2001) #20'
+issue: 20
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19837/marvel_fanfare_1982_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Spider-Man's Tangled Web
+url: http://marvel.com/comics/issue/10921/spider-mans_tangled_web_2001_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bb5c6bfce857
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc4706eaa4d8
   extension: jpg
