@@ -1,12 +1,12 @@
 ---
-date: '1998-03-10T00:00:00-0500'
-year: '1998'
-title: 'Captain America (1998) #3'
-issue: 3
+date: '2005-07-20T00:00:00-0400'
+year: '2005'
+title: 'Captain America (2004) #8'
+issue: 8
 series:
-  period: '1998'
+  period: '2004'
   name: Captain America
-url: http://marvel.com/comics/issue/12789/captain_america_1998_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/2190/captain_america_2004_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/4e9469c539434
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5140b932ac375
   extension: jpg
