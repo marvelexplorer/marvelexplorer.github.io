@@ -1,12 +1,12 @@
 ---
-date: '1981-06-10T00:00:00-0400'
-year: '1981'
-title: 'Avengers (1963) #208'
-issue: 208
+date: '2006-11-15T00:00:00-0500'
+year: '2006'
+title: 'Marvel Adventures the Avengers (2006) #7'
+issue: 7
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7073/avengers_1963_208?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/5435/marvel_adventures_the_avengers_2006_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/519fb41ded424
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f638d38c3ce0
   extension: jpg
