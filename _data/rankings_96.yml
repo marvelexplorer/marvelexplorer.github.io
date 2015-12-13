@@ -1,8 +1,8 @@
 ---
-- name: Avengers
-  score: 7
 - name: Spider-Man
   score: 7
+- name: Avengers
+  score: 6
 - name: Thing
   score: 4
 - name: Wolverine
