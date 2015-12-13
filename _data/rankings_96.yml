@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 7
+  score: 6
 - name: Thing
   score: 4
 - name: Wolverine
   score: 4
+- name: Wasp
+  score: 4
 - name: Avengers
-  score: 3
-- name: Invisible Woman
   score: 3
