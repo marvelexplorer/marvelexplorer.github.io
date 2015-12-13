@@ -1,12 +1,12 @@
 ---
-date: '2008-05-07T00:00:00-0400'
+date: '2008-03-19T00:00:00-0400'
 year: '2008'
-title: 'Invincible Iron Man (2008) #1'
-issue: 1
+title: 'Incredible Hercules (2008) #115'
+issue: 115
 series:
   period: '2008'
-  name: Invincible Iron Man
-url: http://marvel.com/comics/issue/21272/invincible_iron_man_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Incredible Hercules
+url: http://marvel.com/comics/issue/20827/incredible_hercules_2008_115?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5176b0fc854c1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bb8913e0358a
   extension: jpg
