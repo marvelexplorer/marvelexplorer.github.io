@@ -1,12 +1,12 @@
 ---
-date: '2010-12-08T00:00:00-0500'
-year: '2010'
-title: 'Chaos War: Ares (2010) #1'
-issue: 1
+date: '1983-02-10T00:00:00-0500'
+year: '1983'
+title: 'Avengers (1963) #228'
+issue: 228
 series:
-  period: '2010'
-  name: 'Chaos War: Ares'
-url: http://marvel.com/comics/issue/37066/chaos_war_ares_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7095/avengers_1963_228?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/80/51e0627329519
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4d4c2d45d3544
   extension: jpg
