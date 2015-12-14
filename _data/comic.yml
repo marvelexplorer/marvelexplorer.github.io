@@ -1,12 +1,12 @@
 ---
-date: '2011-12-21T00:00:00-0500'
-year: '2011'
-title: 'Defenders: The Coming of the Defenders (2011) #1'
-issue: 1
+date: '1968-05-10T00:00:00-0400'
+year: '1968'
+title: 'Marvel Super-Heroes (1967) #14'
+issue: 14
 series:
-  period: '2011'
-  name: 'Defenders: The Coming of the Defenders'
-url: http://marvel.com/comics/issue/41210/defenders_the_coming_of_the_defenders_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Marvel Super-Heroes
+url: http://marvel.com/comics/issue/15425/marvel_super-heroes_1967_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4e7b46c084cd4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4c7d59ba15d7f
   extension: jpg
