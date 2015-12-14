@@ -1,12 +1,12 @@
 ---
-date: '1988-01-12T00:00:00-0500'
-year: '1988'
-title: 'X-Men Annual (1970) #12'
-issue: 12
+date: '1996-08-10T00:00:00-0400'
+year: '1996'
+title: 'Wolverine (1988) #104'
+issue: 104
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12358/x-men_annual_1970_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14042/wolverine_1988_104?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5261700a4f270
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/4bb587849e5c7
   extension: jpg
