@@ -3,9 +3,9 @@
   score: 5
 - name: Wolverine
   score: 5
-- name: Thing
-  score: 3
 - name: Wasp
   score: 3
 - name: Rogue
+  score: 3
+- name: Marrow
   score: 3
