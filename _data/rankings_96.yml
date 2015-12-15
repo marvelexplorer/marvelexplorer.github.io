@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 5
-- name: Spider-Man
-  score: 4
 - name: Wasp
   score: 3
 - name: Captain America
+  score: 3
+- name: Spider-Man
   score: 3
 - name: Mr. Fantastic
   score: 3
