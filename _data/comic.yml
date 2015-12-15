@@ -1,12 +1,12 @@
 ---
-date: '2011-09-07T00:00:00-0400'
-year: '2011'
-title: 'X-23 (2010) #14'
-issue: 14
+date: '2002-08-01T00:00:00-0400'
+year: '2002'
+title: 'Thing: Freakshow (2002) #1'
+issue: 1
 series:
-  period: '2010'
-  name: X-23
-url: http://marvel.com/comics/issue/36461/x-23_2010_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: 'Thing: Freakshow'
+url: http://marvel.com/comics/issue/11450/thing_freakshow_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/51eeb255aa457
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc3827de0be2
   extension: jpg
