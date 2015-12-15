@@ -1,12 +1,12 @@
 ---
-date: '2002-12-01T00:00:00-0500'
-year: '2002'
-title: 'Paradise X (2002) #6'
-issue: 6
+date: '2005-10-19T00:00:00-0400'
+year: '2005'
+title: 'Daredevil Vs. Punisher (2005) #5'
+issue: 5
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10501/paradise_x_2002_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Daredevil Vs. Punisher
+url: http://marvel.com/comics/issue/2433/daredevil_vs_punisher_2005_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4bb68da8d9bcb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc62266ba797
   extension: jpg
