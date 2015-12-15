@@ -1,12 +1,12 @@
 ---
-date: '1999-07-07T00:00:00-0400'
-year: '1999'
-title: 'Amazing Spider-Man (1999) #7'
-issue: 7
+date: '2001-12-10T00:00:00-0500'
+year: '2001'
+title: 'Fantastic Four: 1234 (2001) #3'
+issue: 3
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/37902/amazing_spider-man_1999_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: 'Fantastic Four: 1234'
+url: http://marvel.com/comics/issue/16083/fantastic_four_1234_2001_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4e81d7bf6508c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc36a551038f
   extension: jpg
