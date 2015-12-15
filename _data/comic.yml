@@ -1,12 +1,12 @@
 ---
-date: '2005-10-19T00:00:00-0400'
-year: '2005'
-title: 'Daredevil Vs. Punisher (2005) #5'
-issue: 5
+date: '2000-10-01T00:00:00-0400'
+year: '2000'
+title: 'Marvel Knights (2000) #4'
+issue: 4
 series:
-  period: '2005'
-  name: Daredevil Vs. Punisher
-url: http://marvel.com/comics/issue/2433/daredevil_vs_punisher_2005_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Marvel Knights
+url: http://marvel.com/comics/issue/16064/marvel_knights_2000_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc62266ba797
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc369fea90dd
   extension: jpg
