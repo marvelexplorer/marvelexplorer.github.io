@@ -1,12 +1,12 @@
 ---
-date: '2002-08-01T00:00:00-0400'
+date: '2002-12-01T00:00:00-0500'
 year: '2002'
-title: 'Paradise X (2002) #3'
-issue: 3
+title: 'Paradise X (2002) #6'
+issue: 6
 series:
   period: '2002'
   name: Paradise X
-url: http://marvel.com/comics/issue/10498/paradise_x_2002_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/10501/paradise_x_2002_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4c360719dd585
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4bb68da8d9bcb
   extension: jpg
