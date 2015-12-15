@@ -1,12 +1,12 @@
 ---
-date: '1989-10-10T00:00:00-0400'
-year: '1989'
-title: 'Fantastic Four (1961) #331'
-issue: 331
+date: '2000-12-10T00:00:00-0500'
+year: '2000'
+title: 'Fantastic Four (1998) #36'
+issue: 36
 series:
-  period: '1961'
+  period: '1998'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13152/fantastic_four_1961_331?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/15556/fantastic_four_1998_36?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/55d4af1b23862
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51f833a441f2b
   extension: jpg
