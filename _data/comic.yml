@@ -1,12 +1,12 @@
 ---
-date: '2001-12-10T00:00:00-0500'
-year: '2001'
-title: 'Fantastic Four: 1234 (2001) #3'
-issue: 3
+date: '1990-06-10T00:00:00-0400'
+year: '1990'
+title: 'Fantastic Four (1961) #339'
+issue: 339
 series:
-  period: '2001'
-  name: 'Fantastic Four: 1234'
-url: http://marvel.com/comics/issue/16083/fantastic_four_1234_2001_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13160/fantastic_four_1961_339?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc36a551038f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c3668603e5e0
   extension: jpg
