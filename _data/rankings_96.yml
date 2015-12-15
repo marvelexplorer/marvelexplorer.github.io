@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
-  score: 5
+  score: 4
 - name: Spider-Man
+  score: 4
+- name: Thing
   score: 4
 - name: Wasp
   score: 3
 - name: Captain America
-  score: 3
-- name: Thing
   score: 3

@@ -1,12 +1,12 @@
 ---
-date: '2002-08-01T00:00:00-0400'
-year: '2002'
-title: 'Thing: Freakshow (2002) #1'
-issue: 1
+date: '1989-10-10T00:00:00-0400'
+year: '1989'
+title: 'Fantastic Four (1961) #331'
+issue: 331
 series:
-  period: '2002'
-  name: 'Thing: Freakshow'
-url: http://marvel.com/comics/issue/11450/thing_freakshow_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13152/fantastic_four_1961_331?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc3827de0be2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/55d4af1b23862
   extension: jpg
