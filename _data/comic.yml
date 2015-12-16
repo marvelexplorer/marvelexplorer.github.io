@@ -1,12 +1,12 @@
 ---
-date: '1988-02-10T00:00:00-0500'
-year: '1988'
-title: 'Fantastic Four (1961) #311'
-issue: 311
+date: '1968-12-10T00:00:00-0500'
+year: '1968'
+title: 'Sub-Mariner (1968) #8'
+issue: 8
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13130/fantastic_four_1961_311?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Sub-Mariner
+url: http://marvel.com/comics/issue/17132/sub-mariner_1968_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/55d4aee21d2cd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bb6f58c81fec
   extension: jpg
