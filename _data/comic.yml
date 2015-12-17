@@ -1,12 +1,12 @@
 ---
-date: '2002-05-01T00:00:00-0400'
-year: '2002'
-title: 'Paradise X (2002) #1'
-issue: 1
+date: '2008-09-03T00:00:00-0400'
+year: '2008'
+title: 'Amazing Spider-Man (1999) #570'
+issue: 570
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10493/paradise_x_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/21932/amazing_spider-man_1999_570?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc37ca7efe18
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4bb718f64139e
   extension: jpg
