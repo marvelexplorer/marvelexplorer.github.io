@@ -1,12 +1,12 @@
 ---
-date: '1997-04-01T00:00:00-0500'
-year: '1997'
-title: 'Iron Man (1996) #6'
-issue: 6
+date: '2006-04-19T00:00:00-0400'
+year: '2006'
+title: 'Iron Man (2004) #7'
+issue: 7
 series:
-  period: '1996'
+  period: '2004'
   name: Iron Man
-url: http://marvel.com/comics/issue/16337/iron_man_1996_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/4018/iron_man_2004_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/40/4bc351e0af0b3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f8479d44fd50
   extension: jpg
