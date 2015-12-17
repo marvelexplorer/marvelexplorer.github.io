@@ -1,12 +1,12 @@
 ---
-date: '2006-04-19T00:00:00-0400'
-year: '2006'
-title: 'Iron Man (2004) #7'
-issue: 7
+date: '2003-04-10T00:00:00-0400'
+year: '2003'
+title: 'Hulk/Wolverine: 6 Hours (2003) #3'
+issue: 3
 series:
-  period: '2004'
-  name: Iron Man
-url: http://marvel.com/comics/issue/4018/iron_man_2004_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: 'Hulk/Wolverine: 6 Hours'
+url: http://marvel.com/comics/issue/16047/hulkwolverine_6_hours_2003_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f8479d44fd50
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4bc369e9d2286
   extension: jpg
