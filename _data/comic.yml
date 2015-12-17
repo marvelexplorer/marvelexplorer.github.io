@@ -1,12 +1,12 @@
 ---
-date: '2002-02-01T00:00:00-0500'
-year: '2002'
-title: 'Avengers (1998) #49'
-issue: 49
+date: '1990-03-10T00:00:00-0500'
+year: '1990'
+title: 'Marvel Comics Presents (1988) #45'
+issue: 45
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17533/avengers_1998_49?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10125/marvel_comics_presents_1988_45?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bb6abf56c5e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c36561a05a55
   extension: jpg
