@@ -1,12 +1,12 @@
 ---
-date: '1991-01-10T00:00:00-0500'
-year: '1991'
-title: 'Uncanny X-Men (1963) #272'
-issue: 272
+date: '1942-12-01T00:00:00-0400'
+year: '1942'
+title: 'Sub-Mariner Comics (1941) #8'
+issue: 8
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13813/uncanny_x-men_1963_272?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1941'
+  name: Sub-Mariner Comics
+url: http://marvel.com/comics/issue/11214/sub-mariner_comics_1941_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/51141f5a19cbc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/4bb8318c01602
   extension: jpg
