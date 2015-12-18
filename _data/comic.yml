@@ -1,12 +1,12 @@
 ---
-date: '2011-05-18T00:00:00-0400'
-year: '2011'
-title: 'Silver Surfer (2010) #4'
-issue: 4
+date: '2007-11-21T00:00:00-0500'
+year: '2007'
+title: 'Marvel Adventures Fantastic Four (2005) #30'
+issue: 30
 series:
-  period: '2010'
-  name: Silver Surfer
-url: http://marvel.com/comics/issue/38638/silver_surfer_2010_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Marvel Adventures Fantastic Four
+url: http://marvel.com/comics/issue/17233/marvel_adventures_fantastic_four_2005_30?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4d59d19f2fa4a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc38dbfd3a87
   extension: jpg
