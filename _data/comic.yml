@@ -1,12 +1,12 @@
 ---
-date: '2005-04-20T00:00:00-0400'
-year: '2005'
-title: '4 (2004) #17'
-issue: 17
+date: '2012-03-28T00:00:00-0400'
+year: '2012'
+title: 'Secret Avengers (2010) #24'
+issue: 24
 series:
-  period: '2004'
-  name: '4'
-url: http://marvel.com/comics/issue/1875/4_2004_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/35167/secret_avengers_2010_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc335a60ce5e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/90/518d170287238
   extension: jpg
