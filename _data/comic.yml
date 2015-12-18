@@ -1,12 +1,12 @@
 ---
-date: '1991-02-10T00:00:00-0500'
-year: '1991'
-title: 'Fantastic Four (1961) #347'
-issue: 347
+date: '1997-12-10T00:00:00-0500'
+year: '1997'
+title: 'Incredible Hulk (1962) #459'
+issue: 459
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13169/fantastic_four_1961_347?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9270/incredible_hulk_1962_459?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc479234b700
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/52025d0438244
   extension: jpg
