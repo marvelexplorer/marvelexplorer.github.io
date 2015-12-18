@@ -1,12 +1,12 @@
 ---
-date: '2007-11-21T00:00:00-0500'
-year: '2007'
-title: 'Marvel Adventures Fantastic Four (2005) #30'
-issue: 30
+date: '1987-12-10T00:00:00-0500'
+year: '1987'
+title: 'Fantastic Four (1961) #309'
+issue: 309
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/17233/marvel_adventures_fantastic_four_2005_30?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13127/fantastic_four_1961_309?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc38dbfd3a87
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/55d4af3cd2b4d
   extension: jpg
