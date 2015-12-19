@@ -1,12 +1,12 @@
 ---
-date: '2002-10-10T00:00:00-0400'
-year: '2002'
-title: 'Exiles (2001) #16'
-issue: 16
+date: '1999-07-01T00:00:00-0400'
+year: '1999'
+title: 'Uncanny X-Men (1963) #370'
+issue: 370
 series:
-  period: '2001'
-  name: Exiles
-url: http://marvel.com/comics/issue/16256/exiles_2001_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13911/uncanny_x-men_1963_370?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/4bc36bedcee24
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/511531edf13cd
   extension: jpg
