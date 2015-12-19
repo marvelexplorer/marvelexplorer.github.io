@@ -1,11 +1,11 @@
 ---
-- name: Fantastic Four
-  score: 5
 - name: Invisible Woman
   score: 5
 - name: Wolverine
   score: 5
 - name: Mr. Fantastic
   score: 4
+- name: Fantastic Four
+  score: 4
 - name: Sub-Mariner
-  score: 3
+  score: 4
