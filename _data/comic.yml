@@ -1,12 +1,12 @@
 ---
-date: '2002-05-01T00:00:00-0400'
-year: '2002'
-title: 'X-Treme X-Men (2001) #11'
-issue: 11
+date: '1963-09-10T00:00:00-0400'
+year: '1963'
+title: 'Avengers (1963) #1'
+issue: 1
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15013/x-treme_x-men_2001_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/6951/avengers_1963_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc367f75f731
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/519b819d54e34
   extension: jpg
