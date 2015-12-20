@@ -1,12 +1,12 @@
 ---
-date: '1943-07-01T00:00:00-0400'
-year: '1943'
-title: 'All-Winners Comics (1941) #9'
-issue: 9
+date: '2007-08-01T00:00:00-0400'
+year: '2007'
+title: 'Uncanny X-Men (1963) #489'
+issue: 489
 series:
-  period: '1941'
-  name: All-Winners Comics
-url: http://marvel.com/comics/issue/12574/all-winners_comics_1941_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/16102/uncanny_x-men_1963_489?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bb6167d5eaad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc39db005c66
   extension: jpg
