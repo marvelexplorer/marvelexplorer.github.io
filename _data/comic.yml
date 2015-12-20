@@ -1,12 +1,12 @@
 ---
-date: '1982-12-10T00:00:00-0500'
-year: '1982'
-title: 'Captain America (1968) #276'
-issue: 276
+date: '1943-07-01T00:00:00-0400'
+year: '1943'
+title: 'All-Winners Comics (1941) #9'
+issue: 9
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7657/captain_america_1968_276?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1941'
+  name: All-Winners Comics
+url: http://marvel.com/comics/issue/12574/all-winners_comics_1941_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/51ed5aad33b4f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bb6167d5eaad
   extension: jpg
