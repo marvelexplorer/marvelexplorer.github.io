@@ -1,12 +1,12 @@
 ---
-date: '2001-03-10T00:00:00-0500'
-year: '2001'
-title: 'Avengers (1998) #38'
-issue: 38
+date: '1979-03-10T00:00:00-0500'
+year: '1979'
+title: 'Captain America (1968) #231'
+issue: 231
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17521/avengers_1998_38?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7612/captain_america_1968_231?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c362a6a0b33c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/51ed86fec1adf
   extension: jpg
