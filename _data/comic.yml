@@ -1,12 +1,12 @@
 ---
-date: '2012-10-03T00:00:00-0400'
-year: '2012'
-title: 'Avengers Vs. X-Men (2012) #12'
-issue: 12
+date: '2007-04-04T00:00:00-0400'
+year: '2007'
+title: 'Immortal Iron Fist (2006) #4'
+issue: 4
 series:
-  period: '2012'
-  name: Avengers Vs. X-Men
-url: http://marvel.com/comics/issue/41278/avengers_vs_x-men_2012_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Immortal Iron Fist
+url: http://marvel.com/comics/issue/6179/immortal_iron_fist_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/515f1bf1860a9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc5a05ea759c
   extension: jpg
