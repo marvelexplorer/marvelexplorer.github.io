@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 5
-- name: Wolverine
+- name: X-Men
   score: 5
 - name: Invisible Woman
   score: 4
 - name: Human Torch
   score: 4
-- name: X-Men
+- name: Cyclops
   score: 4
