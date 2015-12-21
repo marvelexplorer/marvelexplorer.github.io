@@ -1,12 +1,12 @@
 ---
-date: '2011-08-10T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself (2010) #5'
-issue: 5
+date: '2007-12-28T00:00:00-0500'
+year: '2007'
+title: 'Fantastic Four: Isla De La Muerte! (2007) #1'
+issue: 1
 series:
-  period: '2010'
-  name: Fear Itself
-url: http://marvel.com/comics/issue/38029/fear_itself_2010_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Fantastic Four: Isla De La Muerte!'
+url: http://marvel.com/comics/issue/17389/fantastic_four_isla_de_la_muerte_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/40/56310efda1aaa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc3894bc85a2
   extension: jpg
