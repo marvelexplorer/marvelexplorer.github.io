@@ -1,12 +1,12 @@
 ---
-date: '1998-07-10T00:00:00-0400'
-year: '1998'
-title: 'Avengers (1998) #6'
-issue: 6
+date: '2011-08-10T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself (2010) #5'
+issue: 5
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17545/avengers_1998_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Fear Itself
+url: http://marvel.com/comics/issue/38029/fear_itself_2010_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb6dceb224b5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/40/56310efda1aaa
   extension: jpg
