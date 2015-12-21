@@ -1,12 +1,12 @@
 ---
-date: '2009-09-02T00:00:00-0400'
-year: '2009'
-title: 'Mystic Comics 70th Anniversary Special (2009) #1'
-issue: 1
+date: '2011-11-02T00:00:00-0400'
+year: '2011'
+title: 'Amazing Spider-Man (1999) #673'
+issue: 673
 series:
-  period: '2009'
-  name: Mystic Comics 70th Anniversary Special
-url: http://marvel.com/comics/issue/26021/mystic_comics_70th_anniversary_special_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/35509/amazing_spider-man_1999_673?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bb4919a68f80
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4ea85e808c079
   extension: jpg
