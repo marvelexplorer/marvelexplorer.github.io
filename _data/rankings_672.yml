@@ -1,9 +1,9 @@
 ---
 - name: Wolverine
   score: 26
-- name: X-Men
-  score: 25
 - name: Captain America
+  score: 26
+- name: X-Men
   score: 25
 - name: Spider-Man
   score: 23
