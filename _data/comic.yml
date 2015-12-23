@@ -1,12 +1,12 @@
 ---
-date: '2011-09-21T00:00:00-0400'
-year: '2011'
-title: 'Spider-Island: Spider-Woman (2011) #1'
-issue: 1
+date: '1979-07-10T00:00:00-0400'
+year: '1979'
+title: 'Marvel Two-in-One (1974) #53'
+issue: 53
 series:
-  period: '2011'
-  name: 'Spider-Island: Spider-Woman'
-url: http://marvel.com/comics/issue/39755/spider-island_spider-woman_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1974'
+  name: Marvel Two-in-One
+url: http://marvel.com/comics/issue/19524/marvel_two-in-one_1974_53?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/4e7368f471139
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/50ad8d6d97362
   extension: jpg
