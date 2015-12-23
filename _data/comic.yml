@@ -1,12 +1,12 @@
 ---
-date: '1984-10-10T00:00:00-0400'
-year: '1984'
-title: 'Iron Man Annual (1976) #7'
-issue: 7
+date: '2009-04-15T00:00:00-0400'
+year: '2009'
+title: 'Wolverine Noir (2009) #1'
+issue: 1
 series:
-  period: '1976'
-  name: Iron Man Annual
-url: http://marvel.com/comics/issue/19871/iron_man_annual_1976_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Wolverine Noir
+url: http://marvel.com/comics/issue/24004/wolverine_noir_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4f63852b027ab
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/4badfbaf0ebe0
   extension: jpg
