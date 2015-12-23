@@ -1,12 +1,12 @@
 ---
-date: '2009-01-07T00:00:00-0500'
-year: '2009'
-title: 'Wolverine: Switchback (2009) #1'
-issue: 1
+date: '2011-04-20T00:00:00-0400'
+year: '2011'
+title: 'Avengers (2010) #12'
+issue: 12
 series:
-  period: '2009'
-  name: 'Wolverine: Switchback'
-url: http://marvel.com/comics/issue/23150/wolverine_switchback_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Avengers
+url: http://marvel.com/comics/issue/29198/avengers_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bb6049f87338
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/70/4f6397cf76c4f
   extension: jpg
