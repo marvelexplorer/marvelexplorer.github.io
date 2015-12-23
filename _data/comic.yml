@@ -1,12 +1,12 @@
 ---
-date: '1996-10-01T00:00:00-0400'
-year: '1996'
-title: 'Onslaught: Marvel Universe (1996) #1'
-issue: 1
+date: '1962-09-01T00:00:00-0400'
+year: '1962'
+title: 'Fantastic Four (1961) #6'
+issue: 6
 series:
-  period: '1996'
-  name: 'Onslaught: Marvel Universe'
-url: http://marvel.com/comics/issue/10453/onslaught_marvel_universe_1996_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13266/fantastic_four_1961_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc47390b10ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/536d70426aa5a
   extension: jpg
