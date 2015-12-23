@@ -1,12 +1,12 @@
 ---
-date: '2010-11-10T00:00:00-0500'
-year: '2010'
-title: 'X-Men Forever 2 (2010) #11'
-issue: 11
+date: '1976-04-10T00:00:00-0500'
+year: '1976'
+title: 'Uncanny X-Men (1963) #98'
+issue: 98
 series:
-  period: '2010'
-  name: X-Men Forever 2
-url: http://marvel.com/comics/issue/32819/x-men_forever_2_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12552/uncanny_x-men_1963_98?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4f4fc03064161
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5372b5fe222c1
   extension: jpg
