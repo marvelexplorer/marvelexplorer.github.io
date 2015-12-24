@@ -1,12 +1,12 @@
 ---
-date: '1965-07-10T00:00:00-0400'
-year: '1965'
-title: 'Tales of Suspense (1959) #67'
-issue: 67
+date: '1991-03-30T00:00:00-0500'
+year: '1991'
+title: 'Marvel Comics Presents (1988) #73'
+issue: 73
 series:
-  period: '1959'
-  name: Tales of Suspense
-url: http://marvel.com/comics/issue/11311/tales_of_suspense_1959_67?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10156/marvel_comics_presents_1988_73?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/536d4d86b406e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c36515348d2f
   extension: jpg
