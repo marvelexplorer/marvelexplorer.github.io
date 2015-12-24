@@ -3,9 +3,9 @@
   score: 8
 - name: Captain America
   score: 7
-- name: Storm
-  score: 4
 - name: Wolverine
   score: 4
 - name: Avengers
   score: 4
+- name: X-Men
+  score: 3
