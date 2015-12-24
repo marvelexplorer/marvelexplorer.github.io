@@ -1,12 +1,12 @@
 ---
-date: '1970-09-10T00:00:00-0400'
-year: '1970'
-title: 'Incredible Hulk (1962) #131'
-issue: 131
+date: '1996-09-10T00:00:00-0400'
+year: '1996'
+title: 'Uncanny X-Men (1963) #336'
+issue: 336
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/8942/incredible_hulk_1962_131?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13877/uncanny_x-men_1963_336?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/50/50adee2b330ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bb587ec60861
   extension: jpg
