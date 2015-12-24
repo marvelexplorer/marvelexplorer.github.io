@@ -1,12 +1,12 @@
 ---
-date: '1971-01-10T00:00:00-0500'
-year: '1971'
-title: 'Iron Man (1968) #33'
-issue: 33
+date: '1967-08-10T00:00:00-0400'
+year: '1967'
+title: 'Tales of Suspense (1959) #92'
+issue: 92
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9583/iron_man_1968_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11339/tales_of_suspense_1959_92?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/512e85ac68ab3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/536d468c1a857
   extension: jpg
