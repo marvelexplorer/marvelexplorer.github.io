@@ -1,12 +1,12 @@
 ---
-date: '1988-04-10T00:00:00-0400'
-year: '1988'
-title: 'Classic X-Men (1986) #20'
-issue: 20
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Weapon X: The Draft - Sauron (2002) #1'
+issue: 1
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20575/classic_x-men_1986_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: 'Weapon X: The Draft - Sauron'
+url: http://marvel.com/comics/issue/18411/weapon_x_the_draft_-_sauron_2002_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb682f9ad9a3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c361edc62611
   extension: jpg
