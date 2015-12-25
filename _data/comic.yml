@@ -1,12 +1,12 @@
 ---
-date: '2007-10-03T00:00:00-0400'
-year: '2007'
-title: 'Wolverine Annual: Deathsong (2007) #1'
-issue: 1
+date: '2001-12-01T00:00:00-0500'
+year: '2001'
+title: 'Wolverine (1988) #169'
+issue: 169
 series:
-  period: '2007'
-  name: 'Wolverine Annual: Deathsong'
-url: http://marvel.com/comics/issue/16593/wolverine_annual_deathsong_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14113/wolverine_1988_169?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bc3955ce593d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bb6776f32160
   extension: jpg
