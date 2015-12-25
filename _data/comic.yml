@@ -1,12 +1,12 @@
 ---
-date: '1997-12-10T00:00:00-0500'
-year: '1997'
-title: 'Uncanny X-Men (1963) #350'
-issue: 350
+date: '2006-02-22T00:00:00-0500'
+year: '2006'
+title: 'Astonishing X-Men (2004) #13'
+issue: 13
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13891/uncanny_x-men_1963_350?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/3475/astonishing_x-men_2004_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bb3b7face5b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc60493dc84b
   extension: jpg
