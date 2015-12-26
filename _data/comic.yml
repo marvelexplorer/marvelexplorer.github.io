@@ -1,12 +1,12 @@
 ---
-date: '2007-11-21T00:00:00-0500'
-year: '2007'
-title: 'Marvel Adventures the Avengers (2006) #18'
-issue: 18
+date: '1968-09-10T00:00:00-0400'
+year: '1968'
+title: 'Avengers Annual (1967) #2'
+issue: 2
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/17245/marvel_adventures_the_avengers_2006_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Avengers Annual
+url: http://marvel.com/comics/issue/6934/avengers_annual_1967_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4f63977783862
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/4f6758b134276
   extension: jpg
