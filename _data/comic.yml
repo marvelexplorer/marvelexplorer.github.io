@@ -1,12 +1,12 @@
 ---
-date: '2011-09-21T00:00:00-0400'
-year: '2011'
-title: 'Avengers (2010) #17'
-issue: 17
+date: '1982-04-10T00:00:00-0500'
+year: '1982'
+title: 'Marvel Super-Heroes (1967) #384'
+issue: 384
 series:
-  period: '2010'
-  name: Avengers
-url: http://marvel.com/comics/issue/29203/avengers_2010_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1967'
+  name: Marvel Super-Heroes
+url: http://marvel.com/comics/issue/15412/marvel_super-heroes_1967_384?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/4e78a736b697b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/50ad76be5954f
   extension: jpg
