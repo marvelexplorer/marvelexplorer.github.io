@@ -1,12 +1,12 @@
 ---
-date: '2007-08-01T00:00:00-0400'
-year: '2007'
-title: 'Fantastic Four (1998) #548'
-issue: 548
+date: '1991-05-10T00:00:00-0400'
+year: '1991'
+title: 'Fantastic Four (1961) #352'
+issue: 352
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/15922/fantastic_four_1998_548?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13175/fantastic_four_1961_352?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc39e80e313f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4badd49b84dff
   extension: jpg
