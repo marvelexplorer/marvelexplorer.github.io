@@ -1,12 +1,12 @@
 ---
-date: '1978-04-10T00:00:00-0500'
-year: '1978'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #17'
-issue: 17
+date: '2002-07-01T00:00:00-0400'
+year: '2002'
+title: 'Cable (1993) #105'
+issue: 105
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14620/peter_parker_the_spectacular_spider-man_1976_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7381/cable_1993_105?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc35d7e561a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc47b2ce8480
   extension: jpg
