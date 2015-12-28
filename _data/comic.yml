@@ -1,12 +1,12 @@
 ---
-date: '2004-10-06T00:00:00-0400'
-year: '2004'
-title: 'Hulk & Thing: Hard Knocks (2004) #2'
-issue: 2
+date: '1966-09-10T00:00:00-0400'
+year: '1966'
+title: 'Tales to Astonish (1959) #83'
+issue: 83
 series:
-  period: '2004'
-  name: 'Hulk & Thing: Hard Knocks'
-url: http://marvel.com/comics/issue/865/hulk_thing_hard_knocks_2004_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11430/tales_to_astonish_1959_83?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bc6768b7cacb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/536d45929b83b
   extension: jpg
