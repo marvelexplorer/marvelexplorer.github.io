@@ -1,12 +1,12 @@
 ---
-date: '2008-05-14T00:00:00-0400'
-year: '2008'
-title: 'Wolverine (2003) #65'
-issue: 65
+date: '2010-12-15T00:00:00-0500'
+year: '2010'
+title: 'Iron Man Legacy (2010) #9'
+issue: 9
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/21180/wolverine_2003_65?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Iron Man Legacy
+url: http://marvel.com/comics/issue/30111/iron_man_legacy_2010_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4d24f04dd2cbe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c91256d10f1b
   extension: jpg
