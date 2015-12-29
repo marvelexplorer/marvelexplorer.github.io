@@ -1,12 +1,12 @@
 ---
-date: '2006-10-18T00:00:00-0400'
-year: '2006'
-title: 'Blade (2006) #2'
-issue: 2
+date: '1990-12-10T00:00:00-0500'
+year: '1990'
+title: 'Marvel Comics Presents (1988) #64'
+issue: 64
 series:
-  period: '2006'
-  name: Blade
-url: http://marvel.com/comics/issue/5288/blade_2006_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10146/marvel_comics_presents_1988_64?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc5bfd4e614f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/4c36518648041
   extension: jpg
