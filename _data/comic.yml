@@ -1,12 +1,12 @@
 ---
-date: '2001-11-10T00:00:00-0500'
-year: '2001'
-title: 'Fantastic Four: 1234 (2001) #2'
+date: '2006-10-18T00:00:00-0400'
+year: '2006'
+title: 'Blade (2006) #2'
 issue: 2
 series:
-  period: '2001'
-  name: 'Fantastic Four: 1234'
-url: http://marvel.com/comics/issue/16082/fantastic_four_1234_2001_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Blade
+url: http://marvel.com/comics/issue/5288/blade_2006_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/4bc36a5000bb2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc5bfd4e614f
   extension: jpg
