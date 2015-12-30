@@ -1,12 +1,12 @@
 ---
-date: '1994-05-10T00:00:00-0400'
-year: '1994'
-title: 'Uncanny X-Men (1963) #312'
-issue: 312
+date: '2001-01-01T00:00:00-0500'
+year: '2001'
+title: 'Uncanny X-Men (1963) #389'
+issue: 389
 series:
   period: '1963'
   name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13853/uncanny_x-men_1963_312?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13930/uncanny_x-men_1963_389?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/80/537a5ef978177
-  extension: jpg
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4e5e6cb49ebd3
+  extension: png
