@@ -1,12 +1,12 @@
 ---
-date: '2001-01-01T00:00:00-0500'
-year: '2001'
-title: 'Uncanny X-Men (1963) #389'
-issue: 389
+date: '2003-04-01T00:00:00-0500'
+year: '2003'
+title: 'New X-Men (2001) #137'
+issue: 137
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13930/uncanny_x-men_1963_389?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14956/new_x-men_2001_137?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4e5e6cb49ebd3
-  extension: png
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4c35ecfe11249
+  extension: jpg

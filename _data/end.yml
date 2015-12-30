@@ -1,7 +1,8 @@
 ---
-name: Professor X
-description: ''
-url: http://marvel.com/universe/Professor_X?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Xorn (Kuan-Yin Xorn)
+description: Xorn, whose mutation manifested as a tiny, powerful star inside his head,
+  was brainwashed into believing he was the reincarnation of Magneto.
+url: http://marvel.com/universe/Xorn%20(Kuan-Yin%20Xorn)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3378de525
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/4c00394059727
   extension: jpg
