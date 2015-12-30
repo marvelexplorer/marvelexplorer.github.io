@@ -1,12 +1,12 @@
 ---
-date: '2012-06-20T00:00:00-0400'
-year: '2012'
-title: 'New Avengers (2010) #27'
-issue: 27
+date: '2010-09-01T00:00:00-0400'
+year: '2010'
+title: 'Hawkeye & Mockingbird (2010) #4'
+issue: 4
 series:
   period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/40740/new_avengers_2010_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Hawkeye & Mockingbird
+url: http://marvel.com/comics/issue/30014/hawkeye_mockingbird_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/517ae83ba9996
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4f578988d8398
   extension: jpg
