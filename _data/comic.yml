@@ -1,12 +1,12 @@
 ---
-date: '2002-03-01T00:00:00-0500'
-year: '2002'
-title: 'New X-Men (2001) #122'
-issue: 122
+date: '2003-05-01T00:00:00-0400'
+year: '2003'
+title: 'Hulk/Wolverine: 6 Hours (2003) #4'
+issue: 4
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14941/new_x-men_2001_122?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: 'Hulk/Wolverine: 6 Hours'
+url: http://marvel.com/comics/issue/16048/hulkwolverine_6_hours_2003_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4c35ef30a5f3f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/4bc369eebab5e
   extension: jpg
