@@ -1,12 +1,12 @@
 ---
-date: '2005-06-08T00:00:00-0400'
-year: '2005'
-title: 'X-Men (2004) #171'
-issue: 171
+date: '1990-03-10T00:00:00-0500'
+year: '1990'
+title: 'Uncanny X-Men (1963) #259'
+issue: 259
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/2075/x-men_2004_171?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13800/uncanny_x-men_1963_259?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bc6356a08452
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/50ad22815620c
   extension: jpg
