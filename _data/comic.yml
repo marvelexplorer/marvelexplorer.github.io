@@ -1,12 +1,12 @@
 ---
-date: '2000-11-01T00:00:00-0500'
-year: '2000'
-title: 'Iron Man (1998) #34'
-issue: 34
+date: '2006-01-18T00:00:00-0500'
+year: '2006'
+title: 'Friendly Neighborhood Spider-Man (2005) #4'
+issue: 4
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/19907/iron_man_1998_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Friendly Neighborhood Spider-Man
+url: http://marvel.com/comics/issue/3361/friendly_neighborhood_spider-man_2005_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/52ab955854c2c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/50/4bc60b11a0727
   extension: jpg
