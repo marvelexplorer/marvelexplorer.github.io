@@ -1,12 +1,12 @@
 ---
-date: '2006-01-18T00:00:00-0500'
-year: '2006'
-title: 'Friendly Neighborhood Spider-Man (2005) #4'
-issue: 4
+date: '1993-06-10T00:00:00-0400'
+year: '1993'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #201'
+issue: 201
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/3361/friendly_neighborhood_spider-man_2005_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14656/peter_parker_the_spectacular_spider-man_1976_201?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/50/4bc60b11a0727
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bb68922269f6
   extension: jpg
