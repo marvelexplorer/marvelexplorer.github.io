@@ -1,12 +1,12 @@
 ---
-date: '2005-01-12T00:00:00-0500'
-year: '2005'
-title: 'Marvel Knights Spider-Man (2004) #10'
-issue: 10
+date: '2000-02-10T00:00:00-0500'
+year: '2000'
+title: 'Spider-Girl (1998) #17'
+issue: 17
 series:
-  period: '2004'
-  name: Marvel Knights Spider-Man
-url: http://marvel.com/comics/issue/1523/marvel_knights_spider-man_2004_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Spider-Girl
+url: http://marvel.com/comics/issue/13334/spider-girl_1998_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc658c8e0321
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc47220b90e6
   extension: jpg
