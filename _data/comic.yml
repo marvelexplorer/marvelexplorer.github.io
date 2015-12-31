@@ -1,12 +1,12 @@
 ---
-date: '2000-02-10T00:00:00-0500'
-year: '2000'
-title: 'Spider-Girl (1998) #17'
-issue: 17
+date: '2009-05-20T00:00:00-0400'
+year: '2009'
+title: 'Amazing Spider-Man Family (2008) #6'
+issue: 6
 series:
-  period: '1998'
-  name: Spider-Girl
-url: http://marvel.com/comics/issue/13334/spider-girl_1998_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Amazing Spider-Man Family
+url: http://marvel.com/comics/issue/24199/amazing_spider-man_family_2008_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc47220b90e6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb52dd01f58b
   extension: jpg
