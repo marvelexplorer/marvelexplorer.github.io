@@ -1,12 +1,12 @@
 ---
-date: '2010-05-12T00:00:00-0400'
-year: '2010'
-title: 'Black Widow (2010) #2'
-issue: 2
+date: '2001-03-01T00:00:00-0500'
+year: '2001'
+title: 'Marvel Knights (2000) #9'
+issue: 9
 series:
-  period: '2010'
-  name: Black Widow
-url: http://marvel.com/comics/issue/29749/black_widow_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Marvel Knights
+url: http://marvel.com/comics/issue/16069/marvel_knights_2000_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f54f615ba557
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc36a13249d5
   extension: jpg
