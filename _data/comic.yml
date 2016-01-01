@@ -1,12 +1,12 @@
 ---
-date: '1986-01-10T00:00:00-0500'
-year: '1986'
-title: 'X-Men Annual (1970) #10'
-issue: 10
+date: '2007-07-25T00:00:00-0400'
+year: '2007'
+title: 'World War Hulk: X-Men (2007) #2'
+issue: 2
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12356/x-men_annual_1970_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'World War Hulk: X-Men'
+url: http://marvel.com/comics/issue/15999/world_war_hulk_x-men_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/4bc465310ccd2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f6778e73c61e
   extension: jpg
