@@ -1,12 +1,12 @@
 ---
-date: '2007-07-25T00:00:00-0400'
-year: '2007'
-title: 'World War Hulk: X-Men (2007) #2'
-issue: 2
+date: '2001-04-10T00:00:00-0400'
+year: '2001'
+title: 'Incredible Hulk (1999) #25'
+issue: 25
 series:
-  period: '2007'
-  name: 'World War Hulk: X-Men'
-url: http://marvel.com/comics/issue/15999/world_war_hulk_x-men_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/14425/incredible_hulk_1999_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f6778e73c61e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bb6712021f79
   extension: jpg
