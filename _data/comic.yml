@@ -1,12 +1,12 @@
 ---
-date: '1999-08-10T00:00:00-0400'
-year: '1999'
-title: 'Iron Man (1998) #19'
-issue: 19
+date: '2002-05-01T00:00:00-0400'
+year: '2002'
+title: 'X-Treme X-Men (2001) #11'
+issue: 11
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/19890/iron_man_1998_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15013/x-treme_x-men_2001_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/50b3b4cccee12
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc367f75f731
   extension: jpg
