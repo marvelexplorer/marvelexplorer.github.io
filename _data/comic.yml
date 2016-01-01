@@ -1,12 +1,12 @@
 ---
-date: '2012-05-16T00:00:00-0400'
-year: '2012'
-title: 'Avengers Vs. X-Men: Versus (2011) #2'
-issue: 2
+date: '2011-09-21T00:00:00-0400'
+year: '2011'
+title: 'Marvel Universe Vs. Wolverine (2011) #4'
+issue: 4
 series:
   period: '2011'
-  name: 'Avengers Vs. X-Men: Versus'
-url: http://marvel.com/comics/issue/42491/avengers_vs_x-men_versus_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Marvel Universe Vs. Wolverine
+url: http://marvel.com/comics/issue/38118/marvel_universe_vs_wolverine_2011_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/4f394817bdf57
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/4e7355b367628
   extension: jpg
