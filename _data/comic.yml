@@ -1,12 +1,12 @@
 ---
-date: '2008-09-24T00:00:00-0400'
-year: '2008'
-title: 'Avengers: The Initiative (2007) #17'
-issue: 17
+date: '1999-08-10T00:00:00-0400'
+year: '1999'
+title: 'Iron Man (1998) #19'
+issue: 19
 series:
-  period: '2007'
-  name: 'Avengers: The Initiative'
-url: http://marvel.com/comics/issue/21975/avengers_the_initiative_2007_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19890/iron_man_1998_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4e949db2a50c2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/50b3b4cccee12
   extension: jpg
