@@ -1,12 +1,12 @@
 ---
-date: '2011-04-13T00:00:00-0400'
-year: '2011'
-title: 'Steve Rogers: Super Soldier Annual (2010) #1'
-issue: 1
+date: '1990-05-10T00:00:00-0400'
+year: '1990'
+title: 'Uncanny X-Men (1963) #261'
+issue: 261
 series:
-  period: '2010'
-  name: 'Steve Rogers: Super Soldier Annual'
-url: http://marvel.com/comics/issue/36943/steve_rogers_super_soldier_annual_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13802/uncanny_x-men_1963_261?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/4d35aad070260
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/60/50ad0a1fc7810
   extension: jpg
