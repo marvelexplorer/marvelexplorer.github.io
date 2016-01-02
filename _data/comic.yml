@@ -1,12 +1,12 @@
 ---
-date: '2009-06-24T00:00:00-0400'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #598'
-issue: 598
+date: '2010-06-23T00:00:00-0400'
+year: '2010'
+title: 'Avengers (2010) #2'
+issue: 2
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/24405/amazing_spider-man_1999_598?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Avengers
+url: http://marvel.com/comics/issue/29205/avengers_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4e8df40021ffd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f50e959d8c02
   extension: jpg
