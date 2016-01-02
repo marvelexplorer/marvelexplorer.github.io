@@ -1,12 +1,12 @@
 ---
-date: '1984-10-10T00:00:00-0400'
-year: '1984'
-title: 'Incredible Hulk (1962) #300'
-issue: 300
+date: '2011-10-19T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself (2010) #7'
+issue: 7
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9111/incredible_hulk_1962_300?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Fear Itself
+url: http://marvel.com/comics/issue/38028/fear_itself_2010_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb609ed6a1d5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f7ddfc62178b
   extension: jpg
