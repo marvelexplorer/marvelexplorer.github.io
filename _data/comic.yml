@@ -1,12 +1,12 @@
 ---
-date: '2005-09-28T00:00:00-0400'
-year: '2005'
-title: 'New Avengers (2004) #11'
-issue: 11
+date: '2003-03-01T00:00:00-0500'
+year: '2003'
+title: 'Killraven (2002) #4'
+issue: 4
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/2417/new_avengers_2004_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Killraven
+url: http://marvel.com/comics/issue/19858/killraven_2002_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7e00708ff3f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/4c364f69f2185
   extension: jpg
