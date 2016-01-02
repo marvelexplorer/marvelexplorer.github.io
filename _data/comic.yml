@@ -1,12 +1,12 @@
 ---
-date: '2011-10-19T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself (2010) #7'
-issue: 7
+date: '2005-05-18T00:00:00-0400'
+year: '2005'
+title: 'Cable & Deadpool (2004) #15'
+issue: 15
 series:
-  period: '2010'
-  name: Fear Itself
-url: http://marvel.com/comics/issue/38028/fear_itself_2010_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Cable & Deadpool
+url: http://marvel.com/comics/issue/1999/cable_deadpool_2004_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f7ddfc62178b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc63a37b96ff
   extension: jpg
