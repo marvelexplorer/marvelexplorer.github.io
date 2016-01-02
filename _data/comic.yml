@@ -1,12 +1,12 @@
 ---
-date: '2005-05-18T00:00:00-0400'
-year: '2005'
-title: 'Cable & Deadpool (2004) #15'
-issue: 15
+date: '1993-12-10T00:00:00-0500'
+year: '1993'
+title: 'Cable (1993) #6'
+issue: 6
 series:
-  period: '2004'
-  name: Cable & Deadpool
-url: http://marvel.com/comics/issue/1999/cable_deadpool_2004_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7437/cable_1993_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc63a37b96ff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/50b3fb0e48941
   extension: jpg
