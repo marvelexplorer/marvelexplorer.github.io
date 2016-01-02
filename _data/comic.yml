@@ -1,12 +1,12 @@
 ---
-date: '2011-10-05T00:00:00-0400'
-year: '2011'
-title: 'X-Men: Schism (2011) #5'
-issue: 5
+date: '2008-11-12T00:00:00-0500'
+year: '2008'
+title: 'Wolverine (2003) #69'
+issue: 69
 series:
-  period: '2011'
-  name: 'X-Men: Schism'
-url: http://marvel.com/comics/issue/38971/x-men_schism_2011_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/22475/wolverine_2003_69?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/04/4e837c67cefbf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4d2506a5b60f7
   extension: jpg
