@@ -1,12 +1,12 @@
 ---
-date: '2003-02-15T00:00:00-0500'
+date: '2003-02-01T00:00:00-0500'
 year: '2003'
-title: 'Avengers (1998) #62'
-issue: 62
+title: 'Avengers (1998) #61'
+issue: 61
 series:
   period: '1998'
   name: Avengers
-url: http://marvel.com/comics/issue/17548/avengers_1998_62?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/17547/avengers_1998_61?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb6a50888e2b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb6a524867ec
   extension: jpg
