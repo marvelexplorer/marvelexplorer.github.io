@@ -1,12 +1,12 @@
 ---
-date: '1994-07-10T00:00:00-0400'
-year: '1994'
-title: 'Iron Man (1968) #306'
-issue: 306
+date: '1993-06-10T00:00:00-0400'
+year: '1993'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #201'
+issue: 201
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9557/iron_man_1968_306?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14656/peter_parker_the_spectacular_spider-man_1976_201?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/50b521b3a5bf5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bb68922269f6
   extension: jpg
