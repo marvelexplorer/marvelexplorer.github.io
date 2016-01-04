@@ -1,12 +1,12 @@
 ---
-date: '1989-09-20T00:00:00-0400'
+date: '1989-11-10T00:00:00-0500'
 year: '1989'
-title: 'Captain America (1968) #358'
-issue: 358
+title: 'Captain America (1968) #361'
+issue: 361
 series:
   period: '1968'
   name: Captain America
-url: http://marvel.com/comics/issue/7739/captain_america_1968_358?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7742/captain_america_1968_361?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4f2067943feec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4f2071fb51f8b
   extension: jpg
