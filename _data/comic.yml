@@ -1,12 +1,12 @@
 ---
-date: '2003-10-15T00:00:00-0400'
-year: '2003'
-title: 'X-Treme X-Men (2001) #30'
-issue: 30
+date: '2002-06-01T00:00:00-0400'
+year: '2002'
+title: 'Wolverine (1988) #175'
+issue: 175
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15034/x-treme_x-men_2001_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14120/wolverine_1988_175?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc36843e5203
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5453d513d2ad6
   extension: jpg
