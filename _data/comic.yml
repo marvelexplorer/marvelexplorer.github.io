@@ -1,12 +1,12 @@
 ---
-date: '1969-07-10T00:00:00-0400'
-year: '1969'
-title: 'Daredevil (1964) #54'
-issue: 54
+date: '2002-03-01T00:00:00-0500'
+year: '2002'
+title: 'Spider-Man''s Tangled Web (2001) #10'
+issue: 10
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8403/daredevil_1964_54?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Spider-Man's Tangled Web
+url: http://marvel.com/comics/issue/10911/spider-mans_tangled_web_2001_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/55783dcd64dcb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc3352d55e52
   extension: jpg
