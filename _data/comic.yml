@@ -1,12 +1,12 @@
 ---
-date: '2004-02-01T00:00:00-0500'
-year: '2004'
-title: 'Marvelous Adventures of Gus Beezer & Spider-Man (2004) #1'
-issue: 1
+date: '1969-07-10T00:00:00-0400'
+year: '1969'
+title: 'Amazing Spider-Man (1963) #74'
+issue: 74
 series:
-  period: '2004'
-  name: Marvelous Adventures of Gus Beezer & Spider-Man
-url: http://marvel.com/comics/issue/19466/marvelous_adventures_of_gus_beezer_spider-man_2004_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6895/amazing_spider-man_1963_74?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c362c0ec0e09
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc36d1aebf61
   extension: jpg
