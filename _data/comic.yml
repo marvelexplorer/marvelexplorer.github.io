@@ -1,12 +1,12 @@
 ---
-date: '2003-05-01T00:00:00-0400'
-year: '2003'
-title: 'Daredevil (1998) #45'
-issue: 45
+date: '1993-10-10T00:00:00-0400'
+year: '1993'
+title: 'Daredevil (1964) #321'
+issue: 321
 series:
-  period: '1998'
+  period: '1964'
   name: Daredevil
-url: http://marvel.com/comics/issue/15648/daredevil_1998_45?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/8320/daredevil_1964_321?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4c35ec70c884c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/55784c83a2505
   extension: jpg
