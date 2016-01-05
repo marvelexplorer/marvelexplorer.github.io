@@ -1,12 +1,12 @@
 ---
-date: '2002-05-01T00:00:00-0400'
-year: '2002'
-title: 'Paradise X (2002) #1'
-issue: 1
+date: '2003-05-01T00:00:00-0400'
+year: '2003'
+title: 'Daredevil (1998) #45'
+issue: 45
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10493/paradise_x_2002_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15648/daredevil_1998_45?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc37ca7efe18
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4c35ec70c884c
   extension: jpg
