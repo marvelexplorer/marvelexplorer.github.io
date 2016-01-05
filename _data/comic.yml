@@ -1,12 +1,12 @@
 ---
-date: '1969-07-10T00:00:00-0400'
-year: '1969'
-title: 'Amazing Spider-Man (1963) #74'
-issue: 74
+date: '2001-07-10T00:00:00-0400'
+year: '2001'
+title: 'Wolverine (1988) #164'
+issue: 164
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6895/amazing_spider-man_1963_74?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14108/wolverine_1988_164?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc36d1aebf61
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4bb68a9922177
   extension: jpg
