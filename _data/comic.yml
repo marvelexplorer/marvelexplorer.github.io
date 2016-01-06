@@ -1,12 +1,12 @@
 ---
-date: '2011-06-29T00:00:00-0400'
-year: '2011'
-title: 'Avengers: The Children''s Crusade (2010) #6'
-issue: 6
+date: '1971-04-10T00:00:00-0500'
+year: '1971'
+title: 'Avengers (1963) #87'
+issue: 87
 series:
-  period: '2010'
-  name: 'Avengers: The Children''s Crusade'
-url: http://marvel.com/comics/issue/31144/avengers_the_childrens_crusade_2010_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7340/avengers_1963_87?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/b0/5168530750909
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4e945fe69be0a
   extension: jpg
