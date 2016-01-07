@@ -1,12 +1,12 @@
 ---
-date: '2001-12-01T00:00:00-0500'
-year: '2001'
-title: 'Wolverine (1988) #169'
-issue: 169
+date: '2000-09-10T00:00:00-0400'
+year: '2000'
+title: 'Avengers (1998) #32'
+issue: 32
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14113/wolverine_1988_169?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17515/avengers_1998_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bb6776f32160
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4c362a8998de6
   extension: jpg
