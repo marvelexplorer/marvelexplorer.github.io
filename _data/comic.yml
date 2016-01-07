@@ -1,12 +1,12 @@
 ---
-date: '2008-09-10T00:00:00-0400'
-year: '2008'
-title: 'Wolverine: Saudade (2008) #1'
-issue: 1
+date: '1984-11-10T00:00:00-0500'
+year: '1984'
+title: 'Secret Wars (1984) #7'
+issue: 7
 series:
-  period: '2008'
-  name: 'Wolverine: Saudade'
-url: http://marvel.com/comics/issue/22056/wolverine_saudade_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10589/secret_wars_1984_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/4bb715c0b00c1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f68c9d17b492
   extension: jpg
