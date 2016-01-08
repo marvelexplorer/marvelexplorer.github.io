@@ -1,12 +1,12 @@
 ---
-date: '1999-02-10T00:00:00-0500'
-year: '1999'
-title: 'Iron Man (1998) #13'
-issue: 13
+date: '2005-06-22T00:00:00-0400'
+year: '2005'
+title: 'Captain America (2004) #7'
+issue: 7
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/37773/iron_man_1998_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/1978/captain_america_2004_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/50b3b957d8702
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5140b840a1d88
   extension: jpg
