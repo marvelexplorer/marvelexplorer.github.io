@@ -1,12 +1,12 @@
 ---
-date: '2008-12-31T00:00:00-0500'
-year: '2008'
-title: 'Wolverine (2003) #70'
-issue: 70
+date: '2003-10-10T00:00:00-0400'
+year: '2003'
+title: 'Spider-Man & Wolverine (2003) #3'
+issue: 3
 series:
   period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/22876/wolverine_2003_70?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Spider-Man & Wolverine
+url: http://marvel.com/comics/issue/18829/spider-man_wolverine_2003_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d2507c528543
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb8468c0ddc1
   extension: jpg
