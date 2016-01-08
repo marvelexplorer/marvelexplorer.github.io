@@ -1,12 +1,12 @@
 ---
-date: '2003-02-10T00:00:00-0500'
-year: '2003'
-title: 'Marvel Double Shot (2003) #2'
-issue: 2
+date: '2006-10-18T00:00:00-0400'
+year: '2006'
+title: 'Marvel Adventures the Avengers (2006) #6'
+issue: 6
 series:
-  period: '2003'
-  name: Marvel Double Shot
-url: http://marvel.com/comics/issue/19843/marvel_double_shot_2003_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/5262/marvel_adventures_the_avengers_2006_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4c3649b0f2abd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f638b904cb00
   extension: jpg
