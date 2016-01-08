@@ -1,12 +1,12 @@
 ---
-date: '1971-02-10T00:00:00-0500'
-year: '1971'
-title: 'Avengers (1963) #85'
-issue: 85
+date: '2003-01-01T00:00:00-0500'
+year: '2003'
+title: 'Marvel Double Shot (2003) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7338/avengers_1963_85?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Marvel Double Shot
+url: http://marvel.com/comics/issue/19842/marvel_double_shot_2003_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/4e94565161e53
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bb68aad5c5c8
   extension: jpg
