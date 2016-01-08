@@ -1,12 +1,12 @@
 ---
-date: '2011-08-17T00:00:00-0400'
-year: '2011'
-title: 'Wolverine & Black Cat: Claws 2 (2010) #2'
-issue: 2
+date: '1999-02-10T00:00:00-0500'
+year: '1999'
+title: 'Iron Man (1998) #13'
+issue: 13
 series:
-  period: '2010'
-  name: 'Wolverine & Black Cat: Claws 2'
-url: http://marvel.com/comics/issue/36724/wolverine_black_cat_claws_2_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/37773/iron_man_1998_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4dd19f5fc8fdb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/50b3b957d8702
   extension: jpg
