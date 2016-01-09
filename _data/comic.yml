@@ -1,12 +1,12 @@
 ---
-date: '2002-10-01T00:00:00-0400'
-year: '2002'
-title: 'Uncanny X-Men (1963) #411'
-issue: 411
+date: '2006-10-25T00:00:00-0400'
+year: '2006'
+title: 'New Excalibur (2005) #12'
+issue: 12
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13952/uncanny_x-men_1963_411?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: New Excalibur
+url: http://marvel.com/comics/issue/5238/new_excalibur_2005_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4f626e5c5dc8b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc5c3003ec61
   extension: jpg
