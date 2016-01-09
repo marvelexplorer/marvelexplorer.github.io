@@ -1,12 +1,12 @@
 ---
-date: '2003-08-01T00:00:00-0400'
-year: '2003'
-title: 'Wolverine: Snikt! (2003) #2'
-issue: 2
+date: '2005-06-22T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #6'
+issue: 6
 series:
-  period: '2003'
-  name: 'Wolverine: Snikt!'
-url: http://marvel.com/comics/issue/14531/wolverine_snikt_2003_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/1829/new_avengers_2004_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc335286f5fe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f7dae738407f
   extension: jpg
