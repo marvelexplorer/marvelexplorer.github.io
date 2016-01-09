@@ -1,12 +1,12 @@
 ---
-date: '2006-10-25T00:00:00-0400'
-year: '2006'
-title: 'New Excalibur (2005) #12'
-issue: 12
+date: '1995-10-01T00:00:00-0400'
+year: '1995'
+title: 'Excalibur (1988) #90'
+issue: 90
 series:
-  period: '2005'
-  name: New Excalibur
-url: http://marvel.com/comics/issue/5238/new_excalibur_2005_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Excalibur
+url: http://marvel.com/comics/issue/8677/excalibur_1988_90?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc5c3003ec61
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/50b3dec59d7f8
   extension: jpg
