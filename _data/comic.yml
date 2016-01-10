@@ -1,12 +1,12 @@
 ---
-date: '2002-01-01T00:00:00-0500'
-year: '2002'
-title: 'X-Treme X-Men: The Savage Land (2001) #3'
-issue: 3
+date: '1994-12-10T00:00:00-0500'
+year: '1994'
+title: 'Uncanny X-Men (1963) #319'
+issue: 319
 series:
-  period: '2001'
-  name: 'X-Treme X-Men: The Savage Land'
-url: http://marvel.com/comics/issue/12396/x-treme_x-men_the_savage_land_2001_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13860/uncanny_x-men_1963_319?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/4bc46ccbadbf2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5208fd2ca9253
   extension: jpg
