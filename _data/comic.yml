@@ -1,12 +1,12 @@
 ---
-date: '2006-04-26T00:00:00-0400'
-year: '2006'
-title: 'Astonishing X-Men (2004) #14'
-issue: 14
+date: '2004-06-30T00:00:00-0400'
+year: '2004'
+title: 'Wolverine/Punisher (2004) #4'
+issue: 4
 series:
   period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/4022/astonishing_x-men_2004_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Wolverine/Punisher
+url: http://marvel.com/comics/issue/746/wolverinepunisher_2004_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4bc5f4e9ed5ad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc6804b4ee19
   extension: jpg
