@@ -1,12 +1,12 @@
 ---
-date: '2011-07-27T00:00:00-0400'
-year: '2011'
-title: 'X-Men: Schism (2011) #2'
-issue: 2
+date: '2006-04-26T00:00:00-0400'
+year: '2006'
+title: 'Astonishing X-Men (2004) #14'
+issue: 14
 series:
-  period: '2011'
-  name: 'X-Men: Schism'
-url: http://marvel.com/comics/issue/38492/x-men_schism_2011_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/4022/astonishing_x-men_2004_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/52c5b149b5a88
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4bc5f4e9ed5ad
   extension: jpg
