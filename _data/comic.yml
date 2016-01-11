@@ -1,12 +1,12 @@
 ---
-date: '1970-10-10T00:00:00-0400'
+date: '1970-11-10T00:00:00-0500'
 year: '1970'
-title: 'Avengers (1963) #81'
-issue: 81
+title: 'Avengers (1963) #82'
+issue: 82
 series:
   period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/7334/avengers_1963_81?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7335/avengers_1963_82?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e930d958d1d7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4e93582010b3e
   extension: jpg
