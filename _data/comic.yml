@@ -1,12 +1,12 @@
 ---
-date: '2001-03-10T00:00:00-0500'
-year: '2001'
-title: 'Avengers (1998) #38'
-issue: 38
+date: '2005-12-14T00:00:00-0500'
+year: '2005'
+title: 'Fantastic Four/Iron Man: Big in Japan (2005) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17521/avengers_1998_38?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: 'Fantastic Four/Iron Man: Big in Japan'
+url: http://marvel.com/comics/issue/3135/fantastic_fouriron_man_big_in_japan_2005_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c362a6a0b33c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/4f7af694723f8
   extension: jpg
