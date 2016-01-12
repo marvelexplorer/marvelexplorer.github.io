@@ -1,12 +1,12 @@
 ---
-date: '1982-05-10T00:00:00-0400'
-year: '1982'
-title: 'Marvel Fanfare (1982) #2'
-issue: 2
+date: '2011-09-28T00:00:00-0400'
+year: '2011'
+title: 'FF (2010) #9'
+issue: 9
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19793/marvel_fanfare_1982_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: FF
+url: http://marvel.com/comics/issue/38609/ff_2010_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/10/4bb5c6cfbcd3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4e81d27ef2046
   extension: jpg
