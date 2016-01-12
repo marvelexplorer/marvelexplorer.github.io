@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
-year: '2011'
-title: 'Avengers Academy (2010) #21'
-issue: 21
+date: '1995-05-10T00:00:00-0400'
+year: '1995'
+title: 'Fantastic Four (1961) #400'
+issue: 400
 series:
-  period: '2010'
-  name: Avengers Academy
-url: http://marvel.com/comics/issue/36489/avengers_academy_2010_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13229/fantastic_four_1961_400?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4eb005e92933b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/52615caf64a9e
   extension: jpg
