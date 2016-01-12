@@ -1,12 +1,12 @@
 ---
-date: '2006-06-07T00:00:00-0400'
-year: '2006'
-title: 'Civil War: Front Line (2006) #1'
-issue: 1
+date: '1942-04-01T00:00:00-0400'
+year: '1942'
+title: 'All-Winners Comics (1941) #4'
+issue: 4
 series:
-  period: '2006'
-  name: 'Civil War: Front Line'
-url: http://marvel.com/comics/issue/4339/civil_war_front_line_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1941'
+  name: All-Winners Comics
+url: http://marvel.com/comics/issue/12569/all-winners_comics_1941_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f75b66dbe502
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc37845b3ced
   extension: jpg
