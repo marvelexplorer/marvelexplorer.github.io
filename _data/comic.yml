@@ -1,12 +1,12 @@
 ---
-date: '2000-04-01T00:00:00-0500'
-year: '2000'
-title: 'Iron Man (1998) #27'
-issue: 27
+date: '1985-02-10T00:00:00-0500'
+year: '1985'
+title: 'Uncanny X-Men (1963) #190'
+issue: 190
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/19899/iron_man_1998_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13731/uncanny_x-men_1963_190?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/50b5145db27a9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/51117e6801419
   extension: jpg
