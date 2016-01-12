@@ -1,12 +1,12 @@
 ---
-date: '1992-05-01T00:00:00-0400'
-year: '1992'
-title: 'Fantastic Four (1961) #364'
-issue: 364
+date: '1982-05-10T00:00:00-0400'
+year: '1982'
+title: 'Marvel Fanfare (1982) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13188/fantastic_four_1961_364?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1982'
+  name: Marvel Fanfare
+url: http://marvel.com/comics/issue/19793/marvel_fanfare_1982_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/526165c549fae
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/10/4bb5c6cfbcd3e
   extension: jpg
