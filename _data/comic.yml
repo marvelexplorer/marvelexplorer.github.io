@@ -1,12 +1,12 @@
 ---
-date: '2000-04-01T00:00:00-0500'
-year: '2000'
-title: 'X-Men (1991) #99'
-issue: 99
+date: '2003-03-15T00:00:00-0500'
+year: '2003'
+title: 'Uncanny X-Men (1963) #418'
+issue: 418
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14393/x-men_1991_99?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13959/uncanny_x-men_1963_418?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/80/558312647b183
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4bc46a6d1acfe
   extension: jpg
