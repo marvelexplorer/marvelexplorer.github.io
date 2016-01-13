@@ -1,12 +1,12 @@
 ---
-date: '1967-12-10T00:00:00-0500'
-year: '1967'
-title: 'Uncanny X-Men (1963) #39'
-issue: 39
+date: '1995-02-01T00:00:00-0500'
+year: '1995'
+title: 'X-Men (1991) #41'
+issue: 41
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12487/uncanny_x-men_1963_39?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14330/x-men_1991_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/5372cb587cbcd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5580484ebd331
   extension: jpg
