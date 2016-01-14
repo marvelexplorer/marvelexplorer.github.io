@@ -1,12 +1,12 @@
 ---
-date: '1988-10-10T00:00:00-0400'
-year: '1988'
-title: 'Marvel Comics Presents (1988) #4'
-issue: 4
+date: '2011-03-16T00:00:00-0400'
+year: '2011'
+title: 'Thunderbolts (2006) #155'
+issue: 155
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10119/marvel_comics_presents_1988_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Thunderbolts
+url: http://marvel.com/comics/issue/37336/thunderbolts_2006_155?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb68abea609e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d7a33c60399c
   extension: jpg
