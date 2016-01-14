@@ -1,12 +1,12 @@
 ---
-date: '1984-07-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #3'
-issue: 3
+date: '2007-08-22T00:00:00-0400'
+year: '2007'
+title: 'Astonishing X-Men (2004) #22'
+issue: 22
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10585/secret_wars_1984_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/6309/astonishing_x-men_2004_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4f68c7f813f78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc39ba1167d3
   extension: jpg
