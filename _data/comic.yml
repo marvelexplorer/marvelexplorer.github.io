@@ -1,12 +1,12 @@
 ---
-date: '2005-04-27T00:00:00-0400'
-year: '2005'
-title: 'New Avengers (2004) #5'
-issue: 5
+date: '1982-09-10T00:00:00-0400'
+year: '1982'
+title: 'Marvel Fanfare (1982) #4'
+issue: 4
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/1720/new_avengers_2004_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1982'
+  name: Marvel Fanfare
+url: http://marvel.com/comics/issue/19815/marvel_fanfare_1982_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f7dad200e939
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bb5c8bb0c66b
   extension: jpg
