@@ -1,8 +1,10 @@
 ---
-name: Vindicator
-description: Heather McNeil-Hudson married James Hudson, founder of Canadian super-team,
-  Alpha Flight, and donned a version of his Vindicator armor after his death.
-url: http://marvel.com/universe/Vindicator_%28Heather_Hudson%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Wolverine
+description: Born with super-human senses and the power to heal from almost any wound,
+  Wolverine was captured by a secret Canadian organization and given an unbreakable
+  skeleton and claws. Treated like an animal, it took years for him to control himself.
+  Now, he's a premiere member of both the X-Men and the Avengers.
+url: http://marvel.com/universe/Wolverine_(James_Howlett)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c003a7f39967
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf
   extension: jpg
