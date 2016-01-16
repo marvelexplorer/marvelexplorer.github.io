@@ -1,12 +1,12 @@
 ---
-date: '2007-05-09T00:00:00-0400'
-year: '2007'
-title: 'Marvel Zombies: Dead Days (2007) #1'
-issue: 1
+date: '1979-05-10T00:00:00-0400'
+year: '1979'
+title: 'Uncanny X-Men (1963) #121'
+issue: 121
 series:
-  period: '2007'
-  name: 'Marvel Zombies: Dead Days'
-url: http://marvel.com/comics/issue/13479/marvel_zombies_dead_days_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12438/uncanny_x-men_1963_121?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bb87f6aaef92
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/5372adb16cb47
   extension: jpg
