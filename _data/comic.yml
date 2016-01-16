@@ -1,12 +1,12 @@
 ---
-date: '2001-05-10T00:00:00-0400'
-year: '2001'
-title: 'Avengers (1998) #40'
-issue: 40
+date: '2008-07-23T00:00:00-0400'
+year: '2008'
+title: 'Avengers: The Initiative (2007) #15'
+issue: 15
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17524/avengers_1998_40?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/21546/avengers_the_initiative_2007_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c362a4842d55
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/b0/4e949584d8f3e
   extension: jpg
