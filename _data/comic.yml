@@ -1,12 +1,12 @@
 ---
-date: '1999-03-01T00:00:00-0500'
-year: '1999'
-title: 'X-Men (1991) #86'
-issue: 86
+date: '2010-06-09T00:00:00-0400'
+year: '2010'
+title: 'X-Men Forever 2 (2010) #1'
+issue: 1
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14379/x-men_1991_86?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: X-Men Forever 2
+url: http://marvel.com/comics/issue/32816/x-men_forever_2_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/4bc328100a5f2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4f4fd66075502
   extension: jpg
