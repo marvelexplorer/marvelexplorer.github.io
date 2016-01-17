@@ -1,12 +1,12 @@
 ---
-date: '2006-11-15T00:00:00-0500'
-year: '2006'
-title: 'Marvel Adventures the Avengers (2006) #7'
-issue: 7
+date: '2002-08-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #55'
+issue: 55
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/5435/marvel_adventures_the_avengers_2006_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17540/avengers_1998_55?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f638d38c3ce0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4bb6a9de34fef
   extension: jpg
