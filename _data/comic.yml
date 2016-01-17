@@ -1,12 +1,12 @@
 ---
-date: '2006-01-11T00:00:00-0500'
-year: '2006'
-title: 'Marvel Adventures Fantastic Four (2005) #8'
-issue: 8
+date: '1985-03-10T00:00:00-0500'
+year: '1985'
+title: 'Fantastic Four (1961) #276'
+issue: 276
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/3381/marvel_adventures_fantastic_four_2005_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13090/fantastic_four_1961_276?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc6097b0d1ff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc4803feb49e
   extension: jpg
