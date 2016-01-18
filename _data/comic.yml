@@ -1,12 +1,12 @@
 ---
-date: '1987-08-10T00:00:00-0400'
-year: '1987'
-title: 'Classic X-Men (1986) #12'
-issue: 12
+date: '2007-08-01T00:00:00-0400'
+year: '2007'
+title: 'New Avengers: Illuminati (2006) #4'
+issue: 4
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20566/classic_x-men_1986_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'New Avengers: Illuminati'
+url: http://marvel.com/comics/issue/15968/new_avengers_illuminati_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb68487cbaf2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/4bb3c22242401
   extension: jpg
