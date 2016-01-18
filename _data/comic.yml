@@ -1,12 +1,12 @@
 ---
-date: '1985-01-10T00:00:00-0500'
-year: '1985'
-title: 'Secret Wars (1984) #9'
-issue: 9
+date: '2001-01-01T00:00:00-0500'
+year: '2001'
+title: 'Iron Man (1998) #36'
+issue: 36
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10591/secret_wars_1984_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19909/iron_man_1998_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f68cad931bc0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/50b3a677141b7
   extension: jpg
