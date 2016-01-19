@@ -1,12 +1,12 @@
 ---
-date: '1999-08-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #5'
-issue: 5
+date: '2006-06-07T00:00:00-0400'
+year: '2006'
+title: 'Fantastic Four: First Family (2006) #4'
+issue: 4
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8555/earth_x_1999_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: 'Fantastic Four: First Family'
+url: http://marvel.com/comics/issue/4249/fantastic_four_first_family_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bb7c32033b26
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc5e5b7ea71a
   extension: jpg
