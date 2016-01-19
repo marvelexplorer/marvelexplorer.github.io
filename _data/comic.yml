@@ -1,12 +1,12 @@
 ---
-date: '1989-12-10T00:00:00-0500'
-year: '1989'
-title: 'Thor (1966) #411'
-issue: 411
+date: '2000-02-10T00:00:00-0500'
+year: '2000'
+title: 'Avengers (1998) #25'
+issue: 25
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11739/thor_1966_411?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17507/avengers_1998_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/50ad2607e9d7b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/4c362aa40e5d2
   extension: jpg
