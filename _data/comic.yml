@@ -1,12 +1,12 @@
 ---
-date: '1964-08-10T00:00:00-0400'
-year: '1964'
-title: 'Avengers (1963) #7'
-issue: 7
+date: '2007-06-06T00:00:00-0400'
+year: '2007'
+title: 'New Warriors (2007) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7321/avengers_1963_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: New Warriors
+url: http://marvel.com/comics/issue/15881/new_warriors_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4e8f1ca5416d7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc496f0d9480
   extension: jpg
