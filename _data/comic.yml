@@ -1,12 +1,12 @@
 ---
-date: '2007-04-18T00:00:00-0400'
-year: '2007'
-title: 'Marvel Adventures the Avengers (2006) #12'
-issue: 12
+date: '1990-03-10T00:00:00-0500'
+year: '1990'
+title: 'Marvel Comics Presents (1988) #45'
+issue: 45
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/6305/marvel_adventures_the_avengers_2006_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10125/marvel_comics_presents_1988_45?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4f6391540be4b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c36561a05a55
   extension: jpg
