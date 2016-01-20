@@ -1,12 +1,12 @@
 ---
-date: '1990-06-10T00:00:00-0400'
-year: '1990'
-title: 'Fantastic Four (1961) #339'
-issue: 339
+date: '1978-08-10T00:00:00-0400'
+year: '1978'
+title: 'What If? (1977) #10'
+issue: 10
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13160/fantastic_four_1961_339?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: What If?
+url: http://marvel.com/comics/issue/12122/what_if_1977_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c3668603e5e0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb7a9ec8433b
   extension: jpg
