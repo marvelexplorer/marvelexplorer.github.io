@@ -1,12 +1,12 @@
 ---
-date: '2006-06-07T00:00:00-0400'
-year: '2006'
-title: 'Fantastic Four: First Family (2006) #4'
-issue: 4
+date: '1989-02-10T00:00:00-0500'
+year: '1989'
+title: 'Fantastic Four (1961) #323'
+issue: 323
 series:
-  period: '2006'
-  name: 'Fantastic Four: First Family'
-url: http://marvel.com/comics/issue/4249/fantastic_four_first_family_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13143/fantastic_four_1961_323?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc5e5b7ea71a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/50b52436dc888
   extension: jpg
