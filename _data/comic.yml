@@ -1,12 +1,12 @@
 ---
-date: '1942-02-01T00:00:00-0500'
-year: '1942'
-title: 'Captain America Comics (1941) #11'
-issue: 11
+date: '1999-07-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers Forever (1998) #8'
+issue: 8
 series:
-  period: '1941'
-  name: Captain America Comics
-url: http://marvel.com/comics/issue/7851/captain_america_comics_1941_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers Forever
+url: http://marvel.com/comics/issue/12411/avengers_forever_1998_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/50ae1c7449ca0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc47c8452b07
   extension: jpg
