@@ -1,12 +1,12 @@
 ---
-date: '1989-02-10T00:00:00-0500'
-year: '1989'
-title: 'Fantastic Four (1961) #323'
-issue: 323
+date: '2005-02-09T00:00:00-0500'
+year: '2005'
+title: 'Marvel Age Fantastic Four Tales (2005) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13143/fantastic_four_1961_323?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Marvel Age Fantastic Four Tales
+url: http://marvel.com/comics/issue/1684/marvel_age_fantastic_four_tales_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/50b52436dc888
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc64dfe281e2
   extension: jpg
