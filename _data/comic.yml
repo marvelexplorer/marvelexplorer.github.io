@@ -1,12 +1,12 @@
 ---
-date: '1972-09-10T00:00:00-0400'
-year: '1972'
-title: 'Captain America (1968) #153'
-issue: 153
+date: '1942-02-01T00:00:00-0500'
+year: '1942'
+title: 'Captain America Comics (1941) #11'
+issue: 11
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7534/captain_america_1968_153?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1941'
+  name: Captain America Comics
+url: http://marvel.com/comics/issue/7851/captain_america_comics_1941_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4d2bb97f7775a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/50ae1c7449ca0
   extension: jpg
