@@ -1,12 +1,12 @@
 ---
-date: '2009-11-25T00:00:00-0500'
-year: '2009'
-title: 'Secret Warriors (2008) #10'
-issue: 10
+date: '1971-07-10T00:00:00-0400'
+year: '1971'
+title: 'Iron Man (1968) #39'
+issue: 39
 series:
-  period: '2008'
-  name: Secret Warriors
-url: http://marvel.com/comics/issue/26283/secret_warriors_2008_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9592/iron_man_1968_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/4f67809f03e81
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/4f6379e5e1f7e
   extension: jpg
