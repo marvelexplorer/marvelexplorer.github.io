@@ -1,12 +1,12 @@
 ---
-date: '1995-05-10T00:00:00-0400'
-year: '1995'
-title: 'X-Calibre (1995) #3'
-issue: 3
+date: '1987-07-10T00:00:00-0400'
+year: '1987'
+title: 'Uncanny X-Men (1963) #219'
+issue: 219
 series:
-  period: '1995'
-  name: X-Calibre
-url: http://marvel.com/comics/issue/18255/x-calibre_1995_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13760/uncanny_x-men_1963_219?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4bb79943b4d17
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/511418eba4305
   extension: jpg
