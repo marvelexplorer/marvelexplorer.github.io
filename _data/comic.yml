@@ -1,12 +1,12 @@
 ---
-date: '2008-10-29T00:00:00-0400'
-year: '2008'
-title: 'Thor (2007) #11'
-issue: 11
+date: '1987-04-10T00:00:00-0400'
+year: '1987'
+title: 'Thor (1966) #378'
+issue: 378
 series:
-  period: '2007'
+  period: '1966'
   name: Thor
-url: http://marvel.com/comics/issue/21947/thor_2007_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/11706/thor_1966_378?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4d24f1eec4766
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb59b52c17ab
   extension: jpg
