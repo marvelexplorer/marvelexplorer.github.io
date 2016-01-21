@@ -1,12 +1,12 @@
 ---
-date: '2002-07-01T00:00:00-0400'
-year: '2002'
-title: 'Captain America (2002) #2'
-issue: 2
+date: '2009-05-13T00:00:00-0400'
+year: '2009'
+title: 'Secret Warriors (2008) #4'
+issue: 4
 series:
-  period: '2002'
-  name: Captain America
-url: http://marvel.com/comics/issue/12828/captain_america_2002_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Secret Warriors
+url: http://marvel.com/comics/issue/24208/secret_warriors_2008_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/4bc37f8c955fc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f676f5dc8820
   extension: jpg
