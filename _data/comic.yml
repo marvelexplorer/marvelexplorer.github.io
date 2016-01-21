@@ -1,12 +1,13 @@
 ---
-date: '2001-01-01T00:00:00-0500'
-year: '2001'
-title: 'Thor (1998) #31'
-issue: 31
+date: '2011-07-06T00:00:00-0400'
+year: '2011'
+title: 'Avengers, Thor & Captain America: Official Index to the Marvel Universe (2011)
+  #15'
+issue: 15
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18655/thor_1998_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Avengers, Thor & Captain America: Official Index to the Marvel Universe'
+url: http://marvel.com/comics/issue/38882/avengers_thor_captain_america_official_index_to_the_marvel_universe_2011_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/50b3a6e0d6028
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4d9f24930100a
   extension: jpg
