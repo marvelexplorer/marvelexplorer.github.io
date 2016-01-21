@@ -1,12 +1,12 @@
 ---
-date: '1971-07-10T00:00:00-0400'
-year: '1971'
-title: 'Iron Man (1968) #39'
-issue: 39
+date: '2008-06-18T00:00:00-0400'
+year: '2008'
+title: 'Wolverine (2003) #66'
+issue: 66
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9592/iron_man_1968_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/21330/wolverine_2003_66?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/4f6379e5e1f7e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/51ed6c4be6a12
   extension: jpg
