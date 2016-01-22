@@ -1,12 +1,12 @@
 ---
-date: '1996-08-10T00:00:00-0400'
-year: '1996'
-title: 'Incredible Hulk (1962) #444'
-issue: 444
+date: '2011-03-30T00:00:00-0400'
+year: '2011'
+title: 'Incredible Hulks (2009) #625'
+issue: 625
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9255/incredible_hulk_1962_444?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Incredible Hulks
+url: http://marvel.com/comics/issue/36049/incredible_hulks_2009_625?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bb8717bcdd79
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4f5788e89d964
   extension: jpg
