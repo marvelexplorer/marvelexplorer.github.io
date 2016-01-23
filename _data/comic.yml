@@ -1,12 +1,12 @@
 ---
-date: '1996-05-10T00:00:00-0400'
-year: '1996'
-title: 'Uncanny X-Men (1963) #332'
-issue: 332
+date: '2007-06-13T00:00:00-0400'
+year: '2007'
+title: 'New Avengers (2004) #31'
+issue: 31
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13873/uncanny_x-men_1963_332?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/15819/new_avengers_2004_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51f0038d6d1b6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7efd53b2590
   extension: jpg
