@@ -1,12 +1,12 @@
 ---
-date: '1970-04-10T00:00:00-0500'
-year: '1970'
-title: 'Daredevil (1964) #63'
-issue: 63
+date: '1987-10-10T00:00:00-0400'
+year: '1987'
+title: 'Classic X-Men (1986) #14'
+issue: 14
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8413/daredevil_1964_63?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20568/classic_x-men_1986_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/00/557844143962e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bb68317e7b54
   extension: jpg
