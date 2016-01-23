@@ -1,12 +1,12 @@
 ---
-date: '1999-12-01T00:00:00-0500'
-year: '1999'
-title: 'Uncanny X-Men (1963) #375'
-issue: 375
+date: '2010-11-17T00:00:00-0500'
+year: '2010'
+title: 'X-Men (2010) #5'
+issue: 5
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13916/uncanny_x-men_1963_375?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/32197/x-men_2010_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/509c4ba455689
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/5159dd9159604
   extension: jpg
