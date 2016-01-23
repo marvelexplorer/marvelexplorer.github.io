@@ -1,12 +1,12 @@
 ---
-date: '2006-06-28T00:00:00-0400'
-year: '2006'
-title: 'Amazing Spider-Man (1999) #533'
-issue: 533
+date: '2001-02-10T00:00:00-0500'
+year: '2001'
+title: 'Avengers (1998) #37'
+issue: 37
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/4277/amazing_spider-man_1999_533?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17520/avengers_1998_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4f68e5bf81a7c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c362a6f5670e
   extension: jpg
