@@ -1,12 +1,12 @@
 ---
-date: '2011-09-07T00:00:00-0400'
-year: '2011'
-title: 'Thor: Heaven & Earth (2011) #4'
-issue: 4
+date: '1995-09-10T00:00:00-0400'
+year: '1995'
+title: 'Thor (1966) #490'
+issue: 490
 series:
-  period: '2011'
-  name: 'Thor: Heaven & Earth'
-url: http://marvel.com/comics/issue/31610/thor_heaven_earth_2011_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11818/thor_1966_490?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4e5fefcbc9e5c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/5155e8798dcb7
   extension: jpg
