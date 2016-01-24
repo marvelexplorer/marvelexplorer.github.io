@@ -1,12 +1,12 @@
 ---
-date: '1983-02-10T00:00:00-0500'
-year: '1983'
-title: 'Thor (1966) #328'
-issue: 328
+date: '2000-12-10T00:00:00-0500'
+year: '2000'
+title: 'Avengers (1998) #35'
+issue: 35
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11656/thor_1966_328?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17518/avengers_1998_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/5187e56f2d57f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc3335779e4b
   extension: jpg
