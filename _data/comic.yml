@@ -1,12 +1,12 @@
 ---
-date: '1998-12-10T00:00:00-0500'
-year: '1998'
-title: 'Iron Man (1998) #11'
-issue: 11
+date: '1970-01-10T00:00:00-0500'
+year: '1970'
+title: 'Thor (1966) #172'
+issue: 172
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/37771/iron_man_1998_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11500/thor_1966_172?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/50b3ce73ea18f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4f63560190c8b
   extension: jpg
