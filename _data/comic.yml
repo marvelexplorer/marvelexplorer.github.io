@@ -1,12 +1,12 @@
 ---
-date: '2011-08-10T00:00:00-0400'
-year: '2011'
-title: 'Daken: Dark Wolverine (2010) #12'
-issue: 12
+date: '2009-07-22T00:00:00-0400'
+year: '2009'
+title: 'Avengers: The Initiative (2007) #26'
+issue: 26
 series:
-  period: '2010'
-  name: 'Daken: Dark Wolverine'
-url: http://marvel.com/comics/issue/30057/daken_dark_wolverine_2010_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/27543/avengers_the_initiative_2007_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4dcae80748aba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/90/4e8214ea4c0ab
   extension: jpg
