@@ -1,12 +1,12 @@
 ---
-date: '2004-06-16T00:00:00-0400'
-year: '2004'
-title: 'Wolverine (2003) #16'
-issue: 16
+date: '2007-10-03T00:00:00-0400'
+year: '2007'
+title: 'Iron Man: Enter the Mandarin (2007) #2'
+issue: 2
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/718/wolverine_2003_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Iron Man: Enter the Mandarin'
+url: http://marvel.com/comics/issue/16562/iron_man_enter_the_mandarin_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/51ed62ee00b6c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f8871d763f2a
   extension: jpg
