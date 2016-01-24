@@ -1,12 +1,12 @@
 ---
-date: '2009-09-16T00:00:00-0400'
+date: '2009-02-11T00:00:00-0500'
 year: '2009'
-title: 'Mighty Avengers (2007) #29'
-issue: 29
+title: 'Thor (2007) #600'
+issue: 600
 series:
   period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/25973/mighty_avengers_2007_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Thor
+url: http://marvel.com/comics/issue/23093/thor_2007_600?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/4f7c93b59572d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bb593e47c24d
   extension: jpg
