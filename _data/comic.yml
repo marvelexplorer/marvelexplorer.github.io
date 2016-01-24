@@ -1,12 +1,12 @@
 ---
-date: '2002-02-10T00:00:00-0500'
-year: '2002'
-title: 'Thor (1998) #44'
-issue: 44
+date: '1989-01-14T00:00:00-0500'
+year: '1989'
+title: 'Thor Annual (1966) #14'
+issue: 14
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18669/thor_1998_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor Annual
+url: http://marvel.com/comics/issue/16675/thor_annual_1966_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4c35f56ced726
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/526184efca169
   extension: jpg
