@@ -1,12 +1,12 @@
 ---
-date: '2011-02-16T00:00:00-0500'
+date: '2011-05-04T00:00:00-0400'
 year: '2011'
-title: 'Wolverine (2010) #6'
-issue: 6
+title: 'Uncanny X-Force (2010) #9'
+issue: 9
 series:
   period: '2010'
-  name: Wolverine
-url: http://marvel.com/comics/issue/30232/wolverine_2010_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Uncanny X-Force
+url: http://marvel.com/comics/issue/32597/uncanny_x-force_2010_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4f689289a914f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4db9af067bf93
   extension: jpg
