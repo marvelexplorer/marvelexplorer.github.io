@@ -1,12 +1,12 @@
 ---
-date: '2004-02-18T00:00:00-0500'
-year: '2004'
-title: 'Wolverine (2003) #11'
-issue: 11
+date: '2008-07-02T00:00:00-0400'
+year: '2008'
+title: 'Avengers/Invaders (2008) #3'
+issue: 3
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/236/wolverine_2003_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Avengers/Invaders
+url: http://marvel.com/comics/issue/21565/avengersinvaders_2008_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/51ed62a59000e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb796cce2b71
   extension: jpg
