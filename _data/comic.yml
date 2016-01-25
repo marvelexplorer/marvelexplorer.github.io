@@ -1,12 +1,12 @@
 ---
-date: '2011-08-17T00:00:00-0400'
-year: '2011'
-title: 'X-Men: Schism (2011) #3'
-issue: 3
+date: '2003-05-01T00:00:00-0400'
+year: '2003'
+title: 'New X-Men (2001) #138'
+issue: 138
 series:
-  period: '2011'
-  name: 'X-Men: Schism'
-url: http://marvel.com/comics/issue/38490/x-men_schism_2011_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14957/new_x-men_2001_138?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/60/52c5b14fa2a1d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4c35ecf1cb45f
   extension: jpg
