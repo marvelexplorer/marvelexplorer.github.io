@@ -1,12 +1,12 @@
 ---
-date: '2010-09-09T00:00:00-0400'
-year: '2010'
-title: 'X-Men (2010) #3'
-issue: 3
+date: '1994-04-10T00:00:00-0400'
+year: '1994'
+title: 'Uncanny X-Men (1963) #311'
+issue: 311
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/32193/x-men_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13852/uncanny_x-men_1963_311?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4f4fe48bbfbe3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/537a5f2a26333
   extension: jpg
