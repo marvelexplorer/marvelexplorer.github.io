@@ -1,12 +1,12 @@
 ---
-date: '1999-02-10T00:00:00-0500'
-year: '1999'
-title: 'Avengers (1998) #13'
-issue: 13
+date: '2007-04-25T00:00:00-0400'
+year: '2007'
+title: 'Wolverine (2003) #53'
+issue: 53
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17494/avengers_1998_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/6340/wolverine_2003_53?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb6bca204f85
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4d2518233bc20
   extension: jpg
