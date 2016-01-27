@@ -1,12 +1,12 @@
 ---
-date: '1995-11-01T00:00:00-0500'
-year: '1995'
-title: 'X-Men (1991) #46'
-issue: 46
+date: '2011-05-04T00:00:00-0400'
+year: '2011'
+title: 'X-Men: Prelude to Schism (2011) #1'
+issue: 1
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14335/x-men_1991_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'X-Men: Prelude to Schism'
+url: http://marvel.com/comics/issue/38485/x-men_prelude_to_schism_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/40/50b3de0114af3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/51cc54c59c639
   extension: jpg
