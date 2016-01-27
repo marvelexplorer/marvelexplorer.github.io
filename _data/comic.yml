@@ -1,12 +1,12 @@
 ---
-date: '2011-05-04T00:00:00-0400'
-year: '2011'
-title: 'X-Men: Prelude to Schism (2011) #1'
-issue: 1
+date: '1984-09-10T00:00:00-0400'
+year: '1984'
+title: 'Secret Wars (1984) #5'
+issue: 5
 series:
-  period: '2011'
-  name: 'X-Men: Prelude to Schism'
-url: http://marvel.com/comics/issue/38485/x-men_prelude_to_schism_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10587/secret_wars_1984_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/51cc54c59c639
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4f68c921d9b01
   extension: jpg
