@@ -1,12 +1,12 @@
 ---
-date: '1984-11-10T00:00:00-0500'
-year: '1984'
-title: 'Kitty Pryde and Wolverine (1984) #1'
-issue: 1
+date: '1993-03-01T00:00:00-0500'
+year: '1993'
+title: 'Fantastic Four (1961) #374'
+issue: 374
 series:
-  period: '1984'
-  name: Kitty Pryde and Wolverine
-url: http://marvel.com/comics/issue/21645/kitty_pryde_and_wolverine_1984_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13199/fantastic_four_1961_374?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/53514763940bf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/5294ecb3255f5
   extension: jpg
