@@ -1,12 +1,12 @@
 ---
-date: '2000-11-01T00:00:00-0500'
-year: '2000'
-title: 'Uncanny X-Men (1963) #386'
-issue: 386
+date: '2008-09-10T00:00:00-0400'
+year: '2008'
+title: 'X-Men: Magneto Testament (2008) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13927/uncanny_x-men_1963_386?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'X-Men: Magneto Testament'
+url: http://marvel.com/comics/issue/21976/x-men_magneto_testament_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/5115279f0d215
-  extension: jpg
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4e5ea7c9cc9ef
+  extension: png
