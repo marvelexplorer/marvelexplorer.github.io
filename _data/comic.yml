@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
-year: '2011'
-title: 'Moon Knight (2010) #7'
+date: '2001-01-01T00:00:00-0500'
+year: '2001'
+title: 'Marvel Knights (2000) #7'
 issue: 7
 series:
-  period: '2010'
-  name: Moon Knight
-url: http://marvel.com/comics/issue/34025/moon_knight_2010_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Marvel Knights
+url: http://marvel.com/comics/issue/16067/marvel_knights_2000_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4eb0379a7f072
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc36a08d6d11
   extension: jpg
