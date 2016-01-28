@@ -1,8 +1,8 @@
 ---
 - name: Iron Man
-  score: 9
+  score: 8
 - name: Wolverine
-  score: 7
+  score: 8
 - name: X-Men
   score: 7
 - name: Thor
