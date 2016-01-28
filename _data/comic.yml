@@ -1,12 +1,12 @@
 ---
-date: '2011-07-06T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself (2010) #4'
-issue: 4
+date: '2001-10-01T00:00:00-0400'
+year: '2001'
+title: 'Daredevil (1998) #21'
+issue: 21
 series:
-  period: '2010'
-  name: Fear Itself
-url: http://marvel.com/comics/issue/38042/fear_itself_2010_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15622/daredevil_1998_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/04/4f7af8b599bbc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/4bb6db6bd1aa2
   extension: jpg
