@@ -1,12 +1,12 @@
 ---
-date: '2000-11-01T00:00:00-0500'
-year: '2000'
-title: 'Marvel Knights (2000) #5'
-issue: 5
+date: '2012-04-11T00:00:00-0400'
+year: '2012'
+title: 'Avenging Spider-Man (2011) #6'
+issue: 6
 series:
-  period: '2000'
-  name: Marvel Knights
-url: http://marvel.com/comics/issue/16065/marvel_knights_2000_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Avenging Spider-Man
+url: http://marvel.com/comics/issue/39253/avenging_spider-man_2011_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/4bb87ec76793f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/4f0f50c8725c7
   extension: jpg
