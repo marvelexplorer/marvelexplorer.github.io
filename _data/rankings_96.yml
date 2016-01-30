@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 6
+  score: 7
 - name: Wolverine
   score: 6
 - name: Beast
   score: 4
 - name: Black Widow
   score: 4
-- name: Professor X
-  score: 4
+- name: Polaris
+  score: 3
