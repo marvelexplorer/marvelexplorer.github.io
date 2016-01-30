@@ -1,12 +1,12 @@
 ---
-date: '1982-05-10T00:00:00-0400'
-year: '1982'
-title: 'Marvel Fanfare (1982) #2'
-issue: 2
+date: '1986-10-10T00:00:00-0400'
+year: '1986'
+title: 'Uncanny X-Men (1963) #210'
+issue: 210
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19793/marvel_fanfare_1982_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13751/uncanny_x-men_1963_210?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/10/4bb5c6cfbcd3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/50ad58c3e74c0
   extension: jpg
