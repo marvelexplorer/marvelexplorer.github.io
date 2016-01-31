@@ -1,7 +1,7 @@
 ---
-- name: X-Men
-  score: 6
 - name: Wolverine
+  score: 5
+- name: X-Men
   score: 5
 - name: Black Widow
   score: 4
