@@ -1,8 +1,8 @@
 ---
-- name: Wolverine
-  score: 6
 - name: X-Men
   score: 6
+- name: Wolverine
+  score: 5
 - name: Beast
   score: 4
 - name: Black Widow

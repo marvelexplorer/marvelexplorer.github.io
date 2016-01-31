@@ -1,12 +1,12 @@
 ---
-date: '2001-01-10T00:00:00-0500'
-year: '2001'
-title: 'Fantastic Four (1998) #37'
-issue: 37
+date: '1962-11-01T00:00:00-0500'
+year: '1962'
+title: 'Fantastic Four (1961) #8'
+issue: 8
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/15557/fantastic_four_1998_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13288/fantastic_four_1961_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/51f8337180dde
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/536d6b1ad14ac
   extension: jpg
