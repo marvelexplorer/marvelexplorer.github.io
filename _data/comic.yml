@@ -1,12 +1,12 @@
 ---
-date: '1986-02-10T00:00:00-0500'
-year: '1986'
-title: 'Incredible Hulk (1962) #316'
-issue: 316
+date: '2003-07-01T00:00:00-0400'
+year: '2003'
+title: 'Paradise X (2002) #11'
+issue: 11
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9127/incredible_hulk_1962_316?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10495/paradise_x_2002_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb60f2fc92ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c360600976ce
   extension: jpg
