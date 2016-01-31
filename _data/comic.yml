@@ -1,12 +1,12 @@
 ---
-date: '1964-06-10T00:00:00-0400'
-year: '1964'
-title: 'Fantastic Four (1961) #27'
-issue: 27
+date: '2011-06-22T00:00:00-0400'
+year: '2011'
+title: 'Fantastic Four: The Last Stand (2011) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13083/fantastic_four_1961_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Fantastic Four: The Last Stand'
+url: http://marvel.com/comics/issue/39602/fantastic_four_the_last_stand_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/536d5b3a0a890
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4d88c34a87a6a
   extension: jpg
