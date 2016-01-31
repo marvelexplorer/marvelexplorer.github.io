@@ -1,12 +1,12 @@
 ---
-date: '1972-01-10T00:00:00-0500'
-year: '1972'
-title: 'Daredevil (1964) #83'
-issue: 83
+date: '1982-11-10T00:00:00-0500'
+year: '1982'
+title: 'Daredevil (1964) #188'
+issue: 188
 series:
   period: '1964'
   name: Daredevil
-url: http://marvel.com/comics/issue/8435/daredevil_1964_83?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/8171/daredevil_1964_188?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/90/557849b99094a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4e6919bd8778e
   extension: jpg
