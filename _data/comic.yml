@@ -1,12 +1,12 @@
 ---
-date: '2001-09-01T00:00:00-0400'
-year: '2001'
-title: 'Deadpool (1997) #56'
-issue: 56
+date: '2009-06-24T00:00:00-0400'
+year: '2009'
+title: 'Ms. Marvel (2006) #40'
+issue: 40
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8513/deadpool_1997_56?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/26003/ms_marvel_2006_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f2187d23ed00
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb4f58bbe166
   extension: jpg
