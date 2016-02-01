@@ -1,12 +1,12 @@
 ---
-date: '2010-09-29T00:00:00-0400'
+date: '2010-02-10T00:00:00-0500'
 year: '2010'
-title: 'Amazing Spider-Man (1999) #644'
-issue: 644
+title: 'Amazing Spider-Man (1999) #620'
+issue: 620
 series:
   period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/30319/amazing_spider-man_1999_644?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/28225/amazing_spider-man_1999_620?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4e85fa1a987af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4e849d033f201
   extension: jpg
