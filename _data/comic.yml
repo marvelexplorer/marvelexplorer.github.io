@@ -1,12 +1,12 @@
 ---
-date: '2009-06-24T00:00:00-0400'
+date: '2009-10-28T00:00:00-0400'
 year: '2009'
-title: 'Ms. Marvel (2006) #40'
-issue: 40
+title: 'Wolverine Art Appreciation (2009) #1'
+issue: 1
 series:
-  period: '2006'
-  name: Ms. Marvel
-url: http://marvel.com/comics/issue/26003/ms_marvel_2006_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Wolverine Art Appreciation
+url: http://marvel.com/comics/issue/27078/wolverine_art_appreciation_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb4f58bbe166
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb428c16efd0
   extension: jpg
