@@ -1,12 +1,12 @@
 ---
-date: '1989-12-20T00:00:00-0500'
-year: '1989'
-title: 'Quasar (1989) #5'
-issue: 5
+date: '2002-05-01T00:00:00-0400'
+year: '2002'
+title: 'Paradise X (2002) #1'
+issue: 1
 series:
-  period: '1989'
-  name: Quasar
-url: http://marvel.com/comics/issue/18939/quasar_1989_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10493/paradise_x_2002_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/50/5261880259787
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc37ca7efe18
   extension: jpg
