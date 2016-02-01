@@ -1,12 +1,12 @@
 ---
-date: '2006-08-16T00:00:00-0400'
-year: '2006'
-title: 'Marvel Adventures the Avengers (2006) #4'
-issue: 4
+date: '2003-12-31T00:00:00-0500'
+year: '2003'
+title: 'Wolverine: The End (2003) #2'
+issue: 2
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/4817/marvel_adventures_the_avengers_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: 'Wolverine: The End'
+url: http://marvel.com/comics/issue/225/wolverine_the_end_2003_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/4f6251f698eea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/51e4444bd0430
   extension: jpg
