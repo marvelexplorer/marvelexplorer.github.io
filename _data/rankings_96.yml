@@ -1,9 +1,9 @@
 ---
+- name: Wolverine
+  score: 6
 - name: Black Widow
   score: 5
 - name: Spider-Man
-  score: 5
-- name: Wolverine
   score: 5
 - name: Avengers
   score: 4
