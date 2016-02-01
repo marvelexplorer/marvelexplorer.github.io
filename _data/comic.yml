@@ -1,12 +1,12 @@
 ---
-date: '2002-08-01T00:00:00-0400'
-year: '2002'
-title: 'Thing: Freakshow (2002) #1'
-issue: 1
+date: '1989-01-01T00:00:00-0500'
+year: '1989'
+title: 'Squadron Supreme: Death of a Universe (1999)'
+issue: 0
 series:
-  period: '2002'
-  name: 'Thing: Freakshow'
-url: http://marvel.com/comics/issue/11450/thing_freakshow_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/18819/squadron_supreme_death_of_a_universe_1999?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc3827de0be2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb6abafe8516
   extension: jpg
