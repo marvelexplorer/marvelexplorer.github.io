@@ -1,12 +1,12 @@
 ---
-date: '1990-10-10T00:00:00-0400'
-year: '1990'
-title: 'Marvel Comics Presents (1988) #60'
-issue: 60
+date: '1966-10-10T00:00:00-0400'
+year: '1966'
+title: 'Tales of Suspense (1959) #82'
+issue: 82
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10142/marvel_comics_presents_1988_60?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11328/tales_of_suspense_1959_82?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c3652b262a30
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/536d4883c8826
   extension: jpg
