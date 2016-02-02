@@ -1,12 +1,12 @@
 ---
-date: '1992-06-10T00:00:00-0400'
-year: '1992'
-title: 'Quasar (1989) #35'
-issue: 35
+date: '2000-03-10T00:00:00-0500'
+year: '2000'
+title: 'Captain America (1998) #27'
+issue: 27
 series:
-  period: '1989'
-  name: Quasar
-url: http://marvel.com/comics/issue/18923/quasar_1989_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12786/captain_america_1998_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb6f76a849c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8b216587a01
   extension: jpg
