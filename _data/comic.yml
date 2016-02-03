@@ -1,12 +1,12 @@
 ---
-date: '2009-04-01T00:00:00-0400'
-year: '2009'
-title: 'Secret Warriors (2008) #3'
-issue: 3
+date: '1975-05-10T00:00:00-0400'
+year: '1975'
+title: 'Incredible Hulk (1962) #187'
+issue: 187
 series:
-  period: '2008'
-  name: Secret Warriors
-url: http://marvel.com/comics/issue/24002/secret_warriors_2008_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/8998/incredible_hulk_1962_187?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f676d1aa5b73
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/529369cfa41c4
   extension: jpg
