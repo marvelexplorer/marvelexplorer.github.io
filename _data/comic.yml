@@ -1,12 +1,12 @@
 ---
-date: '2006-12-27T00:00:00-0500'
-year: '2006'
-title: 'Black Panther (2005) #23'
-issue: 23
+date: '1977-05-10T00:00:00-0400'
+year: '1977'
+title: 'Iron Man (1968) #98'
+issue: 98
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/5667/black_panther_2005_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9657/iron_man_1968_98?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4f71c3e84ffeb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/50b429b3d1e9b
   extension: jpg
