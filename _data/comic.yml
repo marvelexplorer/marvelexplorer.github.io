@@ -1,12 +1,12 @@
 ---
-date: '1984-07-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #3'
-issue: 3
+date: '1995-02-10T00:00:00-0500'
+year: '1995'
+title: 'Fantastic Four (1961) #397'
+issue: 397
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10585/secret_wars_1984_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13224/fantastic_four_1961_397?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4f68c7f813f78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/5294e5d3188e6
   extension: jpg
