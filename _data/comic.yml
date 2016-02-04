@@ -1,12 +1,12 @@
 ---
-date: '2011-10-12T00:00:00-0400'
-year: '2011'
-title: 'New Avengers (2010) #17'
-issue: 17
+date: '2008-06-04T00:00:00-0400'
+year: '2008'
+title: 'Avengers/Invaders (2008) #2'
+issue: 2
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/35247/new_avengers_2010_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Avengers/Invaders
+url: http://marvel.com/comics/issue/21394/avengersinvaders_2008_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4e8b6f736cd54
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c363bbc15a05
   extension: jpg
