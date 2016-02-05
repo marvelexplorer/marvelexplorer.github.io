@@ -1,12 +1,12 @@
 ---
-date: '1975-01-01T00:00:00-0500'
-year: '1975'
-title: 'Giant Size X-Men (1975) #1'
-issue: 1
+date: '1992-09-10T00:00:00-0400'
+year: '1992'
+title: 'X-Men (1991) #12'
+issue: 12
 series:
-  period: '1975'
-  name: Giant Size X-Men
-url: http://marvel.com/comics/issue/8797/giant_size_x-men_1975_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14298/x-men_1991_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bb3b7c6cfe55
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/557f34fab3a50
   extension: jpg
