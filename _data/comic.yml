@@ -1,12 +1,12 @@
 ---
-date: '2012-10-03T00:00:00-0400'
-year: '2012'
-title: 'Avengers Vs. X-Men (2012) #12'
-issue: 12
+date: '1998-05-10T00:00:00-0400'
+year: '1998'
+title: 'Avengers (1998) #4'
+issue: 4
 series:
-  period: '2012'
-  name: Avengers Vs. X-Men
-url: http://marvel.com/comics/issue/41278/avengers_vs_x-men_2012_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17523/avengers_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/515f1bf1860a9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/70/4bb6f976e68cf
   extension: jpg
