@@ -1,12 +1,12 @@
 ---
-date: '1979-10-10T00:00:00-0400'
-year: '1979'
-title: 'Amazing Spider-Man (1963) #197'
-issue: 197
+date: '1976-12-10T00:00:00-0500'
+year: '1976'
+title: 'Amazing Spider-Man (1963) #163'
+issue: 163
 series:
   period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6590/amazing_spider-man_1963_197?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6553/amazing_spider-man_1963_163?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/513a0f0731b46
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/526177b1d58d0
   extension: jpg
