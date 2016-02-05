@@ -1,12 +1,12 @@
 ---
-date: '1995-11-01T00:00:00-0500'
-year: '1995'
-title: 'The Last Avengers Story (1995) #1'
-issue: 1
+date: '2000-10-10T00:00:00-0400'
+year: '2000'
+title: 'Avengers (1998) #33'
+issue: 33
 series:
-  period: '1995'
-  name: The Last Avengers Story
-url: http://marvel.com/comics/issue/23313/the_last_avengers_story_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17516/avengers_1998_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4bb5cea2eabd5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/4c7d4852d4588
   extension: jpg
