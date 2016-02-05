@@ -3,9 +3,9 @@
   score: 6
 - name: Wolverine
   score: 4
-- name: Daredevil
-  score: 3
 - name: Captain America
   score: 3
 - name: X-Men
   score: 3
+- name: Menace
+  score: 2
