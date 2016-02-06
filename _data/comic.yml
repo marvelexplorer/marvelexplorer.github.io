@@ -1,12 +1,12 @@
 ---
-date: '2000-05-01T00:00:00-0400'
-year: '2000'
-title: 'X-Force (1991) #102'
-issue: 102
+date: '2004-12-01T00:00:00-0500'
+year: '2004'
+title: 'Spider-Girl (1998) #81'
+issue: 81
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/17946/x-force_1991_102?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Spider-Girl
+url: http://marvel.com/comics/issue/1434/spider-girl_1998_81?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bb53c19000ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc65f45188d8
   extension: jpg
