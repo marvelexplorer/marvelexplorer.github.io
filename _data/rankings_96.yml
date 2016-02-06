@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
   score: 4
-- name: Captain America
-  score: 3
 - name: Black Widow
   score: 3
 - name: Scarlet Witch
   score: 3
 - name: Avengers
   score: 3
+- name: Daredevil
+  score: 2
