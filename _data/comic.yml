@@ -1,12 +1,12 @@
 ---
-date: '1976-10-10T00:00:00-0400'
-year: '1976'
-title: 'Amazing Spider-Man (1963) #161'
-issue: 161
+date: '2009-12-09T00:00:00-0500'
+year: '2009'
+title: 'Wolverine: Under the Boardwalk One-Shot (2009) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6551/amazing_spider-man_1963_161?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: 'Wolverine: Under the Boardwalk One-Shot'
+url: http://marvel.com/comics/issue/27212/wolverine_under_the_boardwalk_one-shot_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/526177e9249e3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bb3d0161e2f7
   extension: jpg
