@@ -1,12 +1,12 @@
 ---
-date: '2002-03-01T00:00:00-0500'
-year: '2002'
-title: 'X-Treme X-Men (2001) #9'
-issue: 9
+date: '1993-12-01T00:00:00-0500'
+year: '1993'
+title: 'X-Men (1991) #27'
+issue: 27
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15056/x-treme_x-men_2001_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14314/x-men_1991_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc367f256dd0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/558045b61111f
   extension: jpg
