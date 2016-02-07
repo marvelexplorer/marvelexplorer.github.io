@@ -1,12 +1,12 @@
 ---
-date: '2004-11-17T00:00:00-0500'
-year: '2004'
-title: 'Captain America (2004) #1'
-issue: 1
+date: '1978-12-10T00:00:00-0500'
+year: '1978'
+title: 'Amazing Spider-Man (1963) #187'
+issue: 187
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/91/captain_america_2004_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6579/amazing_spider-man_1963_187?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/4eb8052786644
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/536bc520481bd
   extension: jpg
