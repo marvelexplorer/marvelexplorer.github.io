@@ -1,12 +1,12 @@
 ---
-date: '2001-03-10T00:00:00-0500'
-year: '2001'
-title: 'Black Widow: Breakdown (2001) #3'
+date: '1997-01-01T00:00:00-0500'
+year: '1997'
+title: 'Fantastic Four (1996) #3'
 issue: 3
 series:
-  period: '2001'
-  name: 'Black Widow: Breakdown'
-url: http://marvel.com/comics/issue/14811/black_widow_breakdown_2001_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1996'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13318/fantastic_four_1996_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc46cb71098f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bc335d96d819
   extension: jpg
