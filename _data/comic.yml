@@ -1,12 +1,12 @@
 ---
-date: '2004-10-13T00:00:00-0400'
-year: '2004'
-title: 'Thor: Son of Asgard (2004) #9'
-issue: 9
+date: '1996-03-10T00:00:00-0500'
+year: '1996'
+title: 'Thor (1966) #496'
+issue: 496
 series:
-  period: '2004'
-  name: 'Thor: Son of Asgard'
-url: http://marvel.com/comics/issue/882/thor_son_of_asgard_2004_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11824/thor_1966_496?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc674f44eff0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4f201c6e46734
   extension: jpg
