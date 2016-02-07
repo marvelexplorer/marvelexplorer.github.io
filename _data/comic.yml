@@ -1,12 +1,12 @@
 ---
-date: '1965-07-10T00:00:00-0400'
-year: '1965'
-title: 'Tales of Suspense (1959) #67'
-issue: 67
+date: '2004-11-17T00:00:00-0500'
+year: '2004'
+title: 'Captain America (2004) #1'
+issue: 1
 series:
-  period: '1959'
-  name: Tales of Suspense
-url: http://marvel.com/comics/issue/11311/tales_of_suspense_1959_67?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/91/captain_america_2004_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/536d4d86b406e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/4eb8052786644
   extension: jpg
