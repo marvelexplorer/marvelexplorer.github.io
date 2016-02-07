@@ -1,12 +1,12 @@
 ---
-date: '1978-04-10T00:00:00-0500'
-year: '1978'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #17'
-issue: 17
+date: '2001-03-10T00:00:00-0500'
+year: '2001'
+title: 'Black Widow: Breakdown (2001) #3'
+issue: 3
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14620/peter_parker_the_spectacular_spider-man_1976_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: 'Black Widow: Breakdown'
+url: http://marvel.com/comics/issue/14811/black_widow_breakdown_2001_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc35d7e561a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc46cb71098f
   extension: jpg
