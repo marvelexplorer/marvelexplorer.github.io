@@ -1,12 +1,12 @@
 ---
-date: '2009-07-22T00:00:00-0400'
+date: '2009-09-30T00:00:00-0400'
 year: '2009'
-title: 'Amazing Spider-Man (1999) #600'
-issue: 600
+title: 'Amazing Spider-Man (1999) #607'
+issue: 607
 series:
   period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/24407/amazing_spider-man_1999_600?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/24414/amazing_spider-man_1999_607?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4e8dd3d1b7bc8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4e8dc842275b5
   extension: jpg
