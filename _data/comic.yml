@@ -1,12 +1,12 @@
 ---
-date: '1997-03-10T00:00:00-0500'
-year: '1997'
-title: 'Uncanny X-Men (1963) #342'
-issue: 342
+date: '1999-07-01T00:00:00-0400'
+year: '1999'
+title: 'Earth X (1999) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13883/uncanny_x-men_1963_342?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8554/earth_x_1999_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/51a8b65bca312
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb7c457cc0ba
   extension: jpg
