@@ -1,7 +1,9 @@
 ---
-name: Arachne
-description: ''
-url: http://marvel.com/universe/Arachne_(Julia_Carpenter)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Spider-Woman (Jessica Drew)
+description: When young Jessica Drew suffered uranium poisoning in 1931, her father
+  was forced to inject her with his untested spider serum and seal her in a genetic
+  accelerator.
+url: http://marvel.com/universe/Spider-Woman_%28Jessica_Drew%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/70/5269526591794
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/50/5265479097743
   extension: jpg
