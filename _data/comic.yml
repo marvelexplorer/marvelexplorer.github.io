@@ -1,12 +1,12 @@
 ---
-date: '2006-06-07T00:00:00-0400'
-year: '2006'
-title: 'Civil War: Front Line (2006) #1'
-issue: 1
+date: '1991-10-10T00:00:00-0400'
+year: '1991'
+title: 'Uncanny X-Men (1963) #281'
+issue: 281
 series:
-  period: '2006'
-  name: 'Civil War: Front Line'
-url: http://marvel.com/comics/issue/4339/civil_war_front_line_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13822/uncanny_x-men_1963_281?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f75b66dbe502
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/511421273d3fb
   extension: jpg
