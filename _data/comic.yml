@@ -1,12 +1,12 @@
 ---
-date: '1977-01-10T00:00:00-0500'
+date: '1977-03-10T00:00:00-0500'
 year: '1977'
-title: 'Howard the Duck (1976) #8'
-issue: 8
+title: 'Howard the Duck (1976) #10'
+issue: 10
 series:
   period: '1976'
   name: Howard the Duck
-url: http://marvel.com/comics/issue/21125/howard_the_duck_1976_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/21097/howard_the_duck_1976_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bb5ea72d4ef8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bb5ea684fa3f
   extension: jpg
