@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 8
+  score: 9
 - name: Beast
   score: 6
 - name: Iron Man
   score: 4
 - name: X-Men
   score: 4
-- name: Thor
+- name: Avengers
   score: 3
