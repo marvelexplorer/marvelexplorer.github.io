@@ -1,12 +1,12 @@
 ---
-date: '1988-05-10T00:00:00-0400'
-year: '1988'
-title: 'Daredevil (1964) #254'
-issue: 254
+date: '1994-01-10T00:00:00-0500'
+year: '1994'
+title: 'Daredevil: The Man Without Fear (1993) #4'
+issue: 4
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8245/daredevil_1964_254?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: 'Daredevil: The Man Without Fear'
+url: http://marvel.com/comics/issue/20753/daredevil_the_man_without_fear_1993_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc479a411e3a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bb864cfb3e3e
   extension: jpg
