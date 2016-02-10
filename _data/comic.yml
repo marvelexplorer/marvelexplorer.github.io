@@ -1,12 +1,12 @@
 ---
-date: '2009-05-20T00:00:00-0400'
-year: '2009'
-title: 'Amazing Spider-Man Family (2008) #6'
-issue: 6
+date: '2000-05-01T00:00:00-0400'
+year: '2000'
+title: 'Iron Man (1998) #28'
+issue: 28
 series:
-  period: '2008'
-  name: Amazing Spider-Man Family
-url: http://marvel.com/comics/issue/24199/amazing_spider-man_family_2008_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19900/iron_man_1998_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb52dd01f58b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/50b3ac36d285e
   extension: jpg

@@ -1,10 +1,7 @@
 ---
-name: Spider-Girl (May Parker)
-description: May "Mayday" Parker is the daughter of Spider-Man and Mary Jane Watson-Parker.
-  Born with all her fatherï¿½s powers-and the same silly sense of humor-sheï¿½s grown
-  up to become one of Earthï¿½s most trusted heroes and a fitting tribute to her proud
-  papa.
-url: http://marvel.com/universe/Spider-Girl_(MC2)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Human Torch
+description: ''
+url: http://marvel.com/universe/Human_Torch_%28Johnny_Storm%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/4c003adccbe4f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917
   extension: jpg
