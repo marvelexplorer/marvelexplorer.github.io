@@ -1,12 +1,12 @@
 ---
-date: '2000-05-01T00:00:00-0400'
-year: '2000'
-title: 'Iron Man (1998) #28'
-issue: 28
+date: '1977-12-10T00:00:00-0500'
+year: '1977'
+title: 'Uncanny X-Men (1963) #108'
+issue: 108
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/19900/iron_man_1998_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12423/uncanny_x-men_1963_108?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/50b3ac36d285e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5372b036a2127
   extension: jpg
