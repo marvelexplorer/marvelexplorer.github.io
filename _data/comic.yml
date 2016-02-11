@@ -1,12 +1,12 @@
 ---
-date: '2007-07-25T00:00:00-0400'
-year: '2007'
-title: 'Incredible Hulk (1999) #108'
-issue: 108
+date: '2006-11-01T00:00:00-0500'
+year: '2006'
+title: 'Agents of Atlas (2006) #4'
+issue: 4
 series:
-  period: '1999'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/15925/incredible_hulk_1999_108?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Agents of Atlas
+url: http://marvel.com/comics/issue/5404/agents_of_atlas_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51632057add32
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/56b21a3540a64
   extension: jpg
