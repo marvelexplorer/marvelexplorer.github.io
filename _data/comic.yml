@@ -1,12 +1,12 @@
 ---
-date: '2001-01-01T00:00:00-0500'
-year: '2001'
-title: 'Maximum Security (2000) #3'
-issue: 3
+date: '1986-12-10T00:00:00-0500'
+year: '1986'
+title: 'Fantastic Four (1961) #297'
+issue: 297
 series:
-  period: '2000'
-  name: Maximum Security
-url: http://marvel.com/comics/issue/10286/maximum_security_2000_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13113/fantastic_four_1961_297?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/539863d922d01
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/537a5905eee04
   extension: jpg
