@@ -1,12 +1,12 @@
 ---
-date: '2010-02-24T00:00:00-0500'
-year: '2010'
-title: 'Thunderbolts (2006) #141'
-issue: 141
+date: '2008-09-10T00:00:00-0400'
+year: '2008'
+title: 'Amazing Spider-Man (1999) #571'
+issue: 571
 series:
-  period: '2006'
-  name: Thunderbolts
-url: http://marvel.com/comics/issue/29834/thunderbolts_2006_141?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/21931/amazing_spider-man_1999_571?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/517ea6ac5b774
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb666cc45500
   extension: jpg
