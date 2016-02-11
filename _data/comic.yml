@@ -1,12 +1,12 @@
 ---
-date: '2010-04-28T00:00:00-0400'
+date: '2010-02-24T00:00:00-0500'
 year: '2010'
-title: 'Mighty Avengers (2007) #36'
-issue: 36
+title: 'Thunderbolts (2006) #141'
+issue: 141
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/29939/mighty_avengers_2007_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Thunderbolts
+url: http://marvel.com/comics/issue/29834/thunderbolts_2006_141?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7c98fe10d2f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/517ea6ac5b774
   extension: jpg
