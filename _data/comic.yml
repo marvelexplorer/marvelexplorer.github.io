@@ -1,12 +1,12 @@
 ---
-date: '1981-01-10T00:00:00-0500'
-year: '1981'
-title: 'Avengers (1963) #203'
-issue: 203
+date: '2010-04-28T00:00:00-0400'
+year: '2010'
+title: 'Mighty Avengers (2007) #36'
+issue: 36
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7068/avengers_1963_203?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/29939/mighty_avengers_2007_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4c8aac1f11588
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7c98fe10d2f
   extension: jpg
