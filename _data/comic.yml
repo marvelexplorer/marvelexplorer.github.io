@@ -1,12 +1,12 @@
 ---
-date: '1982-05-10T00:00:00-0400'
-year: '1982'
-title: 'Captain America (1968) #269'
-issue: 269
+date: '1969-06-10T00:00:00-0400'
+year: '1969'
+title: 'Sub-Mariner (1968) #14'
+issue: 14
 series:
   period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7650/captain_america_1968_269?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Sub-Mariner
+url: http://marvel.com/comics/issue/17067/sub-mariner_1968_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/51f94d811968c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb6f53b99842
   extension: jpg
