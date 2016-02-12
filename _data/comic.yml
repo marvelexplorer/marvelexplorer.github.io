@@ -1,12 +1,12 @@
 ---
-date: '1969-06-10T00:00:00-0400'
-year: '1969'
-title: 'Sub-Mariner (1968) #14'
-issue: 14
+date: '1968-07-10T00:00:00-0400'
+year: '1968'
+title: 'Marvel Super-Heroes (1967) #15'
+issue: 15
 series:
-  period: '1968'
-  name: Sub-Mariner
-url: http://marvel.com/comics/issue/17067/sub-mariner_1968_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Marvel Super-Heroes
+url: http://marvel.com/comics/issue/15426/marvel_super-heroes_1967_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb6f53b99842
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/50adfc6667994
   extension: jpg
