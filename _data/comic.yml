@@ -1,12 +1,12 @@
 ---
-date: '2003-01-01T00:00:00-0500'
-year: '2003'
-title: 'Paradise X (2002) #7'
-issue: 7
+date: '1993-06-10T00:00:00-0400'
+year: '1993'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #201'
+issue: 201
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10502/paradise_x_2002_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14656/peter_parker_the_spectacular_spider-man_1976_201?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c3606fb8c49a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bb68922269f6
   extension: jpg
