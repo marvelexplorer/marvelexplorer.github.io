@@ -1,9 +1,9 @@
 ---
-- name: Avengers
-  score: 5
 - name: Spider-Man
   score: 5
 - name: Beast
+  score: 4
+- name: Avengers
   score: 4
 - name: Invisible Woman
   score: 4
