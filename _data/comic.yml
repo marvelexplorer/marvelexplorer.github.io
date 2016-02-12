@@ -1,12 +1,12 @@
 ---
-date: '2007-05-23T00:00:00-0400'
-year: '2007'
-title: 'Captain America (2004) #26'
-issue: 26
+date: '2011-11-09T00:00:00-0500'
+year: '2011'
+title: 'Battle Scars (2011) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/6152/captain_america_2004_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Battle Scars
+url: http://marvel.com/comics/issue/41351/battle_scars_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f75ae9b534a4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4ea9adac850ba
   extension: jpg
