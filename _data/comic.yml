@@ -1,12 +1,12 @@
 ---
-date: '2011-06-01T00:00:00-0400'
+date: '2011-12-28T00:00:00-0500'
 year: '2011'
-title: 'Amazing Spider-Man (1999) #663'
-issue: 663
+title: 'Marvel Adventures Spider-Man (2010) #21'
+issue: 21
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/35501/amazing_spider-man_1999_663?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Marvel Adventures Spider-Man
+url: http://marvel.com/comics/issue/36566/marvel_adventures_spider-man_2010_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4e9f34ae58c5b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/56b909ae58278
   extension: jpg
