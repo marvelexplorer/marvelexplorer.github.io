@@ -1,12 +1,12 @@
 ---
-date: '2011-10-05T00:00:00-0400'
+date: '2011-08-10T00:00:00-0400'
 year: '2011'
-title: 'Spider-Island: Heroes for Hire (2011) #1'
-issue: 1
+title: 'Amazing Spider-Man (1999) #667'
+issue: 667
 series:
-  period: '2011'
-  name: 'Spider-Island: Heroes for Hire'
-url: http://marvel.com/comics/issue/41146/spider-island_heroes_for_hire_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/35528/amazing_spider-man_1999_667?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4e81e0576d13f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/40/4ea02da1ac7a5
   extension: jpg
