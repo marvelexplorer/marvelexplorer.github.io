@@ -1,12 +1,12 @@
 ---
-date: '2011-06-22T00:00:00-0400'
-year: '2011'
-title: 'Fantastic Four: The Last Stand (2011) #1'
-issue: 1
+date: '1982-01-10T00:00:00-0500'
+year: '1982'
+title: 'Amazing Spider-Man (1963) #224'
+issue: 224
 series:
-  period: '2011'
-  name: 'Fantastic Four: The Last Stand'
-url: http://marvel.com/comics/issue/39602/fantastic_four_the_last_stand_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6621/amazing_spider-man_1963_224?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4d88c34a87a6a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5261729cce06f
   extension: jpg
