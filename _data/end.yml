@@ -1,8 +1,8 @@
 ---
-name: Xorn (Kuan-Yin Xorn)
-description: Xorn, whose mutation manifested as a tiny, powerful star inside his head,
-  was brainwashed into believing he was the reincarnation of Magneto.
-url: http://marvel.com/universe/Xorn%20(Kuan-Yin%20Xorn)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Storm
+description: Ororo Monroe is the descendant of an ancient line of African priestesses,
+  all of whom have white hair, blue eyes, and the potential to wield magic.
+url: http://marvel.com/universe/Storm?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/4c00394059727
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/526963dad214d
   extension: jpg
