@@ -1,12 +1,12 @@
 ---
-date: '1996-08-01T00:00:00-0400'
-year: '1996'
-title: 'Onslaught: X-Men (1996) #1'
-issue: 1
+date: '1964-12-10T00:00:00-0500'
+year: '1964'
+title: 'Tales of Suspense (1959) #60'
+issue: 60
 series:
-  period: '1996'
-  name: 'Onslaught: X-Men'
-url: http://marvel.com/comics/issue/20767/onslaught_x-men_1996_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11304/tales_of_suspense_1959_60?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bb858cba0802
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/536d56510fc80
   extension: jpg
