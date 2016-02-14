@@ -1,12 +1,12 @@
 ---
-date: '1987-03-10T00:00:00-0500'
-year: '1987'
-title: 'Fantastic Four (1961) #300'
-issue: 300
+date: '1992-02-01T00:00:00-0500'
+year: '1992'
+title: 'Fantastic Four (1961) #361'
+issue: 361
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13118/fantastic_four_1961_300?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13185/fantastic_four_1961_361?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/50ad54f84fc14
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5294f46d1f059
   extension: jpg
