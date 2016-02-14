@@ -1,12 +1,12 @@
 ---
-date: '1990-08-10T00:00:00-0400'
-year: '1990'
-title: 'Fantastic Four (1961) #341'
-issue: 341
+date: '2005-12-28T00:00:00-0500'
+year: '2005'
+title: 'What If? (2005) #6'
+issue: 6
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13163/fantastic_four_1961_341?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: What If?
+url: http://marvel.com/comics/issue/3180/what_if_2005_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4c365f92dcac3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/55c25d0413b97
   extension: jpg
