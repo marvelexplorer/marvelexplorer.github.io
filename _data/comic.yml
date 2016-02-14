@@ -1,12 +1,12 @@
 ---
-date: '2003-10-01T00:00:00-0400'
-year: '2003'
-title: 'New Mutants (2003) #4'
-issue: 4
+date: '1983-05-10T00:00:00-0400'
+year: '1983'
+title: 'Uncanny X-Men (1963) #169'
+issue: 169
 series:
-  period: '2003'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10329/new_mutants_2003_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13710/uncanny_x-men_1963_169?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc35fd12cc93
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/80/51117a10a0aa3
   extension: jpg
