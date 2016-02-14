@@ -1,12 +1,12 @@
 ---
-date: '1964-12-10T00:00:00-0500'
-year: '1964'
-title: 'Tales of Suspense (1959) #60'
-issue: 60
+date: '1999-06-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers (1998) #17'
+issue: 17
 series:
-  period: '1959'
-  name: Tales of Suspense
-url: http://marvel.com/comics/issue/11304/tales_of_suspense_1959_60?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17498/avengers_1998_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/536d56510fc80
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/51e41a460e742
   extension: jpg
