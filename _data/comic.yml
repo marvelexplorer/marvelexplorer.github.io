@@ -1,12 +1,12 @@
 ---
-date: '1997-11-10T00:00:00-0500'
-year: '1997'
-title: 'Deadpool (1997) #10'
-issue: 10
+date: '2009-05-28T00:00:00-0400'
+year: '2009'
+title: 'Avengers: The Initiative (2007) #24'
+issue: 24
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8463/deadpool_1997_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/24167/avengers_the_initiative_2007_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/20/4f2040ba1e314
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/4e95993593b6c
   extension: jpg
