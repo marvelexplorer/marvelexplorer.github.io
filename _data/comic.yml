@@ -1,12 +1,12 @@
 ---
-date: '2012-05-16T00:00:00-0400'
-year: '2012'
-title: 'Avengers Vs. X-Men (2012) #4'
-issue: 4
+date: '1982-04-10T00:00:00-0500'
+year: '1982'
+title: 'Thor (1966) #318'
+issue: 318
 series:
-  period: '2012'
-  name: Avengers Vs. X-Men
-url: http://marvel.com/comics/issue/41193/avengers_vs_x-men_2012_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11646/thor_1966_318?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/515f1a31c0d36
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/52026af51eca4
   extension: jpg
