@@ -1,12 +1,12 @@
 ---
-date: '1986-10-10T00:00:00-0400'
-year: '1986'
-title: 'Thor (1966) #372'
-issue: 372
+date: '2000-03-10T00:00:00-0500'
+year: '2000'
+title: 'Wolverine (1988) #148'
+issue: 148
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11700/thor_1966_372?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14090/wolverine_1988_148?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c35f82a29041
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb583bfd3a55
   extension: jpg
