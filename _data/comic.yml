@@ -1,12 +1,12 @@
 ---
-date: '2000-02-10T00:00:00-0500'
-year: '2000'
-title: 'Wolverine (1988) #147'
-issue: 147
+date: '2007-04-25T00:00:00-0400'
+year: '2007'
+title: 'Wolverine (2003) #53'
+issue: 53
 series:
-  period: '1988'
+  period: '2003'
   name: Wolverine
-url: http://marvel.com/comics/issue/14089/wolverine_1988_147?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6340/wolverine_2003_53?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb587901ddb9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4d2518233bc20
   extension: jpg
