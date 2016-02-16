@@ -1,12 +1,12 @@
 ---
-date: '2011-04-20T00:00:00-0400'
+date: '2011-03-02T00:00:00-0500'
 year: '2011'
-title: 'Wolverine (2010) #8'
-issue: 8
+title: 'X-Factor (2005) #216'
+issue: 216
 series:
-  period: '2010'
-  name: Wolverine
-url: http://marvel.com/comics/issue/30234/wolverine_2010_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: X-Factor
+url: http://marvel.com/comics/issue/35282/x-factor_2005_216?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/51ee979117cac
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d66d34f3b52f
   extension: jpg
