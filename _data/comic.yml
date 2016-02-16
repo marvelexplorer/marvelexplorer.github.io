@@ -1,12 +1,12 @@
 ---
-date: '2011-03-02T00:00:00-0500'
-year: '2011'
-title: 'X-Factor (2005) #216'
-issue: 216
+date: '2007-05-16T00:00:00-0400'
+year: '2007'
+title: 'Marvel Adventures the Avengers (2006) #13'
+issue: 13
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/35282/x-factor_2005_216?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/13471/marvel_adventures_the_avengers_2006_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d66d34f3b52f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f6391de61647
   extension: jpg
