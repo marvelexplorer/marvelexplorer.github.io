@@ -1,12 +1,12 @@
 ---
-date: '2012-06-13T00:00:00-0400'
-year: '2012'
-title: 'Amazing Spider-Man (1999) #687'
-issue: 687
+date: '1995-02-10T00:00:00-0500'
+year: '1995'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #221'
+issue: 221
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/40113/amazing_spider-man_1999_687?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14678/peter_parker_the_spectacular_spider-man_1976_221?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4fce48531631d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/50b3ea5350ee1
   extension: jpg
