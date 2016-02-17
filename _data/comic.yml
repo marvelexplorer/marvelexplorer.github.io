@@ -1,12 +1,12 @@
 ---
-date: '2008-07-30T00:00:00-0400'
-year: '2008'
-title: 'Thor (2007) #10'
-issue: 10
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Black Panther (1998) #47'
+issue: 47
 series:
-  period: '2007'
-  name: Thor
-url: http://marvel.com/comics/issue/21518/thor_2007_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Black Panther
+url: http://marvel.com/comics/issue/12616/black_panther_1998_47?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4d24f2aed1047
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc34a79ca0e5
   extension: jpg
