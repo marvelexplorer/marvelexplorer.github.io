@@ -1,12 +1,12 @@
 ---
-date: '2003-05-10T00:00:00-0400'
-year: '2003'
-title: 'X-Statix (2002) #9'
-issue: 9
+date: '2013-03-06T00:00:00-0500'
+year: '2013'
+title: 'A+X (2012) #5'
+issue: 5
 series:
-  period: '2002'
-  name: X-Statix
-url: http://marvel.com/comics/issue/13421/x-statix_2002_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: A+X
+url: http://marvel.com/comics/issue/43504/ax_2012_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc46cda9dc10
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/56afc50b07838
   extension: jpg
