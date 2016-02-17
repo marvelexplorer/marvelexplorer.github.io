@@ -1,12 +1,12 @@
 ---
-date: '2007-01-10T00:00:00-0500'
-year: '2007'
-title: 'New X-Men (2004) #34'
-issue: 34
+date: '2003-05-10T00:00:00-0400'
+year: '2003'
+title: 'X-Statix (2002) #9'
+issue: 9
 series:
-  period: '2004'
-  name: New X-Men
-url: http://marvel.com/comics/issue/5809/new_x-men_2004_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: X-Statix
+url: http://marvel.com/comics/issue/13421/x-statix_2002_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc5ae841b8ec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc46cda9dc10
   extension: jpg
