@@ -1,12 +1,12 @@
 ---
-date: '1990-08-01T00:00:00-0400'
-year: '1990'
-title: 'Wolverine (1988) #28'
-issue: 28
+date: '1979-01-10T00:00:00-0500'
+year: '1979'
+title: 'Fantastic Four (1961) #202'
+issue: 202
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14146/wolverine_1988_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13009/fantastic_four_1961_202?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb85a7c74c7b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/51a90ac4319fd
   extension: jpg
