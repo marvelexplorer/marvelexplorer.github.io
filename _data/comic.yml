@@ -1,12 +1,12 @@
 ---
-date: '2011-09-07T00:00:00-0400'
-year: '2011'
-title: 'X-23 (2010) #14'
-issue: 14
+date: '2007-01-10T00:00:00-0500'
+year: '2007'
+title: 'New X-Men (2004) #34'
+issue: 34
 series:
-  period: '2010'
-  name: X-23
-url: http://marvel.com/comics/issue/36461/x-23_2010_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New X-Men
+url: http://marvel.com/comics/issue/5809/new_x-men_2004_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/51eeb255aa457
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc5ae841b8ec
   extension: jpg
