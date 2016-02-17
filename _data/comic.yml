@@ -1,12 +1,12 @@
 ---
-date: '1976-07-10T00:00:00-0400'
-year: '1976'
-title: 'Amazing Spider-Man (1963) #158'
-issue: 158
+date: '1987-02-10T00:00:00-0500'
+year: '1987'
+title: 'Amazing Spider-Man (1963) #285'
+issue: 285
 series:
   period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6547/amazing_spider-man_1963_158?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6688/amazing_spider-man_1963_285?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/51fc21b562c84
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/536bcb1267d94
   extension: jpg
