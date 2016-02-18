@@ -1,12 +1,12 @@
 ---
-date: '2004-11-24T00:00:00-0500'
-year: '2004'
-title: 'Wolverine: The End (2003) #6'
-issue: 6
+date: '1972-01-10T00:00:00-0500'
+year: '1972'
+title: 'Iron Man (1968) #44'
+issue: 44
 series:
-  period: '2003'
-  name: 'Wolverine: The End'
-url: http://marvel.com/comics/issue/904/wolverine_the_end_2003_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9598/iron_man_1968_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/51e4441dad6ae
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f636fb75627e
   extension: jpg
