@@ -1,9 +1,10 @@
 ---
-name: Super-Skrull
-description: After the Fantastic Four stopped the Skrulls' attempted invasion of Earth,
-  Skrull Emperor Dorrek invested vast resources into creating a superbeing of his
-  own.
-url: http://marvel.com/universe/Super-Skrull?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Star-Lord (Peter Quill)
+description: Refusing to miss his opportunity, Peter Jason Quill stole a scoutship
+  from Cape Canaveral, returned to Eve, and shot his way to the appointed spot, where
+  his old rival Harrelson, NASA's choice to be Star-Lord, was awaiting selection,
+  where Quill was transported away in his stead, and transformed into Star-Lord.
+url: http://marvel.com/universe/Star-Lord_(Peter_Quill)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/537bc55e8b1f5
   extension: jpg
