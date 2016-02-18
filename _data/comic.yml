@@ -1,12 +1,12 @@
 ---
-date: '1997-01-10T00:00:00-0500'
-year: '1997'
-title: 'Deadpool (1997) #1'
-issue: 1
+date: '1988-09-30T00:00:00-0400'
+year: '1988'
+title: 'Marvel Comics Presents (1988) #3'
+issue: 3
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8462/deadpool_1997_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10108/marvel_comics_presents_1988_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4f20226fb8142
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bb68ac567144
   extension: jpg
