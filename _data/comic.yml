@@ -1,12 +1,12 @@
 ---
-date: '2013-03-27T00:00:00-0400'
-year: '2013'
-title: 'Guardians of the Galaxy (2013) #1'
-issue: 1
+date: '1975-07-10T00:00:00-0400'
+year: '1975'
+title: 'Giant-Size Defenders (1974) #5'
+issue: 5
 series:
-  period: '2013'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/43305/guardians_of_the_galaxy_2013_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1974'
+  name: Giant-Size Defenders
+url: http://marvel.com/comics/issue/20030/giant-size_defenders_1974_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/51509e389e792
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/50adc3d2aac83
   extension: jpg
