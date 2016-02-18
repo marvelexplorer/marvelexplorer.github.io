@@ -1,12 +1,12 @@
 ---
-date: '1972-01-10T00:00:00-0500'
-year: '1972'
-title: 'Iron Man (1968) #44'
-issue: 44
+date: '2011-01-05T00:00:00-0500'
+year: '2011'
+title: 'Ant-Man & the Wasp (2010) #3'
+issue: 3
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9598/iron_man_1968_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Ant-Man & the Wasp
+url: http://marvel.com/comics/issue/36763/ant-man_the_wasp_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f636fb75627e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4cb6131d47098
   extension: jpg
