@@ -1,12 +1,12 @@
 ---
-date: '2004-12-01T00:00:00-0500'
+date: '2004-06-16T00:00:00-0400'
 year: '2004'
-title: 'New Avengers (2004) #1'
-issue: 1
+title: 'Wolverine (2003) #16'
+issue: 16
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/40/new_avengers_2004_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/718/wolverine_2003_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/5149eb485fbf8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/51ed62ee00b6c
   extension: jpg
