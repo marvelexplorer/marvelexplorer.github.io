@@ -1,12 +1,12 @@
 ---
-date: '2006-02-01T00:00:00-0500'
-year: '2006'
-title: 'Captain America (2004) #14'
-issue: 14
+date: '1974-05-10T00:00:00-0400'
+year: '1974'
+title: 'Captain America (1968) #173'
+issue: 173
 series:
-  period: '2004'
+  period: '1968'
   name: Captain America
-url: http://marvel.com/comics/issue/3188/captain_america_2004_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7554/captain_america_1968_173?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bc60f02bc3bd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb6f9425e24b
   extension: jpg
