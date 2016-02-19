@@ -1,12 +1,12 @@
 ---
-date: '2004-11-03T00:00:00-0500'
-year: '2004'
-title: 'Astonishing X-Men (2004) #6'
-issue: 6
+date: '1996-09-01T00:00:00-0400'
+year: '1996'
+title: 'Excalibur (1988) #101'
+issue: 101
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/927/astonishing_x-men_2004_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Excalibur
+url: http://marvel.com/comics/issue/8565/excalibur_1988_101?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/51968134e1764
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/55b0017fe1186
   extension: jpg
