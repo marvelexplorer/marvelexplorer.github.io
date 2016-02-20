@@ -1,8 +1,9 @@
 ---
-name: Storm
-description: Ororo Monroe is the descendant of an ancient line of African priestesses,
-  all of whom have white hair, blue eyes, and the potential to wield magic.
-url: http://marvel.com/universe/Storm?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: X-Man
+description: A clone of Nathan Summers (Cable), Nate Grey was created in the "Age
+  of Apocalypse" timeline by that timeline's Mr. Sinister for the sole purpose of
+  destroying Apocalypse.
+url: http://marvel.com/universe/X-Man?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/526963dad214d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/535febd73f84f
   extension: jpg
