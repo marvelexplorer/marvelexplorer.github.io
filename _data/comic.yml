@@ -1,12 +1,12 @@
 ---
-date: '2003-01-01T00:00:00-0500'
-year: '2003'
-title: 'Avengers Icons: Vision (2002) #4'
-issue: 4
+date: '1995-05-10T00:00:00-0400'
+year: '1995'
+title: 'Fantastic Four (1961) #400'
+issue: 400
 series:
-  period: '2002'
-  name: 'Avengers Icons: Vision'
-url: http://marvel.com/comics/issue/6950/avengers_icons_vision_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13229/fantastic_four_1961_400?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc47c704f5a5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/52615caf64a9e
   extension: jpg
