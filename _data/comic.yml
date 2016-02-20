@@ -1,12 +1,12 @@
 ---
-date: '1995-02-10T00:00:00-0500'
-year: '1995'
-title: 'Uncanny X-Men (1963) #321'
-issue: 321
+date: '2009-11-11T00:00:00-0500'
+year: '2009'
+title: 'Dark X-Men (2009) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13862/uncanny_x-men_1963_321?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Dark X-Men
+url: http://marvel.com/comics/issue/28687/dark_x-men_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5111512c03575
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bae63eec6974
   extension: jpg
