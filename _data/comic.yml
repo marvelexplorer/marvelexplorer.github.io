@@ -1,12 +1,12 @@
 ---
-date: '2007-07-25T00:00:00-0400'
-year: '2007'
-title: 'Onslaught Reborn (2006) #4'
-issue: 4
+date: '1999-08-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers (1998) #19'
+issue: 19
 series:
-  period: '2006'
-  name: Onslaught Reborn
-url: http://marvel.com/comics/issue/5956/onslaught_reborn_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17500/avengers_1998_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/4bc3572e49895
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50b3b5321c339
   extension: jpg
