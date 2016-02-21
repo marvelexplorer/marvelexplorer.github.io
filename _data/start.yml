@@ -1,9 +1,10 @@
 ---
-name: Vision
-description: The metal monstrosity called Ultron created the synthetic humanoid known
-  as the Vision from the remains of the original android Human Torch of the 1940s
-  to serve as a vehicle of vengeance against the Avengers.
-url: http://marvel.com/universe/Vision_(Victor_Shade)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Spider-Man
+description: Bitten by a radioactive spider, high school student Peter Parker gained
+  the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter
+  hoped to start a career using his new abilities. Taught that with great power comes
+  great responsibility, Spidey has vowed to use his powers to help people.
+url: http://marvel.com/universe/Spider-Man_(Peter_Parker)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b
   extension: jpg
