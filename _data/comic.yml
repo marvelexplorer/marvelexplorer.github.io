@@ -1,12 +1,12 @@
 ---
-date: '2007-09-06T00:00:00-0400'
-year: '2007'
-title: 'Ms. Marvel (2006) #19'
-issue: 19
+date: '2000-01-10T00:00:00-0500'
+year: '2000'
+title: 'Iron Man (1998) #24'
+issue: 24
 series:
-  period: '2006'
-  name: Ms. Marvel
-url: http://marvel.com/comics/issue/16496/ms_marvel_2006_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19896/iron_man_1998_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/4bc399a349975
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/50b3af37f3ffa
   extension: jpg
