@@ -1,12 +1,12 @@
 ---
-date: '2001-06-01T00:00:00-0400'
-year: '2001'
-title: 'Marvel Knights (2000) #12'
-issue: 12
+date: '2011-08-24T00:00:00-0400'
+year: '2011'
+title: 'Daken: Dark Wolverine (2010) #13'
+issue: 13
 series:
-  period: '2000'
-  name: Marvel Knights
-url: http://marvel.com/comics/issue/16058/marvel_knights_2000_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Daken: Dark Wolverine'
+url: http://marvel.com/comics/issue/36477/daken_dark_wolverine_2010_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/4bc36a22c0fdd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4e4ec2ac5f99d
   extension: jpg
