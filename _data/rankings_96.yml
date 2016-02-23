@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 9
+  score: 10
 - name: Wolverine
   score: 5
-- name: Colossus
-  score: 4
 - name: Captain America
   score: 4
 - name: Spider-Man
+  score: 4
+- name: Cyclops
   score: 4
