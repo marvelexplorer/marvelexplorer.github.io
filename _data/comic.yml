@@ -1,12 +1,12 @@
 ---
-date: '2010-06-16T00:00:00-0400'
+date: '2010-03-03T00:00:00-0500'
 year: '2010'
-title: 'Web of Spider-Man (2009) #9'
-issue: 9
+title: 'Amazing Spider-Man (1999) #623'
+issue: 623
 series:
-  period: '2009'
-  name: Web of Spider-Man
-url: http://marvel.com/comics/issue/31670/web_of_spider-man_2009_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30298/amazing_spider-man_1999_623?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/55cccf188d68e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/4e84ca493d89c
   extension: jpg
