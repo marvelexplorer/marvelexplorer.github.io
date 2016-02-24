@@ -1,12 +1,12 @@
 ---
-date: '1989-11-10T00:00:00-0500'
-year: '1989'
-title: 'Captain America (1968) #361'
-issue: 361
+date: '2012-01-18T00:00:00-0500'
+year: '2012'
+title: 'Fear Itself: The Fearless (2011) #7'
+issue: 7
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7742/captain_america_1968_361?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Fear Itself: The Fearless'
+url: http://marvel.com/comics/issue/39952/fear_itself_the_fearless_2011_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4f2071fb51f8b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5644e2be9fd82
   extension: jpg
