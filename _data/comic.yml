@@ -1,12 +1,12 @@
 ---
-date: '2002-10-01T00:00:00-0400'
-year: '2002'
-title: 'Weapon X: The Draft - Wild Child (2002) #1'
-issue: 1
+date: '1987-10-10T00:00:00-0400'
+year: '1987'
+title: 'Uncanny X-Men (1963) #222'
+issue: 222
 series:
-  period: '2002'
-  name: 'Weapon X: The Draft - Wild Child'
-url: http://marvel.com/comics/issue/18412/weapon_x_the_draft_-_wild_child_2002_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13763/uncanny_x-men_1963_222?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4c361ed768ee5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/50/51141a92ac61a
   extension: jpg
