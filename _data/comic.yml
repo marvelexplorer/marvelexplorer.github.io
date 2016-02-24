@@ -1,12 +1,12 @@
 ---
-date: '2002-02-01T00:00:00-0500'
-year: '2002'
-title: 'X-Treme X-Men: The Savage Land (2001) #4'
-issue: 4
+date: '1980-12-10T00:00:00-0500'
+year: '1980'
+title: 'Marvel Team-Up (1972) #100'
+issue: 100
 series:
-  period: '2001'
-  name: 'X-Treme X-Men: The Savage Land'
-url: http://marvel.com/comics/issue/12397/x-treme_x-men_the_savage_land_2001_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1972'
+  name: Marvel Team-Up
+url: http://marvel.com/comics/issue/19577/marvel_team-up_1972_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc46cc689925
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4c7d470d2b7a6
   extension: jpg
