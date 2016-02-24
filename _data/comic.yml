@@ -1,12 +1,12 @@
 ---
-date: '1940-11-01T00:00:00-0500'
-year: '1940'
-title: 'Marvel Mystery Comics (1939) #13'
-issue: 13
+date: '2009-03-25T00:00:00-0400'
+year: '2009'
+title: 'Mighty Avengers (2007) #23'
+issue: 23
 series:
-  period: '1939'
-  name: Marvel Mystery Comics
-url: http://marvel.com/comics/issue/16718/marvel_mystery_comics_1939_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/23762/mighty_avengers_2007_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/50ae1e8b06944
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4f7c8ff521376
   extension: jpg
