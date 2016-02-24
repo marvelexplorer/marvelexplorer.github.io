@@ -1,12 +1,12 @@
 ---
-date: '1987-11-10T00:00:00-0500'
-year: '1987'
-title: 'Avengers (1963) #285'
-issue: 285
+date: '1968-09-10T00:00:00-0400'
+year: '1968'
+title: 'Avengers Annual (1967) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7158/avengers_1963_285?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Avengers Annual
+url: http://marvel.com/comics/issue/6934/avengers_annual_1967_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4e95e44121c65
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/4f6758b134276
   extension: jpg
