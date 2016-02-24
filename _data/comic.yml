@@ -1,12 +1,12 @@
 ---
-date: '1980-12-10T00:00:00-0500'
-year: '1980'
-title: 'Marvel Team-Up (1972) #100'
-issue: 100
+date: '1942-04-10T00:00:00-0400'
+year: '1942'
+title: 'Human Torch (1940) #7'
+issue: 7
 series:
-  period: '1972'
-  name: Marvel Team-Up
-url: http://marvel.com/comics/issue/19577/marvel_team-up_1972_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1940'
+  name: Human Torch
+url: http://marvel.com/comics/issue/8903/human_torch_1940_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4c7d470d2b7a6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bb68a0f07d39
   extension: jpg
