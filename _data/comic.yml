@@ -1,12 +1,12 @@
 ---
-date: '2008-02-20T00:00:00-0500'
-year: '2008'
-title: 'Mighty Avengers (2007) #9'
-issue: 9
+date: '2007-12-28T00:00:00-0500'
+year: '2007'
+title: 'Giant-Size Avengers Special (2007) #1'
+issue: 1
 series:
   period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/20670/mighty_avengers_2007_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Giant-Size Avengers Special
+url: http://marvel.com/comics/issue/17392/giant-size_avengers_special_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4d24e7258c557
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7afd3a196e8
   extension: jpg
