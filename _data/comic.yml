@@ -1,12 +1,12 @@
 ---
-date: '2008-07-30T00:00:00-0400'
-year: '2008'
-title: 'Wolverine (2003) #67'
-issue: 67
+date: '2004-02-25T00:00:00-0500'
+year: '2004'
+title: 'Wolverine/Captain America (2004) #4'
+issue: 4
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/21508/wolverine_2003_67?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Wolverine/Captain America
+url: http://marvel.com/comics/issue/228/wolverinecaptain_america_2004_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4d24faea360de
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4bc6a5c893f79
   extension: jpg
