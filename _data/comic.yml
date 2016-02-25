@@ -1,12 +1,12 @@
 ---
-date: '1985-07-10T00:00:00-0400'
-year: '1985'
-title: 'Secret Wars II (1985) #1'
-issue: 1
+date: '2011-05-11T00:00:00-0400'
+year: '2011'
+title: 'New Mutants (2009) #25'
+issue: 25
 series:
-  period: '1985'
-  name: Secret Wars II
-url: http://marvel.com/comics/issue/18884/secret_wars_ii_1985_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: New Mutants
+url: http://marvel.com/comics/issue/36501/new_mutants_2009_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bb5cd6eade31
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/5155cdfdc24bd
   extension: jpg
