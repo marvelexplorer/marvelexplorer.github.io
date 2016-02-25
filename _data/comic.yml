@@ -1,12 +1,12 @@
 ---
-date: '2004-02-25T00:00:00-0500'
-year: '2004'
-title: 'Wolverine/Captain America (2004) #4'
-issue: 4
+date: '1967-03-10T00:00:00-0500'
+year: '1967'
+title: 'Tales of Suspense (1959) #87'
+issue: 87
 series:
-  period: '2004'
-  name: Wolverine/Captain America
-url: http://marvel.com/comics/issue/228/wolverinecaptain_america_2004_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11333/tales_of_suspense_1959_87?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4bc6a5c893f79
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/536d477e852b9
   extension: jpg
