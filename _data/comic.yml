@@ -1,12 +1,12 @@
 ---
-date: '2009-04-01T00:00:00-0400'
-year: '2009'
-title: 'Secret Warriors (2008) #3'
-issue: 3
+date: '1999-12-01T00:00:00-0500'
+year: '1999'
+title: 'Earth X (1999) #9'
+issue: 9
 series:
-  period: '2008'
-  name: Secret Warriors
-url: http://marvel.com/comics/issue/24002/secret_warriors_2008_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8559/earth_x_1999_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f676d1aa5b73
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb7c18d95c43
   extension: jpg
