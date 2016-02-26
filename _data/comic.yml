@@ -1,12 +1,12 @@
 ---
-date: '2005-03-02T00:00:00-0500'
-year: '2005'
-title: 'X-Men/Fantastic Four (2004) #4'
-issue: 4
+date: '1994-11-01T00:00:00-0500'
+year: '1994'
+title: 'X-Factor (1986) #108'
+issue: 108
 series:
-  period: '2004'
-  name: X-Men/Fantastic Four
-url: http://marvel.com/comics/issue/1727/x-menfantastic_four_2004_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12184/x-factor_1986_108?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/53518d56f020c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/53f4f00835f8d
   extension: jpg
