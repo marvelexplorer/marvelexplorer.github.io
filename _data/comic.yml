@@ -1,12 +1,12 @@
 ---
-date: '2001-09-01T00:00:00-0400'
-year: '2001'
-title: 'X-Treme X-Men (2001) #3'
-issue: 3
+date: '2000-12-01T00:00:00-0500'
+year: '2000'
+title: 'Uncanny X-Men (1963) #388'
+issue: 388
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15033/x-treme_x-men_2001_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13929/uncanny_x-men_1963_388?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc3238309c1a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c7d48f4c1660
   extension: jpg
