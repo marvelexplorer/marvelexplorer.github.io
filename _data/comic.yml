@@ -1,12 +1,12 @@
 ---
-date: '1993-11-01T00:00:00-0500'
-year: '1993'
-title: 'X-Men (1991) #26'
-issue: 26
+date: '2007-06-20T00:00:00-0400'
+year: '2007'
+title: 'Incredible Hulk (1999) #107'
+issue: 107
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14313/x-men_1991_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/15807/incredible_hulk_1999_107?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5580456b6e0d4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f6782b54a1d4
   extension: jpg
