@@ -1,7 +1,8 @@
 ---
-name: Beta-Ray Bill
-description: ''
-url: http://marvel.com/universe/Beta_Ray_Bill?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Iron Patriot (James Rhodes)
+description: U.S. Air Force pilot and Tony Stark's friend who has his own suit of
+  Iron Man armor, nicknamed, "War Machine."
+url: http://marvel.com/universe/War_Machine_(James_Rhodes)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/52602f3e88d25
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/526035f38cd5d
   extension: jpg
