@@ -1,12 +1,12 @@
 ---
-date: '1981-02-10T00:00:00-0500'
-year: '1981'
-title: 'Avengers (1963) #204'
-issue: 204
+date: '2000-05-01T00:00:00-0400'
+year: '2000'
+title: 'Thor (1998) #23'
+issue: 23
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7069/avengers_1963_204?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/18646/thor_1998_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/51ed8612e9c16
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f203ff82c2ef
   extension: jpg
