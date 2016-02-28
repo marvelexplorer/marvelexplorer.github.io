@@ -1,12 +1,12 @@
 ---
-date: '2000-05-01T00:00:00-0400'
-year: '2000'
-title: 'Thor (1998) #23'
-issue: 23
+date: '1977-02-10T00:00:00-0500'
+year: '1977'
+title: 'Ms. Marvel (1977) #2'
+issue: 2
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18646/thor_1998_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/10298/ms_marvel_1977_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f203ff82c2ef
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc4689e41c5b
   extension: jpg
