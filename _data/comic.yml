@@ -1,12 +1,12 @@
 ---
-date: '1994-12-10T00:00:00-0500'
-year: '1994'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #219'
-issue: 219
+date: '1991-11-01T00:00:00-0500'
+year: '1991'
+title: 'Fantastic Four (1961) #358'
+issue: 358
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14675/peter_parker_the_spectacular_spider-man_1976_219?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13181/fantastic_four_1961_358?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/50b3ec2419f28
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4f564dfb11e9b
   extension: jpg
