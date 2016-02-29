@@ -1,12 +1,12 @@
 ---
-date: '1999-05-10T00:00:00-0400'
-year: '1999'
-title: 'Avengers (1998) #16'
-issue: 16
+date: '1983-06-10T00:00:00-0400'
+year: '1983'
+title: 'Avengers (1963) #232'
+issue: 232
 series:
-  period: '1998'
+  period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/17497/avengers_1998_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7100/avengers_1963_232?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4bb6b7bee98ad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4d4c2ec93356e
   extension: jpg
