@@ -1,12 +1,12 @@
 ---
-date: '1974-02-10T00:00:00-0400'
-year: '1974'
-title: 'Iron Man (1968) #66'
-issue: 66
+date: '2012-06-20T00:00:00-0400'
+year: '2012'
+title: 'New Avengers (2010) #27'
+issue: 27
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9622/iron_man_1968_66?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/40740/new_avengers_2010_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f636a29ddb81
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/517ae83ba9996
   extension: jpg
