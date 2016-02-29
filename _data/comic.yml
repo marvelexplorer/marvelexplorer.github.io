@@ -1,12 +1,12 @@
 ---
-date: '1989-12-20T00:00:00-0500'
-year: '1989'
-title: 'Thor (1966) #412'
-issue: 412
+date: '2000-05-01T00:00:00-0400'
+year: '2000'
+title: 'Iron Man (1998) #28'
+issue: 28
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11740/thor_1966_412?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19900/iron_man_1998_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/50ad251266a6e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/50b3ac36d285e
   extension: jpg
