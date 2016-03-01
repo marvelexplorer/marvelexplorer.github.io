@@ -1,12 +1,12 @@
 ---
-date: '2011-12-28T00:00:00-0500'
-year: '2011'
-title: 'X-Men Legacy (2008) #260'
-issue: 260
+date: '2012-04-18T00:00:00-0400'
+year: '2012'
+title: 'Avengers Vs. X-Men (2012) #2'
+issue: 2
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/38084/x-men_legacy_2008_260?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Avengers Vs. X-Men
+url: http://marvel.com/comics/issue/41191/avengers_vs_x-men_2012_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/51a4e6e7bb564
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/515f1a2cbc874
   extension: jpg
