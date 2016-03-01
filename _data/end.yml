@@ -1,7 +1,8 @@
 ---
-name: Hawkeye
-description: ''
-url: http://marvel.com/universe/Hawkeye_(Clint_Barton)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Mary Jane Watson
+description: Mary Jane Watson was the guiding light in Peter Parker's life, and their
+  love had overcome countless obstacles.
+url: http://marvel.com/universe/Watson,_Mary_Jane?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/50fecaf4f101b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/528d33d000749
   extension: jpg
