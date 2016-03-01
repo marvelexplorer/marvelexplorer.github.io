@@ -1,12 +1,12 @@
 ---
-date: '2002-03-01T00:00:00-0500'
-year: '2002'
-title: 'Black Panther (1998) #40'
-issue: 40
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'Paradise X (2002) #10'
+issue: 10
 series:
-  period: '1998'
-  name: Black Panther
-url: http://marvel.com/comics/issue/12609/black_panther_1998_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10494/paradise_x_2002_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc34c693f278
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c36060ccbc56
   extension: jpg
