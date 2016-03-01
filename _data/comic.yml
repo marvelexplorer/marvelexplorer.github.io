@@ -1,12 +1,12 @@
 ---
-date: '2003-06-01T00:00:00-0400'
-year: '2003'
-title: 'Paradise X (2002) #10'
-issue: 10
+date: '2007-10-17T00:00:00-0400'
+year: '2007'
+title: 'Marvel Adventures the Avengers (2006) #17'
+issue: 17
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10494/paradise_x_2002_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/16512/marvel_adventures_the_avengers_2006_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c36060ccbc56
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f63934c46d3e
   extension: jpg
