@@ -1,12 +1,12 @@
 ---
-date: '2012-02-01T00:00:00-0500'
+date: '2012-02-22T00:00:00-0500'
 year: '2012'
-title: 'Avengers: X-Sanction (2011) #3'
-issue: 3
+title: 'Venom (2011) #13.3'
+issue: 13.3
 series:
   period: '2011'
-  name: 'Avengers: X-Sanction'
-url: http://marvel.com/comics/issue/39770/avengers_x-sanction_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Venom
+url: http://marvel.com/comics/issue/42662/venom_2011_13.3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f26cb4f496a9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/50b4fcbc2f2f9
   extension: jpg
