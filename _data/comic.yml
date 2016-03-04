@@ -1,12 +1,12 @@
 ---
-date: '1984-01-10T00:00:00-0500'
-year: '1984'
-title: 'Avengers (1963) #239'
-issue: 239
+date: '1971-01-10T00:00:00-0500'
+year: '1971'
+title: 'Amazing Adventures (1970) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7107/avengers_1963_239?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1970'
+  name: Amazing Adventures
+url: http://marvel.com/comics/issue/23278/amazing_adventures_1970_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/d0/4d4c2f8788796
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/40/50b43a0d3fc1c
   extension: jpg
