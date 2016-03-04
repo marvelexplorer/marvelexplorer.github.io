@@ -1,12 +1,12 @@
 ---
-date: '2001-09-01T00:00:00-0400'
-year: '2001'
-title: 'New X-Men (2001) #116'
-issue: 116
+date: '1984-01-10T00:00:00-0500'
+year: '1984'
+title: 'Avengers (1963) #239'
+issue: 239
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14935/new_x-men_2001_116?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7107/avengers_1963_239?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c35efa48c052
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/d0/4d4c2f8788796
   extension: jpg
