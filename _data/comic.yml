@@ -1,12 +1,12 @@
 ---
-date: '2000-02-10T00:00:00-0500'
-year: '2000'
-title: 'Captain America (1998) #26'
-issue: 26
+date: '2006-07-05T00:00:00-0400'
+year: '2006'
+title: 'The Thing (2005) #8'
+issue: 8
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12785/captain_america_1998_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: The Thing
+url: http://marvel.com/comics/issue/4272/the_thing_2005_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4e8b1feea9f9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/40/4bc5e41d01db0
   extension: jpg
