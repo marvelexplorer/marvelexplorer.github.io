@@ -1,12 +1,12 @@
 ---
-date: '2010-12-15T00:00:00-0500'
-year: '2010'
-title: 'Avengers Academy (2010) #7'
-issue: 7
+date: '2001-02-10T00:00:00-0500'
+year: '2001'
+title: 'Avengers (1998) #37'
+issue: 37
 series:
-  period: '2010'
-  name: Avengers Academy
-url: http://marvel.com/comics/issue/29222/avengers_academy_2010_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17520/avengers_1998_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/90/51cca6c6013fb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c362a6f5670e
   extension: jpg
