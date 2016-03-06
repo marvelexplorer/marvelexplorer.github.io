@@ -1,12 +1,12 @@
 ---
-date: '2011-03-30T00:00:00-0400'
-year: '2011'
-title: 'Secret Avengers (2010) #11'
-issue: 11
+date: '2008-12-17T00:00:00-0500'
+year: '2008'
+title: 'Avengers: The Initiative (2007) #19'
+issue: 19
 series:
-  period: '2010'
-  name: Secret Avengers
-url: http://marvel.com/comics/issue/29091/secret_avengers_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/22506/avengers_the_initiative_2007_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/03/51897326f40b0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/4e94a888dd6b6
   extension: jpg
