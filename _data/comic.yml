@@ -1,12 +1,12 @@
 ---
-date: '1999-06-01T00:00:00-0400'
-year: '1999'
-title: 'Daredevil (1998) #8'
-issue: 8
+date: '1980-08-10T00:00:00-0400'
+year: '1980'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #45'
+issue: 45
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/15686/daredevil_1998_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14745/peter_parker_the_spectacular_spider-man_1976_45?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/5632725b24f94
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bae47b121f4a
   extension: jpg
