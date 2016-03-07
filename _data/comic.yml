@@ -1,12 +1,12 @@
 ---
-date: '1999-03-10T00:00:00-0500'
-year: '1999'
-title: 'Uncanny X-Men (1963) #366'
-issue: 366
+date: '1985-03-10T00:00:00-0500'
+year: '1985'
+title: 'Secret Wars (1984) #11'
+issue: 11
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13907/uncanny_x-men_1963_366?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10582/secret_wars_1984_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc46a811af98
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f68cb3003fe7
   extension: jpg
