@@ -1,12 +1,12 @@
 ---
-date: '1993-10-10T00:00:00-0400'
-year: '1993'
-title: 'Daredevil: The Man Without Fear (1993) #1'
+date: '2010-12-02T00:00:00-0500'
+year: '2010'
+title: 'Heroes for Hire (2010) #1'
 issue: 1
 series:
-  period: '1993'
-  name: 'Daredevil: The Man Without Fear'
-url: http://marvel.com/comics/issue/20750/daredevil_the_man_without_fear_1993_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Heroes for Hire
+url: http://marvel.com/comics/issue/37189/heroes_for_hire_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bb866d34e627
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/51882419862ca
   extension: jpg
