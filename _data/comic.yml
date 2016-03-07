@@ -1,12 +1,12 @@
 ---
-date: '1999-03-10T00:00:00-0500'
-year: '1999'
-title: 'Captain America (1998) #15'
-issue: 15
+date: '1995-06-10T00:00:00-0400'
+year: '1995'
+title: 'Avengers (1963) #387'
+issue: 387
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12773/captain_america_1998_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7271/avengers_1963_387?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4e84bc54bb015
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5214f5be90e8b
   extension: jpg
