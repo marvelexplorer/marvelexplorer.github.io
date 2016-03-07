@@ -1,12 +1,12 @@
 ---
-date: '1980-08-10T00:00:00-0400'
-year: '1980'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #45'
-issue: 45
+date: '2010-09-29T00:00:00-0400'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #644'
+issue: 644
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14745/peter_parker_the_spectacular_spider-man_1976_45?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30319/amazing_spider-man_1999_644?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bae47b121f4a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4e85fa1a987af
   extension: jpg
