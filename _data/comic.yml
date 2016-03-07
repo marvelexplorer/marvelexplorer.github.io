@@ -1,12 +1,12 @@
 ---
-date: '2008-07-16T00:00:00-0400'
-year: '2008'
-title: 'Mighty Avengers (2007) #16'
-issue: 16
+date: '1993-10-10T00:00:00-0400'
+year: '1993'
+title: 'Daredevil: The Man Without Fear (1993) #1'
+issue: 1
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/21537/mighty_avengers_2007_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: 'Daredevil: The Man Without Fear'
+url: http://marvel.com/comics/issue/20750/daredevil_the_man_without_fear_1993_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4d24fc7a0105e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bb866d34e627
   extension: jpg
