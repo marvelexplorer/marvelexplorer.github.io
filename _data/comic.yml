@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
-year: '2011'
-title: 'Moon Knight (2010) #7'
-issue: 7
+date: '2009-04-01T00:00:00-0400'
+year: '2009'
+title: 'Amazing Spider-Man (1999) #590'
+issue: 590
 series:
-  period: '2010'
-  name: Moon Knight
-url: http://marvel.com/comics/issue/34025/moon_knight_2010_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/23928/amazing_spider-man_1999_590?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4eb0379a7f072
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4e8f02c6bf2e1
   extension: jpg
