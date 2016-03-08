@@ -1,12 +1,12 @@
 ---
-date: '1943-04-01T00:00:00-0400'
-year: '1943'
-title: 'All-Winners Comics (1941) #8'
-issue: 8
+date: '2006-12-13T00:00:00-0500'
+year: '2006'
+title: 'Fantastic Four: The End (2006) #3'
+issue: 3
 series:
-  period: '1941'
-  name: All-Winners Comics
-url: http://marvel.com/comics/issue/12573/all-winners_comics_1941_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'Fantastic Four: The End'
+url: http://marvel.com/comics/issue/5627/fantastic_four_the_end_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/4bc3785499f26
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/535195eba84ca
   extension: jpg
