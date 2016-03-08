@@ -1,12 +1,12 @@
 ---
-date: '2005-08-17T00:00:00-0400'
-year: '2005'
-title: 'Marvel Adventures Fantastic Four (2005) #3'
-issue: 3
+date: '2000-12-01T00:00:00-0500'
+year: '2000'
+title: 'Marvel Knights (2000) #6'
+issue: 6
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/2360/marvel_adventures_fantastic_four_2005_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Marvel Knights
+url: http://marvel.com/comics/issue/16066/marvel_knights_2000_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc6272a4db58
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/60/4bc36a03c46aa
   extension: jpg
