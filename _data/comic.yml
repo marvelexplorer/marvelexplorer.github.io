@@ -1,12 +1,12 @@
 ---
-date: '2007-11-07T00:00:00-0500'
-year: '2007'
-title: 'Fantastic Four (1998) #551'
-issue: 551
+date: '1987-10-10T00:00:00-0400'
+year: '1987'
+title: 'Fantastic Four (1961) #307'
+issue: 307
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/16445/fantastic_four_1998_551?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13125/fantastic_four_1961_307?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc390e96a4c9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/50ad487f5811e
   extension: jpg
