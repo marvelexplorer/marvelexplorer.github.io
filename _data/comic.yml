@@ -1,12 +1,12 @@
 ---
-date: '2006-12-13T00:00:00-0500'
-year: '2006'
-title: 'Fantastic Four: The End (2006) #3'
-issue: 3
+date: '2001-02-01T00:00:00-0500'
+year: '2001'
+title: 'Fantastic Four (1998) #38'
+issue: 38
 series:
-  period: '2006'
-  name: 'Fantastic Four: The End'
-url: http://marvel.com/comics/issue/5627/fantastic_four_the_end_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15558/fantastic_four_1998_38?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/535195eba84ca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/51f8333dbeeaf
   extension: jpg
