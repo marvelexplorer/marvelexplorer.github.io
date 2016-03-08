@@ -1,12 +1,12 @@
 ---
-date: '1999-12-10T00:00:00-0500'
-year: '1999'
-title: 'Daredevil (1998) #9'
-issue: 9
+date: '2011-11-02T00:00:00-0400'
+year: '2011'
+title: 'Moon Knight (2010) #7'
+issue: 7
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/15694/daredevil_1998_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Moon Knight
+url: http://marvel.com/comics/issue/34025/moon_knight_2010_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bb68ded5eb4c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4eb0379a7f072
   extension: jpg

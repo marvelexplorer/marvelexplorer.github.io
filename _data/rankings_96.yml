@@ -1,4 +1,6 @@
 ---
+- name: Daredevil
+  score: 5
 - name: Wasp
   score: 4
 - name: Captain America
@@ -6,6 +8,4 @@
 - name: Avengers
   score: 4
 - name: Thing
-  score: 4
-- name: Fantastic Four
   score: 4
