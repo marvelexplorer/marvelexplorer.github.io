@@ -1,12 +1,12 @@
 ---
-date: '2010-09-29T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man (1999) #644'
-issue: 644
+date: '2009-01-28T00:00:00-0500'
+year: '2009'
+title: 'Amazing Spider-Man: Extra! (2009) #2'
+issue: 2
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/30319/amazing_spider-man_1999_644?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: 'Amazing Spider-Man: Extra!'
+url: http://marvel.com/comics/issue/23180/amazing_spider-man_extra_2009_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4e85fa1a987af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/56d726c8a60bc
   extension: jpg
