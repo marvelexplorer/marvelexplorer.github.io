@@ -1,12 +1,12 @@
 ---
-date: '1991-03-20T00:00:00-0500'
-year: '1991'
-title: 'Marvel Comics Presents (1988) #72'
-issue: 72
+date: '1999-12-10T00:00:00-0500'
+year: '1999'
+title: 'Daredevil (1998) #9'
+issue: 9
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10155/marvel_comics_presents_1988_72?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15694/daredevil_1998_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/03/53514654b32b8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bb68ded5eb4c
   extension: jpg
