@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
-year: '2011'
-title: 'Avengers Origins: Ant-Man & the Wasp (2013) #1'
-issue: 1
+date: '1964-05-10T00:00:00-0400'
+year: '1964'
+title: 'Avengers (1963) #5'
+issue: 5
 series:
-  period: '2013'
-  name: 'Avengers Origins: Ant-Man & the Wasp'
-url: http://marvel.com/comics/issue/32680/avengers_origins_ant-man_the_wasp_2013_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7299/avengers_1963_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4eb00e5f7cbeb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/4e8f18e485558
   extension: jpg
