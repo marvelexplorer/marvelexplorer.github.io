@@ -1,12 +1,12 @@
 ---
-date: '2011-07-27T00:00:00-0400'
+date: '2011-03-16T00:00:00-0400'
 year: '2011'
-title: 'Amazing Spider-Man (1999) #666'
-issue: 666
+title: 'Amazing Spider-Man (1999) #656'
+issue: 656
 series:
   period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/35513/amazing_spider-man_1999_666?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/35520/amazing_spider-man_1999_656?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/4ea025aad26cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e984b83709ac
   extension: jpg
