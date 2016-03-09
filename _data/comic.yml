@@ -1,12 +1,12 @@
 ---
-date: '2009-01-28T00:00:00-0500'
-year: '2009'
-title: 'Wolverine: First Class (2008) #11'
-issue: 11
+date: '2002-07-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #54'
+issue: 54
 series:
-  period: '2008'
-  name: 'Wolverine: First Class'
-url: http://marvel.com/comics/issue/23138/wolverine_first_class_2008_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17539/avengers_1998_54?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb60596b440d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb6a9f60af41
   extension: jpg
