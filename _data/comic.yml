@@ -1,12 +1,12 @@
 ---
-date: '2011-01-19T00:00:00-0500'
-year: '2011'
-title: 'Invincible Iron Man (2008) #500'
-issue: 500
+date: '1991-12-01T00:00:00-0500'
+year: '1991'
+title: 'Iron Man (1968) #275'
+issue: 275
 series:
-  period: '2008'
-  name: Invincible Iron Man
-url: http://marvel.com/comics/issue/31527/invincible_iron_man_2008_500?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9522/iron_man_1968_275?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4f689c6d3cb42
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/4bb5bdfcf150a
   extension: jpg
