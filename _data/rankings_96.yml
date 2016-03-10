@@ -1,9 +1,9 @@
 ---
+- name: Hank Pym
+  score: 6
 - name: Daredevil
   score: 5
 - name: Wasp
-  score: 5
-- name: Hank Pym
   score: 5
 - name: Spider-Man
   score: 4
