@@ -1,12 +1,12 @@
 ---
-date: '2005-05-25T00:00:00-0400'
-year: '2005'
-title: 'New X-Men: Hellions (2005) #1'
-issue: 1
+date: '2011-04-27T00:00:00-0400'
+year: '2011'
+title: 'X-Men (2010) #10'
+issue: 10
 series:
-  period: '2005'
-  name: 'New X-Men: Hellions'
-url: http://marvel.com/comics/issue/1993/new_x-men_hellions_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/32187/x-men_2010_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc63a4d0d77f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/5159dfc12845c
   extension: jpg
