@@ -1,12 +1,12 @@
 ---
-date: '2007-06-13T00:00:00-0400'
-year: '2007'
-title: 'Avengers Classic (2007) #1'
+date: '2004-12-01T00:00:00-0500'
+year: '2004'
+title: 'New Avengers (2004) #1'
 issue: 1
 series:
-  period: '2007'
-  name: Avengers Classic
-url: http://marvel.com/comics/issue/15858/avengers_classic_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/40/new_avengers_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc49543209ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/5149eb485fbf8
   extension: jpg
