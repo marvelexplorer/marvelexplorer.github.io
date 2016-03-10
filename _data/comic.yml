@@ -1,12 +1,12 @@
 ---
-date: '2005-08-10T00:00:00-0400'
-year: '2005'
-title: 'Captain America (2004) #9'
-issue: 9
+date: '2004-12-29T00:00:00-0500'
+year: '2004'
+title: 'Captain America (2004) #2'
+issue: 2
 series:
   period: '2004'
   name: Captain America
-url: http://marvel.com/comics/issue/2308/captain_america_2004_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/1492/captain_america_2004_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/5140ba3f5e524
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/5140ad1091316
   extension: jpg
