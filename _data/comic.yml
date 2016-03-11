@@ -1,12 +1,12 @@
 ---
-date: '1992-04-01T00:00:00-0500'
-year: '1992'
-title: 'Iron Man (1968) #279'
-issue: 279
+date: '1999-11-01T00:00:00-0500'
+year: '1999'
+title: 'Uncanny X-Men (1963) #374'
+issue: 374
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9526/iron_man_1968_279?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13915/uncanny_x-men_1963_374?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4bb6e94656e7e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/50b51538e5f20
   extension: jpg
