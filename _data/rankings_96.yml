@@ -3,9 +3,9 @@
   score: 5
 - name: Captain America
   score: 5
-- name: Daredevil
-  score: 4
 - name: Spider-Man
   score: 4
 - name: Hank Pym
+  score: 4
+- name: Avengers
   score: 4
