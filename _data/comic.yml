@@ -1,12 +1,12 @@
 ---
-date: '2000-04-10T00:00:00-0400'
-year: '2000'
-title: 'Captain America (1998) #28'
-issue: 28
+date: '2011-07-06T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself (2010) #4'
+issue: 4
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12787/captain_america_1998_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Fear Itself
+url: http://marvel.com/comics/issue/38042/fear_itself_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/4e8b265983613
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/04/4f7af8b599bbc
   extension: jpg
