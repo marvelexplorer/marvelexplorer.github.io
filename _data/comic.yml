@@ -1,12 +1,12 @@
 ---
-date: '1991-02-10T00:00:00-0500'
-year: '1991'
-title: 'Uncanny X-Men (1963) #273'
-issue: 273
+date: '1990-06-10T00:00:00-0400'
+year: '1990'
+title: 'Marvel Comics Presents (1988) #51'
+issue: 51
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13814/uncanny_x-men_1963_273?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10132/marvel_comics_presents_1988_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c362eac1302a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc48134064f3
   extension: jpg
