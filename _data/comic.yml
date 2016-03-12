@@ -1,12 +1,12 @@
 ---
-date: '1990-06-10T00:00:00-0400'
-year: '1990'
-title: 'Marvel Comics Presents (1988) #51'
-issue: 51
+date: '1992-01-01T00:00:00-0500'
+year: '1992'
+title: 'Wolverine (1988) #50'
+issue: 50
 series:
   period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10132/marvel_comics_presents_1988_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Wolverine
+url: http://marvel.com/comics/issue/14171/wolverine_1988_50?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc48134064f3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bb79a8a6dbd4
   extension: jpg
