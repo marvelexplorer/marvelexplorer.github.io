@@ -1,12 +1,12 @@
 ---
-date: '2003-09-01T00:00:00-0400'
-year: '2003'
-title: 'New Mutants (2003) #3'
-issue: 3
+date: '1992-11-10T00:00:00-0500'
+year: '1992'
+title: 'X-Men (1991) #14'
+issue: 14
 series:
-  period: '2003'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10328/new_mutants_2003_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14300/x-men_1991_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc35fcc58343
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/558020d485a9f
   extension: jpg
