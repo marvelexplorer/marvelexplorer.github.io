@@ -1,12 +1,12 @@
 ---
-date: '2009-11-25T00:00:00-0500'
-year: '2009'
-title: 'Secret Warriors (2008) #10'
-issue: 10
+date: '1999-04-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers (1998) #15'
+issue: 15
 series:
-  period: '2008'
-  name: Secret Warriors
-url: http://marvel.com/comics/issue/26283/secret_warriors_2008_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17496/avengers_1998_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/4f67809f03e81
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4bb6ac8975385
   extension: jpg
