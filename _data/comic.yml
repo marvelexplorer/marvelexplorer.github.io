@@ -1,12 +1,12 @@
 ---
-date: '1968-03-10T00:00:00-0500'
-year: '1968'
-title: 'Marvel Super-Heroes (1967) #13'
-issue: 13
+date: '2007-02-21T00:00:00-0500'
+year: '2007'
+title: 'New Avengers: Illuminati (2006) #2'
+issue: 2
 series:
-  period: '1967'
-  name: Marvel Super-Heroes
-url: http://marvel.com/comics/issue/15424/marvel_super-heroes_1967_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'New Avengers: Illuminati'
+url: http://marvel.com/comics/issue/5864/new_avengers_illuminati_2006_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc33374dc05d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc5ac134709a
   extension: jpg
