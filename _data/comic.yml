@@ -1,12 +1,12 @@
 ---
-date: '1989-12-14T00:00:00-0500'
-year: '1989'
-title: 'Wolverine (1988) #19'
-issue: 19
+date: '2007-08-22T00:00:00-0400'
+year: '2007'
+title: 'Wolverine (2003) #56'
+issue: 56
 series:
-  period: '1988'
+  period: '2003'
   name: Wolverine
-url: http://marvel.com/comics/issue/14136/wolverine_1988_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/16112/wolverine_2003_56?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb79ddcb0578
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4d25183f5d9a6
   extension: jpg
