@@ -1,12 +1,12 @@
 ---
-date: '2007-02-21T00:00:00-0500'
+date: '2007-06-27T00:00:00-0400'
 year: '2007'
-title: 'New Avengers: Illuminati (2006) #2'
-issue: 2
+title: 'X-Men (2004) #200'
+issue: 200
 series:
-  period: '2006'
-  name: 'New Avengers: Illuminati'
-url: http://marvel.com/comics/issue/5864/new_avengers_illuminati_2006_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/15800/x-men_2004_200?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc5ac134709a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/4c36127211ba5
   extension: jpg
