@@ -1,12 +1,12 @@
 ---
-date: '1998-04-10T00:00:00-0400'
-year: '1998'
-title: 'Captain America (1998) #4'
-issue: 4
+date: '1983-06-10T00:00:00-0400'
+year: '1983'
+title: 'Avengers (1963) #232'
+issue: 232
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12800/captain_america_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7100/avengers_1963_232?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/e0/4e94730196175
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4d4c2ec93356e
   extension: jpg
