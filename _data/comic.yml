@@ -1,12 +1,12 @@
 ---
-date: '2002-12-10T00:00:00-0500'
-year: '2002'
-title: 'Spider-Man''s Tangled Web (2001) #19'
-issue: 19
+date: '1993-04-10T00:00:00-0400'
+year: '1993'
+title: 'Spider-Man 2099 (1992) #6'
+issue: 6
 series:
-  period: '2001'
-  name: Spider-Man's Tangled Web
-url: http://marvel.com/comics/issue/10920/spider-mans_tangled_web_2001_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1992'
+  name: Spider-Man 2099
+url: http://marvel.com/comics/issue/10907/spider-man_2099_1992_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc47073ba750
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/00/50ac1f7ca1030
   extension: jpg
