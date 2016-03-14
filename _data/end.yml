@@ -1,9 +1,7 @@
 ---
-name: Abomination (Emil Blonsky)
-description: Formerly known as Emil Blonsky, a spy of Soviet Yugoslavian origin working
-  for the KGB, the Abomination gained his powers after receiving a dose of gamma radiation
-  similar to that which transformed Bruce Banner into the incredible Hulk.
-url: http://marvel.com/universe/Abomination?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Rhino
+description: ''
+url: http://marvel.com/universe/Rhino_%28Aleksei_Sytsevich%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce18691cbf04
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c003c58f1a0c
   extension: jpg
