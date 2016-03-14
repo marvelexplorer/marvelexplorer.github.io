@@ -1,12 +1,12 @@
 ---
-date: '1991-12-10T00:00:00-0500'
-year: '1991'
-title: 'X-Men (1991) #3'
-issue: 3
+date: '1979-08-10T00:00:00-0400'
+year: '1979'
+title: 'Uncanny X-Men (1963) #124'
+issue: 124
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14317/x-men_1991_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12441/uncanny_x-men_1963_124?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc36581e244d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/5372ab8aaeff1
   extension: jpg
