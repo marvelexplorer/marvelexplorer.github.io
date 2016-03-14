@@ -1,12 +1,12 @@
 ---
-date: '2008-01-04T00:00:00-0500'
-year: '2008'
-title: 'Annihilation: Conquest (2007) #3'
-issue: 3
+date: '2006-10-04T00:00:00-0400'
+year: '2006'
+title: 'Irredeemable Ant-Man (2006) #1'
+issue: 1
 series:
-  period: '2007'
-  name: 'Annihilation: Conquest'
-url: http://marvel.com/comics/issue/17645/annihilation_conquest_2007_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Irredeemable Ant-Man
+url: http://marvel.com/comics/issue/5199/irredeemable_ant-man_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e83867ba1c87
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/517acfdbb7f0f
   extension: jpg
