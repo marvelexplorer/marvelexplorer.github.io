@@ -1,12 +1,12 @@
 ---
-date: '1990-02-01T00:00:00-0500'
-year: '1990'
-title: 'Wolverine (1988) #21'
-issue: 21
+date: '1984-06-10T00:00:00-0400'
+year: '1984'
+title: 'Secret Wars (1984) #2'
+issue: 2
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14139/wolverine_1988_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10584/secret_wars_1984_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bb79da513651
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f68c79059d1a
   extension: jpg
