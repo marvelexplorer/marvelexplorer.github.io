@@ -1,12 +1,12 @@
 ---
-date: '2007-10-17T00:00:00-0400'
-year: '2007'
-title: 'Marvel Zombies 2 (2007) #1'
-issue: 1
+date: '1940-03-01T00:00:00-0500'
+year: '1940'
+title: 'Marvel Mystery Comics (1939) #5'
+issue: 5
 series:
-  period: '2007'
-  name: Marvel Zombies 2
-url: http://marvel.com/comics/issue/16547/marvel_zombies_2_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16758/marvel_mystery_comics_1939_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4f6780b6500b0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc37b4beaa86
   extension: jpg
