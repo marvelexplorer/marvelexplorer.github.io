@@ -1,12 +1,12 @@
 ---
-date: '1995-01-01T00:00:00-0500'
-year: '1995'
-title: 'X-Men (1991) #40'
-issue: 40
+date: '2009-07-22T00:00:00-0400'
+year: '2009'
+title: 'Wolverine Origins (2006) #38'
+issue: 38
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14329/x-men_1991_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/27196/wolverine_origins_2006_38?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/558047e8aeb30
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/51e0817cbb81f
   extension: jpg
