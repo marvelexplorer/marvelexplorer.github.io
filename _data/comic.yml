@@ -1,12 +1,12 @@
 ---
-date: '1992-04-01T00:00:00-0500'
-year: '1992'
-title: 'Iron Man (1968) #279'
-issue: 279
+date: '2007-10-17T00:00:00-0400'
+year: '2007'
+title: 'Marvel Zombies 2 (2007) #1'
+issue: 1
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9526/iron_man_1968_279?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Marvel Zombies 2
+url: http://marvel.com/comics/issue/16547/marvel_zombies_2_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4bb6e94656e7e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4f6780b6500b0
   extension: jpg
