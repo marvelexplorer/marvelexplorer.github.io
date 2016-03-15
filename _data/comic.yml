@@ -1,12 +1,12 @@
 ---
-date: '2008-12-03T00:00:00-0500'
-year: '2008'
-title: 'Cable (2008) #9'
-issue: 9
+date: '1995-01-01T00:00:00-0500'
+year: '1995'
+title: 'X-Men (1991) #40'
+issue: 40
 series:
-  period: '2008'
-  name: Cable
-url: http://marvel.com/comics/issue/22930/cable_2008_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14329/x-men_1991_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4ea196645044e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/558047e8aeb30
   extension: jpg
