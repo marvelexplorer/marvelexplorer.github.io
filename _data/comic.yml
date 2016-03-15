@@ -1,12 +1,12 @@
 ---
-date: '2012-03-28T00:00:00-0400'
-year: '2012'
-title: Avengers Vs. X-Men (2012)
-issue: 0
+date: '2000-11-10T00:00:00-0500'
+year: '2000'
+title: 'Avengers (1998) #34'
+issue: 34
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/42332/avengers_vs_x-men_2012?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17517/avengers_1998_34?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/4f74807d9748d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bb440776d77a
   extension: jpg
