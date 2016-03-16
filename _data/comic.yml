@@ -1,12 +1,12 @@
 ---
-date: '2003-03-01T00:00:00-0500'
-year: '2003'
-title: 'Avengers (1998) #63'
-issue: 63
+date: '1985-09-10T00:00:00-0400'
+year: '1985'
+title: 'Secret Wars II (1985) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17549/avengers_1998_63?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1985'
+  name: Secret Wars II
+url: http://marvel.com/comics/issue/18886/secret_wars_ii_1985_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bac881b031fd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4f566813f272a
   extension: jpg
