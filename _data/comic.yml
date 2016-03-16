@@ -1,12 +1,12 @@
 ---
-date: '1985-09-10T00:00:00-0400'
-year: '1985'
-title: 'Secret Wars II (1985) #3'
-issue: 3
+date: '2005-09-28T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #11'
+issue: 11
 series:
-  period: '1985'
-  name: Secret Wars II
-url: http://marvel.com/comics/issue/18886/secret_wars_ii_1985_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/2417/new_avengers_2004_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4f566813f272a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7e00708ff3f
   extension: jpg
