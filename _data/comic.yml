@@ -1,12 +1,12 @@
 ---
-date: '1986-04-10T00:00:00-0500'
-year: '1986'
-title: 'Fantastic Four (1961) #289'
-issue: 289
+date: '2008-02-13T00:00:00-0500'
+year: '2008'
+title: 'Fantastic Four (1998) #554'
+issue: 554
 series:
-  period: '1961'
+  period: '1998'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13104/fantastic_four_1961_289?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/20634/fantastic_four_1998_554?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bb84fbd7f494
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc31a0b58ed7
   extension: jpg
