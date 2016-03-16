@@ -1,11 +1,9 @@
 ---
-name: Silver Surfer
-description: When Zenn-La was threatened by the world-devouring entity known as Galactus,
-  Norrin Radd stood up for his home planet and offered to work for Galactus, finding
-  him new planets to eat, in exchange for saving his own. Years later, the Surfer
-  has protected Earth and many other planets, becoming one of the greatest heroes
-  in the universe.
-url: http://marvel.com/universe/Silver_Surfer?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Wong
+description: When Wong reached adulthood, the Ancient One sent him to the United States
+  to his disciple, Doctor Stephen Strange, where has served Strange loyally and well
+  for many years.
+url: http://marvel.com/universe/Wong?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/527bb6490a176
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4ce5a21096f17
   extension: jpg
