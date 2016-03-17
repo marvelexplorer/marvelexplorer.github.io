@@ -1,12 +1,12 @@
 ---
-date: '2011-03-09T00:00:00-0500'
-year: '2011'
-title: 'New Avengers (2010) #10'
-issue: 10
+date: '2006-11-01T00:00:00-0500'
+year: '2006'
+title: 'Agents of Atlas (2006) #4'
+issue: 4
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/32704/new_avengers_2010_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Agents of Atlas
+url: http://marvel.com/comics/issue/5404/agents_of_atlas_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/90/4f6237be8889d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/56b21a3540a64
   extension: jpg
