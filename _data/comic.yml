@@ -1,12 +1,12 @@
 ---
-date: '1999-08-10T00:00:00-0400'
-year: '1999'
-title: 'Iron Man (1998) #19'
-issue: 19
+date: '1998-05-10T00:00:00-0400'
+year: '1998'
+title: 'Iron Man (1998) #4'
+issue: 4
 series:
   period: '1998'
   name: Iron Man
-url: http://marvel.com/comics/issue/19890/iron_man_1998_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/37802/iron_man_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/50b3b4cccee12
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/50b3d3dd7adac
   extension: jpg
