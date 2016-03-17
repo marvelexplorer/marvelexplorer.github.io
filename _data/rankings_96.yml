@@ -1,8 +1,8 @@
 ---
-- name: Wolverine
-  score: 7
 - name: Iron Man
   score: 7
+- name: Wolverine
+  score: 6
 - name: Captain America
   score: 4
 - name: Avengers

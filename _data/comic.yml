@@ -1,12 +1,12 @@
 ---
-date: '1990-09-10T00:00:00-0400'
-year: '1990'
-title: 'Fantastic Four (1961) #342'
-issue: 342
+date: '1989-10-10T00:00:00-0400'
+year: '1989'
+title: 'Fantastic Four (1961) #331'
+issue: 331
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13164/fantastic_four_1961_342?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13152/fantastic_four_1961_331?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bb5efcc348a2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/55d4af1b23862
   extension: jpg
