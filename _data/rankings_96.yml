@@ -3,9 +3,9 @@
   score: 8
 - name: Wolverine
   score: 7
-- name: Avengers
-  score: 4
 - name: Captain America
   score: 4
 - name: Sub-Mariner
+  score: 3
+- name: X-Men
   score: 3
