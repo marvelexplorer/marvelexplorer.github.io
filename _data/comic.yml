@@ -1,12 +1,12 @@
 ---
-date: '1977-11-10T00:00:00-0500'
-year: '1977'
-title: 'Invaders (1975) #22'
-issue: 22
+date: '1991-06-10T00:00:00-0400'
+year: '1991'
+title: 'Fantastic Four (1961) #353'
+issue: 353
 series:
-  period: '1975'
-  name: Invaders
-url: http://marvel.com/comics/issue/19983/invaders_1975_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13176/fantastic_four_1961_353?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bb53f7255a59
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/50ad01330123b
   extension: jpg
