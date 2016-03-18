@@ -1,12 +1,12 @@
 ---
-date: '2000-12-10T00:00:00-0500'
-year: '2000'
-title: 'Fantastic Four (1998) #36'
-issue: 36
+date: '1964-07-10T00:00:00-0400'
+year: '1964'
+title: 'Strange Tales (1951) #122'
+issue: 122
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/15556/fantastic_four_1998_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1951'
+  name: Strange Tales
+url: http://marvel.com/comics/issue/11042/strange_tales_1951_122?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51f833a441f2b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc372cd15bb5
   extension: jpg
