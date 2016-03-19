@@ -1,12 +1,12 @@
 ---
-date: '1996-08-01T00:00:00-0400'
-year: '1996'
-title: 'X-Men (1991) #55'
-issue: 55
+date: '2006-10-25T00:00:00-0400'
+year: '2006'
+title: 'Spider-Man Loves Mary Jane (2005) #11'
+issue: 11
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14345/x-men_1991_55?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Spider-Man Loves Mary Jane
+url: http://marvel.com/comics/issue/5253/spider-man_loves_mary_jane_2005_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bb57a282e1f0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bc5c1805bafa
   extension: jpg
