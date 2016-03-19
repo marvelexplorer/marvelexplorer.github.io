@@ -1,12 +1,12 @@
 ---
-date: '2006-10-25T00:00:00-0400'
-year: '2006'
-title: 'Spider-Man Loves Mary Jane (2005) #11'
+date: '1998-12-10T00:00:00-0500'
+year: '1998'
+title: 'Avengers (1998) #11'
 issue: 11
 series:
-  period: '2005'
-  name: Spider-Man Loves Mary Jane
-url: http://marvel.com/comics/issue/5253/spider-man_loves_mary_jane_2005_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17492/avengers_1998_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bc5c1805bafa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb6b7e067bd5
   extension: jpg
