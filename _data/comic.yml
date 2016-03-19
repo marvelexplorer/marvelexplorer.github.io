@@ -1,12 +1,12 @@
 ---
-date: '2000-05-01T00:00:00-0400'
-year: '2000'
-title: 'Captain Marvel (2000) #7'
-issue: 7
+date: '2002-08-10T00:00:00-0400'
+year: '2002'
+title: 'Infinity Abyss (2002) #1'
+issue: 1
 series:
-  period: '2000'
-  name: Captain Marvel
-url: http://marvel.com/comics/issue/20560/captain_marvel_2000_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Infinity Abyss
+url: http://marvel.com/comics/issue/20010/infinity_abyss_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bb65a505699e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bb6de59aeded
   extension: jpg
