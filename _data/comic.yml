@@ -1,12 +1,12 @@
 ---
-date: '1986-02-10T00:00:00-0500'
-year: '1986'
-title: 'Incredible Hulk (1962) #316'
-issue: 316
+date: '2009-12-16T00:00:00-0500'
+year: '2009'
+title: 'Mighty Avengers (2007) #32'
+issue: 32
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9127/incredible_hulk_1962_316?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/25976/mighty_avengers_2007_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb60f2fc92ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f7c9504222ba
   extension: jpg
