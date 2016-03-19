@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
-year: '2011'
-title: 'Avengers Academy (2010) #21'
-issue: 21
+date: '2000-12-01T00:00:00-0500'
+year: '2000'
+title: 'Thor (1998) #30'
+issue: 30
 series:
-  period: '2010'
-  name: Avengers Academy
-url: http://marvel.com/comics/issue/36489/avengers_academy_2010_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/18654/thor_1998_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4eb005e92933b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/50b5287ff3125
   extension: jpg
