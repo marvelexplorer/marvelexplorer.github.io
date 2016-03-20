@@ -1,12 +1,12 @@
 ---
-date: '2011-03-30T00:00:00-0400'
-year: '2011'
-title: 'Spider-Man: You''re Hired! (2011) #1'
-issue: 1
+date: '2009-07-22T00:00:00-0400'
+year: '2009'
+title: 'Deadpool: Suicide Kings (2009) #4'
+issue: 4
 series:
-  period: '2011'
-  name: 'Spider-Man: You''re Hired!'
-url: http://marvel.com/comics/issue/38460/spider-man_youre_hired_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: 'Deadpool: Suicide Kings'
+url: http://marvel.com/comics/issue/24964/deadpool_suicide_kings_2009_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4d8ca83cd893b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/56aa8e5d8b4b2
   extension: jpg
