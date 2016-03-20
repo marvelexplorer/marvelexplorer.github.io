@@ -1,12 +1,12 @@
 ---
-date: '2002-02-01T00:00:00-0500'
-year: '2002'
-title: 'Uncanny X-Men (1963) #402'
-issue: 402
+date: '1991-01-15T00:00:00-0500'
+year: '1991'
+title: 'X-Men Annual (1970) #15'
+issue: 15
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13943/uncanny_x-men_1963_402?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12361/x-men_annual_1970_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/4f6736b489dc5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/4d939804ca99f
   extension: jpg
