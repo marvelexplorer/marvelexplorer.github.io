@@ -1,12 +1,12 @@
 ---
-date: '2010-05-12T00:00:00-0400'
-year: '2010'
-title: 'Astonishing X-Men: Xenogenesis (2010) #1'
-issue: 1
+date: '2008-01-04T00:00:00-0500'
+year: '2008'
+title: 'Uncanny X-Men (1963) #494'
+issue: 494
 series:
-  period: '2010'
-  name: 'Astonishing X-Men: Xenogenesis'
-url: http://marvel.com/comics/issue/32864/astonishing_x-men_xenogenesis_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/17576/uncanny_x-men_1963_494?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/56e964d89036b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/513a8ae845ffb
   extension: jpg
