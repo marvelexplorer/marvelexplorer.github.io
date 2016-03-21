@@ -1,12 +1,12 @@
 ---
-date: '2007-11-07T00:00:00-0500'
-year: '2007'
-title: 'Annihilation: Conquest (2007) #1'
+date: '2011-11-09T00:00:00-0500'
+year: '2011'
+title: 'Avengers Origins: Vision (2013) #1'
 issue: 1
 series:
-  period: '2007'
-  name: 'Annihilation: Conquest'
-url: http://marvel.com/comics/issue/17271/annihilation_conquest_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: 'Avengers Origins: Vision'
+url: http://marvel.com/comics/issue/32686/avengers_origins_vision_2013_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8381b35e231
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/4ea855767fbaf
   extension: jpg
