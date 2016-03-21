@@ -1,12 +1,12 @@
 ---
-date: '2003-02-01T00:00:00-0500'
-year: '2003'
-title: 'Avengers (1998) #61'
-issue: 61
+date: '1981-01-10T00:00:00-0500'
+year: '1981'
+title: 'Avengers Annual (1967) #10'
+issue: 10
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17547/avengers_1998_61?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Avengers Annual
+url: http://marvel.com/comics/issue/6924/avengers_annual_1967_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb6a524867ec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc3814c471d5
   extension: jpg
