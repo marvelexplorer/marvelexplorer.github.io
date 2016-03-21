@@ -1,12 +1,12 @@
 ---
-date: '1986-04-10T00:00:00-0500'
-year: '1986'
-title: 'Fantastic Four (1961) #289'
-issue: 289
+date: '2007-11-07T00:00:00-0500'
+year: '2007'
+title: 'Annihilation: Conquest (2007) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13104/fantastic_four_1961_289?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Annihilation: Conquest'
+url: http://marvel.com/comics/issue/17271/annihilation_conquest_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bb84fbd7f494
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8381b35e231
   extension: jpg

@@ -3,9 +3,9 @@
   score: 8
 - name: Thing
   score: 4
-- name: Thor
-  score: 4
 - name: Iron Man
   score: 4
 - name: Jocasta
   score: 4
+- name: Thor
+  score: 3
