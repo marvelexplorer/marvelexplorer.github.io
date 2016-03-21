@@ -1,9 +1,9 @@
 ---
 - name: Human Torch
   score: 8
-- name: Thing
-  score: 4
 - name: Iron Man
+  score: 5
+- name: Thing
   score: 4
 - name: Jocasta
   score: 4
