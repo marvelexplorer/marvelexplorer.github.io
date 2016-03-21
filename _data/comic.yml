@@ -1,12 +1,12 @@
 ---
-date: '1981-01-10T00:00:00-0500'
-year: '1981'
-title: 'Avengers Annual (1967) #10'
-issue: 10
+date: '1995-07-01T00:00:00-0400'
+year: '1995'
+title: 'X-Men: Prime (1995) #1'
+issue: 1
 series:
-  period: '1967'
-  name: Avengers Annual
-url: http://marvel.com/comics/issue/6924/avengers_annual_1967_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1995'
+  name: 'X-Men: Prime'
+url: http://marvel.com/comics/issue/12371/x-men_prime_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc3814c471d5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51e710eca04f3
   extension: jpg
