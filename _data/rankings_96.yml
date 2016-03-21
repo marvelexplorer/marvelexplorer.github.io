@@ -1,11 +1,11 @@
 ---
 - name: Human Torch
   score: 7
-- name: Avengers
-  score: 5
 - name: Thor
   score: 5
 - name: Thing
+  score: 4
+- name: Avengers
   score: 4
 - name: Cyclops
   score: 4
