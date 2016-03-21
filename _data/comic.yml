@@ -1,12 +1,12 @@
 ---
-date: '1995-07-01T00:00:00-0400'
+date: '1995-02-01T00:00:00-0500'
 year: '1995'
-title: 'X-Men: Prime (1995) #1'
-issue: 1
+title: 'X-Men (1991) #41'
+issue: 41
 series:
-  period: '1995'
-  name: 'X-Men: Prime'
-url: http://marvel.com/comics/issue/12371/x-men_prime_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14330/x-men_1991_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51e710eca04f3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5580484ebd331
   extension: jpg
