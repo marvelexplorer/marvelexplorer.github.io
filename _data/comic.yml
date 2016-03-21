@@ -1,12 +1,12 @@
 ---
-date: '2009-01-14T00:00:00-0500'
-year: '2009'
-title: 'X-Men/Spider-Man (2008) #3'
-issue: 3
+date: '2000-04-01T00:00:00-0500'
+year: '2000'
+title: 'Earth X (1999) #12'
+issue: 12
 series:
-  period: '2008'
-  name: X-Men/Spider-Man
-url: http://marvel.com/comics/issue/23133/x-menspider-man_2008_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8551/earth_x_1999_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/50/4bb605abc024e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bb7c18275802
   extension: jpg
