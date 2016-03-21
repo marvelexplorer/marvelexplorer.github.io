@@ -1,12 +1,12 @@
 ---
-date: '2011-01-26T00:00:00-0500'
+date: '2011-11-09T00:00:00-0500'
 year: '2011'
-title: 'Uncanny X-Men (1963) #532'
-issue: 532
+title: 'Uncanny X-Force (2010) #17'
+issue: 17
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/36329/uncanny_x-men_1963_532?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Uncanny X-Force
+url: http://marvel.com/comics/issue/35296/uncanny_x-force_2010_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/513f543f6f0d5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4eaef634963e0
   extension: jpg
