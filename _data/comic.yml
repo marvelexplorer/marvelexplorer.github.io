@@ -1,12 +1,12 @@
 ---
-date: '1997-04-10T00:00:00-0400'
-year: '1997'
-title: 'Avengers (1996) #6'
-issue: 6
+date: '2005-10-12T00:00:00-0400'
+year: '2005'
+title: 'Marvel Adventures Fantastic Four (2005) #5'
+issue: 5
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17760/avengers_1996_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Marvel Adventures Fantastic Four
+url: http://marvel.com/comics/issue/2534/marvel_adventures_fantastic_four_2005_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bb7e07b9bc49
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc61e095fc54
   extension: jpg
