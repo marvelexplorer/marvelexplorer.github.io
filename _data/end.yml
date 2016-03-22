@@ -1,9 +1,7 @@
 ---
-name: Thing
-description: The radiation that mutated Reed Richards, Sue Storm and Johnny Storm
-  into superhuman beings had also mutated Ben Grimm, transforming him into a grotesque,
-  rock-hided strongman dubbed the Thing.
-url: http://marvel.com/universe/Thing_%28Benjamin_Grimm%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Spider-Girl (Anya Corazon)
+description: " "
+url: http://marvel.com/universe/Spider-Girl_(Anya_Corazon)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/527bb4d36b5c2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/528d369de3e4f
   extension: jpg
