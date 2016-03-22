@@ -1,12 +1,12 @@
 ---
-date: '1991-12-10T00:00:00-0500'
-year: '1991'
-title: 'Thor (1966) #440'
-issue: 440
+date: '2008-07-30T00:00:00-0400'
+year: '2008'
+title: 'Thor (2007) #10'
+issue: 10
 series:
-  period: '1966'
+  period: '2007'
   name: Thor
-url: http://marvel.com/comics/issue/11768/thor_1966_440?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/21518/thor_2007_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/4f2029994bc15
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4d24f2aed1047
   extension: jpg
