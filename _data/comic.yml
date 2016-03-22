@@ -1,12 +1,12 @@
 ---
-date: '2008-07-30T00:00:00-0400'
-year: '2008'
-title: 'Thor (2007) #10'
-issue: 10
+date: '1965-01-10T00:00:00-0500'
+year: '1965'
+title: 'Journey Into Mystery (1952) #112'
+issue: 112
 series:
-  period: '2007'
-  name: Thor
-url: http://marvel.com/comics/issue/21518/thor_2007_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1952'
+  name: Journey Into Mystery
+url: http://marvel.com/comics/issue/9687/journey_into_mystery_1952_112?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4d24f2aed1047
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4f639c2b4e4db
   extension: jpg
