@@ -1,12 +1,12 @@
 ---
-date: '1989-08-10T00:00:00-0400'
-year: '1989'
-title: 'Fantastic Four (1961) #329'
-issue: 329
+date: '2011-07-20T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself: FF (2011) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13149/fantastic_four_1961_329?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Fear Itself: FF'
+url: http://marvel.com/comics/issue/38977/fear_itself_ff_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/55d4b7b79496d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/5644de7f2886b
   extension: jpg
