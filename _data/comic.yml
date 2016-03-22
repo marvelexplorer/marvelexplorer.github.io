@@ -1,12 +1,12 @@
 ---
-date: '2001-10-10T00:00:00-0400'
-year: '2001'
-title: 'Fantastic Four (1998) #46'
-issue: 46
+date: '2000-12-10T00:00:00-0500'
+year: '2000'
+title: 'Maximum Security (2000) #2'
+issue: 2
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/15567/fantastic_four_1998_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Maximum Security
+url: http://marvel.com/comics/issue/10285/maximum_security_2000_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5208fcc58d9dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/5398638f5c6fc
   extension: jpg
