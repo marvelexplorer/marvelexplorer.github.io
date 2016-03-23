@@ -1,12 +1,12 @@
 ---
-date: '1999-08-10T00:00:00-0400'
-year: '1999'
-title: 'Avengers Forever (1998) #9'
-issue: 9
+date: '1977-12-10T00:00:00-0500'
+year: '1977'
+title: 'Thor (1966) #266'
+issue: 266
 series:
-  period: '1998'
-  name: Avengers Forever
-url: http://marvel.com/comics/issue/12412/avengers_forever_1998_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11594/thor_1966_266?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc47c7f39fd7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/50b428ee907b1
   extension: jpg
