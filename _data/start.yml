@@ -1,9 +1,7 @@
 ---
-name: Banshee (Theresa Rourke)
-description: The daughter of former X-Men member Sean Cassidy, a.k.a. Banshee, and
-  Maeve Rourke, Theresa Rourke was raised by her first cousin once removed, mutant
-  terrorist Thomas Cassidy, a.k.a. Black Tom.
-url: http://marvel.com/universe/Siryn?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Scarlet Witch
+description: ''
+url: http://marvel.com/universe/Scarlet_Witch_(Wanda_Maximoff)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ce5a1a50e56b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5261a7d7c394b
   extension: jpg
