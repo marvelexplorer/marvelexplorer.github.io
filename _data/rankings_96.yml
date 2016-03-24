@@ -3,9 +3,9 @@
   score: 6
 - name: Thor
   score: 6
-- name: Cyclops
-  score: 4
 - name: Thing
   score: 4
 - name: Iron Man
+  score: 4
+- name: Wolverine
   score: 4
