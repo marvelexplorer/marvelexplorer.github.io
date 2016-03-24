@@ -1,12 +1,12 @@
 ---
-date: '2003-06-01T00:00:00-0400'
-year: '2003'
-title: 'Paradise X (2002) #10'
-issue: 10
+date: '2007-05-30T00:00:00-0400'
+year: '2007'
+title: 'New Avengers: Illuminati (2006) #3'
+issue: 3
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10494/paradise_x_2002_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: 'New Avengers: Illuminati'
+url: http://marvel.com/comics/issue/13481/new_avengers_illuminati_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c36060ccbc56
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bc4c91fdca20
   extension: jpg
