@@ -1,12 +1,12 @@
 ---
-date: '1986-05-10T00:00:00-0400'
-year: '1986'
-title: 'Fantastic Four (1961) #290'
-issue: 290
+date: '2000-09-10T00:00:00-0400'
+year: '2000'
+title: 'Fantastic Four (1998) #33'
+issue: 33
 series:
-  period: '1961'
+  period: '1998'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13106/fantastic_four_1961_290?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/15553/fantastic_four_1998_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bb671300e06d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/51bb3394cc21d
   extension: jpg
