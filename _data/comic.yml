@@ -1,12 +1,12 @@
 ---
-date: '2000-09-10T00:00:00-0400'
-year: '2000'
-title: 'Fantastic Four (1998) #33'
-issue: 33
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'Paradise X (2002) #10'
+issue: 10
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/15553/fantastic_four_1998_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10494/paradise_x_2002_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/51bb3394cc21d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c36060ccbc56
   extension: jpg
