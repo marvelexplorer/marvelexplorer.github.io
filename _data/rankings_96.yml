@@ -1,7 +1,7 @@
 ---
-- name: Avengers
-  score: 6
 - name: Thor
+  score: 7
+- name: Avengers
   score: 6
 - name: Fantastic Four
   score: 5
