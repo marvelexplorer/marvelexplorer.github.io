@@ -1,12 +1,12 @@
 ---
-date: '2000-01-01T00:00:00-0500'
-year: '2000'
-title: 'X-Men (1991) #96'
-issue: 96
+date: '1991-02-10T00:00:00-0500'
+year: '1991'
+title: 'Fantastic Four (1961) #347'
+issue: 347
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14390/x-men_1991_96?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13169/fantastic_four_1961_347?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb57a1e25f81
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc479234b700
   extension: jpg
