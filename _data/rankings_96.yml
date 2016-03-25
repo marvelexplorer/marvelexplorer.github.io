@@ -1,10 +1,10 @@
 ---
 - name: Thor
   score: 7
-- name: Avengers
-  score: 5
 - name: Fantastic Four
   score: 5
+- name: Avengers
+  score: 4
 - name: Thing
   score: 4
 - name: X-Men
