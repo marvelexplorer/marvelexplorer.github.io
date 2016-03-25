@@ -1,12 +1,12 @@
 ---
-date: '2002-09-01T00:00:00-0400'
-year: '2002'
-title: 'Spider-Man/Black Cat: Evil That Men Do (2002) #2'
-issue: 2
+date: '2007-03-07T00:00:00-0500'
+year: '2007'
+title: 'Mighty Avengers (2007) #1'
+issue: 1
 series:
-  period: '2002'
-  name: 'Spider-Man/Black Cat: Evil That Men Do'
-url: http://marvel.com/comics/issue/14536/spider-manblack_cat_evil_that_men_do_2002_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/6097/mighty_avengers_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc46ac57947c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4f7b2c8211fc3
   extension: jpg
