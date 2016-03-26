@@ -1,12 +1,12 @@
 ---
-date: '2010-03-31T00:00:00-0400'
-year: '2010'
-title: 'Cloak and Dagger (2010) #1'
-issue: 1
+date: '2000-08-01T00:00:00-0400'
+year: '2000'
+title: 'Marvel Knights (2000) #2'
+issue: 2
 series:
-  period: '2010'
-  name: Cloak and Dagger
-url: http://marvel.com/comics/issue/30053/cloak_and_dagger_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Marvel Knights
+url: http://marvel.com/comics/issue/16062/marvel_knights_2000_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bacb4c478d43
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc382aae5103
   extension: jpg
