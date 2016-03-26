@@ -1,12 +1,12 @@
 ---
-date: '2012-01-18T00:00:00-0500'
-year: '2012'
-title: 'Daredevil (2011) #8'
-issue: 8
+date: '1980-06-10T00:00:00-0400'
+year: '1980'
+title: 'Amazing Spider-Man (1963) #205'
+issue: 205
 series:
-  period: '2011'
-  name: Daredevil
-url: http://marvel.com/comics/issue/36512/daredevil_2011_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6600/amazing_spider-man_1963_205?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/56bb6074022f2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/4bc47e875159f
   extension: jpg
