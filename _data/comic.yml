@@ -1,12 +1,12 @@
 ---
-date: '2011-09-21T00:00:00-0400'
-year: '2011'
-title: 'Spider-Island: Cloak & Dagger (2011) #2'
-issue: 2
+date: '2001-02-01T00:00:00-0500'
+year: '2001'
+title: 'Marvel Knights (2000) #8'
+issue: 8
 series:
-  period: '2011'
-  name: 'Spider-Island: Cloak & Dagger'
-url: http://marvel.com/comics/issue/38983/spider-island_cloak_dagger_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Marvel Knights
+url: http://marvel.com/comics/issue/16068/marvel_knights_2000_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/4e73660a4b98a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/4bc36a0deb1be
   extension: jpg
