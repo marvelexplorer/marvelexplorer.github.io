@@ -1,12 +1,12 @@
 ---
-date: '1971-03-10T00:00:00-0500'
-year: '1971'
-title: 'Avengers (1963) #86'
-issue: 86
+date: '1998-06-10T00:00:00-0400'
+year: '1998'
+title: 'Avengers (1998) #5'
+issue: 5
 series:
-  period: '1963'
+  period: '1998'
   name: Avengers
-url: http://marvel.com/comics/issue/7339/avengers_1963_86?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/17534/avengers_1998_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4e945a62de381
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb6f971cc62f
   extension: jpg
