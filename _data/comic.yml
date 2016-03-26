@@ -1,12 +1,12 @@
 ---
-date: '2003-06-15T00:00:00-0400'
-year: '2003'
-title: 'Uncanny X-Men (1963) #422'
-issue: 422
+date: '1993-02-10T00:00:00-0500'
+year: '1993'
+title: 'X-Factor (1986) #87'
+issue: 87
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13963/uncanny_x-men_1963_422?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12309/x-factor_1986_87?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bb65a3ba1626
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc35f0243c38
   extension: jpg
