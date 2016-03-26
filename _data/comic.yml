@@ -1,12 +1,12 @@
 ---
-date: '1969-05-10T00:00:00-0400'
-year: '1969'
-title: 'Iron Man (1968) #13'
-issue: 13
+date: '2011-11-16T00:00:00-0500'
+year: '2011'
+title: 'Avengers (2010) #19'
+issue: 19
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9361/iron_man_1968_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Avengers
+url: http://marvel.com/comics/issue/35225/avengers_2010_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb52a77caaf8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/51685b4f4f6a6
   extension: jpg
