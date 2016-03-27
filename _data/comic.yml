@@ -1,12 +1,12 @@
 ---
-date: '2009-04-01T00:00:00-0400'
-year: '2009'
-title: 'Agents of Atlas (2009) #3'
-issue: 3
+date: '2011-05-25T00:00:00-0400'
+year: '2011'
+title: 'Captain America (2004) #618'
+issue: 618
 series:
-  period: '2009'
-  name: Agents of Atlas
-url: http://marvel.com/comics/issue/24015/agents_of_atlas_2009_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/35774/captain_america_2004_618?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/563cfecd1dd36
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/513f727accc03
   extension: jpg
