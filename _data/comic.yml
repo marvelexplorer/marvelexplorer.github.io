@@ -1,12 +1,12 @@
 ---
-date: '2007-09-19T00:00:00-0400'
-year: '2007'
-title: 'World War Hulk (2007) #4'
-issue: 4
+date: '2006-11-29T00:00:00-0500'
+year: '2006'
+title: 'What If? Wolverine Enemy of the State (2006) #1'
+issue: 1
 series:
-  period: '2007'
-  name: World War Hulk
-url: http://marvel.com/comics/issue/16557/world_war_hulk_2007_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: What If? Wolverine Enemy of the State
+url: http://marvel.com/comics/issue/5526/what_if_wolverine_enemy_of_the_state_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/4f674f3028099
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/4bb898e22a797
   extension: jpg
