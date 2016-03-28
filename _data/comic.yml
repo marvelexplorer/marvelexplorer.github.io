@@ -1,12 +1,12 @@
 ---
-date: '1990-01-01T00:00:00-0500'
-year: '1990'
-title: 'Wolverine (1988) #20'
-issue: 20
+date: '1988-01-10T00:00:00-0500'
+year: '1988'
+title: 'Classic X-Men (1986) #17'
+issue: 17
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14138/wolverine_1988_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20571/classic_x-men_1986_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bb79dafc4f8f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c7d03a62be50
   extension: jpg
