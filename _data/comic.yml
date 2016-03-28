@@ -1,12 +1,12 @@
 ---
-date: '1998-11-10T00:00:00-0500'
-year: '1998'
-title: 'Avengers (1998) #10'
-issue: 10
+date: '1967-09-10T00:00:00-0400'
+year: '1967'
+title: 'Daredevil (1964) #32'
+issue: 32
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17491/avengers_1998_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8318/daredevil_1964_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bb6bcd1e05ad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc36f91e6152
   extension: jpg
