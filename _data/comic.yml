@@ -1,12 +1,12 @@
 ---
-date: '1988-01-10T00:00:00-0500'
-year: '1988'
-title: 'Classic X-Men (1986) #17'
-issue: 17
+date: '2002-09-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #56'
+issue: 56
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20571/classic_x-men_1986_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17541/avengers_1998_56?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c7d03a62be50
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb6a9b4f3173
   extension: jpg
