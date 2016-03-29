@@ -1,12 +1,12 @@
 ---
-date: '2009-10-07T00:00:00-0400'
-year: '2009'
-title: 'X-Babies (2009) #1'
-issue: 1
+date: '1986-11-10T00:00:00-0500'
+year: '1986'
+title: 'X-Factor (1986) #10'
+issue: 10
 series:
-  period: '2009'
-  name: X-Babies
-url: http://marvel.com/comics/issue/27974/x-babies_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12175/x-factor_1986_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bb3df974dd0c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/50b4106801edf
   extension: jpg
