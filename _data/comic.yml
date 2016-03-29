@@ -1,12 +1,12 @@
 ---
-date: '2010-03-31T00:00:00-0400'
+date: '2010-01-27T00:00:00-0500'
 year: '2010'
-title: 'X-Force (2008) #25'
-issue: 25
+title: 'X-Babies (2009) #4'
+issue: 4
 series:
-  period: '2008'
-  name: X-Force
-url: http://marvel.com/comics/issue/30671/x-force_2008_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: X-Babies
+url: http://marvel.com/comics/issue/27977/x-babies_2009_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4babc1076190e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bac108dcda8e
   extension: jpg
