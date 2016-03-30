@@ -1,12 +1,12 @@
 ---
-date: '2007-02-21T00:00:00-0500'
-year: '2007'
-title: 'Cable & Deadpool (2004) #37'
-issue: 37
+date: '2001-11-01T00:00:00-0500'
+year: '2001'
+title: 'Spider-Man''s Tangled Web (2001) #6'
+issue: 6
 series:
-  period: '2004'
-  name: Cable & Deadpool
-url: http://marvel.com/comics/issue/6030/cable_deadpool_2004_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: Spider-Man's Tangled Web
+url: http://marvel.com/comics/issue/10925/spider-mans_tangled_web_2001_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/56e2cf09050f3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4bc4705f19282
   extension: jpg
