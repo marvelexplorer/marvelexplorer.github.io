@@ -1,12 +1,12 @@
 ---
-date: '2006-07-26T00:00:00-0400'
-year: '2006'
-title: 'Black Panther (2005) #18'
-issue: 18
+date: '2011-08-10T00:00:00-0400'
+year: '2011'
+title: 'X-Men Legacy (2008) #253'
+issue: 253
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/4425/black_panther_2005_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/36428/x-men_legacy_2008_253?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/56deef227bb11
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/51a4e613666e7
   extension: jpg
