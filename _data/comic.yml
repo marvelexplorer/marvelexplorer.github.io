@@ -1,12 +1,12 @@
 ---
-date: '2005-11-09T00:00:00-0500'
-year: '2005'
-title: 'Friendly Neighborhood Spider-Man (2005) #2'
-issue: 2
+date: '1998-03-10T00:00:00-0500'
+year: '1998'
+title: 'Incredible Hulk (1962) #462'
+issue: 462
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/3021/friendly_neighborhood_spider-man_2005_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9273/incredible_hulk_1962_462?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/56a8f84d6bc30
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/52025c9a517eb
   extension: jpg
