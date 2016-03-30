@@ -1,12 +1,12 @@
 ---
-date: '2002-06-01T00:00:00-0400'
-year: '2002'
-title: 'Paradise X (2002) #2'
-issue: 2
+date: '2006-01-25T00:00:00-0500'
+year: '2006'
+title: 'New Avengers Vol.2: Sentry (2006)'
+issue: 0
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10497/paradise_x_2002_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/4004/new_avengers_vol.2_sentry_2006?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/4c36078018e9b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bc5f64f2aff6
   extension: jpg
