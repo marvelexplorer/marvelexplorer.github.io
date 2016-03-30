@@ -1,12 +1,12 @@
 ---
-date: '1986-05-10T00:00:00-0400'
-year: '1986'
-title: 'Fantastic Four (1961) #290'
-issue: 290
+date: '2002-06-01T00:00:00-0400'
+year: '2002'
+title: 'Paradise X (2002) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13106/fantastic_four_1961_290?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10497/paradise_x_2002_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bb671300e06d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/4c36078018e9b
   extension: jpg
