@@ -1,8 +1,8 @@
 ---
 - name: Iron Man
-  score: 35
+  score: 34
 - name: Wolverine
-  score: 30
+  score: 31
 - name: X-Men
   score: 23
 - name: Captain America
