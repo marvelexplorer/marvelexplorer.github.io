@@ -1,12 +1,12 @@
 ---
-date: '1942-07-01T00:00:00-0400'
+date: '1942-12-01T00:00:00-0400'
 year: '1942'
-title: 'All-Winners Comics (1941) #5'
-issue: 5
+title: 'Sub-Mariner Comics (1941) #8'
+issue: 8
 series:
   period: '1941'
-  name: All-Winners Comics
-url: http://marvel.com/comics/issue/12570/all-winners_comics_1941_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Sub-Mariner Comics
+url: http://marvel.com/comics/issue/11214/sub-mariner_comics_1941_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc3361b292ef
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/4bb8318c01602
   extension: jpg
