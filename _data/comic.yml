@@ -1,12 +1,12 @@
 ---
-date: '2006-09-20T00:00:00-0400'
-year: '2006'
-title: 'X-Men: First Class (2006) #1'
+date: '2011-08-31T00:00:00-0400'
+year: '2011'
+title: 'Gambit: From the Marvel Vault (2011) #1'
 issue: 1
 series:
-  period: '2006'
-  name: 'X-Men: First Class'
-url: http://marvel.com/comics/issue/5144/x-men_first_class_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Gambit: From the Marvel Vault'
+url: http://marvel.com/comics/issue/38441/gambit_from_the_marvel_vault_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bb3de98da010
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/56b248f33da5a
   extension: jpg
