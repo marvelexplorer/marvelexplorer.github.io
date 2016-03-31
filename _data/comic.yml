@@ -1,12 +1,12 @@
 ---
-date: '1976-08-10T00:00:00-0400'
-year: '1976'
-title: 'Champions (1975) #7'
-issue: 7
+date: '2007-11-21T00:00:00-0500'
+year: '2007'
+title: 'Captain America (2004) #32'
+issue: 32
 series:
-  period: '1975'
-  name: Champions
-url: http://marvel.com/comics/issue/8069/champions_1975_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/17227/captain_america_2004_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bb7d5d8df469
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f75b06eb2224
   extension: jpg
