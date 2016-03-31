@@ -1,12 +1,12 @@
 ---
-date: '2005-10-26T00:00:00-0400'
-year: '2005'
-title: 'Hulk: Destruction (2005) #4'
-issue: 4
+date: '1995-08-10T00:00:00-0400'
+year: '1995'
+title: 'Incredible Hulk (1962) #432'
+issue: 432
 series:
-  period: '2005'
-  name: 'Hulk: Destruction'
-url: http://marvel.com/comics/issue/2499/hulk_destruction_2005_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9243/incredible_hulk_1962_432?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc61ef49e55a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/5382c1a45a574
   extension: jpg
