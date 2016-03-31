@@ -1,12 +1,12 @@
 ---
-date: '2011-08-31T00:00:00-0400'
-year: '2011'
-title: 'Gambit: From the Marvel Vault (2011) #1'
-issue: 1
+date: '1976-08-10T00:00:00-0400'
+year: '1976'
+title: 'Champions (1975) #7'
+issue: 7
 series:
-  period: '2011'
-  name: 'Gambit: From the Marvel Vault'
-url: http://marvel.com/comics/issue/38441/gambit_from_the_marvel_vault_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1975'
+  name: Champions
+url: http://marvel.com/comics/issue/8069/champions_1975_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/56b248f33da5a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bb7d5d8df469
   extension: jpg
