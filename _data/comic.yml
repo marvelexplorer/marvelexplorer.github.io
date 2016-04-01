@@ -1,12 +1,12 @@
 ---
-date: '2012-04-18T00:00:00-0400'
-year: '2012'
-title: 'X-Men (2010) #27'
-issue: 27
+date: '1988-01-10T00:00:00-0500'
+year: '1988'
+title: 'Uncanny X-Men (1963) #225'
+issue: 225
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/40858/x-men_2010_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13766/uncanny_x-men_1963_225?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/5159e140591b4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/51141b8ca7973
   extension: jpg
