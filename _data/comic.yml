@@ -1,12 +1,12 @@
 ---
-date: '2000-05-10T00:00:00-0400'
-year: '2000'
-title: 'Black Panther (1998) #18'
-issue: 18
+date: '2009-02-18T00:00:00-0500'
+year: '2009'
+title: 'Amazing Spider-Man Family (2008) #4'
+issue: 4
 series:
-  period: '1998'
-  name: Black Panther
-url: http://marvel.com/comics/issue/12584/black_panther_1998_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Amazing Spider-Man Family
+url: http://marvel.com/comics/issue/23642/amazing_spider-man_family_2008_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56ddd4b942268
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/56d71734b28b4
   extension: jpg
