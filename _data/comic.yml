@@ -1,12 +1,12 @@
 ---
-date: '1989-04-10T00:00:00-0400'
-year: '1989'
-title: 'Uncanny X-Men (1963) #243'
-issue: 243
+date: '2010-10-13T00:00:00-0400'
+year: '2010'
+title: 'X-Men (2010) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13784/uncanny_x-men_1963_243?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/32196/x-men_2010_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/50ad29f9569ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f4fe3616fc18
   extension: jpg
