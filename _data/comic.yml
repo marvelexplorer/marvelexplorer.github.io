@@ -1,12 +1,12 @@
 ---
-date: '2009-02-18T00:00:00-0500'
-year: '2009'
-title: 'Amazing Spider-Man Family (2008) #4'
-issue: 4
+date: '2010-08-11T00:00:00-0400'
+year: '2010'
+title: 'Spider-Man: Death & Destiny (2000) #1'
+issue: 1
 series:
-  period: '2008'
-  name: Amazing Spider-Man Family
-url: http://marvel.com/comics/issue/23642/amazing_spider-man_family_2008_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: 'Spider-Man: Death & Destiny'
+url: http://marvel.com/comics/issue/23474/spider-man_death_destiny_2000_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/56d71734b28b4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb5a20bea85f
   extension: jpg
