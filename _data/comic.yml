@@ -1,12 +1,12 @@
 ---
-date: '2010-09-09T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man (1999) #642'
-issue: 642
+date: '2007-08-01T00:00:00-0400'
+year: '2007'
+title: 'Spider-Man and the Fantastic Four (2007) #4'
+issue: 4
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/30317/amazing_spider-man_1999_642?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Spider-Man and the Fantastic Four
+url: http://marvel.com/comics/issue/15989/spider-man_and_the_fantastic_four_2007_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/4e8617f05ee99
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc39e9602c47
   extension: jpg
