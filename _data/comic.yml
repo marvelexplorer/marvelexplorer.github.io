@@ -1,12 +1,12 @@
 ---
-date: '2012-05-09T00:00:00-0400'
-year: '2012'
-title: 'New Avengers (2010) #24'
-issue: 24
+date: '2011-09-07T00:00:00-0400'
+year: '2011'
+title: 'Spider-Island: Avengers (2011) #1'
+issue: 1
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/35241/new_avengers_2010_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Spider-Island: Avengers'
+url: http://marvel.com/comics/issue/39753/spider-island_avengers_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4f183f642d472
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/4e5fd55249799
   extension: jpg
