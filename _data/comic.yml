@@ -1,12 +1,12 @@
 ---
-date: '2006-07-19T00:00:00-0400'
-year: '2006'
-title: 'New X-Men (2004) #28'
-issue: 28
+date: '2000-06-10T00:00:00-0400'
+year: '2000'
+title: 'Avengers (1998) #29'
+issue: 29
 series:
-  period: '2004'
-  name: New X-Men
-url: http://marvel.com/comics/issue/4440/new_x-men_2004_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17511/avengers_1998_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4bc5da4e6afdf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c362a7ed1208
   extension: jpg
