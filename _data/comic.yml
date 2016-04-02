@@ -1,12 +1,12 @@
 ---
-date: '2008-01-09T00:00:00-0500'
-year: '2008'
-title: 'Mighty Avengers (2007) #7'
-issue: 7
+date: '2006-10-04T00:00:00-0400'
+year: '2006'
+title: 'Giant-Size Wolverine (2006) #1'
+issue: 1
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/17247/mighty_avengers_2007_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Giant-Size Wolverine
+url: http://marvel.com/comics/issue/5217/giant-size_wolverine_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4d24f3d7dbe4d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4f7aff7e147a2
   extension: jpg
