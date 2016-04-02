@@ -1,12 +1,12 @@
 ---
-date: '1998-06-10T00:00:00-0400'
-year: '1998'
-title: 'Wolverine (1988) #125'
-issue: 125
+date: '2001-10-10T00:00:00-0400'
+year: '2001'
+title: 'Avengers (1998) #45'
+issue: 45
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14065/wolverine_1988_125?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17529/avengers_1998_45?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4d8b7c7be6571
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/20/4bb6ac4f47bdd
   extension: jpg
