@@ -1,12 +1,12 @@
 ---
-date: '2006-10-04T00:00:00-0400'
-year: '2006'
-title: 'Giant-Size Wolverine (2006) #1'
-issue: 1
+date: '2003-09-01T00:00:00-0400'
+year: '2003'
+title: 'Wolverine: Snikt! (2003) #3'
+issue: 3
 series:
-  period: '2006'
-  name: Giant-Size Wolverine
-url: http://marvel.com/comics/issue/5217/giant-size_wolverine_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: 'Wolverine: Snikt!'
+url: http://marvel.com/comics/issue/14532/wolverine_snikt_2003_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4f7aff7e147a2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc48138bbfd2
   extension: jpg
