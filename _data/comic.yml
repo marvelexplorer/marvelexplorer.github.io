@@ -1,12 +1,12 @@
 ---
-date: '2003-09-01T00:00:00-0400'
-year: '2003'
-title: 'Wolverine: Snikt! (2003) #3'
-issue: 3
+date: '2006-07-19T00:00:00-0400'
+year: '2006'
+title: 'New X-Men (2004) #28'
+issue: 28
 series:
-  period: '2003'
-  name: 'Wolverine: Snikt!'
-url: http://marvel.com/comics/issue/14532/wolverine_snikt_2003_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New X-Men
+url: http://marvel.com/comics/issue/4440/new_x-men_2004_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc48138bbfd2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4bc5da4e6afdf
   extension: jpg
