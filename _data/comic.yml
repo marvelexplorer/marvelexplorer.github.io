@@ -1,12 +1,12 @@
 ---
-date: '1999-07-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #4'
-issue: 4
+date: '2011-02-02T00:00:00-0500'
+year: '2011'
+title: 'Hulk (2008) #29'
+issue: 29
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8554/earth_x_1999_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Hulk
+url: http://marvel.com/comics/issue/30424/hulk_2008_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb7c457cc0ba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f5775a3884bc
   extension: jpg
