@@ -1,12 +1,12 @@
 ---
-date: '1974-10-10T00:00:00-0400'
-year: '1974'
-title: 'Incredible Hulk (1962) #180'
-issue: 180
+date: '2010-04-07T00:00:00-0400'
+year: '2010'
+title: 'Avengers: The Origin (2010) #1'
+issue: 1
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/8991/incredible_hulk_1962_180?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Avengers: The Origin'
+url: http://marvel.com/comics/issue/31151/avengers_the_origin_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f567d06a4d37
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4f7a0565ccef6
   extension: jpg
