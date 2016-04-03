@@ -1,12 +1,12 @@
 ---
-date: '2009-01-28T00:00:00-0500'
-year: '2009'
-title: 'Wolverine: First Class (2008) #11'
-issue: 11
+date: '2005-06-22T00:00:00-0400'
+year: '2005'
+title: 'Wolverine: Soultaker (2005) #5'
+issue: 5
 series:
-  period: '2008'
-  name: 'Wolverine: First Class'
-url: http://marvel.com/comics/issue/23138/wolverine_first_class_2008_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: 'Wolverine: Soultaker'
+url: http://marvel.com/comics/issue/2050/wolverine_soultaker_2005_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb60596b440d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/4bc6386699941
   extension: jpg
