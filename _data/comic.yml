@@ -1,12 +1,12 @@
 ---
-date: '2006-12-13T00:00:00-0500'
-year: '2006'
-title: 'Wolverine (2003) #49'
-issue: 49
+date: '1974-10-10T00:00:00-0400'
+year: '1974'
+title: 'Incredible Hulk (1962) #180'
+issue: 180
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/5675/wolverine_2003_49?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/8991/incredible_hulk_1962_180?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/51ed6981d25b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f567d06a4d37
   extension: jpg
