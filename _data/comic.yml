@@ -1,12 +1,12 @@
 ---
-date: '2008-12-03T00:00:00-0500'
+date: '2008-02-13T00:00:00-0500'
 year: '2008'
-title: 'Cable (2008) #9'
-issue: 9
+title: 'X-Force (2008) #1'
+issue: 1
 series:
   period: '2008'
-  name: Cable
-url: http://marvel.com/comics/issue/22930/cable_2008_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: X-Force
+url: http://marvel.com/comics/issue/20704/x-force_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4ea196645044e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/30/5351455482888
   extension: jpg
