@@ -1,12 +1,12 @@
 ---
-date: '2010-02-10T00:00:00-0500'
-year: '2010'
-title: 'Uncanny X-Men: First Class (2009) #8'
-issue: 8
+date: '1979-11-10T00:00:00-0500'
+year: '1979'
+title: 'Uncanny X-Men (1963) #127'
+issue: 127
 series:
-  period: '2009'
-  name: 'Uncanny X-Men: First Class'
-url: http://marvel.com/comics/issue/26989/uncanny_x-men_first_class_2009_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12444/uncanny_x-men_1963_127?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4badc8516375a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/5372aae4dcc77
   extension: jpg
