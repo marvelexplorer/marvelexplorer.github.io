@@ -1,12 +1,12 @@
 ---
-date: '2010-12-29T00:00:00-0500'
-year: '2010'
-title: 'Avengers (2010) #8'
-issue: 8
+date: '1971-02-10T00:00:00-0500'
+year: '1971'
+title: 'Uncanny X-Men (1963) #68'
+issue: 68
 series:
-  period: '2010'
-  name: Avengers
-url: http://marvel.com/comics/issue/29211/avengers_2010_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12519/uncanny_x-men_1963_68?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4f50e1b2854fa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4f67abd521481
   extension: jpg
