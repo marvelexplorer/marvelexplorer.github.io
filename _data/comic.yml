@@ -1,12 +1,12 @@
 ---
-date: '1991-03-10T00:00:00-0500'
-year: '1991'
-title: 'Fantastic Four (1961) #348'
-issue: 348
+date: '1983-10-10T00:00:00-0400'
+year: '1983'
+title: 'Alpha Flight (1983) #3'
+issue: 3
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13170/fantastic_four_1961_348?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1983'
+  name: Alpha Flight
+url: http://marvel.com/comics/issue/12690/alpha_flight_1983_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc4791e3915f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4bb81d6210d45
   extension: jpg
