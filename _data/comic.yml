@@ -1,12 +1,12 @@
 ---
-date: '2011-12-28T00:00:00-0500'
+date: '2011-04-27T00:00:00-0400'
 year: '2011'
-title: 'Marvel Adventures Spider-Man (2010) #21'
-issue: 21
+title: 'Avengers (2010) #12.1'
+issue: 12.1
 series:
   period: '2010'
-  name: Marvel Adventures Spider-Man
-url: http://marvel.com/comics/issue/36566/marvel_adventures_spider-man_2010_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Avengers
+url: http://marvel.com/comics/issue/39852/avengers_2010_12.1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/56b909ae58278
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4f512a2bde6a6
   extension: jpg
