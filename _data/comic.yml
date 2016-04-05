@@ -1,12 +1,12 @@
 ---
-date: '1984-06-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #2'
-issue: 2
+date: '1990-12-10T00:00:00-0500'
+year: '1990'
+title: 'Marvel Comics Presents (1988) #64'
+issue: 64
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10584/secret_wars_1984_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10146/marvel_comics_presents_1988_64?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f68c79059d1a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/4c36518648041
   extension: jpg
