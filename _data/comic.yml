@@ -1,12 +1,12 @@
 ---
-date: '1999-08-10T00:00:00-0400'
-year: '1999'
-title: 'Avengers Forever (1998) #9'
-issue: 9
+date: '2011-03-02T00:00:00-0500'
+year: '2011'
+title: 'Avengers Academy (2010) #10'
+issue: 10
 series:
-  period: '1998'
-  name: Avengers Forever
-url: http://marvel.com/comics/issue/12412/avengers_forever_1998_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Avengers Academy
+url: http://marvel.com/comics/issue/29214/avengers_academy_2010_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc47c7f39fd7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/51cca6f7a9b52
   extension: jpg
