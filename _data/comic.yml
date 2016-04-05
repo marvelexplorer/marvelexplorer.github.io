@@ -1,12 +1,12 @@
 ---
-date: '1985-01-10T00:00:00-0500'
-year: '1985'
-title: 'Secret Wars (1984) #9'
-issue: 9
+date: '1986-04-10T00:00:00-0500'
+year: '1986'
+title: 'Fantastic Four (1961) #289'
+issue: 289
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10591/secret_wars_1984_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13104/fantastic_four_1961_289?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f68cad931bc0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bb84fbd7f494
   extension: jpg
