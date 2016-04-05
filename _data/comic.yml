@@ -1,12 +1,12 @@
 ---
-date: '1990-01-01T00:00:00-0500'
-year: '1990'
-title: 'X-Factor Annual (1986) #5'
-issue: 5
+date: '1985-07-10T00:00:00-0400'
+year: '1985'
+title: 'Secret Wars II (1985) #1'
+issue: 1
 series:
-  period: '1986'
-  name: X-Factor Annual
-url: http://marvel.com/comics/issue/23513/x-factor_annual_1986_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1985'
+  name: Secret Wars II
+url: http://marvel.com/comics/issue/18884/secret_wars_ii_1985_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/52618bbeb7dd3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bb5cd6eade31
   extension: jpg
