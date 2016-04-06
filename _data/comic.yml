@@ -1,12 +1,12 @@
 ---
-date: '2007-09-19T00:00:00-0400'
-year: '2007'
-title: 'Marvel Adventures the Avengers (2006) #16'
-issue: 16
+date: '2005-09-14T00:00:00-0400'
+year: '2005'
+title: 'The Pulse (2004) #11'
+issue: 11
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/16511/marvel_adventures_the_avengers_2006_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: The Pulse
+url: http://marvel.com/comics/issue/2386/the_pulse_2004_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4f6392c7eba2a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/5653546c4c5b2
   extension: jpg
