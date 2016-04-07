@@ -1,12 +1,12 @@
 ---
-date: '1980-12-10T00:00:00-0500'
-year: '1980'
-title: 'Marvel Team-Up (1972) #100'
-issue: 100
+date: '2005-11-30T00:00:00-0500'
+year: '2005'
+title: 'X-Men (2004) #178'
+issue: 178
 series:
-  period: '1972'
-  name: Marvel Team-Up
-url: http://marvel.com/comics/issue/19577/marvel_team-up_1972_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/3028/x-men_2004_178?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4c7d470d2b7a6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc615c453633
   extension: jpg
