@@ -1,8 +1,7 @@
 ---
-name: Gwen Stacy
-description: Peter Parker's first true love, Gwen Stacy was killed during a rescue
-  attempt by Spider-Man, the guilt from which Peter has never overcome.
-url: http://marvel.com/universe/Stacy%2C_Gwen?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Daily Bugle
+description: ''
+url: http://marvel.com/universe/Daily_Bugle_%28Building%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/40/4c003ad20ab78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4ce5a31605544
   extension: jpg
