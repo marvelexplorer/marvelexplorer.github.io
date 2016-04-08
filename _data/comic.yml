@@ -1,12 +1,12 @@
 ---
-date: '1973-02-10T00:00:00-0500'
-year: '1973'
-title: 'Thor (1966) #208'
-issue: 208
+date: '2010-05-19T00:00:00-0400'
+year: '2010'
+title: 'Age of Heroes (2010) #1'
+issue: 1
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11536/thor_1966_208?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Age of Heroes
+url: http://marvel.com/comics/issue/30090/age_of_heroes_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/4e8b72346e498
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/56afac804fff2
   extension: jpg
