@@ -1,12 +1,12 @@
 ---
-date: '2006-06-14T00:00:00-0400'
-year: '2006'
-title: 'Sensational Spider-Man (2006) #27'
-issue: 27
+date: '2005-07-27T00:00:00-0400'
+year: '2005'
+title: 'Amazing Spider-Man (1999) #522'
+issue: 522
 series:
-  period: '2006'
-  name: Sensational Spider-Man
-url: http://marvel.com/comics/issue/4304/sensational_spider-man_2006_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/2212/amazing_spider-man_1999_522?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/80/4bc5e0d6a1cc2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/56cde6b7c2826
   extension: jpg
