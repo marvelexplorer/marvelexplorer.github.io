@@ -1,12 +1,12 @@
 ---
-date: '2010-05-19T00:00:00-0400'
-year: '2010'
-title: 'Age of Heroes (2010) #1'
-issue: 1
+date: '2011-10-19T00:00:00-0400'
+year: '2011'
+title: 'Wolverine (2010) #17'
+issue: 17
 series:
   period: '2010'
-  name: Age of Heroes
-url: http://marvel.com/comics/issue/30090/age_of_heroes_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Wolverine
+url: http://marvel.com/comics/issue/36469/wolverine_2010_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/56afac804fff2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/56b38da18b53f
   extension: jpg
