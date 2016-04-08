@@ -1,12 +1,12 @@
 ---
-date: '1990-02-20T00:00:00-0500'
-year: '1990'
-title: 'Marvel Comics Presents (1988) #44'
-issue: 44
+date: '2006-06-14T00:00:00-0400'
+year: '2006'
+title: 'Sensational Spider-Man (2006) #27'
+issue: 27
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10124/marvel_comics_presents_1988_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Sensational Spider-Man
+url: http://marvel.com/comics/issue/4304/sensational_spider-man_2006_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c364694700be
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/80/4bc5e0d6a1cc2
   extension: jpg
