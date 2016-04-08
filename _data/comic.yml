@@ -1,12 +1,12 @@
 ---
-date: '1973-05-10T00:00:00-0400'
-year: '1973'
-title: 'Daredevil (1964) #99'
-issue: 99
+date: '1970-09-10T00:00:00-0400'
+year: '1970'
+title: 'Avengers (1963) #80'
+issue: 80
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8452/daredevil_1964_99?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7333/avengers_1963_80?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/55785b7aa47bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4e9308242ab34
   extension: jpg
