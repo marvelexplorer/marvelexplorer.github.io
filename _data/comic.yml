@@ -1,12 +1,12 @@
 ---
-date: '1977-02-10T00:00:00-0500'
-year: '1977'
-title: 'Fantastic Four (1961) #179'
-issue: 179
+date: '2011-11-09T00:00:00-0500'
+year: '2011'
+title: 'Magneto: Not a Hero (2011) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/12982/fantastic_four_1961_179?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Magneto: Not a Hero'
+url: http://marvel.com/comics/issue/39737/magneto_not_a_hero_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/52617777baf25
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4eaae3ddd2b0f
   extension: jpg
