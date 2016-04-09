@@ -1,12 +1,12 @@
 ---
-date: '1970-09-10T00:00:00-0400'
-year: '1970'
-title: 'Avengers (1963) #80'
-issue: 80
+date: '2002-08-01T00:00:00-0400'
+year: '2002'
+title: 'Black Panther (1998) #45'
+issue: 45
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7333/avengers_1963_80?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Black Panther
+url: http://marvel.com/comics/issue/12614/black_panther_1998_45?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4e9308242ab34
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc34c2218d7f
   extension: jpg
