@@ -1,12 +1,12 @@
 ---
-date: '2010-12-15T00:00:00-0500'
-year: '2010'
-title: 'Wolverine (2010) #4'
-issue: 4
+date: '1985-02-10T00:00:00-0500'
+year: '1985'
+title: 'Uncanny X-Men (1963) #190'
+issue: 190
 series:
-  period: '2010'
-  name: Wolverine
-url: http://marvel.com/comics/issue/30230/wolverine_2010_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13731/uncanny_x-men_1963_190?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4f68b4ec2915e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/51117e6801419
   extension: jpg
