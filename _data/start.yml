@@ -1,7 +1,9 @@
 ---
-name: Rogue (Age of Apocalypse)
-description: ''
-url: http://marvel.com/universe/Rogue_%28Age_of_Apocalypse%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Wild Child (Age of Apocalypse)
+description: Kyle Gibney was one of the original volunteers for Beta Flight, Canada's
+  attempt at building a super soldier program to secure their borders against the
+  onslaught of Apocalypse and his Infinite soldiers.
+url: http://marvel.com/universe/Wild_Child_%28Age_of_Apocalypse%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/528d36d415498
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/528d36110a1b9
   extension: jpg
