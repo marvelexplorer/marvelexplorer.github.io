@@ -1,12 +1,12 @@
 ---
-date: '1986-04-10T00:00:00-0500'
-year: '1986'
-title: 'New Mutants (1983) #38'
-issue: 38
+date: '1982-05-10T00:00:00-0400'
+year: '1982'
+title: 'Fantastic Four (1961) #242'
+issue: 242
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10375/new_mutants_1983_38?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13053/fantastic_four_1961_242?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/4bae3cf3c53cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bb79bcad4004
   extension: jpg
