@@ -1,12 +1,12 @@
 ---
-date: '2011-11-09T00:00:00-0500'
-year: '2011'
-title: 'Magneto: Not a Hero (2011) #1'
-issue: 1
+date: '2002-01-01T00:00:00-0500'
+year: '2002'
+title: 'New X-Men (2001) #120'
+issue: 120
 series:
-  period: '2011'
-  name: 'Magneto: Not a Hero'
-url: http://marvel.com/comics/issue/39737/magneto_not_a_hero_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14939/new_x-men_2001_120?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4eaae3ddd2b0f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c35ef4beac75
   extension: jpg
