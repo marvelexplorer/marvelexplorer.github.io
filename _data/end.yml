@@ -1,7 +1,8 @@
 ---
-name: Deadpool
-description: ''
-url: http://marvel.com/universe/Deadpool_(Wade_Wilson)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Bob, Agent of Hydra
+description: A cowardly young man, Bob was persuaded into joining the criminal organization
+  HYDRA and has had numerous encounters with Deadpool and other Marvel heroes.
+url: http://marvel.com/universe/Bob,_Agent_of_Hydra?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4ce5a4c2cd41b
   extension: jpg
