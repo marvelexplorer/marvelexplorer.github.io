@@ -1,12 +1,12 @@
 ---
-date: '2005-01-05T00:00:00-0500'
-year: '2005'
-title: 'X-Men/Fantastic Four (2004) #2'
-issue: 2
+date: '1973-12-10T00:00:00-0500'
+year: '1973'
+title: 'Uncanny X-Men (1963) #85'
+issue: 85
 series:
-  period: '2004'
-  name: X-Men/Fantastic Four
-url: http://marvel.com/comics/issue/1538/x-menfantastic_four_2004_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12538/uncanny_x-men_1963_85?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/53518c9fa208c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/4f67a86841695
   extension: jpg
