@@ -1,12 +1,12 @@
 ---
-date: '2012-01-18T00:00:00-0500'
-year: '2012'
-title: 'Daredevil (2011) #8'
-issue: 8
+date: '2010-02-24T00:00:00-0500'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #622'
+issue: 622
 series:
-  period: '2011'
-  name: Daredevil
-url: http://marvel.com/comics/issue/36512/daredevil_2011_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/28227/amazing_spider-man_1999_622?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/56bb6074022f2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4e84c0b87f6fa
   extension: jpg
