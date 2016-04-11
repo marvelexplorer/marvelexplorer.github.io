@@ -1,12 +1,12 @@
 ---
-date: '2005-11-09T00:00:00-0500'
-year: '2005'
-title: 'Friendly Neighborhood Spider-Man (2005) #2'
-issue: 2
+date: '2012-01-18T00:00:00-0500'
+year: '2012'
+title: 'Daredevil (2011) #8'
+issue: 8
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/3021/friendly_neighborhood_spider-man_2005_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Daredevil
+url: http://marvel.com/comics/issue/36512/daredevil_2011_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/56a8f84d6bc30
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/56bb6074022f2
   extension: jpg
