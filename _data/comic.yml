@@ -1,12 +1,12 @@
 ---
-date: '2001-12-10T00:00:00-0500'
-year: '2001'
-title: 'Black Panther (1998) #36'
-issue: 36
+date: '2005-11-09T00:00:00-0500'
+year: '2005'
+title: 'Friendly Neighborhood Spider-Man (2005) #2'
+issue: 2
 series:
-  period: '1998'
-  name: Black Panther
-url: http://marvel.com/comics/issue/12604/black_panther_1998_36?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Friendly Neighborhood Spider-Man
+url: http://marvel.com/comics/issue/3021/friendly_neighborhood_spider-man_2005_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/568ed02b3b2c3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/56a8f84d6bc30
   extension: jpg
