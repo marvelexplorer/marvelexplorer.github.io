@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 6
-- name: Iron Man
-  score: 4
 - name: Wolverine
   score: 4
 - name: X-Men
   score: 4
+- name: Iron Man
+  score: 3
 - name: Hank Pym
   score: 3
