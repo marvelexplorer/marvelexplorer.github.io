@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 7
-- name: Wolverine
-  score: 4
+  score: 8
 - name: X-Men
   score: 4
 - name: Captain America
   score: 4
 - name: Thor
   score: 4
+- name: Iron Man
+  score: 3
