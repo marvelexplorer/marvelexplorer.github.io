@@ -1,12 +1,12 @@
 ---
-date: '2010-02-10T00:00:00-0500'
-year: '2010'
-title: 'Dark X-Men (2009) #4'
-issue: 4
+date: '2009-08-12T00:00:00-0400'
+year: '2009'
+title: 'Uncanny X-Men (1963) #514'
+issue: 514
 series:
-  period: '2009'
-  name: Dark X-Men
-url: http://marvel.com/comics/issue/28690/dark_x-men_2009_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/26967/uncanny_x-men_1963_514?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4bab8df9764ce
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/513f4ecb75399
   extension: jpg
