@@ -1,12 +1,12 @@
 ---
-date: '2003-07-01T00:00:00-0400'
-year: '2003'
-title: 'Paradise X (2002) #11'
-issue: 11
+date: '2008-03-12T00:00:00-0400'
+year: '2008'
+title: 'The Last Defenders (2008) #1'
+issue: 1
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10495/paradise_x_2002_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: The Last Defenders
+url: http://marvel.com/comics/issue/20900/the_last_defenders_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c360600976ce
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bb88f09e9e2e
   extension: jpg
