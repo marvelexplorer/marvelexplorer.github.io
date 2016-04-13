@@ -1,12 +1,12 @@
 ---
-date: '1989-05-10T00:00:00-0400'
-year: '1989'
-title: 'Classic X-Men (1986) #33'
-issue: 33
+date: '2005-03-30T00:00:00-0500'
+year: '2005'
+title: 'Astonishing X-Men (2004) #9'
+issue: 9
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20589/classic_x-men_1986_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/1626/astonishing_x-men_2004_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/569ea8331c36b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/56ddf1e7a799a
   extension: jpg
