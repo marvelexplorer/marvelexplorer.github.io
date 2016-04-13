@@ -1,12 +1,12 @@
 ---
-date: '2005-03-30T00:00:00-0500'
-year: '2005'
-title: 'Astonishing X-Men (2004) #9'
-issue: 9
+date: '2010-02-10T00:00:00-0500'
+year: '2010'
+title: 'Dark X-Men (2009) #4'
+issue: 4
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/1626/astonishing_x-men_2004_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Dark X-Men
+url: http://marvel.com/comics/issue/28690/dark_x-men_2009_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/56ddf1e7a799a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4bab8df9764ce
   extension: jpg
