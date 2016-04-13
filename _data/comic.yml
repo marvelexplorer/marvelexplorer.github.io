@@ -1,12 +1,12 @@
 ---
-date: '2010-06-16T00:00:00-0400'
-year: '2010'
-title: 'Age of Heroes (2010) #2'
-issue: 2
+date: '2006-07-05T00:00:00-0400'
+year: '2006'
+title: 'Beyond! (2006) #1'
+issue: 1
 series:
-  period: '2010'
-  name: Age of Heroes
-url: http://marvel.com/comics/issue/33566/age_of_heroes_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Beyond!
+url: http://marvel.com/comics/issue/4447/beyond_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/56afaf31b0b7f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/56dd9dbc2e44a
   extension: jpg
