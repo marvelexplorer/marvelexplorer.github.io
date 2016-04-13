@@ -3,9 +3,9 @@
   score: 8
 - name: Captain America
   score: 4
-- name: Thor
-  score: 4
 - name: Fantastic Four
   score: 4
 - name: Hank Pym
+  score: 3
+- name: Thor
   score: 3
