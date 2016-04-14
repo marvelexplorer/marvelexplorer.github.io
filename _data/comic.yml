@@ -1,12 +1,12 @@
 ---
-date: '2011-10-12T00:00:00-0400'
-year: '2011'
-title: 'Marvel Adventures Super Heroes (2010) #19'
-issue: 19
+date: '1998-08-10T00:00:00-0400'
+year: '1998'
+title: 'Avengers (1998) #7'
+issue: 7
 series:
-  period: '2010'
-  name: Marvel Adventures Super Heroes
-url: http://marvel.com/comics/issue/36747/marvel_adventures_super_heroes_2010_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17556/avengers_1998_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4e8b6ac0bf51d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4bb6bd139b32a
   extension: jpg
