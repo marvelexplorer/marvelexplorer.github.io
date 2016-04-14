@@ -1,10 +1,7 @@
 ---
-name: Stranger
-description: By his own account, the Stranger is a composite being possessing the
-  combined strength and intellect of the billions of humanoid beings who once lived
-  on the planet Gigantus, an ancient world in the Andromeda Galaxy whose size approached
-  the limit at which a planet can exist before fissioning into a sun.
-url: http://marvel.com/universe/Stranger?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Hank Pym
+description: " "
+url: http://marvel.com/universe/Wasp_(Henry_Pym)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0030fd08ad6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5205305343bfd
   extension: jpg
