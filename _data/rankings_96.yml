@@ -1,11 +1,11 @@
 ---
 - name: Mr. Fantastic
   score: 4
-- name: Thor
-  score: 4
 - name: Captain America
   score: 4
 - name: Black Cat
   score: 3
 - name: Spider-Man
+  score: 3
+- name: Odin
   score: 3
