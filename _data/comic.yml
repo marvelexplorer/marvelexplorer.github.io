@@ -1,12 +1,12 @@
 ---
-date: '2010-11-03T00:00:00-0400'
-year: '2010'
-title: 'Hawkeye & Mockingbird (2010) #6'
-issue: 6
+date: '2011-08-10T00:00:00-0400'
+year: '2011'
+title: 'Amazing Spider-Man (1999) #667'
+issue: 667
 series:
-  period: '2010'
-  name: Hawkeye & Mockingbird
-url: http://marvel.com/comics/issue/29883/hawkeye_mockingbird_2010_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/35528/amazing_spider-man_1999_667?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/4f578f1c6fb59
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/40/4ea02da1ac7a5
   extension: jpg
