@@ -1,12 +1,12 @@
 ---
-date: '1992-01-10T00:00:00-0500'
-year: '1992'
-title: 'Captain America (1968) #396'
-issue: 396
+date: '2007-05-23T00:00:00-0400'
+year: '2007'
+title: 'Captain America (2004) #26'
+issue: 26
 series:
-  period: '1968'
+  period: '2004'
   name: Captain America
-url: http://marvel.com/comics/issue/7777/captain_america_1968_396?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6152/captain_america_2004_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5294f4a65d3fe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f75ae9b534a4
   extension: jpg
