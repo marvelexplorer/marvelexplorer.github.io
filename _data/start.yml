@@ -1,7 +1,9 @@
 ---
-name: Juggernaut
-description: ''
-url: http://marvel.com/universe/Juggernaut_(Cain_Marko)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Shatterstar
+description: Shatterstar is Gaveedra Seven, the product of bio-engineering on an otherdimensional
+  world, who was at one point merged with an Earth mutant named Benjamin Russell,
+  the nature of whose genetic mutation remains unknown.
+url: http://marvel.com/universe/Shatterstar?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/528d340442cca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c003c21cd9e1
   extension: jpg
