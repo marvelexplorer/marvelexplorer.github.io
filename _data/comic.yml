@@ -1,12 +1,12 @@
 ---
-date: '2009-01-14T00:00:00-0500'
-year: '2009'
-title: 'X-Men/Spider-Man (2008) #3'
-issue: 3
+date: '2011-11-02T00:00:00-0400'
+year: '2011'
+title: 'X-23 (2010) #16'
+issue: 16
 series:
-  period: '2008'
-  name: X-Men/Spider-Man
-url: http://marvel.com/comics/issue/23133/x-menspider-man_2008_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: X-23
+url: http://marvel.com/comics/issue/36460/x-23_2010_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/50/4bb605abc024e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/51eeb3e4405a6
   extension: jpg
