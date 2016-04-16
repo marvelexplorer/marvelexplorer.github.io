@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 4
+  score: 5
 - name: Victor Mancha
   score: 3
 - name: Molly Hayes
   score: 3
 - name: Mr. Fantastic
   score: 3
-- name: Thor
+- name: Captain America
   score: 3
