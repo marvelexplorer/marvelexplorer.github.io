@@ -1,12 +1,12 @@
 ---
-date: '1983-08-10T00:00:00-0400'
-year: '1983'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #81'
-issue: 81
+date: '2001-03-01T00:00:00-0500'
+year: '2001'
+title: 'Marvel Knights (2000) #9'
+issue: 9
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14785/peter_parker_the_spectacular_spider-man_1976_81?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Marvel Knights
+url: http://marvel.com/comics/issue/16069/marvel_knights_2000_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/40/50b41b137b440
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc36a13249d5
   extension: jpg
