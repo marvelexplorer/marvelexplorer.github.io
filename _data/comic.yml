@@ -1,12 +1,12 @@
 ---
-date: '2011-06-01T00:00:00-0400'
-year: '2011'
-title: 'Amazing Spider-Man (1999) #663'
-issue: 663
+date: '1983-08-10T00:00:00-0400'
+year: '1983'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #81'
+issue: 81
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/35501/amazing_spider-man_1999_663?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14785/peter_parker_the_spectacular_spider-man_1976_81?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4e9f34ae58c5b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/40/50b41b137b440
   extension: jpg
