@@ -1,12 +1,12 @@
 ---
-date: '1987-10-10T00:00:00-0400'
-year: '1987'
-title: 'Avengers (1963) #284'
-issue: 284
+date: '1975-08-01T00:00:00-0400'
+year: '1975'
+title: 'Avengers (1963) #138'
+issue: 138
 series:
   period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/7157/avengers_1963_284?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6995/avengers_1963_138?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e95df8261f16
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/4e8f055141e93
   extension: jpg
