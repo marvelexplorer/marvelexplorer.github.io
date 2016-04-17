@@ -1,12 +1,12 @@
 ---
-date: '1997-01-10T00:00:00-0500'
-year: '1997'
-title: 'Avengers (1996) #3'
-issue: 3
+date: '2005-01-12T00:00:00-0500'
+year: '2005'
+title: 'New Thunderbolts (2004) #4'
+issue: 4
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17757/avengers_1996_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Thunderbolts
+url: http://marvel.com/comics/issue/1556/new_thunderbolts_2004_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb846870f7a7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc65660b97d5
   extension: jpg
