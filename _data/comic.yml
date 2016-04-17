@@ -1,12 +1,12 @@
 ---
-date: '2010-03-31T00:00:00-0400'
-year: '2010'
-title: 'X-Men: Second Coming (2010) #1'
-issue: 1
+date: '1992-01-01T00:00:00-0500'
+year: '1992'
+title: 'Wolverine (1988) #50'
+issue: 50
 series:
-  period: '2010'
-  name: 'X-Men: Second Coming'
-url: http://marvel.com/comics/issue/30274/x-men_second_coming_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14171/wolverine_1988_50?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/513a6ca9481a8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bb79a8a6dbd4
   extension: jpg
