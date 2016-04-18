@@ -1,12 +1,12 @@
 ---
-date: '2011-03-16T00:00:00-0400'
-year: '2011'
-title: 'Thunderbolts (2006) #155'
-issue: 155
+date: '2000-12-10T00:00:00-0500'
+year: '2000'
+title: 'Maximum Security (2000) #2'
+issue: 2
 series:
-  period: '2006'
-  name: Thunderbolts
-url: http://marvel.com/comics/issue/37336/thunderbolts_2006_155?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Maximum Security
+url: http://marvel.com/comics/issue/10285/maximum_security_2000_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d7a33c60399c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/5398638f5c6fc
   extension: jpg
