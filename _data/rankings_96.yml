@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 6
+  score: 7
 - name: Captain America
   score: 4
-- name: Molly Hayes
-  score: 3
 - name: Wasp
   score: 3
 - name: Thor
+  score: 3
+- name: X-Men
   score: 3
