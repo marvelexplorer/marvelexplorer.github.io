@@ -1,12 +1,12 @@
 ---
-date: '1983-09-10T00:00:00-0400'
-year: '1983'
-title: 'Amazing Spider-Man (1963) #244'
-issue: 244
+date: '1970-06-10T00:00:00-0400'
+year: '1970'
+title: 'Amazing Spider-Man (1963) #85'
+issue: 85
 series:
   period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6643/amazing_spider-man_1963_244?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6907/amazing_spider-man_1963_85?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/5167281ba531e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bc33ab64c5a2
   extension: jpg
