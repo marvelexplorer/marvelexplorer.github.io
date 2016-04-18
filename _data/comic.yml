@@ -1,12 +1,12 @@
 ---
-date: '1988-12-10T00:00:00-0500'
-year: '1988'
-title: 'Daredevil (1964) #261'
-issue: 261
+date: '1984-11-10T00:00:00-0500'
+year: '1984'
+title: 'Avengers (1963) #249'
+issue: 249
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8253/daredevil_1964_261?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7118/avengers_1963_249?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/e0/4bc47989b8e97
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4d4c31148a4d5
   extension: jpg
