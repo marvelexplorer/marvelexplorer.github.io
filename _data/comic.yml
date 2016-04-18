@@ -1,12 +1,12 @@
 ---
-date: '2001-07-01T00:00:00-0400'
-year: '2001'
-title: 'Daredevil (1998) #18'
-issue: 18
+date: '2003-05-01T00:00:00-0400'
+year: '2003'
+title: 'Daredevil (1998) #45'
+issue: 45
 series:
   period: '1998'
   name: Daredevil
-url: http://marvel.com/comics/issue/15618/daredevil_1998_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/15648/daredevil_1998_45?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5632745cea86d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4c35ec70c884c
   extension: jpg
