@@ -1,12 +1,12 @@
 ---
-date: '1970-12-10T00:00:00-0500'
-year: '1970'
-title: 'Uncanny X-Men (1963) #67'
-issue: 67
+date: '1991-05-10T00:00:00-0400'
+year: '1991'
+title: 'Fantastic Four (1961) #352'
+issue: 352
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12518/uncanny_x-men_1963_67?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13175/fantastic_four_1961_352?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/4f67bce2789b7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4badd49b84dff
   extension: jpg
