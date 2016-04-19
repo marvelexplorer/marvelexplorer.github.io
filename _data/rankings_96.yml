@@ -1,10 +1,10 @@
 ---
 - name: Spider-Man
   score: 9
-- name: Captain America
-  score: 4
 - name: Daredevil
   score: 4
+- name: Captain America
+  score: 3
 - name: Wasp
   score: 3
 - name: Thor
