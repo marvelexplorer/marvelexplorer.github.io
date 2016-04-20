@@ -1,10 +1,10 @@
 ---
-name: Thor
-description: As the Norse God of thunder and lightning, Thor wields one of the greatest
-  weapons ever made, the enchanted hammer Mjolnir. While others have described Thor
-  as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured,
-  and he would never, ever stop fighting for a worthwhile cause.
-url: http://marvel.com/universe/Thor_(Thor_Odinson)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: She-Hulk (Jennifer Walters)
+description: Seriously wounded, young lawyer Jennifer Walters was given a blood transfusion
+  by her cousin Bruce Banner. Usually in better control of her powers and temper than
+  the Hulk, She-Hulk has been a high profile New York lawyer as well as an upstanding
+  member of both the Avengers and Fantastic Four.
+url: http://marvel.com/universe/She-Hulk_(Jennifer_Walters)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/527bb5d64599e
   extension: jpg
