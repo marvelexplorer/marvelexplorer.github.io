@@ -1,12 +1,12 @@
 ---
-date: '2005-06-29T00:00:00-0400'
-year: '2005'
-title: 'Fantastic Four (1998) #528'
-issue: 528
+date: '1984-12-10T00:00:00-0500'
+year: '1984'
+title: 'Fantastic Four (1961) #273'
+issue: 273
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/2044/fantastic_four_1998_528?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13087/fantastic_four_1961_273?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc6387ece823
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bacf64a474a5
   extension: jpg
