@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 6
-- name: Iceman
-  score: 3
 - name: Reptil
   score: 3
 - name: Daredevil
   score: 3
 - name: Cyclops
+  score: 3
+- name: Wolverine
   score: 3
