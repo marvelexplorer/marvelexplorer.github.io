@@ -1,12 +1,12 @@
 ---
-date: '2009-03-11T00:00:00-0400'
-year: '2009'
-title: 'Adam: Legend of the Blue Marvel (2008) #5'
-issue: 5
+date: '2007-09-12T00:00:00-0400'
+year: '2007'
+title: 'Thor (2007) #3'
+issue: 3
 series:
-  period: '2008'
-  name: 'Adam: Legend of the Blue Marvel'
-url: http://marvel.com/comics/issue/23733/adam_legend_of_the_blue_marvel_2008_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Thor
+url: http://marvel.com/comics/issue/16479/thor_2007_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/e0/56afc989993c6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/5140b2138511a
   extension: jpg
