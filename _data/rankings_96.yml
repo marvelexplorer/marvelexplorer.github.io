@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 6
+  score: 5
+- name: Human Torch
+  score: 4
 - name: Reptil
   score: 3
 - name: Daredevil
   score: 3
 - name: Cyclops
-  score: 3
-- name: Wolverine
   score: 3
