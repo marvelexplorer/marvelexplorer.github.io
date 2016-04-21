@@ -1,12 +1,12 @@
 ---
-date: '2000-09-10T00:00:00-0400'
-year: '2000'
-title: 'Fantastic Four (1998) #33'
-issue: 33
+date: '1987-07-10T00:00:00-0400'
+year: '1987'
+title: 'Fantastic Four (1961) #304'
+issue: 304
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/15553/fantastic_four_1998_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13122/fantastic_four_1961_304?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/51bb3394cc21d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537669afd052d
   extension: jpg
