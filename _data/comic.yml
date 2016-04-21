@@ -1,12 +1,12 @@
 ---
-date: '1965-02-10T00:00:00-0500'
-year: '1965'
-title: 'Fantastic Four (1961) #35'
-issue: 35
+date: '1987-10-10T00:00:00-0400'
+year: '1987'
+title: 'Fantastic Four (1961) #307'
+issue: 307
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13172/fantastic_four_1961_35?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13125/fantastic_four_1961_307?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/536d55017df21
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/50ad487f5811e
   extension: jpg
