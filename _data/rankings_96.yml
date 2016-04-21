@@ -1,9 +1,9 @@
 ---
 - name: Human Torch
   score: 5
-- name: Spider-Man
-  score: 4
 - name: Fantastic Four
+  score: 5
+- name: Spider-Man
   score: 4
 - name: Reptil
   score: 3
