@@ -1,12 +1,12 @@
 ---
-date: '1940-10-01T00:00:00-0500'
-year: '1940'
-title: 'Marvel Mystery Comics (1939) #12'
-issue: 12
+date: '1965-02-10T00:00:00-0500'
+year: '1965'
+title: 'Fantastic Four (1961) #35'
+issue: 35
 series:
-  period: '1939'
-  name: Marvel Mystery Comics
-url: http://marvel.com/comics/issue/16717/marvel_mystery_comics_1939_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13172/fantastic_four_1961_35?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bb5b7885f8cb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/536d55017df21
   extension: jpg
