@@ -1,12 +1,12 @@
 ---
-date: '1993-02-01T00:00:00-0500'
-year: '1993'
-title: 'Fantastic Four (1961) #373'
-issue: 373
+date: '2011-01-12T00:00:00-0500'
+year: '2011'
+title: 'Heroes for Hire (2010) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13198/fantastic_four_1961_373?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Heroes for Hire
+url: http://marvel.com/comics/issue/37196/heroes_for_hire_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/52616320f31cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56438da1df862
   extension: jpg
