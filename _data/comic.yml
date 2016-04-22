@@ -1,12 +1,12 @@
 ---
-date: '1994-02-10T00:00:00-0500'
-year: '1994'
-title: 'Daredevil (1964) #325'
-issue: 325
+date: '1976-08-10T00:00:00-0400'
+year: '1976'
+title: 'Iron Man (1968) #89'
+issue: 89
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8324/daredevil_1964_325?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9647/iron_man_1968_89?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/55784e518a6d6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/50adb5c1aa9a9
   extension: jpg
