@@ -1,12 +1,12 @@
 ---
-date: '1983-08-10T00:00:00-0400'
-year: '1983'
-title: 'Alpha Flight (1983) #1'
-issue: 1
+date: '2005-03-30T00:00:00-0500'
+year: '2005'
+title: 'Fantastic Four (1998) #524'
+issue: 524
 series:
-  period: '1983'
-  name: Alpha Flight
-url: http://marvel.com/comics/issue/12637/alpha_flight_1983_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/1709/fantastic_four_1998_524?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f68cc45e5d40
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc64c87bc6cb
   extension: jpg
