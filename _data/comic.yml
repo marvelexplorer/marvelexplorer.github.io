@@ -1,12 +1,12 @@
 ---
-date: '2011-01-12T00:00:00-0500'
-year: '2011'
-title: 'Heroes for Hire (2010) #2'
-issue: 2
+date: '2012-01-11T00:00:00-0500'
+year: '2012'
+title: 'Ghost Rider: Cycle of Vengeance (2011) #1'
+issue: 1
 series:
-  period: '2010'
-  name: Heroes for Hire
-url: http://marvel.com/comics/issue/37196/heroes_for_hire_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Ghost Rider: Cycle of Vengeance'
+url: http://marvel.com/comics/issue/41576/ghost_rider_cycle_of_vengeance_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56438da1df862
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/56bb563c4cad9
   extension: jpg
