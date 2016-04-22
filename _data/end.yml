@@ -1,7 +1,9 @@
 ---
-name: Ghost Rider (Daniel Ketch)
-description: ''
-url: http://marvel.com/universe/Ghost_Rider_(Daniel_Ketch)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Franklin Richards
+description: The son of Reed Richards and Susan Storm of the Fantastic Four, Franklin
+  may one day be the most powerful person on Earth. Right now, he's the son of a genius
+  who finds adventure and fun around every corner.
+url: http://marvel.com/universe/Richards%2C_Franklin?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/535fedbaaf234
   extension: jpg
