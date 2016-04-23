@@ -1,12 +1,12 @@
 ---
-date: '1973-11-10T00:00:00-0500'
-year: '1973'
-title: 'Captain Marvel (1968) #29'
-issue: 29
+date: '1999-12-01T00:00:00-0500'
+year: '1999'
+title: 'Captain Marvel (2000) #2'
+issue: 2
 series:
-  period: '1968'
+  period: '2000'
   name: Captain Marvel
-url: http://marvel.com/comics/issue/8018/captain_marvel_1968_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/20549/captain_marvel_2000_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb5efec30339
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb65b57b0238
   extension: jpg
