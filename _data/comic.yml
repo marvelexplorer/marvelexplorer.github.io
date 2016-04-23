@@ -1,12 +1,12 @@
 ---
-date: '2005-07-06T00:00:00-0400'
-year: '2005'
-title: 'House of M (2005) #3'
-issue: 3
+date: '1994-10-10T00:00:00-0400'
+year: '1994'
+title: 'Amazing Spider-Man (1963) #394'
+issue: 394
 series:
-  period: '2005'
-  name: House of M
-url: http://marvel.com/comics/issue/2198/house_of_m_2005_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6809/amazing_spider-man_1963_394?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/4d49e1880027d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5155ee5a3d6d8
   extension: jpg
