@@ -1,12 +1,12 @@
 ---
-date: '2005-11-30T00:00:00-0500'
-year: '2005'
-title: 'New Avengers (2004) #13'
-issue: 13
+date: '1997-12-10T00:00:00-0500'
+year: '1997'
+title: 'Deadpool (1997) #11'
+issue: 11
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/3004/new_avengers_2004_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1997'
+  name: Deadpool
+url: http://marvel.com/comics/issue/8464/deadpool_1997_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f7e028703618
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/51b76248d8180
   extension: jpg
