@@ -1,12 +1,12 @@
 ---
-date: '1941-12-01T00:00:00-0500'
-year: '1941'
-title: 'Captain America Comics (1941) #9'
-issue: 9
+date: '2006-04-26T00:00:00-0400'
+year: '2006'
+title: 'Amazing Spider-Man (1999) #531'
+issue: 531
 series:
-  period: '1941'
-  name: Captain America Comics
-url: http://marvel.com/comics/issue/7923/captain_america_comics_1941_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/4065/amazing_spider-man_1999_531?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/50b44f93bed8e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/4f68e4809c9d4
   extension: jpg
