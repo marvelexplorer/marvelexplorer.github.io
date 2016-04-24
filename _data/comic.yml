@@ -1,12 +1,12 @@
 ---
-date: '1999-08-10T00:00:00-0400'
-year: '1999'
-title: 'Captain America (1998) #20'
-issue: 20
+date: '1989-11-20T00:00:00-0500'
+year: '1989'
+title: 'Captain America (1968) #362'
+issue: 362
 series:
-  period: '1998'
+  period: '1968'
   name: Captain America
-url: http://marvel.com/comics/issue/12779/captain_america_1998_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7743/captain_america_1968_362?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4e861e52dd62a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f20779a8c6a9
   extension: jpg
