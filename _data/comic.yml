@@ -1,12 +1,12 @@
 ---
-date: '2011-12-28T00:00:00-0500'
-year: '2011'
-title: 'Avengers: The Children''s Crusade (2010) #8'
-issue: 8
+date: '2005-11-30T00:00:00-0500'
+year: '2005'
+title: 'New Avengers (2004) #13'
+issue: 13
 series:
-  period: '2010'
-  name: 'Avengers: The Children''s Crusade'
-url: http://marvel.com/comics/issue/31148/avengers_the_childrens_crusade_2010_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/3004/new_avengers_2004_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/10/514a0aea7b20c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f7e028703618
   extension: jpg
