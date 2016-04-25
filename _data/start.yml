@@ -1,9 +1,10 @@
 ---
-name: Thanos
-description: The Mad Titan Thanos, a melancholy, brooding individual, consumed with
-  the concept of death, sought out personal power and increased strength, endowing
-  himself with cybernetic implants until he became more powerful than any of his brethren.
-url: http://marvel.com/universe/Thanos?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Hulk
+description: Caught in a gamma bomb explosion while trying to save the life of a teenager,
+  Dr. Bruce Banner was transformed into the incredibly powerful creature called the
+  Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger
+  the Hulk gets.
+url: http://marvel.com/universe/Hulk_(Bruce_Banner)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0
   extension: jpg
