@@ -1,12 +1,12 @@
 ---
-date: '1965-01-10T00:00:00-0500'
-year: '1965'
-title: 'Avengers (1963) #12'
-issue: 12
+date: '2007-04-25T00:00:00-0400'
+year: '2007'
+title: 'Wolverine (2003) #53'
+issue: 53
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/6975/avengers_1963_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/6340/wolverine_2003_53?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4e8f20ca8724a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4d2518233bc20
   extension: jpg
