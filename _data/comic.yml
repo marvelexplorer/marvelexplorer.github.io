@@ -1,12 +1,12 @@
 ---
-date: '2006-11-01T00:00:00-0500'
-year: '2006'
-title: 'She-Hulk (2005) #13'
-issue: 13
+date: '2003-02-01T00:00:00-0500'
+year: '2003'
+title: 'Paradise X (2002) #8'
+issue: 8
 series:
-  period: '2005'
-  name: She-Hulk
-url: http://marvel.com/comics/issue/5294/she-hulk_2005_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10503/paradise_x_2002_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc5bfc150fc6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4c36038fe6ddb
   extension: jpg
