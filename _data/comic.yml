@@ -1,12 +1,12 @@
 ---
-date: '2008-01-16T00:00:00-0500'
-year: '2008'
-title: 'Marvel Adventures the Avengers (2006) #20'
-issue: 20
+date: '2002-04-01T00:00:00-0500'
+year: '2002'
+title: 'Avengers (1998) #51'
+issue: 51
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/17621/marvel_adventures_the_avengers_2006_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17536/avengers_1998_51?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4f639cb66e407
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/50b3a19f14d90
   extension: jpg
