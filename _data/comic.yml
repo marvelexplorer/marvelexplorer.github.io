@@ -1,12 +1,12 @@
 ---
-date: '2009-04-01T00:00:00-0400'
-year: '2009'
-title: 'Astonishing Tales (2009) #3'
-issue: 3
+date: '1976-11-10T00:00:00-0500'
+year: '1976'
+title: 'Amazing Spider-Man (1963) #162'
+issue: 162
 series:
-  period: '2009'
-  name: Astonishing Tales
-url: http://marvel.com/comics/issue/23996/astonishing_tales_2009_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6552/amazing_spider-man_1963_162?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bb4058f2ecca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4d1fe1dc6dd02
   extension: jpg
