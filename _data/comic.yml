@@ -1,12 +1,12 @@
 ---
-date: '1983-09-10T00:00:00-0400'
-year: '1983'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #82'
-issue: 82
+date: '1980-01-10T00:00:00-0500'
+year: '1980'
+title: 'Captain America (1968) #241'
+issue: 241
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14786/peter_parker_the_spectacular_spider-man_1976_82?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7622/captain_america_1968_241?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/50b41ac929c9c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/526173f28d678
   extension: jpg
