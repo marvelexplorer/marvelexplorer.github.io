@@ -1,12 +1,12 @@
 ---
-date: '1999-08-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #5'
-issue: 5
+date: '2005-09-21T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #10'
+issue: 10
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8555/earth_x_1999_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/2626/new_avengers_2004_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bb7c32033b26
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/4f7dfbda0e3b9
   extension: jpg
