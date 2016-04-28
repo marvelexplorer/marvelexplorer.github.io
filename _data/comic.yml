@@ -1,12 +1,12 @@
 ---
-date: '1974-03-10T00:00:00-0400'
-year: '1974'
-title: 'Captain America (1968) #171'
-issue: 171
+date: '2011-02-02T00:00:00-0500'
+year: '2011'
+title: 'Captain America: Hail Hydra (2010) #2'
+issue: 2
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7552/captain_america_1968_171?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Captain America: Hail Hydra'
+url: http://marvel.com/comics/issue/36394/captain_america_hail_hydra_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bb6f961d74b8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4f623be09ae7e
   extension: jpg
