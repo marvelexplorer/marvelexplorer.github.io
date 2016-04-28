@@ -1,12 +1,12 @@
 ---
-date: '1995-08-01T00:00:00-0400'
-year: '1995'
-title: 'X-Men (1991) #43'
-issue: 43
+date: '1991-09-10T00:00:00-0400'
+year: '1991'
+title: 'Uncanny X-Men (1963) #280'
+issue: 280
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14332/x-men_1991_43?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13821/uncanny_x-men_1963_280?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5581a74c95a6d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/511420b27bc44
   extension: jpg
