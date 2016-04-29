@@ -1,12 +1,12 @@
 ---
-date: '1984-01-10T00:00:00-0500'
-year: '1984'
-title: 'Fantastic Four (1961) #262'
-issue: 262
+date: '1975-06-10T00:00:00-0400'
+year: '1975'
+title: 'Giant Size Invaders (1975) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13075/fantastic_four_1961_262?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1975'
+  name: Giant Size Invaders
+url: http://marvel.com/comics/issue/8795/giant_size_invaders_1975_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4c36641a0d38f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/53519aa911670
   extension: jpg
