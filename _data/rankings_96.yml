@@ -1,11 +1,11 @@
 ---
 - name: Colossus
   score: 6
-- name: Misty Knight
-  score: 4
 - name: X-Men
   score: 4
 - name: Mr. Fantastic
   score: 4
+- name: Misty Knight
+  score: 3
 - name: Captain America
   score: 3

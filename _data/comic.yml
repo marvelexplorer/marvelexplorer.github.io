@@ -1,12 +1,13 @@
 ---
-date: '1999-03-10T00:00:00-0500'
-year: '1999'
-title: 'Captain America (1998) #15'
-issue: 15
+date: '2011-01-05T00:00:00-0500'
+year: '2011'
+title: 'Avengers, Thor & Captain America: Official Index to the Marvel Universe (2010)
+  #9'
+issue: 9
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12773/captain_america_1998_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Avengers, Thor & Captain America: Official Index to the Marvel Universe'
+url: http://marvel.com/comics/issue/29926/avengers_thor_captain_america_official_index_to_the_marvel_universe_2010_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4e84bc54bb015
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4cb614cd7cee1
   extension: jpg
