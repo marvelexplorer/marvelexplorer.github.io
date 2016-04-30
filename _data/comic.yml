@@ -1,13 +1,12 @@
 ---
-date: '2011-01-05T00:00:00-0500'
-year: '2011'
-title: 'Avengers, Thor & Captain America: Official Index to the Marvel Universe (2010)
-  #9'
-issue: 9
+date: '2005-03-23T00:00:00-0500'
+year: '2005'
+title: 'New Avengers (2004) #4'
+issue: 4
 series:
-  period: '2010'
-  name: 'Avengers, Thor & Captain America: Official Index to the Marvel Universe'
-url: http://marvel.com/comics/issue/29926/avengers_thor_captain_america_official_index_to_the_marvel_universe_2010_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/1628/new_avengers_2004_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4cb614cd7cee1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4f7dabc27bd16
   extension: jpg
