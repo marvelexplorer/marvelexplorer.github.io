@@ -1,12 +1,12 @@
 ---
-date: '1983-10-10T00:00:00-0400'
-year: '1983'
-title: 'Fantastic Four (1961) #259'
-issue: 259
+date: '2010-11-17T00:00:00-0500'
+year: '2010'
+title: 'Avengers (2010) #7'
+issue: 7
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13071/fantastic_four_1961_259?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Avengers
+url: http://marvel.com/comics/issue/29210/avengers_2010_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb793ccdd1c6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4f50e3b2b9a90
   extension: jpg
