@@ -1,12 +1,12 @@
 ---
-date: '1978-09-10T00:00:00-0400'
-year: '1978'
-title: 'Incredible Hulk (1962) #227'
-issue: 227
+date: '2007-10-10T00:00:00-0400'
+year: '2007'
+title: 'World War Hulk: Front Line (2007) #5'
+issue: 5
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9038/incredible_hulk_1962_227?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'World War Hulk: Front Line'
+url: http://marvel.com/comics/issue/16569/world_war_hulk_front_line_2007_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/52618ec14af17
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f67659d53eaa
   extension: jpg
