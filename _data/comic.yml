@@ -1,12 +1,12 @@
 ---
-date: '2005-12-28T00:00:00-0500'
-year: '2005'
-title: 'Wolverine (2003) #37'
-issue: 37
+date: '1999-03-10T00:00:00-0500'
+year: '1999'
+title: 'Captain America (1998) #15'
+issue: 15
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/3155/wolverine_2003_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12773/captain_america_1998_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4d24ecf291027
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4e84bc54bb015
   extension: jpg
