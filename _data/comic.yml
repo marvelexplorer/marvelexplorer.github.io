@@ -1,12 +1,12 @@
 ---
-date: '2005-08-24T00:00:00-0400'
-year: '2005'
-title: 'New Avengers (2004) #9'
-issue: 9
+date: '1985-10-10T00:00:00-0400'
+year: '1985'
+title: 'Fantastic Four (1961) #283'
+issue: 283
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/2187/new_avengers_2004_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13098/fantastic_four_1961_283?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4f7db64f51c31
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4c366bacf1c63
   extension: jpg
