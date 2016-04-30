@@ -1,12 +1,12 @@
 ---
-date: '1998-10-10T00:00:00-0400'
-year: '1998'
-title: 'Uncanny X-Men (1963) #360'
-issue: 360
+date: '2005-12-28T00:00:00-0500'
+year: '2005'
+title: 'Wolverine (2003) #37'
+issue: 37
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13901/uncanny_x-men_1963_360?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/3155/wolverine_2003_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/51eda0fc1caca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4d24ecf291027
   extension: jpg
