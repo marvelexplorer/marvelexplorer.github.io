@@ -1,12 +1,12 @@
 ---
-date: '2011-03-30T00:00:00-0400'
+date: '2011-09-14T00:00:00-0400'
 year: '2011'
-title: 'Avengers (2010) #11'
-issue: 11
+title: 'Fear Itself (2010) #6'
+issue: 6
 series:
   period: '2010'
-  name: Avengers
-url: http://marvel.com/comics/issue/29197/avengers_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Fear Itself
+url: http://marvel.com/comics/issue/38045/fear_itself_2010_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4f639fb6a3401
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4e68c38da4b74
   extension: jpg
