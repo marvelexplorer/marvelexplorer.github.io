@@ -1,12 +1,12 @@
 ---
-date: '1980-01-15T00:00:00-0500'
-year: '1980'
-title: 'Fantastic Four Annual (1963) #15'
-issue: 15
+date: '1977-02-10T00:00:00-0500'
+year: '1977'
+title: 'Avengers (1963) #156'
+issue: 156
 series:
   period: '1963'
-  name: Fantastic Four Annual
-url: http://marvel.com/comics/issue/8693/fantastic_four_annual_1963_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Avengers
+url: http://marvel.com/comics/issue/7015/avengers_1963_156?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bb7a712d43ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4e95f30dcb739
   extension: jpg
