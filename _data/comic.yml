@@ -1,12 +1,12 @@
 ---
-date: '2010-10-27T00:00:00-0400'
-year: '2010'
-title: 'Avengers & the Infinity Gauntlet (2010) #3'
-issue: 3
+date: '1988-11-10T00:00:00-0500'
+year: '1988'
+title: 'Incredible Hulk (1962) #349'
+issue: 349
 series:
-  period: '2010'
-  name: Avengers & the Infinity Gauntlet
-url: http://marvel.com/comics/issue/32481/avengers_the_infinity_gauntlet_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9160/incredible_hulk_1962_349?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4f7b1811a955e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4bb6e1ce1ee3d
   extension: jpg
