@@ -1,12 +1,12 @@
 ---
-date: '1999-07-10T00:00:00-0400'
-year: '1999'
-title: 'Avengers Forever (1998) #8'
-issue: 8
+date: '1998-07-10T00:00:00-0400'
+year: '1998'
+title: 'Avengers (1998) #6'
+issue: 6
 series:
   period: '1998'
-  name: Avengers Forever
-url: http://marvel.com/comics/issue/12411/avengers_forever_1998_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Avengers
+url: http://marvel.com/comics/issue/17545/avengers_1998_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc47c8452b07
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb6dceb224b5
   extension: jpg
