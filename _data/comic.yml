@@ -1,12 +1,12 @@
 ---
-date: '2003-11-01T00:00:00-0500'
-year: '2003'
-title: 'Kingpin (2003) #4'
-issue: 4
+date: '2011-08-17T00:00:00-0400'
+year: '2011'
+title: 'Spider-Island: The Amazing Spider-Girl (2011) #1'
+issue: 1
 series:
-  period: '2003'
-  name: Kingpin
-url: http://marvel.com/comics/issue/19851/kingpin_2003_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Spider-Island: The Amazing Spider-Girl'
+url: http://marvel.com/comics/issue/39715/spider-island_the_amazing_spider-girl_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/4c365f8460496
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4dc85e2f1ce71
   extension: jpg
