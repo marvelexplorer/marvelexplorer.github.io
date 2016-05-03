@@ -1,12 +1,12 @@
 ---
-date: '1970-01-10T00:00:00-0500'
-year: '1970'
-title: 'Incredible Hulk (1962) #123'
-issue: 123
+date: '1987-01-10T00:00:00-0500'
+year: '1987'
+title: 'Fantastic Four (1961) #298'
+issue: 298
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/8934/incredible_hulk_1962_123?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13114/fantastic_four_1961_298?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/50adf26c37144
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/537a58c526e6d
   extension: jpg
