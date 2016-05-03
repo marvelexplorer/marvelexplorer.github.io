@@ -1,12 +1,12 @@
 ---
-date: '2011-08-17T00:00:00-0400'
+date: '2011-07-27T00:00:00-0400'
 year: '2011'
-title: 'Spider-Island: The Amazing Spider-Girl (2011) #1'
-issue: 1
+title: 'Amazing Spider-Man (1999) #666'
+issue: 666
 series:
-  period: '2011'
-  name: 'Spider-Island: The Amazing Spider-Girl'
-url: http://marvel.com/comics/issue/39715/spider-island_the_amazing_spider-girl_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/35513/amazing_spider-man_1999_666?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4dc85e2f1ce71
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/4ea025aad26cf
   extension: jpg
