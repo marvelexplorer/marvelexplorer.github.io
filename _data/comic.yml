@@ -1,12 +1,12 @@
 ---
-date: '2007-12-19T00:00:00-0500'
-year: '2007'
-title: 'Marvel Adventures Fantastic Four (2005) #31'
-issue: 31
+date: '1970-01-10T00:00:00-0500'
+year: '1970'
+title: 'Incredible Hulk (1962) #123'
+issue: 123
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/17368/marvel_adventures_fantastic_four_2005_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/8934/incredible_hulk_1962_123?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc389f8eda6a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/50adf26c37144
   extension: jpg
