@@ -1,12 +1,12 @@
 ---
-date: '2011-01-05T00:00:00-0500'
-year: '2011'
-title: 'The Thanos Imperative: Devastation (2010) #1'
-issue: 1
+date: '2008-01-09T00:00:00-0500'
+year: '2008'
+title: 'Nova (2007) #10'
+issue: 10
 series:
-  period: '2010'
-  name: 'The Thanos Imperative: Devastation'
-url: http://marvel.com/comics/issue/37979/the_thanos_imperative_devastation_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Nova
+url: http://marvel.com/comics/issue/17634/nova_2007_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51f6a004dc19c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/5669ff0957e08
   extension: jpg
