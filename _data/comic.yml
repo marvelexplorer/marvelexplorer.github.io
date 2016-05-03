@@ -1,12 +1,12 @@
 ---
-date: '2011-04-06T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself (2010) #1'
-issue: 1
+date: '2007-12-19T00:00:00-0500'
+year: '2007'
+title: 'Marvel Adventures Fantastic Four (2005) #31'
+issue: 31
 series:
-  period: '2010'
-  name: Fear Itself
-url: http://marvel.com/comics/issue/39849/fear_itself_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Marvel Adventures Fantastic Four
+url: http://marvel.com/comics/issue/17368/marvel_adventures_fantastic_four_2005_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f621a599bd54
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc389f8eda6a
   extension: jpg
