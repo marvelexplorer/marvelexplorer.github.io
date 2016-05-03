@@ -1,12 +1,12 @@
 ---
-date: '1988-02-10T00:00:00-0500'
-year: '1988'
-title: 'Fantastic Four (1961) #311'
-issue: 311
+date: '2009-02-04T00:00:00-0500'
+year: '2009'
+title: 'Black Panther (2008) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13130/fantastic_four_1961_311?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Black Panther
+url: http://marvel.com/comics/issue/23657/black_panther_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/55d4aee21d2cd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/56cb422e83057
   extension: jpg
