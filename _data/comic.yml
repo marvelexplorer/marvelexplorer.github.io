@@ -1,12 +1,12 @@
 ---
-date: '2011-10-26T00:00:00-0400'
+date: '2011-01-05T00:00:00-0500'
 year: '2011'
-title: 'Annihilators: Earthfall (2011) #2'
-issue: 2
+title: 'The Thanos Imperative: Devastation (2010) #1'
+issue: 1
 series:
-  period: '2011'
-  name: 'Annihilators: Earthfall'
-url: http://marvel.com/comics/issue/39981/annihilators_earthfall_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'The Thanos Imperative: Devastation'
+url: http://marvel.com/comics/issue/37979/the_thanos_imperative_devastation_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4ea86a104a3d1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51f6a004dc19c
   extension: jpg
