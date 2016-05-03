@@ -1,12 +1,12 @@
 ---
-date: '2009-02-04T00:00:00-0500'
-year: '2009'
-title: 'Black Panther (2008) #1'
-issue: 1
+date: '2011-10-26T00:00:00-0400'
+year: '2011'
+title: 'Annihilators: Earthfall (2011) #2'
+issue: 2
 series:
-  period: '2008'
-  name: Black Panther
-url: http://marvel.com/comics/issue/23657/black_panther_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Annihilators: Earthfall'
+url: http://marvel.com/comics/issue/39981/annihilators_earthfall_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/56cb422e83057
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4ea86a104a3d1
   extension: jpg
