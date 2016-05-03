@@ -1,12 +1,12 @@
 ---
-date: '1966-05-10T00:00:00-0400'
-year: '1966'
-title: 'Daredevil (1964) #16'
-issue: 16
+date: '2008-08-13T00:00:00-0400'
+year: '2008'
+title: 'Amazing Spider-Man (1999) #567'
+issue: 567
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8140/daredevil_1964_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/21702/amazing_spider-man_1999_567?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/70/5722175ba2a2a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/56d4a1b82435e
   extension: jpg
