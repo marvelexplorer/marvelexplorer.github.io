@@ -1,12 +1,12 @@
 ---
-date: '2002-09-10T00:00:00-0400'
-year: '2002'
-title: 'X-Statix (2002) #1'
-issue: 1
+date: '1992-02-10T00:00:00-0500'
+year: '1992'
+title: 'Uncanny X-Men (1963) #285'
+issue: 285
 series:
-  period: '2002'
-  name: X-Statix
-url: http://marvel.com/comics/issue/13405/x-statix_2002_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13826/uncanny_x-men_1963_285?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc46d298adcb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/51142340ca548
   extension: jpg
