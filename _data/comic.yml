@@ -1,12 +1,12 @@
 ---
-date: '2003-09-01T00:00:00-0400'
-year: '2003'
-title: 'X-Treme X-Men (2001) #28'
-issue: 28
+date: '2005-01-05T00:00:00-0500'
+year: '2005'
+title: 'X-Men/Fantastic Four (2004) #2'
+issue: 2
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15031/x-treme_x-men_2001_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: X-Men/Fantastic Four
+url: http://marvel.com/comics/issue/1538/x-menfantastic_four_2004_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bc36839c74ef
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/53518c9fa208c
   extension: jpg
