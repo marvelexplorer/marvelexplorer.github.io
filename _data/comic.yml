@@ -1,12 +1,12 @@
 ---
-date: '2011-05-04T00:00:00-0400'
-year: '2011'
-title: 'Captain America: Hail Hydra (2010) #5'
-issue: 5
+date: '1971-11-10T00:00:00-0500'
+year: '1971'
+title: 'Amazing Spider-Man (1963) #102'
+issue: 102
 series:
-  period: '2010'
-  name: 'Captain America: Hail Hydra'
-url: http://marvel.com/comics/issue/36231/captain_america_hail_hydra_2010_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6486/amazing_spider-man_1963_102?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4f623cd937307
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/50ade4138f251
   extension: jpg
