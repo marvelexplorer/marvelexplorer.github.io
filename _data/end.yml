@@ -1,8 +1,7 @@
 ---
-name: Warpath
-description: James Proudstar was once a member of Professor X's New Mutants and is
-  currently a member of the X-Men black ops team, X-Force.
-url: http://marvel.com/universe/Warpath?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Polaris
+description: ''
+url: http://marvel.com/universe/Polaris?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/526035de08b23
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5274122562b05
   extension: jpg
