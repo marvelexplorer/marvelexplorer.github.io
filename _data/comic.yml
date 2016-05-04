@@ -1,12 +1,12 @@
 ---
-date: '1971-11-10T00:00:00-0500'
-year: '1971'
-title: 'Amazing Spider-Man (1963) #102'
-issue: 102
+date: '2011-10-12T00:00:00-0400'
+year: '2011'
+title: 'Legion of Monsters (2011) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6486/amazing_spider-man_1963_102?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Legion of Monsters
+url: http://marvel.com/comics/issue/31252/legion_of_monsters_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/50ade4138f251
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4e8a222f8894c
   extension: jpg
