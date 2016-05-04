@@ -1,12 +1,12 @@
 ---
-date: '2001-07-01T00:00:00-0400'
-year: '2001'
-title: 'X-Force (1991) #118'
-issue: 118
+date: '2002-09-10T00:00:00-0400'
+year: '2002'
+title: 'X-Statix (2002) #1'
+issue: 1
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/17963/x-force_1991_118?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: X-Statix
+url: http://marvel.com/comics/issue/13405/x-statix_2002_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c7d053c5678a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc46d298adcb
   extension: jpg
