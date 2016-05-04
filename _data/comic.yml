@@ -1,12 +1,12 @@
 ---
-date: '2005-08-31T00:00:00-0400'
-year: '2005'
-title: 'Astonishing X-Men (2004) #12'
-issue: 12
+date: '1995-07-01T00:00:00-0400'
+year: '1995'
+title: 'X-Men: Prime (1995) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/2161/astonishing_x-men_2004_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1995'
+  name: 'X-Men: Prime'
+url: http://marvel.com/comics/issue/12371/x-men_prime_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/56ddf2bb45f54
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51e710eca04f3
   extension: jpg
