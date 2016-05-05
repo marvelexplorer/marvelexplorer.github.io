@@ -1,12 +1,12 @@
 ---
-date: '1978-04-10T00:00:00-0500'
-year: '1978'
-title: 'Captain America (1968) #220'
-issue: 220
+date: '2007-11-21T00:00:00-0500'
+year: '2007'
+title: 'Captain America (2004) #32'
+issue: 32
 series:
-  period: '1968'
+  period: '2004'
   name: Captain America
-url: http://marvel.com/comics/issue/7601/captain_america_1968_220?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/17227/captain_america_2004_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56e6c196107fc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f75b06eb2224
   extension: jpg
