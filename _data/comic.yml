@@ -1,12 +1,12 @@
 ---
-date: '1983-10-10T00:00:00-0400'
-year: '1983'
-title: 'Fantastic Four (1961) #259'
-issue: 259
+date: '2005-05-25T00:00:00-0400'
+year: '2005'
+title: Marvel Adventures Fantastic Four (2005)
+issue: 0
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13071/fantastic_four_1961_259?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/2035/marvel_adventures_fantastic_four_2005?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb793ccdd1c6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4c7d6616a8096
   extension: jpg
