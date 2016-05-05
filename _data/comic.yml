@@ -1,12 +1,12 @@
 ---
-date: '2005-05-25T00:00:00-0400'
-year: '2005'
-title: Marvel Adventures Fantastic Four (2005)
-issue: 0
+date: '2006-09-20T00:00:00-0400'
+year: '2006'
+title: 'Marvel Adventures Fantastic Four (2005) #16'
+issue: 16
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/2035/marvel_adventures_fantastic_four_2005?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Marvel Adventures Fantastic Four
+url: http://marvel.com/comics/issue/5082/marvel_adventures_fantastic_four_2005_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4c7d6616a8096
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc5c9a385815
   extension: jpg
