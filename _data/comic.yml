@@ -1,12 +1,12 @@
 ---
-date: '2006-09-20T00:00:00-0400'
-year: '2006'
-title: 'Marvel Adventures Fantastic Four (2005) #16'
-issue: 16
+date: '1979-07-10T00:00:00-0400'
+year: '1979'
+title: 'Marvel Two-in-One (1974) #53'
+issue: 53
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/5082/marvel_adventures_fantastic_four_2005_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1974'
+  name: Marvel Two-in-One
+url: http://marvel.com/comics/issue/19524/marvel_two-in-one_1974_53?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc5c9a385815
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/50ad8d6d97362
   extension: jpg
