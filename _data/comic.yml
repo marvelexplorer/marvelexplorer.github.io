@@ -1,12 +1,12 @@
 ---
-date: '2002-01-10T00:00:00-0500'
-year: '2002'
-title: 'Fantastic Four: 1234 (2001) #4'
-issue: 4
+date: '1954-05-10T00:00:00-0400'
+year: '1954'
+title: 'Men''s Adventures (1950) #27'
+issue: 27
 series:
-  period: '2001'
-  name: 'Fantastic Four: 1234'
-url: http://marvel.com/comics/issue/16084/fantastic_four_1234_2001_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1950'
+  name: Men's Adventures
+url: http://marvel.com/comics/issue/23355/mens_adventures_1950_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc36a5a208d3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4bb5b78313943
   extension: jpg
