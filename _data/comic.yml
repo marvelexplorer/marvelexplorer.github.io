@@ -1,12 +1,12 @@
 ---
-date: '1987-01-03T00:00:00-0500'
-year: '1987'
-title: 'New Mutants Annual (1984) #3'
-issue: 3
+date: '1982-04-10T00:00:00-0500'
+year: '1982'
+title: 'Marvel Two-in-One (1974) #86'
+issue: 86
 series:
-  period: '1984'
-  name: New Mutants Annual
-url: http://marvel.com/comics/issue/10337/new_mutants_annual_1984_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1974'
+  name: Marvel Two-in-One
+url: http://marvel.com/comics/issue/19560/marvel_two-in-one_1974_86?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc33555a8bde
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4c361fdad119b
   extension: jpg
