@@ -1,12 +1,12 @@
 ---
-date: '1964-01-10T00:00:00-0500'
-year: '1964'
-title: 'Avengers (1963) #3'
-issue: 3
+date: '1986-11-10T00:00:00-0500'
+year: '1986'
+title: 'X-Factor (1986) #10'
+issue: 10
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7174/avengers_1963_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12175/x-factor_1986_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/4e8f156675036
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/50b4106801edf
   extension: jpg
