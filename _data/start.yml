@@ -1,9 +1,9 @@
 ---
-name: X-Men
-description: Feared and hated by humans because they're different, the X-Men are heroic
-  mutants, individuals born with special powers who've sworn to use their gifts to
-  protect mutants as well as humans.
-url: http://marvel.com/universe/X-Men?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: X-Man
+description: A clone of Nathan Summers (Cable), Nate Grey was created in the "Age
+  of Apocalypse" timeline by that timeline's Mr. Sinister for the sole purpose of
+  destroying Apocalypse.
+url: http://marvel.com/universe/X-Man?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/510c08f345938
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/535febd73f84f
   extension: jpg
