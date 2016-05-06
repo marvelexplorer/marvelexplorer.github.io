@@ -1,12 +1,12 @@
 ---
-date: '1982-04-10T00:00:00-0500'
-year: '1982'
-title: 'Marvel Two-in-One (1974) #86'
-issue: 86
+date: '1987-05-10T00:00:00-0400'
+year: '1987'
+title: 'Fantastic Four (1961) #302'
+issue: 302
 series:
-  period: '1974'
-  name: Marvel Two-in-One
-url: http://marvel.com/comics/issue/19560/marvel_two-in-one_1974_86?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13120/fantastic_four_1961_302?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4c361fdad119b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/537a5ff8d016b
   extension: jpg
