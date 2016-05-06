@@ -1,12 +1,12 @@
 ---
-date: '1982-01-10T00:00:00-0500'
-year: '1982'
-title: 'Avengers (1963) #215'
-issue: 215
+date: '1977-10-10T00:00:00-0400'
+year: '1977'
+title: 'Super-Villain Team-Up (1975) #14'
+issue: 14
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7081/avengers_1963_215?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1975'
+  name: Super-Villain Team-Up
+url: http://marvel.com/comics/issue/18784/super-villain_team-up_1975_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/51685d787376b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bb6f53651b25
   extension: jpg
