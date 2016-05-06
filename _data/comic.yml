@@ -1,12 +1,12 @@
 ---
-date: '2003-01-10T00:00:00-0500'
-year: '2003'
-title: 'Spider-Man''s Tangled Web (2001) #20'
-issue: 20
+date: '2004-08-04T00:00:00-0400'
+year: '2004'
+title: 'X-Force (2004) #1'
+issue: 1
 series:
-  period: '2001'
-  name: Spider-Man's Tangled Web
-url: http://marvel.com/comics/issue/10921/spider-mans_tangled_web_2001_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: X-Force
+url: http://marvel.com/comics/issue/541/x-force_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc4706eaa4d8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bc68f528e3dc
   extension: jpg
