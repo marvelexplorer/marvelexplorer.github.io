@@ -1,12 +1,12 @@
 ---
-date: '2004-08-04T00:00:00-0400'
-year: '2004'
-title: 'X-Force (2004) #1'
-issue: 1
+date: '2008-04-23T00:00:00-0400'
+year: '2008'
+title: 'X-Force (2008) #3'
+issue: 3
 series:
-  period: '2004'
+  period: '2008'
   name: X-Force
-url: http://marvel.com/comics/issue/541/x-force_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/21028/x-force_2008_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bc68f528e3dc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bb85d7910061
   extension: jpg
