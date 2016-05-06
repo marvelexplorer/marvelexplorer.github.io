@@ -1,12 +1,12 @@
 ---
-date: '2010-05-19T00:00:00-0400'
-year: '2010'
-title: 'Girl Comics (2010) #2'
-issue: 2
+date: '1990-07-10T00:00:00-0400'
+year: '1990'
+title: 'Fantastic Four (1961) #340'
+issue: 340
 series:
-  period: '2010'
-  name: Girl Comics
-url: http://marvel.com/comics/issue/30239/girl_comics_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13162/fantastic_four_1961_340?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bac60541e239
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c36614b176d4
   extension: jpg
