@@ -1,12 +1,12 @@
 ---
-date: '1987-05-10T00:00:00-0400'
-year: '1987'
-title: 'Fantastic Four (1961) #302'
-issue: 302
+date: '2000-07-10T00:00:00-0400'
+year: '2000'
+title: 'Inhumans (2000) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13120/fantastic_four_1961_302?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Inhumans
+url: http://marvel.com/comics/issue/9323/inhumans_2000_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/537a5ff8d016b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/53767236e26e9
   extension: jpg
