@@ -1,12 +1,12 @@
 ---
-date: '1999-06-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #3'
-issue: 3
+date: '1989-12-20T00:00:00-0500'
+year: '1989'
+title: 'Daredevil (1964) #275'
+issue: 275
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8553/earth_x_1999_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8268/daredevil_1964_275?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb7c46e86a69
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/55786091cb05e
   extension: jpg
