@@ -1,12 +1,12 @@
 ---
-date: '1998-03-10T00:00:00-0500'
-year: '1998'
-title: 'Fantastic Four (1998) #3'
-issue: 3
+date: '1987-01-10T00:00:00-0500'
+year: '1987'
+title: 'Fantastic Four (1961) #298'
+issue: 298
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/15549/fantastic_four_1998_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13114/fantastic_four_1961_298?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/51b8acb50ef55
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/537a58c526e6d
   extension: jpg
