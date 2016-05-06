@@ -1,12 +1,12 @@
 ---
-date: '2000-07-10T00:00:00-0400'
-year: '2000'
-title: 'Inhumans (2000) #2'
-issue: 2
+date: '1998-03-10T00:00:00-0500'
+year: '1998'
+title: 'Fantastic Four (1998) #3'
+issue: 3
 series:
-  period: '2000'
-  name: Inhumans
-url: http://marvel.com/comics/issue/9323/inhumans_2000_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15549/fantastic_four_1998_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/53767236e26e9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/51b8acb50ef55
   extension: jpg
