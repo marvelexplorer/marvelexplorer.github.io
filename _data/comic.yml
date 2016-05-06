@@ -1,12 +1,12 @@
 ---
-date: '2011-02-23T00:00:00-0500'
-year: '2011'
-title: 'Namor: The First Mutant (2010) #7'
-issue: 7
+date: '1986-05-10T00:00:00-0400'
+year: '1986'
+title: 'Avengers (1963) #267'
+issue: 267
 series:
-  period: '2010'
-  name: 'Namor: The First Mutant'
-url: http://marvel.com/comics/issue/36336/namor_the_first_mutant_2010_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7138/avengers_1963_267?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4d42e880f2f3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/4e94522937aa4
   extension: jpg
