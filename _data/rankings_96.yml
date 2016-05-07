@@ -1,9 +1,9 @@
 ---
 - name: X-Men
   score: 10
-- name: Spider-Man
-  score: 7
 - name: Fantastic Four
+  score: 6
+- name: Spider-Man
   score: 6
 - name: Thing
   score: 5
