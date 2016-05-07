@@ -1,12 +1,12 @@
 ---
-date: '1985-02-10T00:00:00-0500'
-year: '1985'
-title: 'Secret Wars (1984) #10'
-issue: 10
+date: '2012-06-20T00:00:00-0400'
+year: '2012'
+title: 'Marvel Universe Avengers: Earth''s Mightiest Heroes (2011) #3'
+issue: 3
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10581/secret_wars_1984_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Marvel Universe Avengers: Earth''s Mightiest Heroes'
+url: http://marvel.com/comics/issue/41691/marvel_universe_avengers_earths_mightiest_heroes_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/51dee63a1cf60
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4fd652127fde2
   extension: jpg
