@@ -1,12 +1,12 @@
 ---
-date: '1998-05-10T00:00:00-0400'
-year: '1998'
-title: 'Incredible Hulk (1962) #464'
-issue: 464
+date: '2001-10-10T00:00:00-0400'
+year: '2001'
+title: 'Fantastic Four (1998) #46'
+issue: 46
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9275/incredible_hulk_1962_464?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15567/fantastic_four_1998_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/51df08d072632
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5208fcc58d9dd
   extension: jpg
