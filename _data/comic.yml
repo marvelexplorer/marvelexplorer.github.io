@@ -1,12 +1,12 @@
 ---
-date: '2011-03-16T00:00:00-0400'
-year: '2011'
-title: 'Captain America and Crossbones (2010) #1'
-issue: 1
+date: '1999-12-10T00:00:00-0500'
+year: '1999'
+title: 'Captain America (1998) #24'
+issue: 24
 series:
-  period: '2010'
-  name: Captain America and Crossbones
-url: http://marvel.com/comics/issue/36939/captain_america_and_crossbones_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12783/captain_america_1998_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/5717d8b16d0fa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4e8a191263cdb
   extension: jpg
