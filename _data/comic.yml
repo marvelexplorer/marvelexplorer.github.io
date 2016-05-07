@@ -1,12 +1,12 @@
 ---
-date: '2002-08-01T00:00:00-0400'
-year: '2002'
-title: 'New X-Men (2001) #127'
-issue: 127
+date: '1971-06-10T00:00:00-0400'
+year: '1971'
+title: 'Uncanny X-Men (1963) #70'
+issue: 70
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14946/new_x-men_2001_127?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12522/uncanny_x-men_1963_70?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bc46b28bcbd1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4f6740aa9a3b2
   extension: jpg
