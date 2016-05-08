@@ -1,8 +1,10 @@
 ---
-name: Sentry (Robert Reynolds)
-description: Empowered by the enigmatic Professor's secret formula, high school student
-  Robert Reynolds became a superhuman.
-url: http://marvel.com/universe/Sentry_%28Robert_Reynolds%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Wonder Man
+description: Simon Williams agreed to undergo an experiment to give him superhuman
+  powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon
+  that he would die without further treatments from Zemo in order to ensure his loyalty,
+  but Simon betrayed Zemo to the Avengers and ultimately joined their ranks.
+url: http://marvel.com/universe/Wonder_Man_(Simon_Williams)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322
   extension: jpg
