@@ -1,12 +1,12 @@
 ---
-date: '2009-06-10T00:00:00-0400'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #597'
-issue: 597
+date: '1970-10-10T00:00:00-0400'
+year: '1970'
+title: 'Amazing Spider-Man (1963) #89'
+issue: 89
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/24404/amazing_spider-man_1999_597?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6911/amazing_spider-man_1963_89?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4e8dfd1a18088
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc33a9917a03
   extension: jpg
