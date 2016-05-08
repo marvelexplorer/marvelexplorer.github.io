@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 10
+  score: 9
+- name: Spider-Man
+  score: 5
 - name: Fantastic Four
   score: 4
 - name: Professor X
-  score: 4
-- name: Spider-Man
   score: 4
 - name: Human Torch
   score: 3
