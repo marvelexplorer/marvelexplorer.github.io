@@ -1,12 +1,12 @@
 ---
-date: '1996-10-01T00:00:00-0400'
-year: '1996'
-title: 'Onslaught: Marvel Universe (1996) #1'
-issue: 1
+date: '2003-07-01T00:00:00-0400'
+year: '2003'
+title: 'X-Treme X-Men (2001) #25'
+issue: 25
 series:
-  period: '1996'
-  name: 'Onslaught: Marvel Universe'
-url: http://marvel.com/comics/issue/10453/onslaught_marvel_universe_1996_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15028/x-treme_x-men_2001_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc47390b10ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc46a262dc43
   extension: jpg
