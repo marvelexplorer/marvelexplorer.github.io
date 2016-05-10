@@ -1,12 +1,12 @@
 ---
-date: '2005-06-22T00:00:00-0400'
-year: '2005'
-title: 'Captain America (2004) #7'
-issue: 7
+date: '1985-09-10T00:00:00-0400'
+year: '1985'
+title: 'Fantastic Four (1961) #282'
+issue: 282
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/1978/captain_america_2004_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13097/fantastic_four_1961_282?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5140b840a1d88
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4c366bbc6e4f1
   extension: jpg
