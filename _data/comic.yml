@@ -1,12 +1,12 @@
 ---
-date: '1991-08-10T00:00:00-0400'
-year: '1991'
-title: 'X-Force (1991) #1'
-issue: 1
+date: '2011-09-28T00:00:00-0400'
+year: '2011'
+title: 'Deadpool Max (2010) #12'
+issue: 12
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/17942/x-force_1991_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Deadpool Max
+url: http://marvel.com/comics/issue/32225/deadpool_max_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5351436a5fa8e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4e80dd0c92c0e
   extension: jpg
