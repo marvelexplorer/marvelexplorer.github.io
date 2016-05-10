@@ -1,12 +1,12 @@
 ---
-date: '1974-10-10T00:00:00-0400'
-year: '1974'
-title: 'Incredible Hulk (1962) #180'
-issue: 180
+date: '1980-12-10T00:00:00-0500'
+year: '1980'
+title: 'Uncanny X-Men (1963) #140'
+issue: 140
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/8991/incredible_hulk_1962_180?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12459/uncanny_x-men_1963_140?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f567d06a4d37
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5372a83bd17ab
   extension: jpg
