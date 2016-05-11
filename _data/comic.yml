@@ -1,12 +1,12 @@
 ---
-date: '2009-04-15T00:00:00-0400'
-year: '2009'
-title: 'Wolverine Noir (2009) #1'
-issue: 1
+date: '2003-06-30T00:00:00-0400'
+year: '2003'
+title: 'Wolverine: Xisle (2003) #5'
+issue: 5
 series:
-  period: '2009'
-  name: Wolverine Noir
-url: http://marvel.com/comics/issue/24004/wolverine_noir_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: 'Wolverine: Xisle'
+url: http://marvel.com/comics/issue/18290/wolverine_xisle_2003_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/4badfbaf0ebe0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb78f5c38d03
   extension: jpg
