@@ -1,12 +1,12 @@
 ---
-date: '2011-09-28T00:00:00-0400'
-year: '2011'
-title: 'Avengers Academy (2010) #19'
-issue: 19
+date: '1992-12-10T00:00:00-0500'
+year: '1992'
+title: 'X-Men (1991) #15'
+issue: 15
 series:
-  period: '2010'
-  name: Avengers Academy
-url: http://marvel.com/comics/issue/36484/avengers_academy_2010_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14301/x-men_1991_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4e81d69ff2d38
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/558021998e88b
   extension: jpg
