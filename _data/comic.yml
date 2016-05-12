@@ -1,12 +1,12 @@
 ---
-date: '1941-07-10T00:00:00-0400'
+date: '1941-01-10T00:00:00-0500'
 year: '1941'
-title: 'All-Winners Comics (1941) #1'
-issue: 1
+title: 'Human Torch (1940) #3'
+issue: 3
 series:
-  period: '1941'
-  name: All-Winners Comics
-url: http://marvel.com/comics/issue/12555/all-winners_comics_1941_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1940'
+  name: Human Torch
+url: http://marvel.com/comics/issue/8889/human_torch_1940_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bc38112ca3bf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc3359bc13c3
   extension: jpg
