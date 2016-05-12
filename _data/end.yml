@@ -1,7 +1,10 @@
 ---
-name: Colossus
-description: ''
-url: http://marvel.com/universe/Colossus_(Piotr_Rasputin)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Valkyrie (Samantha Parrington)
+description: Amora magically transformed Samantha Parrington into a raging, man-hating
+  facsimile of the Asgardian warrior goddess Brunnhilde the Valkyrie, whose form and
+  might Amora could replicate at will, having trapped Brunnhilde's soul in a mystical
+  crystal centuries earlier.
+url: http://marvel.com/universe/Valkyrie_(Samantha_Parrington)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/51127cf4b996f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/535fed8a3a00f
   extension: jpg
