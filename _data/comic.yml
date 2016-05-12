@@ -1,12 +1,12 @@
 ---
-date: '1987-09-10T00:00:00-0400'
-year: '1987'
-title: 'Avengers (1963) #283'
-issue: 283
+date: '2011-03-02T00:00:00-0500'
+year: '2011'
+title: 'Captain America: Hail Hydra (2010) #3'
+issue: 3
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7156/avengers_1963_283?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Captain America: Hail Hydra'
+url: http://marvel.com/comics/issue/36227/captain_america_hail_hydra_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/4e95befec80ca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f623c1c47ec7
   extension: jpg
