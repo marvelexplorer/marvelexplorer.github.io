@@ -1,12 +1,12 @@
 ---
-date: '1981-01-10T00:00:00-0500'
-year: '1981'
-title: 'Marvel Spotlight (1979) #10'
-issue: 10
+date: '1985-02-10T00:00:00-0500'
+year: '1985'
+title: 'Uncanny X-Men (1963) #190'
+issue: 190
 series:
-  period: '1979'
-  name: Marvel Spotlight
-url: http://marvel.com/comics/issue/10257/marvel_spotlight_1979_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13731/uncanny_x-men_1963_190?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4c7d4d7da815c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/51117e6801419
   extension: jpg
