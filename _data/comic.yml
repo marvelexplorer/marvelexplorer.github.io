@@ -1,12 +1,12 @@
 ---
-date: '1993-09-10T00:00:00-0400'
-year: '1993'
-title: 'Infinity Crusade (1993) #4'
-issue: 4
+date: '1991-09-10T00:00:00-0400'
+year: '1991'
+title: 'Infinity Gauntlet (1991) #3'
+issue: 3
 series:
-  period: '1993'
-  name: Infinity Crusade
-url: http://marvel.com/comics/issue/23310/infinity_crusade_1993_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: Infinity Gauntlet
+url: http://marvel.com/comics/issue/9288/infinity_gauntlet_1991_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/572b7a0e55cf0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/51f691085d7fe
   extension: jpg
