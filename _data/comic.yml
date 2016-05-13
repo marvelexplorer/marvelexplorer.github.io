@@ -1,12 +1,12 @@
 ---
-date: '1983-09-10T00:00:00-0400'
-year: '1983'
-title: 'Fantastic Four (1961) #258'
-issue: 258
+date: '2007-06-06T00:00:00-0400'
+year: '2007'
+title: 'Spider-Man Family (2007) #3'
+issue: 3
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13070/fantastic_four_1961_258?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Spider-Man Family
+url: http://marvel.com/comics/issue/15866/spider-man_family_2007_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4c7d5b6e459e2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc496d6ba0ea
   extension: jpg
