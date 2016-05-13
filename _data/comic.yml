@@ -1,12 +1,12 @@
 ---
-date: '2007-08-22T00:00:00-0400'
-year: '2007'
-title: 'Annihilation: Conquest - Starlord (2007) #2'
-issue: 2
+date: '1981-01-10T00:00:00-0500'
+year: '1981'
+title: 'Marvel Spotlight (1979) #10'
+issue: 10
 series:
-  period: '2007'
-  name: 'Annihilation: Conquest - Starlord'
-url: http://marvel.com/comics/issue/16191/annihilation_conquest_-_starlord_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1979'
+  name: Marvel Spotlight
+url: http://marvel.com/comics/issue/10257/marvel_spotlight_1979_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/51df26f6f3ec3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4c7d4d7da815c
   extension: jpg
