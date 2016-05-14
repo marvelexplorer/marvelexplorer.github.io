@@ -1,6 +1,4 @@
 ---
-- name: Wolverine
-  score: 4
 - name: Deadpool
   score: 3
 - name: Captain America
@@ -8,4 +6,6 @@
 - name: Spider-Man
   score: 3
 - name: Thor
+  score: 3
+- name: X-Men
   score: 3
