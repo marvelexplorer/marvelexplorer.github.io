@@ -1,12 +1,12 @@
 ---
-date: '1983-11-10T00:00:00-0500'
-year: '1983'
-title: 'Uncanny X-Men (1963) #175'
-issue: 175
+date: '2010-12-29T00:00:00-0500'
+year: '2010'
+title: 'Chaos War: X-Men (2010) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13716/uncanny_x-men_1963_175?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Chaos War: X-Men'
+url: http://marvel.com/comics/issue/37881/chaos_war_x-men_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/51117b56266d6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/70/51e6f67fe66b9
   extension: jpg
