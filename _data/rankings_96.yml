@@ -1,11 +1,11 @@
 ---
 - name: Colossus
   score: 4
-- name: Deadpool
-  score: 3
 - name: Captain America
   score: 3
 - name: Spider-Man
   score: 3
 - name: Thor
+  score: 3
+- name: Fantastic Four
   score: 3
