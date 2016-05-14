@@ -1,9 +1,7 @@
 ---
-name: Thanos
-description: The Mad Titan Thanos, a melancholy, brooding individual, consumed with
-  the concept of death, sought out personal power and increased strength, endowing
-  himself with cybernetic implants until he became more powerful than any of his brethren.
-url: http://marvel.com/universe/Thanos?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Defenders
+description: ''
+url: http://marvel.com/universe/Defenders?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/526031e9c785a
   extension: jpg
