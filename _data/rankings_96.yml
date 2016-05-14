@@ -1,11 +1,11 @@
 ---
-- name: Wolverine
-  score: 4
 - name: Human Torch
   score: 4
 - name: Spider-Man
   score: 4
 - name: Deadpool
+  score: 3
+- name: Wolverine
   score: 3
 - name: Iron Man
   score: 3
