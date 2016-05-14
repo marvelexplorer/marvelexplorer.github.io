@@ -1,12 +1,12 @@
 ---
-date: '1968-07-10T00:00:00-0400'
-year: '1968'
-title: 'Marvel Super-Heroes (1967) #15'
-issue: 15
+date: '2002-08-01T00:00:00-0400'
+year: '2002'
+title: 'Paradise X (2002) #3'
+issue: 3
 series:
-  period: '1967'
-  name: Marvel Super-Heroes
-url: http://marvel.com/comics/issue/15426/marvel_super-heroes_1967_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10498/paradise_x_2002_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/50adfc6667994
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4c360719dd585
   extension: jpg
