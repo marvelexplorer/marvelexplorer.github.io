@@ -1,12 +1,12 @@
 ---
-date: '1985-04-10T00:00:00-0500'
+date: '1985-01-09T00:00:00-0500'
 year: '1985'
-title: 'Secret Wars (1984) #12'
-issue: 12
+title: 'X-Men Annual (1970) #9'
+issue: 9
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10583/secret_wars_1984_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12369/x-men_annual_1970_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/0/04/4f68cbc5cd9d6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc46d5e31b06
   extension: jpg
