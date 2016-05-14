@@ -1,12 +1,12 @@
 ---
-date: '2003-01-01T00:00:00-0500'
-year: '2003'
-title: 'The Call of Duty: The Wagon (2002) #4'
-issue: 4
+date: '1989-04-10T00:00:00-0400'
+year: '1989'
+title: 'Classic X-Men (1986) #32'
+issue: 32
 series:
-  period: '2002'
-  name: 'The Call of Duty: The Wagon'
-url: http://marvel.com/comics/issue/18771/the_call_of_duty_the_wagon_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20588/classic_x-men_1986_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bb6d41e90cbc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/569ea76843aef
   extension: jpg
