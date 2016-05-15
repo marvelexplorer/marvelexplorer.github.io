@@ -1,12 +1,12 @@
 ---
-date: '1999-11-01T00:00:00-0500'
+date: '1999-03-03T00:00:00-0500'
 year: '1999'
-title: 'Earth X (1999) #8'
-issue: 8
+title: 'Avengers Forever (1998) #4'
+issue: 4
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8558/earth_x_1999_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers Forever
+url: http://marvel.com/comics/issue/12407/avengers_forever_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb7c2b8564b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bc47c9880436
   extension: jpg
