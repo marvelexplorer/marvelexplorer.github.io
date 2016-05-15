@@ -1,12 +1,12 @@
 ---
-date: '2003-09-01T00:00:00-0400'
-year: '2003'
-title: 'New Mutants (2003) #3'
-issue: 3
+date: '1985-07-10T00:00:00-0400'
+year: '1985'
+title: 'New Mutants (1983) #29'
+issue: 29
 series:
-  period: '2003'
+  period: '1983'
   name: New Mutants
-url: http://marvel.com/comics/issue/10328/new_mutants_2003_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/10365/new_mutants_1983_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc35fcc58343
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/00/50b417a1e110c
   extension: jpg
