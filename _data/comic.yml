@@ -1,12 +1,12 @@
 ---
-date: '1993-11-10T00:00:00-0500'
-year: '1993'
-title: 'Infinity Crusade (1993) #6'
-issue: 6
+date: '2003-09-01T00:00:00-0400'
+year: '2003'
+title: 'New Mutants (2003) #3'
+issue: 3
 series:
-  period: '1993'
-  name: Infinity Crusade
-url: http://marvel.com/comics/issue/23312/infinity_crusade_1993_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: New Mutants
+url: http://marvel.com/comics/issue/10328/new_mutants_2003_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/572b9fc7e22e5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc35fcc58343
   extension: jpg
