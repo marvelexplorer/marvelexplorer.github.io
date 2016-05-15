@@ -1,12 +1,12 @@
 ---
-date: '1985-07-10T00:00:00-0400'
-year: '1985'
-title: 'New Mutants (1983) #29'
-issue: 29
+date: '2011-05-25T00:00:00-0400'
+year: '2011'
+title: 'X-Men: Earth''s Mutant Heroes (2010) #1'
+issue: 1
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10365/new_mutants_1983_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'X-Men: Earth''s Mutant Heroes'
+url: http://marvel.com/comics/issue/37491/x-men_earths_mutant_heroes_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/00/50b417a1e110c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/4d55853557d78
   extension: jpg
