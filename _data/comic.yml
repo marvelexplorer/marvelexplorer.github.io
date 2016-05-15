@@ -1,12 +1,12 @@
 ---
-date: '1999-03-03T00:00:00-0500'
-year: '1999'
-title: 'Avengers Forever (1998) #4'
-issue: 4
+date: '2002-09-10T00:00:00-0400'
+year: '2002'
+title: 'Infinity Abyss (2002) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Avengers Forever
-url: http://marvel.com/comics/issue/12407/avengers_forever_1998_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Infinity Abyss
+url: http://marvel.com/comics/issue/20012/infinity_abyss_2002_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bc47c9880436
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6dd5fdc370
   extension: jpg
