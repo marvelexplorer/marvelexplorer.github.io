@@ -1,9 +1,9 @@
 ---
+- name: X-Men
+  score: 5
 - name: Colossus
   score: 4
 - name: Thor
-  score: 4
-- name: X-Men
   score: 4
 - name: Captain America
   score: 3
