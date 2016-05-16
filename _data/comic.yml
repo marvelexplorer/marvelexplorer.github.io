@@ -1,12 +1,12 @@
 ---
-date: '1940-06-01T00:00:00-0400'
-year: '1940'
-title: 'Marvel Mystery Comics (1939) #8'
-issue: 8
+date: '2008-07-16T00:00:00-0400'
+year: '2008'
+title: 'Mighty Avengers (2007) #16'
+issue: 16
 series:
-  period: '1939'
-  name: Marvel Mystery Comics
-url: http://marvel.com/comics/issue/16791/marvel_mystery_comics_1939_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/21537/mighty_avengers_2007_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc37b5b1a9f1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4d24fc7a0105e
   extension: jpg
