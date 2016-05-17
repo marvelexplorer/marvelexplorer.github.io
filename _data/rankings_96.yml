@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 5
+- name: Fantastic Four
+  score: 4
 - name: Colossus
   score: 3
 - name: Thor
   score: 3
 - name: Magneto
-  score: 3
-- name: Fantastic Four
   score: 3
