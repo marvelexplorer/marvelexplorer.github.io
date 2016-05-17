@@ -1,12 +1,12 @@
 ---
-date: '1999-04-07T00:00:00-0400'
-year: '1999'
-title: 'Amazing Spider-Man (1999) #4'
-issue: 4
+date: '2011-01-26T00:00:00-0500'
+year: '2011'
+title: 'Fantastic Four (1998) #587'
+issue: 587
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/37901/amazing_spider-man_1999_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/36060/fantastic_four_1998_587?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4e7a401ea0b68
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/51db32b11c839
   extension: jpg
