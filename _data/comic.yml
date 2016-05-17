@@ -1,12 +1,12 @@
 ---
-date: '1995-03-10T00:00:00-0500'
-year: '1995'
-title: 'Gambit and the X-Ternals (1995) #1'
-issue: 1
+date: '2002-04-01T00:00:00-0500'
+year: '2002'
+title: 'X-Force (1991) #125'
+issue: 125
 series:
-  period: '1995'
-  name: Gambit and the X-Ternals
-url: http://marvel.com/comics/issue/16077/gambit_and_the_x-ternals_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/17971/x-force_1991_125?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc369da41451
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/4bb68904e3985
   extension: jpg
