@@ -3,9 +3,9 @@
   score: 6
 - name: Fantastic Four
   score: 4
-- name: Magneto
-  score: 3
 - name: Wolverine
   score: 3
 - name: Spider-Man
+  score: 3
+- name: Human Torch
   score: 3
