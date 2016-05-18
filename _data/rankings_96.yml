@@ -3,9 +3,9 @@
   score: 6
 - name: Spider-Man
   score: 4
-- name: Fantastic Four
-  score: 3
 - name: Human Torch
+  score: 4
+- name: Fantastic Four
   score: 3
 - name: Thor
   score: 3
