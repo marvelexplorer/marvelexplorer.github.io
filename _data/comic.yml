@@ -1,12 +1,12 @@
 ---
-date: '1995-10-10T00:00:00-0400'
+date: '1995-12-10T00:00:00-0500'
 year: '1995'
-title: 'Cable (1993) #24'
-issue: 24
+title: 'Cable (1993) #26'
+issue: 26
 series:
   period: '1993'
   name: Cable
-url: http://marvel.com/comics/issue/7398/cable_1993_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7400/cable_1993_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/56f95925d8d37
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/56f959a7d610e
   extension: jpg
