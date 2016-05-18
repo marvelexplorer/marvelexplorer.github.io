@@ -1,12 +1,12 @@
 ---
-date: '2011-03-09T00:00:00-0500'
-year: '2011'
-title: 'Onslaught Unleashed (2010) #2'
-issue: 2
+date: '2006-10-04T00:00:00-0400'
+year: '2006'
+title: 'Irredeemable Ant-Man (2006) #1'
+issue: 1
 series:
-  period: '2010'
-  name: Onslaught Unleashed
-url: http://marvel.com/comics/issue/38069/onslaught_unleashed_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Irredeemable Ant-Man
+url: http://marvel.com/comics/issue/5199/irredeemable_ant-man_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4d51e9f1d53c4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/517acfdbb7f0f
   extension: jpg
