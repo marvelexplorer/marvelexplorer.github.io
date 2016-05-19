@@ -1,12 +1,12 @@
 ---
-date: '1973-11-10T00:00:00-0500'
-year: '1973'
-title: 'Defenders (1972) #10'
-issue: 10
+date: '2011-12-21T00:00:00-0500'
+year: '2011'
+title: 'Defenders: The Coming of the Defenders (2011) #1'
+issue: 1
 series:
-  period: '1972'
-  name: Defenders
-url: http://marvel.com/comics/issue/20263/defenders_1972_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Defenders: The Coming of the Defenders'
+url: http://marvel.com/comics/issue/41210/defenders_the_coming_of_the_defenders_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/4bb851100394a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/56b8f4cee6397
   extension: jpg
