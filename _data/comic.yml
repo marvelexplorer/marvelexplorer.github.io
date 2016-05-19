@@ -1,12 +1,12 @@
 ---
-date: '2011-12-21T00:00:00-0500'
+date: '2011-11-16T00:00:00-0500'
 year: '2011'
-title: 'Defenders: The Coming of the Defenders (2011) #1'
-issue: 1
+title: 'Thunderbolts (2006) #165'
+issue: 165
 series:
-  period: '2011'
-  name: 'Defenders: The Coming of the Defenders'
-url: http://marvel.com/comics/issue/41210/defenders_the_coming_of_the_defenders_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Thunderbolts
+url: http://marvel.com/comics/issue/38097/thunderbolts_2006_165?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/56b8f4cee6397
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/56b8b9d481b32
   extension: jpg
