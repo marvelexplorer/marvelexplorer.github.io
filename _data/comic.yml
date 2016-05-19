@@ -1,12 +1,12 @@
 ---
-date: '1991-05-10T00:00:00-0400'
-year: '1991'
-title: 'Avengers (1963) #332'
-issue: 332
+date: '1988-06-10T00:00:00-0400'
+year: '1988'
+title: 'Classic X-Men (1986) #22'
+issue: 22
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7211/avengers_1963_332?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20577/classic_x-men_1986_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4e6a38888f300
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb67ae26c7d1
   extension: jpg
