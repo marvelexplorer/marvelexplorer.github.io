@@ -1,12 +1,12 @@
 ---
-date: '2009-11-25T00:00:00-0500'
-year: '2009'
-title: 'Invincible Iron Man (2008) #20'
-issue: 20
+date: '1991-05-10T00:00:00-0400'
+year: '1991'
+title: 'Avengers (1963) #332'
+issue: 332
 series:
-  period: '2008'
-  name: Invincible Iron Man
-url: http://marvel.com/comics/issue/25540/invincible_iron_man_2008_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7211/avengers_1963_332?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4f7c7a30cfef3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4e6a38888f300
   extension: jpg
