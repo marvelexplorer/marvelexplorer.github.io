@@ -1,12 +1,12 @@
 ---
-date: '1983-11-10T00:00:00-0500'
-year: '1983'
-title: 'Thor (1966) #337'
-issue: 337
+date: '2001-03-01T00:00:00-0500'
+year: '2001'
+title: 'Thor (1998) #33'
+issue: 33
 series:
-  period: '1966'
+  period: '1998'
   name: Thor
-url: http://marvel.com/comics/issue/11665/thor_1966_337?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/18657/thor_1998_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb5cd6927cf0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/50b3a59692d2b
   extension: jpg
