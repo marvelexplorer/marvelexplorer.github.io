@@ -1,12 +1,12 @@
 ---
-date: '1999-11-10T00:00:00-0500'
+date: '1999-09-10T00:00:00-0400'
 year: '1999'
-title: 'Peter Parker: Spider-Man (1999) #11'
-issue: 11
+title: 'Avengers (1998) #20'
+issue: 20
 series:
-  period: '1999'
-  name: 'Peter Parker: Spider-Man'
-url: http://marvel.com/comics/issue/10519/peter_parker_spider-man_1999_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17502/avengers_1998_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4d251758ebc25
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/50b3b3911a6d0
   extension: jpg
