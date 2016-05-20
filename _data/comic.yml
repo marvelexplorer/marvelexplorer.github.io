@@ -1,12 +1,12 @@
 ---
-date: '1993-09-10T00:00:00-0400'
-year: '1993'
-title: 'Uncanny X-Men (1963) #304'
-issue: 304
+date: '2000-12-10T00:00:00-0500'
+year: '2000'
+title: 'Avengers (1998) #35'
+issue: 35
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13845/uncanny_x-men_1963_304?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17518/avengers_1998_35?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bb3b7e47ca3c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc3335779e4b
   extension: jpg
