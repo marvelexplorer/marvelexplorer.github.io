@@ -1,12 +1,12 @@
 ---
-date: '2007-09-06T00:00:00-0400'
-year: '2007'
-title: 'Marvel Adventures Spider-Man (2005) #31'
-issue: 31
+date: '1996-10-01T00:00:00-0400'
+year: '1996'
+title: 'Onslaught: Marvel Universe (1996) #1'
+issue: 1
 series:
-  period: '2005'
-  name: Marvel Adventures Spider-Man
-url: http://marvel.com/comics/issue/16483/marvel_adventures_spider-man_2005_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1996'
+  name: 'Onslaught: Marvel Universe'
+url: http://marvel.com/comics/issue/10453/onslaught_marvel_universe_1996_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc399db332f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc47390b10ed
   extension: jpg
