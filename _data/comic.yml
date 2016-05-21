@@ -1,12 +1,12 @@
 ---
-date: '2008-12-10T00:00:00-0500'
-year: '2008'
-title: 'Adam: Legend of the Blue Marvel (2008) #2'
-issue: 2
+date: '1970-02-10T00:00:00-0500'
+year: '1970'
+title: 'Uncanny X-Men (1963) #65'
+issue: 65
 series:
-  period: '2008'
-  name: 'Adam: Legend of the Blue Marvel'
-url: http://marvel.com/comics/issue/22856/adam_legend_of_the_blue_marvel_2008_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12516/uncanny_x-men_1963_65?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4f71c50230fd9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/5372bb7ed6a0c
   extension: jpg
