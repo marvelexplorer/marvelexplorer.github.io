@@ -1,12 +1,12 @@
 ---
-date: '1978-05-10T00:00:00-0400'
-year: '1978'
-title: 'Howard the Duck (1976) #24'
-issue: 24
+date: '2011-09-21T00:00:00-0400'
+year: '2011'
+title: 'Thunderbolts (2006) #163.1'
+issue: 163.1
 series:
-  period: '1976'
-  name: Howard the Duck
-url: http://marvel.com/comics/issue/21112/howard_the_duck_1976_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Thunderbolts
+url: http://marvel.com/comics/issue/39712/thunderbolts_2006_163.1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bb5dfdc6e87f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/56b2754266b77
   extension: jpg
