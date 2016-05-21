@@ -1,9 +1,7 @@
 ---
-name: X-23
-description: A clone of the mutant Wolverine, X-23 was trained as a living weapon
-  by a secretive government agency.  Now residing with the X-Men, she strives to recover
-  her stolen youth and become a fully realized person.
-url: http://marvel.com/universe/X-23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Bishop
+description: ''
+url: http://marvel.com/universe/Bishop_(Lucas_Bishop)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50fec5ed6f3de
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/52602f4b42d98
   extension: jpg
