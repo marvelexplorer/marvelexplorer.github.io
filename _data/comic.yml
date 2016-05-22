@@ -1,12 +1,12 @@
 ---
-date: '2007-12-05T00:00:00-0500'
-year: '2007'
-title: 'Annihilation: Conquest (2007) #2'
-issue: 2
+date: '1999-04-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers (1998) #15'
+issue: 15
 series:
-  period: '2007'
-  name: 'Annihilation: Conquest'
-url: http://marvel.com/comics/issue/17405/annihilation_conquest_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17496/avengers_1998_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4e8384c84cd95
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4bb6ac8975385
   extension: jpg
