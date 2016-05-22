@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 6
-- name: Iron Man
-  score: 4
 - name: Thor
   score: 4
 - name: Nighthawk
   score: 4
 - name: Man-Thing
+  score: 4
+- name: Human Torch
   score: 4
