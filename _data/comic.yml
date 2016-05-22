@@ -1,12 +1,12 @@
 ---
-date: '1999-04-10T00:00:00-0400'
-year: '1999'
-title: 'Avengers (1998) #15'
-issue: 15
+date: '2005-12-21T00:00:00-0500'
+year: '2005'
+title: 'Captain America (2004) #13'
+issue: 13
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17496/avengers_1998_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/3084/captain_america_2004_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4bb6ac8975385
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f75adcd27329
   extension: jpg
