@@ -1,12 +1,12 @@
 ---
-date: '1988-01-10T00:00:00-0500'
-year: '1988'
-title: 'Fantastic Four (1961) #310'
-issue: 310
+date: '2004-10-06T00:00:00-0400'
+year: '2004'
+title: 'Hulk & Thing: Hard Knocks (2004) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13129/fantastic_four_1961_310?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: 'Hulk & Thing: Hard Knocks'
+url: http://marvel.com/comics/issue/865/hulk_thing_hard_knocks_2004_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/55d4af2ebff3a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bc6768b7cacb
   extension: jpg
