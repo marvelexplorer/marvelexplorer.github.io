@@ -1,12 +1,12 @@
 ---
-date: '2007-08-29T00:00:00-0400'
-year: '2007'
-title: 'Avengers: The Initiative (2007) #5'
-issue: 5
+date: '2000-05-01T00:00:00-0400'
+year: '2000'
+title: 'X-Force (1991) #102'
+issue: 102
 series:
-  period: '2007'
-  name: 'Avengers: The Initiative'
-url: http://marvel.com/comics/issue/16162/avengers_the_initiative_2007_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/17946/x-force_1991_102?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4e8f5d2a5a839
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bb53c19000ea
   extension: jpg
