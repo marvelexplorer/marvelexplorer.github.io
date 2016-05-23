@@ -1,12 +1,12 @@
 ---
-date: '2011-09-21T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself: Uncanny X-Force (2011) #3'
-issue: 3
+date: '1988-05-10T00:00:00-0400'
+year: '1988'
+title: 'Captain America (1968) #341'
+issue: 341
 series:
-  period: '2011'
-  name: 'Fear Itself: Uncanny X-Force'
-url: http://marvel.com/comics/issue/39002/fear_itself_uncanny_x-force_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7722/captain_america_1968_341?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4e777a96251dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/52c5a49c96cd5
   extension: jpg
