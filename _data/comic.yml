@@ -1,12 +1,12 @@
 ---
-date: '1973-04-10T00:00:00-0500'
-year: '1973'
-title: 'Avengers (1963) #110'
-issue: 110
+date: '1988-01-10T00:00:00-0500'
+year: '1988'
+title: 'Fantastic Four (1961) #310'
+issue: 310
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/6965/avengers_1963_110?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13129/fantastic_four_1961_310?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/4f67581610d28
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/55d4af2ebff3a
   extension: jpg
