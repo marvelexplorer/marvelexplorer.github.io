@@ -1,12 +1,12 @@
 ---
-date: '1988-05-10T00:00:00-0400'
-year: '1988'
-title: 'Captain America (1968) #341'
-issue: 341
+date: '1992-06-10T00:00:00-0400'
+year: '1992'
+title: 'Quasar (1989) #35'
+issue: 35
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7722/captain_america_1968_341?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1989'
+  name: Quasar
+url: http://marvel.com/comics/issue/18923/quasar_1989_35?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/52c5a49c96cd5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb6f76a849c5
   extension: jpg
