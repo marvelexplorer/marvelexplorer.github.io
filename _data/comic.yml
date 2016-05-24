@@ -1,12 +1,12 @@
 ---
-date: '1996-10-10T00:00:00-0400'
-year: '1996'
-title: 'X-Men: Clan Destine (1996) #1'
-issue: 1
+date: '1997-06-10T00:00:00-0400'
+year: '1997'
+title: 'Uncanny X-Men (1963) #345'
+issue: 345
 series:
-  period: '1996'
-  name: 'X-Men: Clan Destine'
-url: http://marvel.com/comics/issue/21140/x-men_clan_destine_1996_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13886/uncanny_x-men_1963_345?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4bb822977523a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51a8cca1b3265
   extension: jpg
