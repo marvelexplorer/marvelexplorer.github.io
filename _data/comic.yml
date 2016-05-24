@@ -1,12 +1,12 @@
 ---
-date: '1989-05-10T00:00:00-0400'
+date: '1989-01-01T00:00:00-0500'
 year: '1989'
-title: 'X-Factor (1986) #40'
-issue: 40
+title: 'X-Factor Annual (1986) #4'
+issue: 4
 series:
   period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12258/x-factor_1986_40?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: X-Factor Annual
+url: http://marvel.com/comics/issue/23512/x-factor_annual_1986_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/50ad29b634317
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/20/50b40a6cd0ccb
   extension: jpg
