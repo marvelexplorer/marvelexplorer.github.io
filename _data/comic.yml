@@ -1,12 +1,12 @@
 ---
-date: '1998-05-10T00:00:00-0400'
-year: '1998'
-title: 'Avengers (1998) #4'
-issue: 4
+date: '1988-11-20T00:00:00-0500'
+year: '1988'
+title: 'Marvel Comics Presents (1988) #7'
+issue: 7
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17523/avengers_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10152/marvel_comics_presents_1988_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/70/4bb6f976e68cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bb6918243bd3
   extension: jpg
