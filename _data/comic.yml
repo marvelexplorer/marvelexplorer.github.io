@@ -1,12 +1,12 @@
 ---
-date: '1988-01-21T00:00:00-0500'
-year: '1988'
-title: 'Fantastic Four Annual (1963) #21'
-issue: 21
+date: '1967-09-10T00:00:00-0400'
+year: '1967'
+title: 'Tales to Astonish (1959) #95'
+issue: 95
 series:
-  period: '1963'
-  name: Fantastic Four Annual
-url: http://marvel.com/comics/issue/8700/fantastic_four_annual_1963_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11443/tales_to_astonish_1959_95?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/52616d13adcb9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/536d4305a62e0
   extension: jpg
