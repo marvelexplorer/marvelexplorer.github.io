@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 5
-- name: Nighthawk
-  score: 3
 - name: Man-Thing
   score: 3
 - name: X-Force
   score: 3
 - name: Cannonball
+  score: 3
+- name: Storm
   score: 3
