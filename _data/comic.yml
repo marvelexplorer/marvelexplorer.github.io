@@ -1,12 +1,12 @@
 ---
-date: '1995-05-10T00:00:00-0400'
-year: '1995'
-title: 'Fantastic Four (1961) #400'
-issue: 400
+date: '2002-05-01T00:00:00-0400'
+year: '2002'
+title: 'Thing & She-Hulk: Long Night (2002) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13229/fantastic_four_1961_400?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: 'Thing & She-Hulk: Long Night'
+url: http://marvel.com/comics/issue/18716/thing_she-hulk_long_night_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/52615caf64a9e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4c35fcb9575d1
   extension: jpg
