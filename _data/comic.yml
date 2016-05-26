@@ -1,12 +1,12 @@
 ---
-date: '2006-02-08T00:00:00-0500'
-year: '2006'
-title: 'Marvel Zombies (2005) #3'
-issue: 3
+date: '1990-01-15T00:00:00-0500'
+year: '1990'
+title: 'Marvel Comics Presents (1988) #40'
+issue: 40
 series:
-  period: '2005'
-  name: Marvel Zombies
-url: http://marvel.com/comics/issue/3549/marvel_zombies_2005_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10120/marvel_comics_presents_1988_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc6006c11876
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4c36560fcb8f8
   extension: jpg
