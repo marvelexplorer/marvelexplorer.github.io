@@ -1,12 +1,12 @@
 ---
-date: '2003-03-01T00:00:00-0500'
-year: '2003'
-title: 'New X-Men (2001) #136'
-issue: 136
+date: '2008-08-06T00:00:00-0400'
+year: '2008'
+title: 'Cable (2008) #6'
+issue: 6
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14955/new_x-men_2001_136?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Cable
+url: http://marvel.com/comics/issue/21758/cable_2008_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c35ed03582e4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ea18b6d6855a
   extension: jpg

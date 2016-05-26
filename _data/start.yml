@@ -1,9 +1,7 @@
 ---
-name: Stepford Cuckoos
-description: The Stepford Cuckoos were five identical mutant sisters who enrolled
-  at the Xavier Institute and soon proved to be the crème de la crème of Emma Frost's
-  telepathy class.
-url: http://marvel.com/universe/Stepford_Cuckoos?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Emma Frost
+description: ''
+url: http://marvel.com/universe/Frost%2C_Emma?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c003acc72680
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/51151ef7cf4c8
   extension: jpg
