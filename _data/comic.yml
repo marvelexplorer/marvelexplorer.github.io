@@ -1,12 +1,12 @@
 ---
-date: '2003-02-10T00:00:00-0500'
-year: '2003'
-title: 'X-Statix (2002) #6'
-issue: 6
+date: '1997-05-01T00:00:00-0400'
+year: '1997'
+title: 'Uncanny X-Men (1963) #344'
+issue: 344
 series:
-  period: '2002'
-  name: X-Statix
-url: http://marvel.com/comics/issue/13418/x-statix_2002_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13885/uncanny_x-men_1963_344?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bc46cea11be0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/51a8c46d2a773
   extension: jpg
