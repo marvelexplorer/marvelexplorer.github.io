@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 5
-- name: Scarlet Witch
-  score: 4
 - name: Wolverine
   score: 4
 - name: Sub-Mariner
+  score: 3
+- name: Scarlet Witch
   score: 3
 - name: Storm
   score: 3
