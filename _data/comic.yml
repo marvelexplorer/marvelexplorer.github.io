@@ -1,12 +1,12 @@
 ---
-date: '1991-01-01T00:00:00-0500'
-year: '1991'
-title: 'Excalibur (1988) #33'
-issue: 33
+date: '1996-09-01T00:00:00-0400'
+year: '1996'
+title: 'Excalibur (1988) #101'
+issue: 101
 series:
   period: '1988'
   name: Excalibur
-url: http://marvel.com/comics/issue/8614/excalibur_1988_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/8565/excalibur_1988_101?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb609f2ca27d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/55b0017fe1186
   extension: jpg
