@@ -1,12 +1,12 @@
 ---
-date: '1941-01-01T00:00:00-0500'
-year: '1941'
-title: 'Marvel Mystery Comics (1939) #15'
-issue: 15
+date: '1988-11-10T00:00:00-0500'
+year: '1988'
+title: 'Fantastic Four (1961) #320'
+issue: 320
 series:
-  period: '1939'
-  name: Marvel Mystery Comics
-url: http://marvel.com/comics/issue/16720/marvel_mystery_comics_1939_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13140/fantastic_four_1961_320?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/50b44fe063009
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4c366a3d1c5ce
   extension: jpg
