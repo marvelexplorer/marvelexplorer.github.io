@@ -1,12 +1,12 @@
 ---
-date: '2009-02-04T00:00:00-0500'
-year: '2009'
-title: 'Mighty Avengers (2007) #21'
-issue: 21
+date: '2010-10-27T00:00:00-0400'
+year: '2010'
+title: 'Avengers (2010) #6'
+issue: 6
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/23106/mighty_avengers_2007_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Avengers
+url: http://marvel.com/comics/issue/29209/avengers_2010_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/04/4f7c8e76e8feb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4f50e4f2b5156
   extension: jpg
