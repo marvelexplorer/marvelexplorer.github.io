@@ -1,12 +1,12 @@
 ---
-date: '2003-01-01T00:00:00-0500'
-year: '2003'
-title: 'Avengers Icons: Vision (2002) #4'
-issue: 4
+date: '2009-02-04T00:00:00-0500'
+year: '2009'
+title: 'Mighty Avengers (2007) #21'
+issue: 21
 series:
-  period: '2002'
-  name: 'Avengers Icons: Vision'
-url: http://marvel.com/comics/issue/6950/avengers_icons_vision_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/23106/mighty_avengers_2007_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc47c704f5a5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/04/4f7c8e76e8feb
   extension: jpg
