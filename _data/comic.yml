@@ -1,12 +1,12 @@
 ---
-date: '1978-05-10T00:00:00-0400'
-year: '1978'
-title: 'Incredible Hulk (1962) #223'
-issue: 223
+date: '2011-08-17T00:00:00-0400'
+year: '2011'
+title: 'Avengers (2010) #16'
+issue: 16
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9034/incredible_hulk_1962_223?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Avengers
+url: http://marvel.com/comics/issue/29202/avengers_2010_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/527a6463357ee
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/4f4feae2bc1d5
   extension: jpg
