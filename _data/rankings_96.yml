@@ -3,9 +3,9 @@
   score: 6
 - name: Human Torch
   score: 4
-- name: Quicksilver
-  score: 4
 - name: X-Men
   score: 3
 - name: Iron Man
+  score: 3
+- name: Hulk
   score: 3
