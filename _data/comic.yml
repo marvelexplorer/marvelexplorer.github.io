@@ -1,12 +1,12 @@
 ---
-date: '1964-02-10T00:00:00-0500'
-year: '1964'
-title: 'Strange Tales (1951) #117'
-issue: 117
+date: '1940-12-01T00:00:00-0500'
+year: '1940'
+title: 'Marvel Mystery Comics (1939) #14'
+issue: 14
 series:
-  period: '1951'
-  name: Strange Tales
-url: http://marvel.com/comics/issue/11036/strange_tales_1951_117?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16719/marvel_mystery_comics_1939_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc372b468cea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/50ae1e3cb52dd
   extension: jpg
