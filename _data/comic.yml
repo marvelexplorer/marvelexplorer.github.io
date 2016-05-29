@@ -1,12 +1,12 @@
 ---
-date: '1994-09-01T00:00:00-0400'
-year: '1994'
-title: 'X-Men (1991) #36'
-issue: 36
+date: '2002-02-01T00:00:00-0500'
+year: '2002'
+title: 'X-Treme X-Men: The Savage Land (2001) #4'
+issue: 4
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14324/x-men_1991_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: 'X-Treme X-Men: The Savage Land'
+url: http://marvel.com/comics/issue/12397/x-treme_x-men_the_savage_land_2001_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/50b3f0bec6ee4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc46cc689925
   extension: jpg
