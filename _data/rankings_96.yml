@@ -1,8 +1,8 @@
 ---
-- name: Wolverine
-  score: 7
 - name: X-Men
-  score: 7
+  score: 8
+- name: Wolverine
+  score: 6
 - name: Professor X
   score: 4
 - name: Rogue
