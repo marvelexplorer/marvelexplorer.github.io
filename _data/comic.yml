@@ -1,12 +1,12 @@
 ---
-date: '2006-09-20T00:00:00-0400'
-year: '2006'
-title: 'X-Men: First Class (2006) #1'
-issue: 1
+date: '2001-12-01T00:00:00-0500'
+year: '2001'
+title: 'New X-Men (2001) #119'
+issue: 119
 series:
-  period: '2006'
-  name: 'X-Men: First Class'
-url: http://marvel.com/comics/issue/5144/x-men_first_class_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14938/new_x-men_2001_119?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bb3de98da010
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bb670173c563
   extension: jpg
