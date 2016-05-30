@@ -2,10 +2,10 @@
 - name: Wolverine
   score: 6
 - name: X-Men
-  score: 5
+  score: 6
 - name: Professor X
   score: 4
-- name: Iron Man
-  score: 3
 - name: Hulk
+  score: 3
+- name: Human Torch
   score: 3
