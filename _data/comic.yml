@@ -1,12 +1,12 @@
 ---
-date: '1999-04-01T00:00:00-0500'
-year: '1999'
-title: 'Magneto Rex (1999) #1'
-issue: 1
+date: '2011-01-05T00:00:00-0500'
+year: '2011'
+title: 'Avengers: The Children''s Crusade (2010) #4'
+issue: 4
 series:
-  period: '1999'
-  name: Magneto Rex
-url: http://marvel.com/comics/issue/9999/magneto_rex_1999_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Avengers: The Children''s Crusade'
+url: http://marvel.com/comics/issue/31140/avengers_the_childrens_crusade_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc35ee3ad796
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4f620f1eb170c
   extension: jpg
