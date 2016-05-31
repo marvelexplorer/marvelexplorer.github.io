@@ -1,12 +1,12 @@
 ---
-date: '1998-01-10T00:00:00-0500'
-year: '1998'
-title: 'Incredible Hulk (1962) #460'
-issue: 460
+date: '1969-06-10T00:00:00-0400'
+year: '1969'
+title: 'Incredible Hulk (1962) #116'
+issue: 116
 series:
   period: '1962'
   name: Incredible Hulk
-url: http://marvel.com/comics/issue/9271/incredible_hulk_1962_460?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/8927/incredible_hulk_1962_116?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/537655c895729
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4f566d92c3ede
   extension: jpg
