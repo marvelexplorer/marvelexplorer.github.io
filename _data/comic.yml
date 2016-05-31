@@ -1,12 +1,12 @@
 ---
-date: '1994-01-10T00:00:00-0500'
-year: '1994'
-title: 'Daredevil: The Man Without Fear (1993) #4'
-issue: 4
+date: '1987-06-10T00:00:00-0400'
+year: '1987'
+title: 'Amazing Spider-Man (1963) #289'
+issue: 289
 series:
-  period: '1993'
-  name: 'Daredevil: The Man Without Fear'
-url: http://marvel.com/comics/issue/20753/daredevil_the_man_without_fear_1993_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6692/amazing_spider-man_1963_289?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bb864cfb3e3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/c0/536bcaba5b6af
   extension: jpg
