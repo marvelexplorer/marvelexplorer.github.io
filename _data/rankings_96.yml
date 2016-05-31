@@ -1,8 +1,8 @@
 ---
-- name: Wolverine
-  score: 6
 - name: X-Men
   score: 6
+- name: Wolverine
+  score: 5
 - name: Rogue
   score: 4
 - name: Hulk
