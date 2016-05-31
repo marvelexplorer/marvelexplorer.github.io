@@ -3,9 +3,9 @@
   score: 6
 - name: Wolverine
   score: 5
-- name: Rogue
-  score: 4
 - name: Hulk
+  score: 5
+- name: Rogue
   score: 4
 - name: Nightcrawler
   score: 3
