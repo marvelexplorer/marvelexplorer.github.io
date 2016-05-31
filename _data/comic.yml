@@ -1,12 +1,12 @@
 ---
-date: '1998-06-10T00:00:00-0400'
-year: '1998'
-title: 'Incredible Hulk (1962) #465'
-issue: 465
+date: '2004-11-10T00:00:00-0500'
+year: '2004'
+title: '4 (2004) #12'
+issue: 12
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9276/incredible_hulk_1962_465?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: '4'
+url: http://marvel.com/comics/issue/52/4_2004_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/520264992072a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4bc6b25110940
   extension: jpg
