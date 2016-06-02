@@ -3,9 +3,9 @@
   score: 10
 - name: Wolverine
   score: 6
-- name: Polaris
-  score: 3
 - name: Rogue
   score: 3
 - name: Cyclops
+  score: 3
+- name: Professor X
   score: 3
