@@ -1,12 +1,12 @@
 ---
-date: '1971-04-10T00:00:00-0500'
-year: '1971'
-title: 'Avengers (1963) #87'
-issue: 87
+date: '1966-10-10T00:00:00-0400'
+year: '1966'
+title: 'Tales of Suspense (1959) #82'
+issue: 82
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7340/avengers_1963_87?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11328/tales_of_suspense_1959_82?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4e945fe69be0a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/536d4883c8826
   extension: jpg
