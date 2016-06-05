@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
   score: 4
+- name: Black Widow
+  score: 4
 - name: Ronan
   score: 3
 - name: Doctor Strange
   score: 3
 - name: Captain Marvel (Carol Danvers)
-  score: 3
-- name: Black Widow
   score: 3
