@@ -1,12 +1,12 @@
 ---
-date: '2011-08-10T00:00:00-0400'
-year: '2011'
-title: 'The Iron Age (2010) #3'
-issue: 3
+date: '1982-06-10T00:00:00-0400'
+year: '1982'
+title: 'What If? (1977) #33'
+issue: 33
 series:
-  period: '2010'
-  name: The Iron Age
-url: http://marvel.com/comics/issue/39682/the_iron_age_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1977'
+  name: What If?
+url: http://marvel.com/comics/issue/12147/what_if_1977_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4dcaf91d76b80
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/50ad75df2745d
   extension: jpg
