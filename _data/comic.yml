@@ -1,12 +1,12 @@
 ---
-date: '2005-05-11T00:00:00-0400'
-year: '2005'
-title: 'Astonishing X-Men (2004) #10'
-issue: 10
+date: '2003-05-15T00:00:00-0400'
+year: '2003'
+title: 'X-Treme X-Men (2001) #23'
+issue: 23
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/1719/astonishing_x-men_2004_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15026/x-treme_x-men_2001_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4d24dcda5fd84
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bc368259ae7e
   extension: jpg
