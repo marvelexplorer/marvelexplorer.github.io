@@ -1,12 +1,12 @@
 ---
-date: '1982-08-10T00:00:00-0400'
-year: '1982'
-title: 'Iron Man (1968) #161'
-issue: 161
+date: '2011-10-12T00:00:00-0400'
+year: '2011'
+title: 'Daken: Dark Wolverine (2010) #15'
+issue: 15
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9396/iron_man_1968_161?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Daken: Dark Wolverine'
+url: http://marvel.com/comics/issue/36474/daken_dark_wolverine_2010_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/517994e1b33f0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4e861db87bbf0
   extension: jpg
