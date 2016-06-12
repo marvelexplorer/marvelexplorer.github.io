@@ -1,12 +1,12 @@
 ---
-date: '2011-03-30T00:00:00-0400'
+date: '2011-08-17T00:00:00-0400'
 year: '2011'
-title: 'X-23 (2010) #8'
-issue: 8
+title: 'X-Factor (2005) #224'
+issue: 224
 series:
-  period: '2010'
-  name: X-23
-url: http://marvel.com/comics/issue/30265/x-23_2010_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: X-Factor
+url: http://marvel.com/comics/issue/35274/x-factor_2005_224?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/51eeb16cd18f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4dd1a27216859
   extension: jpg
