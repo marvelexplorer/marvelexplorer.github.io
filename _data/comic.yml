@@ -1,12 +1,12 @@
 ---
-date: '2005-03-09T00:00:00-0500'
-year: '2005'
-title: 'New Thunderbolts (2004) #6'
-issue: 6
+date: '1971-02-10T00:00:00-0500'
+year: '1971'
+title: 'Avengers (1963) #85'
+issue: 85
 series:
-  period: '2004'
-  name: New Thunderbolts
-url: http://marvel.com/comics/issue/1738/new_thunderbolts_2004_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7338/avengers_1963_85?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bc64ac470eba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/4e94565161e53
   extension: jpg
