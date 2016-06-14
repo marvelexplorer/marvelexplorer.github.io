@@ -1,12 +1,12 @@
 ---
-date: '2011-06-08T00:00:00-0400'
-year: '2011'
-title: 'Iron Age: Alpha (2010) #1'
-issue: 1
+date: '1991-07-01T00:00:00-0400'
+year: '1991'
+title: 'Wolverine (1988) #41'
+issue: 41
 series:
-  period: '2010'
-  name: 'Iron Age: Alpha'
-url: http://marvel.com/comics/issue/35110/iron_age_alpha_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14161/wolverine_1988_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/60/4db1c82cacc30
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb79c1284bd3
   extension: jpg
