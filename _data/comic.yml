@@ -1,12 +1,12 @@
 ---
-date: '2000-02-10T00:00:00-0500'
-year: '2000'
-title: 'Avengers (1998) #25'
-issue: 25
+date: '1996-11-10T00:00:00-0500'
+year: '1996'
+title: 'Avengers (1996) #1'
+issue: 1
 series:
-  period: '1998'
+  period: '1996'
   name: Avengers
-url: http://marvel.com/comics/issue/17507/avengers_1998_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/17751/avengers_1996_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/4c362aa40e5d2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bc334d1830cc
   extension: jpg
