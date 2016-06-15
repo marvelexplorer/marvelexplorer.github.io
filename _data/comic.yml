@@ -1,12 +1,12 @@
 ---
-date: '1997-06-10T00:00:00-0400'
-year: '1997'
-title: 'Avengers (1996) #8'
-issue: 8
+date: '1989-05-10T00:00:00-0400'
+year: '1989'
+title: 'Fantastic Four (1961) #326'
+issue: 326
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17762/avengers_1996_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13146/fantastic_four_1961_326?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bb79ae06cf8e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/55d4aed82fd6f
   extension: jpg
