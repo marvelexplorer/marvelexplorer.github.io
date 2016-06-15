@@ -1,12 +1,12 @@
 ---
-date: '2005-02-09T00:00:00-0500'
-year: '2005'
-title: 'Young Avengers (2005) #1'
+date: '2010-04-14T00:00:00-0400'
+year: '2010'
+title: 'Siege: Young Avengers (2010) #1'
 issue: 1
 series:
-  period: '2005'
-  name: Young Avengers
-url: http://marvel.com/comics/issue/1629/young_avengers_2005_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Siege: Young Avengers'
+url: http://marvel.com/comics/issue/32938/siege_young_avengers_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/70/564259ee974d5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/517aef8a30c73
   extension: jpg
