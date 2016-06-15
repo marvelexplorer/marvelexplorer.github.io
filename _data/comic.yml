@@ -1,12 +1,12 @@
 ---
-date: '2008-03-26T00:00:00-0400'
-year: '2008'
-title: 'New Warriors (2007) #10'
-issue: 10
+date: '2005-09-28T00:00:00-0400'
+year: '2005'
+title: 'New Warriors (2005) #4'
+issue: 4
 series:
-  period: '2007'
+  period: '2005'
   name: New Warriors
-url: http://marvel.com/comics/issue/20884/new_warriors_2007_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/2408/new_warriors_2005_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/4bb88f556eb88
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc624268ccdc
   extension: jpg
