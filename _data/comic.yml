@@ -1,12 +1,12 @@
 ---
-date: '1991-09-10T00:00:00-0400'
+date: '1991-07-01T00:00:00-0400'
 year: '1991'
-title: 'Uncanny X-Men (1963) #280'
-issue: 280
+title: 'Wolverine (1988) #41'
+issue: 41
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13821/uncanny_x-men_1963_280?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14161/wolverine_1988_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/511420b27bc44
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb79c1284bd3
   extension: jpg
