@@ -1,12 +1,12 @@
 ---
-date: '1991-07-01T00:00:00-0400'
-year: '1991'
-title: 'Wolverine (1988) #41'
-issue: 41
+date: '1993-01-10T00:00:00-0500'
+year: '1993'
+title: 'X-Factor (1986) #86'
+issue: 86
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14161/wolverine_1988_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12308/x-factor_1986_86?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb79c1284bd3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bb5810e05717
   extension: jpg
