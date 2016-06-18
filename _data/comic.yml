@@ -1,12 +1,12 @@
 ---
-date: '2010-11-03T00:00:00-0400'
-year: '2010'
-title: 'Avengers: Earth''s Mightiest Heroes (2010) #1'
-issue: 1
+date: '1998-04-10T00:00:00-0400'
+year: '1998'
+title: 'Captain America (1998) #4'
+issue: 4
 series:
-  period: '2010'
-  name: 'Avengers: Earth''s Mightiest Heroes'
-url: http://marvel.com/comics/issue/37874/avengers_earths_mightiest_heroes_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12800/captain_america_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4f79ec904d31f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/e0/4e94730196175
   extension: jpg
