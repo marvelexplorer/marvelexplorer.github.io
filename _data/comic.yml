@@ -1,12 +1,12 @@
 ---
-date: '1993-06-10T00:00:00-0400'
-year: '1993'
-title: 'Infinity Crusade (1993) #1'
-issue: 1
+date: '2004-12-29T00:00:00-0500'
+year: '2004'
+title: 'New Avengers (2004) #2'
+issue: 2
 series:
-  period: '1993'
-  name: Infinity Crusade
-url: http://marvel.com/comics/issue/23307/infinity_crusade_1993_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/1438/new_avengers_2004_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/572a5caa936a9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4f7da88490208
   extension: jpg
