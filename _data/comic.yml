@@ -1,12 +1,12 @@
 ---
-date: '2008-09-03T00:00:00-0400'
-year: '2008'
-title: 'Invincible Iron Man (2008) #5'
-issue: 5
+date: '2005-06-22T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #6'
+issue: 6
 series:
-  period: '2008'
-  name: Invincible Iron Man
-url: http://marvel.com/comics/issue/22030/invincible_iron_man_2008_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/1829/new_avengers_2004_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/4f7b239e469c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f7dae738407f
   extension: jpg
