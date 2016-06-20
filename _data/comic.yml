@@ -1,12 +1,12 @@
 ---
-date: '2004-11-03T00:00:00-0500'
-year: '2004'
-title: 'Spider-Man/Doctor Octopus: Year One (2004) #4'
-issue: 4
+date: '2010-03-31T00:00:00-0400'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #627'
+issue: 627
 series:
-  period: '2004'
-  name: 'Spider-Man/Doctor Octopus: Year One'
-url: http://marvel.com/comics/issue/825/spider-mandoctor_octopus_year_one_2004_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30302/amazing_spider-man_1999_627?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/4bc679c9816c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/4e84d93019502
   extension: jpg
