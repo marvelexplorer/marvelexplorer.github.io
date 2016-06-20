@@ -1,12 +1,12 @@
 ---
-date: '1985-03-10T00:00:00-0500'
+date: '1985-07-10T00:00:00-0400'
 year: '1985'
-title: 'Secret Wars (1984) #11'
-issue: 11
+title: 'Secret Wars II (1985) #1'
+issue: 1
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10582/secret_wars_1984_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1985'
+  name: Secret Wars II
+url: http://marvel.com/comics/issue/18884/secret_wars_ii_1985_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/57581c9ff0718
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bb5cd6eade31
   extension: jpg
