@@ -1,12 +1,12 @@
 ---
-date: '2011-05-04T00:00:00-0400'
-year: '2011'
-title: 'Moon Knight (2010) #1'
-issue: 1
+date: '1991-09-10T00:00:00-0400'
+year: '1991'
+title: 'Marvel Comics Presents (1988) #84'
+issue: 84
 series:
-  period: '2010'
-  name: Moon Knight
-url: http://marvel.com/comics/issue/34015/moon_knight_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10168/marvel_comics_presents_1988_84?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/513a687b0b91c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4c36258c69f23
   extension: jpg
