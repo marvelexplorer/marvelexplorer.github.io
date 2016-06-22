@@ -1,12 +1,12 @@
 ---
-date: '2002-01-01T00:00:00-0500'
-year: '2002'
-title: 'Avengers (1998) #48'
-issue: 48
+date: '2001-04-01T00:00:00-0500'
+year: '2001'
+title: 'Thor (1998) #34'
+issue: 34
 series:
   period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17532/avengers_1998_48?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Thor
+url: http://marvel.com/comics/issue/18658/thor_1998_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb6ac08e3aa6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/5261578cf33f9
   extension: jpg
