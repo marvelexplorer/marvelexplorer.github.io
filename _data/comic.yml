@@ -1,12 +1,12 @@
 ---
-date: '2014-01-15T00:00:00-0500'
-year: '2014'
-title: 'Superior Spider-Man (2013) #25'
-issue: 25
+date: '1993-08-10T00:00:00-0400'
+year: '1993'
+title: 'Spider-Man 2099 (1992) #10'
+issue: 10
 series:
-  period: '2013'
-  name: Superior Spider-Man
-url: http://marvel.com/comics/issue/48033/superior_spider-man_2013_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1992'
+  name: Spider-Man 2099
+url: http://marvel.com/comics/issue/10866/spider-man_2099_1992_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/52cee2f4eea1d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/50ac1e1b77c27
   extension: jpg
