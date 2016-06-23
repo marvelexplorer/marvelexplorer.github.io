@@ -1,12 +1,12 @@
 ---
-date: '2011-02-16T00:00:00-0500'
-year: '2011'
-title: 'Amazing Spider-Man (1999) #654.1'
-issue: 654.1
+date: '2014-01-15T00:00:00-0500'
+year: '2014'
+title: 'Superior Spider-Man (2013) #25'
+issue: 25
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/39291/amazing_spider-man_1999_654.1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Superior Spider-Man
+url: http://marvel.com/comics/issue/48033/superior_spider-man_2013_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4e983d6b67c4b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/52cee2f4eea1d
   extension: jpg
