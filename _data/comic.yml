@@ -1,12 +1,12 @@
 ---
-date: '1989-03-10T00:00:00-0500'
-year: '1989'
-title: 'Fantastic Four (1961) #324'
-issue: 324
+date: '2002-04-01T00:00:00-0500'
+year: '2002'
+title: 'Avengers (1998) #51'
+issue: 51
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13144/fantastic_four_1961_324?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17536/avengers_1998_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/50ad2b8154ef4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/50b3a19f14d90
   extension: jpg
