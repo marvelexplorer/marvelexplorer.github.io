@@ -1,12 +1,12 @@
 ---
-date: '1984-09-10T00:00:00-0400'
-year: '1984'
-title: 'Fantastic Four (1961) #270'
-issue: 270
+date: '1991-05-10T00:00:00-0400'
+year: '1991'
+title: 'X-Factor (1986) #66'
+issue: 66
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13084/fantastic_four_1961_270?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12286/x-factor_1986_66?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb78fd45a043
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/573608ab3416f
   extension: jpg
