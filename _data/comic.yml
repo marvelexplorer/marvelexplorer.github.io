@@ -1,12 +1,12 @@
 ---
-date: '2005-01-19T00:00:00-0500'
+date: '2005-07-27T00:00:00-0400'
 year: '2005'
-title: 'Daredevil (1998) #69'
-issue: 69
+title: 'Daredevil Vs. Punisher (2005) #2'
+issue: 2
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/1518/daredevil_1998_69?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Daredevil Vs. Punisher
+url: http://marvel.com/comics/issue/2203/daredevil_vs_punisher_2005_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5727968375c39
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/50/56d7593846290
   extension: jpg
