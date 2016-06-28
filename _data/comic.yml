@@ -1,12 +1,12 @@
 ---
-date: '2005-07-13T00:00:00-0400'
-year: '2005'
-title: '4 (2004) #20'
-issue: 20
+date: '2000-09-10T00:00:00-0400'
+year: '2000'
+title: 'Fantastic Four (1998) #33'
+issue: 33
 series:
-  period: '2004'
-  name: '4'
-url: http://marvel.com/comics/issue/2230/4_2004_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15553/fantastic_four_1998_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc62d0a7843d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/51bb3394cc21d
   extension: jpg
