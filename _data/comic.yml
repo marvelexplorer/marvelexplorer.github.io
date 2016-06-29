@@ -1,12 +1,12 @@
 ---
-date: '2005-02-02T00:00:00-0500'
+date: '2005-11-09T00:00:00-0500'
 year: '2005'
-title: 'New Avengers (2004) #3'
-issue: 3
+title: 'The Pulse (2004) #12'
+issue: 12
 series:
   period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/1532/new_avengers_2004_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: The Pulse
+url: http://marvel.com/comics/issue/2992/the_pulse_2004_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/4f7daa5793897
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc4731dcbb67
   extension: jpg
