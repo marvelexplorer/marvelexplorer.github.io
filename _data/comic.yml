@@ -1,12 +1,12 @@
 ---
-date: '1966-05-10T00:00:00-0400'
-year: '1966'
-title: 'Strange Tales (1951) #144'
-issue: 144
+date: '2000-08-10T00:00:00-0400'
+year: '2000'
+title: 'Captain America (1998) #32'
+issue: 32
 series:
-  period: '1951'
-  name: Strange Tales
-url: http://marvel.com/comics/issue/11066/strange_tales_1951_144?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12792/captain_america_1998_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc3732e66e71
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/4e8b5fbcbdfcf
   extension: jpg
