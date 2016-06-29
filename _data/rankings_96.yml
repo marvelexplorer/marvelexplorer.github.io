@@ -1,11 +1,11 @@
 ---
 - name: Invisible Woman
   score: 6
-- name: Mr. Fantastic
-  score: 4
 - name: Wolverine
   score: 4
 - name: Cyclops
   score: 4
 - name: X-Men
+  score: 4
+- name: Thing
   score: 4
