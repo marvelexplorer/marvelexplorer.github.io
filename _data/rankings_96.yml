@@ -3,9 +3,9 @@
   score: 5
 - name: Avengers
   score: 4
-- name: Thing
-  score: 3
 - name: Invisible Woman
   score: 3
 - name: Spider-Man
+  score: 3
+- name: Luke Cage
   score: 3
