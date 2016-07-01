@@ -1,12 +1,12 @@
 ---
-date: '1993-11-10T00:00:00-0500'
-year: '1993'
-title: 'Daredevil (1964) #322'
-issue: 322
+date: '2008-09-03T00:00:00-0400'
+year: '2008'
+title: 'Amazing Spider-Man (1999) #570'
+issue: 570
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8321/daredevil_1964_322?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/21932/amazing_spider-man_1999_570?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/e0/55784cd99dfe8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/56d475a903b3c
   extension: jpg
