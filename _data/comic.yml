@@ -1,12 +1,12 @@
 ---
-date: '2005-06-22T00:00:00-0400'
-year: '2005'
-title: 'Ultimate Fantastic Four (2003) #20'
-issue: 20
+date: '2001-12-01T00:00:00-0500'
+year: '2001'
+title: 'Ultimate Marvel Team-Up (2001) #9'
+issue: 9
 series:
-  period: '2003'
-  name: Ultimate Fantastic Four
-url: http://marvel.com/comics/issue/2077/ultimate_fantastic_four_2003_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Ultimate Marvel Team-Up
+url: http://marvel.com/comics/issue/15783/ultimate_marvel_team-up_2001_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4bc635655c6e5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc361d7acc7d
   extension: jpg
