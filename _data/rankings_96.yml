@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 5
+  score: 4
 - name: Spider-Man
   score: 4
 - name: Invisible Woman
   score: 4
+- name: Thor
+  score: 4
 - name: Luke Cage
-  score: 3
-- name: Avengers
   score: 3
