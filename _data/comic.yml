@@ -1,12 +1,12 @@
 ---
-date: '2006-08-30T00:00:00-0400'
-year: '2006'
-title: 'Ultimate Fantastic Four (2003) #33'
-issue: 33
+date: '2011-01-26T00:00:00-0500'
+year: '2011'
+title: 'Ultimate Comics Doom (2010) #2'
+issue: 2
 series:
-  period: '2003'
-  name: Ultimate Fantastic Four
-url: http://marvel.com/comics/issue/4780/ultimate_fantastic_four_2003_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Ultimate Comics Doom
+url: http://marvel.com/comics/issue/30215/ultimate_comics_doom_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc5d1047832b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f624364986ac
   extension: jpg
