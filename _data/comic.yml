@@ -1,12 +1,12 @@
 ---
-date: '2002-10-10T00:00:00-0400'
-year: '2002'
-title: 'Ultimate X-Men (2000) #21'
-issue: 21
+date: '2003-03-10T00:00:00-0500'
+year: '2003'
+title: 'Ultimate War (2003) #3'
+issue: 3
 series:
-  period: '2000'
-  name: Ultimate X-Men
-url: http://marvel.com/comics/issue/15712/ultimate_x-men_2000_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Ultimate War
+url: http://marvel.com/comics/issue/18476/ultimate_war_2003_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc366bc736c2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4c361fc40691a
   extension: jpg
