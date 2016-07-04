@@ -1,12 +1,12 @@
 ---
-date: '2005-12-21T00:00:00-0500'
+date: '2005-06-22T00:00:00-0400'
 year: '2005'
-title: 'Ultimate Wolverine Vs. Hulk (2005) #1'
-issue: 1
+title: 'Ultimate X-Men (2000) #60'
+issue: 60
 series:
-  period: '2005'
-  name: Ultimate Wolverine Vs. Hulk
-url: http://marvel.com/comics/issue/3227/ultimate_wolverine_vs_hulk_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate X-Men
+url: http://marvel.com/comics/issue/2116/ultimate_x-men_2000_60?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/10/4bc60cba20a80
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc6338d6b404
   extension: jpg
