@@ -1,12 +1,12 @@
 ---
-date: '2011-02-02T00:00:00-0500'
-year: '2011'
-title: 'Ultimate Comics Thor (2010) #4'
-issue: 4
+date: '2005-12-21T00:00:00-0500'
+year: '2005'
+title: 'Ultimate Wolverine Vs. Hulk (2005) #1'
+issue: 1
 series:
-  period: '2010'
-  name: Ultimate Comics Thor
-url: http://marvel.com/comics/issue/33578/ultimate_comics_thor_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Ultimate Wolverine Vs. Hulk
+url: http://marvel.com/comics/issue/3227/ultimate_wolverine_vs_hulk_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4cb61b68bbd1b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/10/4bc60cba20a80
   extension: jpg
