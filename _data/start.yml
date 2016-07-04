@@ -1,9 +1,10 @@
 ---
-name: Storm (Ultimate)
-description: Ororo Munroe was raised in Morocco, learning English from American films,
-  and after her family was murdered she fled to America, stealing cars in Harlem before
-  relocating to Texas.
-url: http://marvel.com/universe/Storm_%28Ultimate%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Thor (Ultimate)
+description: He claims he is the legendary Norse thunder deity Thor, sent to Earth
+  by his father Odin, but official records say he is Thorlief Golmen, who stole his
+  scientist brother Gunnar Golmen's super-soldier technology after suffering a nervous
+  breakdown.
+url: http://marvel.com/universe/Thor_%28Ultimate%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/5317733a7ab7a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/5317738e6dc12
   extension: jpg
