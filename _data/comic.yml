@@ -1,12 +1,12 @@
 ---
-date: '2002-05-01T00:00:00-0400'
-year: '2002'
-title: 'Ultimate Marvel Team-Up (2001) #14'
-issue: 14
+date: '2003-03-10T00:00:00-0500'
+year: '2003'
+title: 'Ultimate War (2003) #3'
+issue: 3
 series:
-  period: '2001'
-  name: Ultimate Marvel Team-Up
-url: http://marvel.com/comics/issue/15773/ultimate_marvel_team-up_2001_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Ultimate War
+url: http://marvel.com/comics/issue/18476/ultimate_war_2003_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bc361f07aeeb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4c361fc40691a
   extension: jpg
