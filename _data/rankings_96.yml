@@ -1,6 +1,4 @@
 ---
-- name: Spider-Man
-  score: 4
 - name: Invisible Woman (Ultimate)
   score: 4
 - name: Luke Cage
@@ -8,4 +6,6 @@
 - name: Avengers
   score: 3
 - name: Nick Fury
+  score: 3
+- name: Spider-Man
   score: 3
