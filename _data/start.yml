@@ -1,7 +1,13 @@
 ---
-name: Captain Marvel (Carol Danvers)
-description: ''
-url: http://marvel.com/universe/Ms._Marvel_(Carol_Danvers)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Fantastic Four
+description: After being exposed to cosmic rays, Reed Richards, Susan Storm, Ben Grimm
+  and Johnny Storm found they had amazing new powers. Reed Richards found he has the
+  ability to stretch his body in any way he wanted, while Susan Storm can turn herself,
+  objects and other people invisible. Ben Grimm transformed into a rocky, super-strong
+  behemoth and Johnny Storm has the ability to set himself on fire. Dubbed the Fantastic
+  Four, Mr. Fantastic, Invisible Woman, Thing and the Human Torch are Marvel's First
+  Family.
+url: http://marvel.com/universe/Fantastic_Four?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5269608c1be7a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/50febc4f55525
   extension: jpg
