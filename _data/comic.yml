@@ -1,12 +1,12 @@
 ---
-date: '2006-07-19T00:00:00-0400'
-year: '2006'
-title: 'Civil War: X-Men (2006) #1'
+date: '1995-07-01T00:00:00-0400'
+year: '1995'
+title: 'X-Men: Prime (1995) #1'
 issue: 1
 series:
-  period: '2006'
-  name: 'Civil War: X-Men'
-url: http://marvel.com/comics/issue/4498/civil_war_x-men_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: 'X-Men: Prime'
+url: http://marvel.com/comics/issue/12371/x-men_prime_1995_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/570c0714801d5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51e710eca04f3
   extension: jpg
