@@ -1,8 +1,8 @@
 ---
-- name: X-Men (Ultimate)
-  score: 4
 - name: Beast
   score: 4
+- name: X-Men (Ultimate)
+  score: 3
 - name: Iron Man (Ultimate)
   score: 3
 - name: Captain America
