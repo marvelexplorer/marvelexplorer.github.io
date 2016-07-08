@@ -1,12 +1,12 @@
 ---
-date: '1995-02-01T00:00:00-0500'
-year: '1995'
-title: 'X-Men (1991) #41'
-issue: 41
+date: '2009-03-11T00:00:00-0400'
+year: '2009'
+title: 'Astonishing Tales (2009) #2'
+issue: 2
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14330/x-men_1991_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Astonishing Tales
+url: http://marvel.com/comics/issue/23803/astonishing_tales_2009_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5580484ebd331
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb5985f12ae0
   extension: jpg
