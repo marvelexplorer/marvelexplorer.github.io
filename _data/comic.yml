@@ -1,12 +1,12 @@
 ---
-date: '2006-10-04T00:00:00-0400'
-year: '2006'
-title: 'Friendly Neighborhood Spider-Man (2005) #13'
-issue: 13
+date: '2007-06-06T00:00:00-0400'
+year: '2007'
+title: 'Spider-Man Loves Mary Jane (2005) #19'
+issue: 19
 series:
   period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/5237/friendly_neighborhood_spider-man_2005_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Spider-Man Loves Mary Jane
+url: http://marvel.com/comics/issue/15839/spider-man_loves_mary_jane_2005_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/56a8f346d1128
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bc496e69e1c5
   extension: jpg
