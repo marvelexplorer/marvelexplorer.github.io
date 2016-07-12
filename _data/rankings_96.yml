@@ -3,9 +3,9 @@
   score: 7
 - name: Punisher
   score: 5
-- name: Beast
-  score: 4
 - name: Hulk
   score: 4
 - name: Captain America
   score: 4
+- name: Beast
+  score: 3
