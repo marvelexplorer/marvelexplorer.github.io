@@ -1,12 +1,12 @@
 ---
-date: '2010-06-03T00:00:00-0400'
-year: '2010'
-title: 'Hawkeye & Mockingbird (2010) #1'
-issue: 1
+date: '2012-05-02T00:00:00-0400'
+year: '2012'
+title: 'Avengers Vs. X-Men (2012) #3'
+issue: 3
 series:
-  period: '2010'
-  name: Hawkeye & Mockingbird
-url: http://marvel.com/comics/issue/30011/hawkeye_mockingbird_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Avengers Vs. X-Men
+url: http://marvel.com/comics/issue/41187/avengers_vs_x-men_2012_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f57826b95a37
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4fa4390203731
   extension: jpg
