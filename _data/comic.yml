@@ -1,12 +1,12 @@
 ---
-date: '1985-01-10T00:00:00-0500'
-year: '1985'
-title: 'Kitty Pryde and Wolverine (1984) #3'
-issue: 3
+date: '1996-11-01T00:00:00-0500'
+year: '1996'
+title: 'Iron Man (1996) #1'
+issue: 1
 series:
-  period: '1984'
-  name: Kitty Pryde and Wolverine
-url: http://marvel.com/comics/issue/21647/kitty_pryde_and_wolverine_1984_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1996'
+  name: Iron Man
+url: http://marvel.com/comics/issue/16328/iron_man_1996_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb5d0713f37e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4bc3520ca8ee0
   extension: jpg
