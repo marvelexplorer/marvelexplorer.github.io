@@ -1,12 +1,12 @@
 ---
-date: '2009-04-22T00:00:00-0400'
-year: '2009'
-title: 'Mighty Avengers (2007) #24'
-issue: 24
+date: '2013-06-26T00:00:00-0400'
+year: '2013'
+title: 'Hawkeye (2012) #11'
+issue: 11
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/23964/mighty_avengers_2007_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Hawkeye
+url: http://marvel.com/comics/issue/42772/hawkeye_2012_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4f7c90635bfbb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/51c9c9b1ae073
   extension: jpg
