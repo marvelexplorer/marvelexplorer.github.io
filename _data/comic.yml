@@ -1,12 +1,12 @@
 ---
-date: '2007-01-31T00:00:00-0500'
-year: '2007'
-title: 'Annihilation (2006) #6'
-issue: 6
+date: '1999-07-10T00:00:00-0400'
+year: '1999'
+title: 'Fantastic Four (1998) #19'
+issue: 19
 series:
-  period: '2006'
-  name: Annihilation
-url: http://marvel.com/comics/issue/5795/annihilation_2006_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15537/fantastic_four_1998_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57850eb63ba98
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/51ffc7e247108
   extension: jpg
