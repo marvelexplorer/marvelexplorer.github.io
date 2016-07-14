@@ -1,12 +1,12 @@
 ---
-date: '2012-04-04T00:00:00-0400'
-year: '2012'
-title: 'Amazing Spider-Man (1999) #683'
-issue: 683
+date: '2010-06-03T00:00:00-0400'
+year: '2010'
+title: 'Captain America/Black Panther: Flags of Our Fathers (2010) #3'
+issue: 3
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/40114/amazing_spider-man_1999_683?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Captain America/Black Panther: Flags of Our Fathers'
+url: http://marvel.com/comics/issue/31164/captain_americablack_panther_flags_of_our_fathers_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/56c5f0ef7c04e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/570bfb191046a
   extension: jpg
