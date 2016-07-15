@@ -1,12 +1,12 @@
 ---
-date: '2008-12-31T00:00:00-0500'
-year: '2008'
-title: 'Avengers/Invaders (2008) #7'
-issue: 7
+date: '1987-07-10T00:00:00-0400'
+year: '1987'
+title: 'Fantastic Four (1961) #304'
+issue: 304
 series:
-  period: '2008'
-  name: Avengers/Invaders
-url: http://marvel.com/comics/issue/22935/avengersinvaders_2008_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13122/fantastic_four_1961_304?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/4f84716fb7fbe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537669afd052d
   extension: jpg
