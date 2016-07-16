@@ -2,10 +2,10 @@
 - name: Captain America
   score: 6
 - name: Thor
-  score: 5
+  score: 6
 - name: Spider-Man
   score: 4
-- name: Odin
-  score: 4
 - name: Wolverine
+  score: 3
+- name: Hulk
   score: 3
