@@ -1,12 +1,12 @@
 ---
-date: '2004-02-04T00:00:00-0500'
+date: '2004-05-05T00:00:00-0400'
 year: '2004'
-title: 'Thanos (2003) #6'
-issue: 6
+title: 'Thanos (2003) #10'
+issue: 10
 series:
   period: '2003'
   name: Thanos
-url: http://marvel.com/comics/issue/171/thanos_2003_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/625/thanos_2003_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/577fac0b86a0d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/577fc808dd6fc
   extension: jpg
