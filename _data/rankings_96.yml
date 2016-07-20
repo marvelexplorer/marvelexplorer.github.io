@@ -1,7 +1,7 @@
 ---
-- name: Iceman
-  score: 6
 - name: X-Men
+  score: 7
+- name: Iceman
   score: 6
 - name: Thor
   score: 5
