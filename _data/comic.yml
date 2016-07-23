@@ -1,12 +1,12 @@
 ---
-date: '2011-10-12T00:00:00-0400'
-year: '2011'
-title: 'FF (2010) #10'
-issue: 10
+date: '1999-11-01T00:00:00-0500'
+year: '1999'
+title: 'Earth X (1999) #8'
+issue: 8
 series:
-  period: '2010'
-  name: FF
-url: http://marvel.com/comics/issue/38608/ff_2010_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8558/earth_x_1999_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4e8626ba91a54
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb7c2b8564b2
   extension: jpg
