@@ -1,12 +1,12 @@
 ---
-date: '2010-01-27T00:00:00-0500'
-year: '2010'
-title: 'Guardians of the Galaxy (2008) #22'
-issue: 22
+date: '2016-06-08T00:00:00-0400'
+year: '2016'
+title: 'Guardians of the Galaxy (2015) #9'
+issue: 9
 series:
-  period: '2008'
+  period: '2015'
   name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/29022/guardians_of_the_galaxy_2008_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/55472/guardians_of_the_galaxy_2015_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/517ad7df48bd9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/5750603b7566d
   extension: jpg
