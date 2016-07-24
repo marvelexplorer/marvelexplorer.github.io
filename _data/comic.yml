@@ -1,12 +1,12 @@
 ---
-date: '1976-10-10T00:00:00-0400'
-year: '1976'
-title: 'Iron Fist (1975) #8'
-issue: 8
+date: '2011-03-02T00:00:00-0500'
+year: '2011'
+title: 'Heroes for Hire (2010) #4'
+issue: 4
 series:
-  period: '1975'
-  name: Iron Fist
-url: http://marvel.com/comics/issue/22634/iron_fist_1975_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Heroes for Hire
+url: http://marvel.com/comics/issue/37187/heroes_for_hire_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/578fec7db333e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/56438ccb21fca
   extension: jpg
