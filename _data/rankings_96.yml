@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 4
-- name: Fantastic Four
-  score: 4
 - name: Wolverine
   score: 3
 - name: Doctor Strange
   score: 3
 - name: Thor
+  score: 3
+- name: Human Torch
   score: 3
