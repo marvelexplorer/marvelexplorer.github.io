@@ -1,9 +1,9 @@
 ---
 - name: X-Men
   score: 27
-- name: Captain America
-  score: 19
 - name: Wolverine
+  score: 20
+- name: Captain America
   score: 19
 - name: Thor
   score: 18
