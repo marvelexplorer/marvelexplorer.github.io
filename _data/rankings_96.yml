@@ -1,9 +1,9 @@
 ---
-- name: X-Men
-  score: 4
 - name: She-Hulk (Jennifer Walters)
   score: 3
 - name: Fantastic Four
+  score: 3
+- name: X-Men
   score: 3
 - name: Hulk
   score: 3
