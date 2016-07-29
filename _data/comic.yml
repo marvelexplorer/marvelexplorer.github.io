@@ -1,12 +1,12 @@
 ---
-date: '2006-02-22T00:00:00-0500'
-year: '2006'
-title: 'Wolverine (2003) #39'
-issue: 39
+date: '2003-11-01T00:00:00-0500'
+year: '2003'
+title: 'X-Treme X-Men (2001) #31'
+issue: 31
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/3538/wolverine_2003_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15035/x-treme_x-men_2001_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4d25127b3a463
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/4bc468837743d
   extension: jpg
