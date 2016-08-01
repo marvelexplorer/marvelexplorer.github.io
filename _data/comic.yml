@@ -1,12 +1,12 @@
 ---
-date: '1997-06-10T00:00:00-0400'
-year: '1997'
-title: 'Avengers (1996) #8'
-issue: 8
+date: '2009-11-18T00:00:00-0500'
+year: '2009'
+title: 'Mighty Avengers (2007) #31'
+issue: 31
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17762/avengers_1996_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/25975/mighty_avengers_2007_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bb79ae06cf8e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f7c94a00e459
   extension: jpg
