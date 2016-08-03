@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 8
-- name: Sub-Mariner
-  score: 4
 - name: Wolverine
   score: 4
 - name: Iron Man
   score: 4
+- name: Sub-Mariner
+  score: 3
 - name: Thing
   score: 3
