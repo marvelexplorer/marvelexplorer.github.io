@@ -1,12 +1,12 @@
 ---
-date: '2007-05-09T00:00:00-0400'
-year: '2007'
-title: 'Marvel Zombies: Dead Days (2007) #1'
-issue: 1
+date: '2002-10-15T00:00:00-0400'
+year: '2002'
+title: 'New X-Men (2001) #131'
+issue: 131
 series:
-  period: '2007'
-  name: 'Marvel Zombies: Dead Days'
-url: http://marvel.com/comics/issue/13479/marvel_zombies_dead_days_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14950/new_x-men_2001_131?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bb87f6aaef92
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/577d40205b9f2
   extension: jpg
