@@ -1,12 +1,12 @@
 ---
-date: '1976-08-10T00:00:00-0400'
-year: '1976'
-title: 'Uncanny X-Men (1963) #100'
-issue: 100
+date: '2010-09-09T00:00:00-0400'
+year: '2010'
+title: 'X-Men (2010) #3'
+issue: 3
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12415/uncanny_x-men_1963_100?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/32193/x-men_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5372b5a21f5e6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4f4fe48bbfbe3
   extension: jpg
