@@ -1,12 +1,12 @@
 ---
-date: '2011-08-24T00:00:00-0400'
-year: '2011'
-title: 'Wolverine: The Best There Is (2011) #9'
-issue: 9
+date: '1999-10-10T00:00:00-0400'
+year: '1999'
+title: 'Iron Man (1998) #21'
+issue: 21
 series:
-  period: '2011'
-  name: 'Wolverine: The Best There Is'
-url: http://marvel.com/comics/issue/36242/wolverine_the_best_there_is_2011_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19893/iron_man_1998_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/55c3dc05486f7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4d24e07b53640
   extension: jpg
