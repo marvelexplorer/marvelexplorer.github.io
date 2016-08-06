@@ -1,12 +1,12 @@
 ---
-date: '1982-10-10T00:00:00-0400'
-year: '1982'
-title: 'Captain America (1968) #274'
-issue: 274
+date: '2009-08-26T00:00:00-0400'
+year: '2009'
+title: 'Secret Warriors (2008) #7'
+issue: 7
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7655/captain_america_1968_274?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Secret Warriors
+url: http://marvel.com/comics/issue/26289/secret_warriors_2008_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/56e6cd229b2db
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f677b3c5548c
   extension: jpg
