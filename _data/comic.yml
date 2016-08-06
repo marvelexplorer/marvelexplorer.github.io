@@ -1,12 +1,12 @@
 ---
-date: '1999-05-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #2'
-issue: 2
+date: '2002-01-10T00:00:00-0500'
+year: '2002'
+title: 'Fantastic Four: 1234 (2001) #4'
+issue: 4
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8552/earth_x_1999_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: 'Fantastic Four: 1234'
+url: http://marvel.com/comics/issue/16084/fantastic_four_1234_2001_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc32807d6682
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc36a5a208d3
   extension: jpg
