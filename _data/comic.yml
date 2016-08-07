@@ -1,12 +1,12 @@
 ---
-date: '2003-05-01T00:00:00-0400'
-year: '2003'
-title: 'Incredible Hulk (1999) #51'
-issue: 51
+date: '2008-04-23T00:00:00-0400'
+year: '2008'
+title: 'Hulk (2008) #3'
+issue: 3
 series:
-  period: '1999'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/14451/incredible_hulk_1999_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Hulk
+url: http://marvel.com/comics/issue/20863/hulk_2008_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bc32209800ae
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/5109ab5908cce
   extension: jpg
