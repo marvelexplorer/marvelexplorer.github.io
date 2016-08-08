@@ -1,6 +1,4 @@
 ---
-- name: Wolverine
-  score: 4
 - name: Cyclops
   score: 4
 - name: X-Men
@@ -8,4 +6,6 @@
 - name: Hulk
   score: 4
 - name: Colossus
+  score: 3
+- name: Wolverine
   score: 3
