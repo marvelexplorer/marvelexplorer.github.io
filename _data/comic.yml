@@ -1,12 +1,12 @@
 ---
-date: '2008-06-25T00:00:00-0400'
+date: '2008-05-29T00:00:00-0400'
 year: '2008'
-title: 'Avengers: The Initiative (2007) #14'
-issue: 14
+title: 'Ms. Marvel (2006) #27'
+issue: 27
 series:
-  period: '2007'
-  name: 'Avengers: The Initiative'
-url: http://marvel.com/comics/issue/21366/avengers_the_initiative_2007_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/21199/ms_marvel_2006_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4e9492b596bde
+  path: http://i.annihil.us/u/prod/marvel/i/mg/0/03/515205a815e09
   extension: jpg
