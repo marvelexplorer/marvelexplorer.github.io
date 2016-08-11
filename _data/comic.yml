@@ -1,12 +1,12 @@
 ---
-date: '2008-01-30T00:00:00-0500'
-year: '2008'
-title: 'X-Men: Emperor Vulcan (2007) #5'
-issue: 5
+date: '2002-11-01T00:00:00-0500'
+year: '2002'
+title: 'X-Treme X-Men (2001) #18'
+issue: 18
 series:
-  period: '2007'
-  name: 'X-Men: Emperor Vulcan'
-url: http://marvel.com/comics/issue/17637/x-men_emperor_vulcan_2007_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15020/x-treme_x-men_2001_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/4bc33f6fa7aae
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc36810b3268
   extension: jpg
