@@ -1,12 +1,12 @@
 ---
-date: '1989-11-01T00:00:00-0500'
-year: '1989'
-title: 'Wolverine (1988) #15'
-issue: 15
+date: '2007-11-21T00:00:00-0500'
+year: '2007'
+title: 'Penance: Relentless (2007) #3'
+issue: 3
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14092/wolverine_1988_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Penance: Relentless'
+url: http://marvel.com/comics/issue/17289/penance_relentless_2007_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c36530c96e32
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc38db5cd792
   extension: jpg
