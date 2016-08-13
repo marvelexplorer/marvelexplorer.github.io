@@ -1,12 +1,12 @@
 ---
-date: '2006-12-20T00:00:00-0500'
+date: '2006-09-20T00:00:00-0400'
 year: '2006'
-title: 'Marvel Adventures the Avengers (2006) #8'
-issue: 8
+title: 'Wolverine (2003) #46'
+issue: 46
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/5691/marvel_adventures_the_avengers_2006_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/5048/wolverine_2003_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/4f638ec9cd457
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d250e7c28711
   extension: jpg
