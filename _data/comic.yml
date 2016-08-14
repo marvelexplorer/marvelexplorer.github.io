@@ -1,12 +1,12 @@
 ---
-date: '2011-09-28T00:00:00-0400'
+date: '2011-02-09T00:00:00-0500'
 year: '2011'
-title: 'New Avengers (2010) #16.1'
-issue: 16.1
+title: 'Carnage (2010) #3'
+issue: 3
 series:
   period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/39700/new_avengers_2010_16.1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Carnage
+url: http://marvel.com/comics/issue/34623/carnage_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/517ae7302b5ce
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/00/4f6899c71968c
   extension: jpg
