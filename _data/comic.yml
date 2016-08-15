@@ -1,12 +1,12 @@
 ---
-date: '2010-08-18T00:00:00-0400'
-year: '2010'
-title: 'Avengers & the Infinity Gauntlet (2010) #1'
-issue: 1
+date: '1999-10-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers (1998) #21'
+issue: 21
 series:
-  period: '2010'
-  name: Avengers & the Infinity Gauntlet
-url: http://marvel.com/comics/issue/32477/avengers_the_infinity_gauntlet_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17503/avengers_1998_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f7b132880a2b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/50b3b211263c6
   extension: jpg
