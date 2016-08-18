@@ -1,6 +1,6 @@
 ---
 - name: X-Men
-  score: 41
+  score: 40
 - name: Wolverine
   score: 35
 - name: Iron Man
@@ -8,4 +8,4 @@
 - name: Cyclops
   score: 18
 - name: Human Torch
-  score: 15
+  score: 16
