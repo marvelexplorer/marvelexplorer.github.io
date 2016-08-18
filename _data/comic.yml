@@ -1,12 +1,12 @@
 ---
-date: '1998-01-10T00:00:00-0500'
-year: '1998'
-title: 'Captain America (1998) #1'
-issue: 1
+date: '1999-06-01T00:00:00-0400'
+year: '1999'
+title: 'Earth X (1999) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12767/captain_america_1998_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8553/earth_x_1999_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5453d58ed033c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb7c46e86a69
   extension: jpg
