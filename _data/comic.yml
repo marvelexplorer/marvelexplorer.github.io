@@ -1,12 +1,12 @@
 ---
-date: '2005-08-03T00:00:00-0400'
-year: '2005'
-title: 'X-Men Unlimited (2004) #10'
-issue: 10
+date: '2011-06-01T00:00:00-0400'
+year: '2011'
+title: 'X-Men (2010) #12'
+issue: 12
 series:
-  period: '2004'
-  name: X-Men Unlimited
-url: http://marvel.com/comics/issue/2296/x-men_unlimited_2004_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/32188/x-men_2010_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4e5eb7a6509b6
-  extension: png
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f4fd9e7dddef
+  extension: jpg
