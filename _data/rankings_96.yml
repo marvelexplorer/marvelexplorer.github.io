@@ -1,9 +1,9 @@
 ---
 - name: X-Men
   score: 7
-- name: Captain America
-  score: 5
 - name: Fantastic Four
+  score: 4
+- name: Captain America
   score: 4
 - name: Super-Skrull
   score: 3
