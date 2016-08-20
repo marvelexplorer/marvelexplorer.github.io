@@ -1,12 +1,12 @@
 ---
-date: '1978-02-10T00:00:00-0500'
-year: '1978'
-title: 'Uncanny X-Men (1963) #109'
-issue: 109
+date: '1987-12-10T00:00:00-0500'
+year: '1987'
+title: 'Classic X-Men (1986) #16'
+issue: 16
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12424/uncanny_x-men_1963_109?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20570/classic_x-men_1986_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/5372b004dd189
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb6830df4142
   extension: jpg
