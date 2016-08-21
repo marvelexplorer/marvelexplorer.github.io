@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
+date: '2006-05-03T00:00:00-0400'
 year: '2006'
-title: 'Daredevil (1998) #81'
-issue: 81
+title: 'Civil War (2006) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/3369/daredevil_1998_81?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Civil War
+url: http://marvel.com/comics/issue/4216/civil_war_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/e0/56d7581d7996f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/511307b2f1200
   extension: jpg
