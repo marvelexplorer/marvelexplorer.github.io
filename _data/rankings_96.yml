@@ -3,9 +3,9 @@
   score: 9
 - name: Fantastic Four
   score: 4
-- name: Super-Skrull
-  score: 3
 - name: Thing
   score: 3
 - name: Captain America
+  score: 3
+- name: Warpath
   score: 3
