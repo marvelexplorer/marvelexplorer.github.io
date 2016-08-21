@@ -1,12 +1,12 @@
 ---
-date: '2000-07-01T00:00:00-0400'
-year: '2000'
-title: 'Marvel Knights (2000) #1'
-issue: 1
+date: '1999-05-01T00:00:00-0400'
+year: '1999'
+title: 'Daredevil (1998) #7'
+issue: 7
 series:
-  period: '2000'
-  name: Marvel Knights
-url: http://marvel.com/comics/issue/16055/marvel_knights_2000_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15675/daredevil_1998_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc369f3bdae4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/563271b9b470c
   extension: jpg
