@@ -1,10 +1,10 @@
 ---
 - name: X-Men
   score: 10
-- name: Fantastic Four
-  score: 4
 - name: Captain America
   score: 4
+- name: Fantastic Four
+  score: 3
 - name: Warpath
   score: 3
 - name: Colossus
