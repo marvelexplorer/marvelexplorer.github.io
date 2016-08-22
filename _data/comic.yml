@@ -1,12 +1,12 @@
 ---
-date: '2007-02-14T00:00:00-0500'
-year: '2007'
-title: 'Amazing Spider-Girl (2006) #5'
-issue: 5
+date: '2003-05-01T00:00:00-0400'
+year: '2003'
+title: 'Daredevil (1998) #45'
+issue: 45
 series:
-  period: '2006'
-  name: Amazing Spider-Girl
-url: http://marvel.com/comics/issue/5997/amazing_spider-girl_2006_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15648/daredevil_1998_45?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/56d7064ea9df4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/57279e4d48357
   extension: jpg
