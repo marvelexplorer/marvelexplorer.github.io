@@ -1,12 +1,12 @@
 ---
-date: '1999-02-10T00:00:00-0500'
-year: '1999'
-title: 'Peter Parker: Spider-Man (1999) #2'
-issue: 2
+date: '2011-03-16T00:00:00-0400'
+year: '2011'
+title: 'Avengers Academy (2010) #11'
+issue: 11
 series:
-  period: '1999'
-  name: 'Peter Parker: Spider-Man'
-url: http://marvel.com/comics/issue/10528/peter_parker_spider-man_1999_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Avengers Academy
+url: http://marvel.com/comics/issue/29215/avengers_academy_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/50b3b80f16a27
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/51cca6ff7b8ae
   extension: jpg
