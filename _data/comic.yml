@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
+date: '2006-07-19T00:00:00-0400'
 year: '2006'
-title: 'Spider-Man Loves Mary Jane (2005) #2'
-issue: 2
+title: 'Marvel Adventures the Avengers (2006) #3'
+issue: 3
 series:
-  period: '2005'
-  name: Spider-Man Loves Mary Jane
-url: http://marvel.com/comics/issue/3415/spider-man_loves_mary_jane_2005_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/4494/marvel_adventures_the_avengers_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc607db4207f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4f6251b5346a4
   extension: jpg
