@@ -1,12 +1,12 @@
 ---
-date: '1973-10-10T00:00:00-0400'
-year: '1973'
-title: 'Amazing Spider-Man (1963) #125'
-issue: 125
+date: '2006-01-25T00:00:00-0500'
+year: '2006'
+title: 'Spider-Man Loves Mary Jane (2005) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6511/amazing_spider-man_1963_125?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Spider-Man Loves Mary Jane
+url: http://marvel.com/comics/issue/3415/spider-man_loves_mary_jane_2005_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/57b73b86039c1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc607db4207f
   extension: jpg
