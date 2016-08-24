@@ -1,7 +1,8 @@
 ---
-name: Human Torch
-description: ''
-url: http://marvel.com/universe/Human_Torch_%28Johnny_Storm%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Uatu The Watcher
+description: Uatu grew so fond of the lifeforms he observed that he occasionally violated
+  his vow of non-interference when Earth's existence was threatened.
+url: http://marvel.com/universe/Uatu_the_Watcher?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/5274135912e8d
   extension: jpg
