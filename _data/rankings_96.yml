@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 6
-- name: Captain America
+- name: Iron Man
   score: 6
 - name: X-Men
   score: 5
 - name: Colossus
   score: 5
-- name: Iron Man
+- name: Captain America
   score: 5
