@@ -1,12 +1,12 @@
 ---
-date: '1988-12-10T00:00:00-0500'
-year: '1988'
-title: 'Daredevil (1964) #261'
-issue: 261
+date: '2009-04-22T00:00:00-0400'
+year: '2009'
+title: 'Daredevil (1998) #118'
+issue: 118
 series:
-  period: '1964'
+  period: '1998'
   name: Daredevil
-url: http://marvel.com/comics/issue/8253/daredevil_1964_261?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/23924/daredevil_1998_118?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/e0/4bc47989b8e97
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/572d123880155
   extension: jpg
