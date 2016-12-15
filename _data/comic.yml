@@ -1,12 +1,12 @@
 ---
-date: '1984-07-10T00:00:00-0400'
-year: '1984'
-title: 'Amazing Spider-Man (1963) #254'
-issue: 254
+date: '1992-11-01T00:00:00-0500'
+year: '1992'
+title: 'Amazing Spider-Man (1963) #368'
+issue: 368
 series:
   period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6654/amazing_spider-man_1963_254?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6780/amazing_spider-man_1963_368?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/57c451db2bb17
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/52014c2c6b66a
   extension: jpg
