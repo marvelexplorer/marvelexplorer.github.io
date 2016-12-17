@@ -1,12 +1,12 @@
 ---
-date: '2011-01-05T00:00:00-0500'
-year: '2011'
-title: 'Avengers: The Children''s Crusade (2010) #4'
-issue: 4
+date: '2002-12-01T00:00:00-0500'
+year: '2002'
+title: 'Avengers (1998) #59'
+issue: 59
 series:
-  period: '2010'
-  name: 'Avengers: The Children''s Crusade'
-url: http://marvel.com/comics/issue/31140/avengers_the_childrens_crusade_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17544/avengers_1998_59?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4f620f1eb170c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb6a980c0dc8
   extension: jpg
