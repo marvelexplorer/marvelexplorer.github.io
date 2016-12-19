@@ -1,12 +1,12 @@
 ---
-date: '2002-03-10T00:00:00-0500'
-year: '2002'
-title: 'Fantastic Four (1998) #51'
-issue: 51
+date: '1997-06-01T00:00:00-0400'
+year: '1997'
+title: 'Fantastic Four (1996) #8'
+issue: 8
 series:
-  period: '1998'
+  period: '1996'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/15573/fantastic_four_1998_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13323/fantastic_four_1996_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c365c3365a33
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc38282eb551
   extension: jpg
