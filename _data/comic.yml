@@ -1,12 +1,12 @@
 ---
-date: '2009-04-29T00:00:00-0400'
-year: '2009'
-title: 'X-Men Origins: Wolverine (2009) #1'
-issue: 1
+date: '1988-01-12T00:00:00-0500'
+year: '1988'
+title: 'X-Men Annual (1970) #12'
+issue: 12
 series:
-  period: '2009'
-  name: 'X-Men Origins: Wolverine'
-url: http://marvel.com/comics/issue/23947/x-men_origins_wolverine_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12358/x-men_annual_1970_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/4bb579467d919
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5261700a4f270
   extension: jpg
