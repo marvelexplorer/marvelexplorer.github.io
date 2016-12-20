@@ -1,12 +1,12 @@
 ---
-date: '1980-06-10T00:00:00-0400'
-year: '1980'
-title: 'Iron Man (1968) #135'
-issue: 135
+date: '2013-03-27T00:00:00-0400'
+year: '2013'
+title: 'Guardians of the Galaxy (2013) #1'
+issue: 1
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9367/iron_man_1968_135?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2013'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/43305/guardians_of_the_galaxy_2013_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/50b531e219577
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/573deeae53730
   extension: jpg
