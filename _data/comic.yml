@@ -1,12 +1,12 @@
 ---
-date: '2007-03-21T00:00:00-0400'
+date: '2007-06-27T00:00:00-0400'
 year: '2007'
-title: 'X-23: Target X (2006) #4'
-issue: 4
+title: 'World War Hulk: X-Men (2007) #1'
+issue: 1
 series:
-  period: '2006'
-  name: 'X-23: Target X'
-url: http://marvel.com/comics/issue/6136/x-23_target_x_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'World War Hulk: X-Men'
+url: http://marvel.com/comics/issue/15889/world_war_hulk_x-men_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/57460e0a2cab5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/4f677855a7980
   extension: jpg
