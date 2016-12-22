@@ -1,12 +1,12 @@
 ---
-date: '2005-06-15T00:00:00-0400'
-year: '2005'
-title: '4 (2004) #19'
-issue: 19
+date: '2011-12-21T00:00:00-0500'
+year: '2011'
+title: 'Fantastic Four (1998) #601'
+issue: 601
 series:
-  period: '2004'
-  name: '4'
-url: http://marvel.com/comics/issue/2120/4_2004_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/38796/fantastic_four_1998_601?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5841bfa08620b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/60/51dc1b51ab390
   extension: jpg
