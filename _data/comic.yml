@@ -1,12 +1,12 @@
 ---
-date: '2009-10-21T00:00:00-0400'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #609'
-issue: 609
+date: '1996-05-10T00:00:00-0400'
+year: '1996'
+title: 'Amazing Spider-Man (1963) #411'
+issue: 411
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/24416/amazing_spider-man_1999_609?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6829/amazing_spider-man_1963_411?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/58063016378cb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/57e00eb818238
   extension: jpg
