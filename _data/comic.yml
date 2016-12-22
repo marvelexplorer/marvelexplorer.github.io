@@ -1,12 +1,12 @@
 ---
-date: '1979-01-10T00:00:00-0500'
-year: '1979'
-title: 'Invaders (1975) #36'
-issue: 36
+date: '2005-09-21T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #10'
+issue: 10
 series:
-  period: '1975'
-  name: Invaders
-url: http://marvel.com/comics/issue/19998/invaders_1975_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/2626/new_avengers_2004_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/58179c89bbc65
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/4f7dfbda0e3b9
   extension: jpg
