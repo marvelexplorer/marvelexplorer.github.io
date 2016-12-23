@@ -1,12 +1,12 @@
 ---
-date: '1991-01-10T00:00:00-0500'
-year: '1991'
-title: 'Marvel Comics Presents (1988) #67'
-issue: 67
+date: '2007-08-01T00:00:00-0400'
+year: '2007'
+title: 'Fantastic Four (1998) #548'
+issue: 548
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10149/marvel_comics_presents_1988_67?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15922/fantastic_four_1998_548?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/4c7d50c006134
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/70/57e9737281ec8
   extension: jpg
