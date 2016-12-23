@@ -1,12 +1,12 @@
 ---
-date: '2000-12-10T00:00:00-0500'
-year: '2000'
-title: 'Maximum Security (2000) #2'
-issue: 2
+date: '1967-09-10T00:00:00-0400'
+year: '1967'
+title: 'Tales of Suspense (1959) #93'
+issue: 93
 series:
-  period: '2000'
-  name: Maximum Security
-url: http://marvel.com/comics/issue/10285/maximum_security_2000_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11340/tales_of_suspense_1959_93?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/5398638f5c6fc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/536d465eecff7
   extension: jpg
