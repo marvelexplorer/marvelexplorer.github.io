@@ -1,12 +1,12 @@
 ---
-date: '1984-09-10T00:00:00-0400'
-year: '1984'
-title: 'Thor (1966) #347'
-issue: 347
+date: '2004-06-16T00:00:00-0400'
+year: '2004'
+title: 'Thor (1998) #81'
+issue: 81
 series:
-  period: '1966'
+  period: '1998'
   name: Thor
-url: http://marvel.com/comics/issue/11675/thor_1966_347?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/715/thor_1998_81?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4bb4fd55eec9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/56f2ca605a8c4
   extension: jpg
