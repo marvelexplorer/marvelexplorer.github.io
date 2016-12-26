@@ -1,12 +1,12 @@
 ---
-date: '2010-05-19T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man Presents: American Son (2010) #1'
-issue: 1
+date: '2014-01-29T00:00:00-0500'
+year: '2014'
+title: 'Superior Spider-Man (2013) #26'
+issue: 26
 series:
-  period: '2010'
-  name: 'Amazing Spider-Man Presents: American Son'
-url: http://marvel.com/comics/issue/30025/amazing_spider-man_presents_american_son_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Superior Spider-Man
+url: http://marvel.com/comics/issue/48034/superior_spider-man_2013_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/58174ff44438f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/52ded58839768
   extension: jpg
