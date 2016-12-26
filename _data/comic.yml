@@ -1,12 +1,12 @@
 ---
-date: '2008-03-05T00:00:00-0500'
-year: '2008'
-title: 'Cable (2008) #1'
+date: '2011-12-14T00:00:00-0500'
+year: '2011'
+title: 'Avengers: X-Sanction (2011) #1'
 issue: 1
 series:
-  period: '2008'
-  name: Cable
-url: http://marvel.com/comics/issue/20897/cable_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Avengers: X-Sanction'
+url: http://marvel.com/comics/issue/39772/avengers_x-sanction_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/80/4ea17c010dfa6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/56b8e6f116794
   extension: jpg
