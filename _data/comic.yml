@@ -1,12 +1,12 @@
 ---
-date: '2005-12-28T00:00:00-0500'
-year: '2005'
-title: 'Amazing Spider-Man (1999) #527'
-issue: 527
+date: '2010-05-19T00:00:00-0400'
+year: '2010'
+title: 'Amazing Spider-Man Presents: American Son (2010) #1'
+issue: 1
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/3132/amazing_spider-man_1999_527?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Amazing Spider-Man Presents: American Son'
+url: http://marvel.com/comics/issue/30025/amazing_spider-man_presents_american_son_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/57f7fb63e1df5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/58174ff44438f
   extension: jpg
