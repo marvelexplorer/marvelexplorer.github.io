@@ -1,12 +1,12 @@
 ---
-date: '2009-04-01T00:00:00-0400'
-year: '2009'
-title: 'Avengers/Invaders (2008) #9'
-issue: 9
+date: '1940-08-01T00:00:00-0400'
+year: '1940'
+title: 'Marvel Mystery Comics (1939) #10'
+issue: 10
 series:
-  period: '2008'
-  name: Avengers/Invaders
-url: http://marvel.com/comics/issue/24549/avengersinvaders_2008_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16715/marvel_mystery_comics_1939_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4f8475869b358
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb5b931d09c2
   extension: jpg
