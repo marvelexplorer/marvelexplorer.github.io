@@ -1,12 +1,12 @@
 ---
-date: '2008-11-05T00:00:00-0500'
-year: '2008'
-title: 'Cable (2008) #8'
-issue: 8
+date: '2004-09-22T00:00:00-0400'
+year: '2004'
+title: 'Astonishing X-Men (2004) #5'
+issue: 5
 series:
-  period: '2008'
-  name: Cable
-url: http://marvel.com/comics/issue/22522/cable_2008_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/843/astonishing_x-men_2004_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4ea1943dde514
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/5196813ad7246
   extension: jpg
