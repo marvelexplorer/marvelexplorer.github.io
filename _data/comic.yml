@@ -1,12 +1,12 @@
 ---
-date: '2006-07-12T00:00:00-0400'
-year: '2006'
-title: 'Iron Man (2004) #10'
-issue: 10
+date: '2005-08-03T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #8'
+issue: 8
 series:
   period: '2004'
-  name: Iron Man
-url: http://marvel.com/comics/issue/4411/iron_man_2004_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: New Avengers
+url: http://marvel.com/comics/issue/2149/new_avengers_2004_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/03/4d25153f18362
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f7db48e58b01
   extension: jpg
