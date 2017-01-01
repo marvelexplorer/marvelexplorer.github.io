@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
-  score: 9
+  score: 10
 - name: Iron Man
   score: 6
 - name: X-Men
   score: 5
 - name: Rogue
   score: 4
-- name: Cyclops
+- name: Fantastic Four
   score: 3
