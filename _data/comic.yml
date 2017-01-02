@@ -1,12 +1,12 @@
 ---
-date: '2011-08-17T00:00:00-0400'
-year: '2011'
-title: 'X-Factor (2005) #224'
-issue: 224
+date: '1996-02-01T00:00:00-0500'
+year: '1996'
+title: 'Excalibur (1988) #94'
+issue: 94
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/35274/x-factor_2005_224?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Excalibur
+url: http://marvel.com/comics/issue/8681/excalibur_1988_94?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4dd1a27216859
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/50b51af614fca
   extension: jpg
