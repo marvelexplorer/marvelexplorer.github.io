@@ -1,12 +1,12 @@
 ---
-date: '1985-03-10T00:00:00-0500'
-year: '1985'
-title: 'Uncanny X-Men (1963) #191'
-issue: 191
+date: '2008-12-31T00:00:00-0500'
+year: '2008'
+title: 'Avengers/Invaders (2008) #7'
+issue: 7
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13732/uncanny_x-men_1963_191?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Avengers/Invaders
+url: http://marvel.com/comics/issue/22935/avengersinvaders_2008_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/51117ed93d428
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/4f84716fb7fbe
   extension: jpg
