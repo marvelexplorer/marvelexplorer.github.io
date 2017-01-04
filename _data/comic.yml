@@ -1,12 +1,12 @@
 ---
-date: '2006-11-29T00:00:00-0500'
-year: '2006'
-title: 'Black Panther (2005) #22'
-issue: 22
+date: '1942-07-01T00:00:00-0400'
+year: '1942'
+title: 'All-Winners Comics (1941) #5'
+issue: 5
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/5408/black_panther_2005_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1941'
+  name: All-Winners Comics
+url: http://marvel.com/comics/issue/12570/all-winners_comics_1941_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/56fd343003339
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc3361b292ef
   extension: jpg
