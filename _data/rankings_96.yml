@@ -1,6 +1,4 @@
 ---
-- name: X-Men
-  score: 4
 - name: Thing
   score: 3
 - name: Human Torch
@@ -8,4 +6,6 @@
 - name: Hulk
   score: 3
 - name: Captain America
+  score: 3
+- name: X-Men
   score: 3
