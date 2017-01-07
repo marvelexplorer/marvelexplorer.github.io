@@ -1,12 +1,12 @@
 ---
-date: '2011-09-07T00:00:00-0400'
-year: '2011'
-title: 'Thunderbolts (2006) #163'
-issue: 163
+date: '1998-09-11T00:00:00-0400'
+year: '1998'
+title: 'Amazing Spider-Man (1963) #439'
+issue: 439
 series:
-  period: '2006'
-  name: Thunderbolts
-url: http://marvel.com/comics/issue/37333/thunderbolts_2006_163?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6859/amazing_spider-man_1963_439?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4e60e1617eefc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/57d85a0591e19
   extension: jpg
