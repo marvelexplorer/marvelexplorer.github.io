@@ -1,12 +1,12 @@
 ---
-date: '1981-03-10T00:00:00-0500'
-year: '1981'
-title: 'Avengers (1963) #205'
-issue: 205
+date: '2010-09-01T00:00:00-0400'
+year: '2010'
+title: 'Avengers: The Children''s Crusade (2010) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7070/avengers_1963_205?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Avengers: The Children''s Crusade'
+url: http://marvel.com/comics/issue/31136/avengers_the_childrens_crusade_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/51ed85d3bd6f0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f62106ddde29
   extension: jpg
