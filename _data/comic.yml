@@ -1,12 +1,12 @@
 ---
-date: '2011-10-12T00:00:00-0400'
-year: '2011'
-title: 'FF (2010) #10'
-issue: 10
+date: '2006-05-03T00:00:00-0400'
+year: '2006'
+title: 'Civil War (2006) #1'
+issue: 1
 series:
-  period: '2010'
-  name: FF
-url: http://marvel.com/comics/issue/38608/ff_2010_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Civil War
+url: http://marvel.com/comics/issue/4216/civil_war_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4e8626ba91a54
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/511307b2f1200
   extension: jpg
