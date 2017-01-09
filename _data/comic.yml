@@ -1,12 +1,12 @@
 ---
-date: '2013-05-15T00:00:00-0400'
+date: '2013-03-06T00:00:00-0500'
 year: '2013'
-title: 'Age of Ultron (2013) #8'
-issue: 8
+title: 'Age of Ultron (2013) #1'
+issue: 1
 series:
   period: '2013'
   name: Age of Ultron
-url: http://marvel.com/comics/issue/45906/age_of_ultron_2013_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/47001/age_of_ultron_2013_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/5182c3fcdec76
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/51ed8cf71fd82
   extension: jpg
