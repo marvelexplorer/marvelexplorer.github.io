@@ -1,12 +1,12 @@
 ---
-date: '2011-10-05T00:00:00-0400'
-year: '2011'
-title: 'X-Men: Schism (2011) #5'
-issue: 5
+date: '2012-02-15T00:00:00-0500'
+year: '2012'
+title: 'New Avengers (2010) #21'
+issue: 21
 series:
-  period: '2011'
-  name: 'X-Men: Schism'
-url: http://marvel.com/comics/issue/38971/x-men_schism_2011_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/35251/new_avengers_2010_21?utm_campaign=apiRef&utm_source=ce88b62d2225d7bc9a0205c0669a088e
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/04/4e837c67cefbf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/56bb9df797da5
   extension: jpg
