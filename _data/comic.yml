@@ -1,12 +1,12 @@
 ---
-date: '2004-06-01T00:00:00-0400'
-year: '2004'
-title: 'Avengers (1998) #81'
-issue: 81
+date: '1980-08-10T00:00:00-0400'
+year: '1980'
+title: 'Incredible Hulk (1962) #250'
+issue: 250
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/492/avengers_1998_81?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9061/incredible_hulk_1962_250?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/586d5c8fdb0af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5266cfa5512a7
   extension: jpg
