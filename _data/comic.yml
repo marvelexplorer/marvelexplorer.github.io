@@ -1,12 +1,12 @@
 ---
-date: '1984-05-10T00:00:00-0400'
-year: '1984'
-title: 'Uncanny X-Men (1963) #181'
-issue: 181
+date: '2004-11-17T00:00:00-0500'
+year: '2004'
+title: 'Cable & Deadpool (2004) #9'
+issue: 9
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13722/uncanny_x-men_1963_181?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Cable & Deadpool
+url: http://marvel.com/comics/issue/69/cable_deadpool_2004_9?utm_campaign=apiRef&utm_source=ce88b62d2225d7bc9a0205c0669a088e
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/510bf1dda58f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/56e1d0bf16b80
   extension: jpg
