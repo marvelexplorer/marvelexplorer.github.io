@@ -1,12 +1,12 @@
 ---
-date: '2011-07-06T00:00:00-0400'
-year: '2011'
-title: 'Spider-Man: With Great Power Comes Great Responsibility (2010) #4'
-issue: 4
+date: '1964-07-10T00:00:00-0400'
+year: '1964'
+title: 'Fantastic Four (1961) #28'
+issue: 28
 series:
-  period: '2010'
-  name: 'Spider-Man: With Great Power Comes Great Responsibility'
-url: http://marvel.com/comics/issue/38087/spider-man_with_great_power_comes_great_responsibility_2010_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13094/fantastic_four_1961_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4d9f2fcdcffa8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/536d5ad19fdca
   extension: jpg
