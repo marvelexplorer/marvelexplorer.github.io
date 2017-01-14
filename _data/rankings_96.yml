@@ -1,7 +1,7 @@
 ---
-- name: X-Men
-  score: 9
 - name: Spider-Man
+  score: 10
+- name: X-Men
   score: 9
 - name: May Parker
   score: 4
