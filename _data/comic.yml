@@ -1,12 +1,12 @@
 ---
-date: '1989-05-10T00:00:00-0400'
-year: '1989'
-title: 'Amazing Spider-Man (1963) #315'
-issue: 315
+date: '2009-05-20T00:00:00-0400'
+year: '2009'
+title: 'Amazing Spider-Man Family (2008) #6'
+issue: 6
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6722/amazing_spider-man_1963_315?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Amazing Spider-Man Family
+url: http://marvel.com/comics/issue/24199/amazing_spider-man_family_2008_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/57f3dc82c324f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/56d7189f590bd
   extension: jpg
