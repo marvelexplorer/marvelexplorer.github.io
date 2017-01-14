@@ -1,12 +1,12 @@
 ---
-date: '2004-01-28T00:00:00-0500'
-year: '2004'
-title: 'Amazing Spider-Man (1999) #503'
-issue: 503
+date: '2008-07-30T00:00:00-0400'
+year: '2008'
+title: 'Thor (2007) #10'
+issue: 10
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/290/amazing_spider-man_1999_503?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Thor
+url: http://marvel.com/comics/issue/21518/thor_2007_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/57fe72e85427e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4d24f2aed1047
   extension: jpg

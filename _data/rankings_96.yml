@@ -1,8 +1,8 @@
 ---
 - name: Spider-Man
-  score: 10
+  score: 11
 - name: X-Men
-  score: 9
+  score: 8
 - name: May Parker
   score: 4
 - name: Captain America
