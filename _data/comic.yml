@@ -1,12 +1,12 @@
 ---
-date: '2003-02-10T00:00:00-0500'
-year: '2003'
-title: 'Marvel Double Shot (2003) #2'
-issue: 2
+date: '2002-02-10T00:00:00-0500'
+year: '2002'
+title: 'Thor (1998) #44'
+issue: 44
 series:
-  period: '2003'
-  name: Marvel Double Shot
-url: http://marvel.com/comics/issue/19843/marvel_double_shot_2003_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/18669/thor_1998_44?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4c3649b0f2abd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4c35f56ced726
   extension: jpg
