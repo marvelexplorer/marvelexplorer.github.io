@@ -1,12 +1,12 @@
 ---
-date: '1990-02-10T00:00:00-0500'
-year: '1990'
-title: 'Amazing Spider-Man (1963) #329'
-issue: 329
+date: '1984-11-10T00:00:00-0500'
+year: '1984'
+title: 'Marvel Team-Up (1972) #147'
+issue: 147
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6737/amazing_spider-man_1963_329?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1972'
+  name: Marvel Team-Up
+url: http://marvel.com/comics/issue/19628/marvel_team-up_1972_147?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/57c83e5b41330
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/57f55b0fbbf4c
   extension: jpg
