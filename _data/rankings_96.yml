@@ -3,9 +3,9 @@
   score: 11
 - name: Avengers
   score: 5
-- name: May Parker
-  score: 4
 - name: Thor
+  score: 5
+- name: May Parker
   score: 4
 - name: Wasp
   score: 3
