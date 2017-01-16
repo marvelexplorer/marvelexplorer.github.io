@@ -1,12 +1,12 @@
 ---
-date: '1989-02-10T00:00:00-0500'
-year: '1989'
-title: 'Thor (1966) #400'
-issue: 400
+date: '1990-02-10T00:00:00-0500'
+year: '1990'
+title: 'Amazing Spider-Man (1963) #329'
+issue: 329
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11728/thor_1966_400?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6737/amazing_spider-man_1963_329?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/50ad2cabacdd7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/57c83e5b41330
   extension: jpg
