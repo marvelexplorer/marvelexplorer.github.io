@@ -1,12 +1,12 @@
 ---
-date: '2009-12-09T00:00:00-0500'
-year: '2009'
-title: 'Spider-Man & the Secret Wars (2009) #1'
-issue: 1
+date: '1996-04-10T00:00:00-0400'
+year: '1996'
+title: 'Thor (1966) #497'
+issue: 497
 series:
-  period: '2009'
-  name: Spider-Man & the Secret Wars
-url: http://marvel.com/comics/issue/26502/spider-man_the_secret_wars_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11825/thor_1966_497?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb3c69bcf963
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/50b3d831b31d5
   extension: jpg
