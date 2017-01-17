@@ -1,12 +1,12 @@
 ---
-date: '1990-11-10T00:00:00-0500'
-year: '1990'
-title: 'Marvel Comics Presents (1988) #62'
-issue: 62
+date: '1991-12-10T00:00:00-0500'
+year: '1991'
+title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #30'
+issue: 30
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10144/marvel_comics_presents_1988_62?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1989'
+  name: Nick Fury, Agent of S.H.I.E.L.D.
+url: http://marvel.com/comics/issue/27733/nick_fury_agent_of_shield_1989_30?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c3651a5ac2d1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/5835aa2fb49da
   extension: jpg
