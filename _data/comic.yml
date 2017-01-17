@@ -1,12 +1,12 @@
 ---
-date: '2004-01-21T00:00:00-0500'
-year: '2004'
-title: 'New X-Men (2001) #152'
-issue: 152
+date: '1990-11-10T00:00:00-0500'
+year: '1990'
+title: 'Marvel Comics Presents (1988) #62'
+issue: 62
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/121/new_x-men_2001_152?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10144/marvel_comics_presents_1988_62?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/577e7b19dbca3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c3651a5ac2d1
   extension: jpg
