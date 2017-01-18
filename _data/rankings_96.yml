@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 5
-- name: Spider-Man
-  score: 5
 - name: Thor
   score: 5
 - name: Human Torch
   score: 5
+- name: Spider-Man
+  score: 4
 - name: Wasp
   score: 3
