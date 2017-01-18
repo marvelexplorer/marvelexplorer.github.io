@@ -1,12 +1,12 @@
 ---
-date: '1941-09-10T00:00:00-0400'
-year: '1941'
-title: 'Human Torch (1940) #6'
-issue: 6
+date: '1987-09-10T00:00:00-0400'
+year: '1987'
+title: 'Avengers (1963) #283'
+issue: 283
 series:
-  period: '1940'
-  name: Human Torch
-url: http://marvel.com/comics/issue/8902/human_torch_1940_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7156/avengers_1963_283?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb68ad0b38fe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/4e95befec80ca
   extension: jpg
