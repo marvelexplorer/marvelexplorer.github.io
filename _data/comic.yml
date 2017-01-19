@@ -1,12 +1,12 @@
 ---
-date: '1968-03-10T00:00:00-0500'
-year: '1968'
-title: 'Avengers (1963) #50'
-issue: 50
+date: '1985-06-10T00:00:00-0400'
+year: '1985'
+title: 'Thor (1966) #356'
+issue: 356
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7300/avengers_1963_50?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11684/thor_1966_356?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/58656429957a5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f6349ae3fae0
   extension: jpg
