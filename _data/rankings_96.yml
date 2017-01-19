@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
   score: 4
-- name: Wasp
-  score: 4
 - name: Thor
   score: 4
 - name: Avengers
   score: 3
 - name: Human Torch
+  score: 3
+- name: Black Panther
   score: 3
