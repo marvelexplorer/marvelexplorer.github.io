@@ -1,12 +1,12 @@
 ---
-date: '1991-06-01T00:00:00-0400'
-year: '1991'
-title: 'Damage Control (1991) #1'
-issue: 1
+date: '1989-08-01T00:00:00-0400'
+year: '1989'
+title: 'Damage Control (1989) #4'
+issue: 4
 series:
-  period: '1991'
+  period: '1989'
   name: Damage Control
-url: http://marvel.com/comics/issue/57672/damage_control_1991_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/57671/damage_control_1989_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/57e5528b29083
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/57e588311e9c7
   extension: jpg
