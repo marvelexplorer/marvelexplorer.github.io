@@ -1,11 +1,11 @@
 ---
-- name: Thor
-  score: 4
 - name: Wolverine
   score: 4
 - name: Human Torch
   score: 3
 - name: Vision
+  score: 3
+- name: Thor
   score: 3
 - name: Storm
   score: 3
