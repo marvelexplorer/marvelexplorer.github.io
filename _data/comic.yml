@@ -1,12 +1,12 @@
 ---
-date: '1989-08-01T00:00:00-0400'
-year: '1989'
-title: 'Damage Control (1989) #4'
-issue: 4
+date: '2013-01-23T00:00:00-0500'
+year: '2013'
+title: 'Astonishing X-Men (2004) #58'
+issue: 58
 series:
-  period: '1989'
-  name: Damage Control
-url: http://marvel.com/comics/issue/57671/damage_control_1989_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/45819/astonishing_x-men_2004_58?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/57e588311e9c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/56e6eaf48abb6
   extension: jpg
