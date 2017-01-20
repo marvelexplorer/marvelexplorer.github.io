@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 4
-- name: Vision
-  score: 3
 - name: Storm
   score: 3
 - name: X-Men
   score: 3
 - name: Gambit
   score: 3
+- name: She-Hulk (Jennifer Walters)
+  score: 2
