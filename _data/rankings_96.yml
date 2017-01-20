@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 4
-- name: Human Torch
-  score: 3
 - name: Vision
   score: 3
 - name: Storm
   score: 3
 - name: Fantastic Four
+  score: 2
+- name: She-Hulk (Jennifer Walters)
   score: 2
