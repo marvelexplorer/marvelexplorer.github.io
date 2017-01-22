@@ -1,12 +1,12 @@
 ---
-date: '2006-09-13T00:00:00-0400'
-year: '2006'
-title: 'Civil War Files (2006) #1'
-issue: 1
+date: '2009-07-22T00:00:00-0400'
+year: '2009'
+title: 'X-Force (2008) #17'
+issue: 17
 series:
-  period: '2006'
-  name: Civil War Files
-url: http://marvel.com/comics/issue/5131/civil_war_files_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Force
+url: http://marvel.com/comics/issue/27255/x-force_2008_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/56fd7cf2e5113
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/55ccc09d5ba8f
   extension: jpg
