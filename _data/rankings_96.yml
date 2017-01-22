@@ -1,11 +1,11 @@
 ---
 - name: Cyclops
   score: 7
-- name: Wolverine
-  score: 5
 - name: X-Men
   score: 5
+- name: Wolverine
+  score: 4
+- name: Captain America
+  score: 4
 - name: Storm
-  score: 3
-- name: Vision
   score: 3
