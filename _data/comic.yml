@@ -1,12 +1,12 @@
 ---
-date: '2016-11-09T00:00:00-0500'
-year: '2016'
-title: 'Power Man and Iron Fist (2016) #10'
-issue: 10
+date: '2002-10-10T00:00:00-0400'
+year: '2002'
+title: 'Spider-Man''s Tangled Web (2001) #17'
+issue: 17
 series:
-  period: '2016'
-  name: Power Man and Iron Fist
-url: http://marvel.com/comics/issue/57959/power_man_and_iron_fist_2016_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: Spider-Man's Tangled Web
+url: http://marvel.com/comics/issue/10918/spider-mans_tangled_web_2001_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/58066aefc4b40
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc4707e0ac25
   extension: jpg
