@@ -1,12 +1,12 @@
 ---
-date: '2012-05-04T00:00:00-0400'
-year: '2012'
-title: 'Marvel''s The Avengers Prelude: Fury''s Big Week (2011) #3'
-issue: 3
+date: '2000-05-10T00:00:00-0400'
+year: '2000'
+title: 'Spider-Girl (1998) #20'
+issue: 20
 series:
-  period: '2011'
-  name: 'Marvel''s The Avengers Prelude: Fury''s Big Week'
-url: http://marvel.com/comics/issue/41340/marvels_the_avengers_prelude_furys_big_week_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Spider-Girl
+url: http://marvel.com/comics/issue/13338/spider-girl_1998_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f7de6e10b572
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bc4720b901d1
   extension: jpg
