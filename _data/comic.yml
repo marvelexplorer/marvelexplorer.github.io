@@ -1,12 +1,12 @@
 ---
-date: '2004-02-15T00:00:00-0500'
-year: '2004'
-title: 'Avengers (1998) #76'
-issue: 76
+date: '2003-03-01T00:00:00-0500'
+year: '2003'
+title: 'Iron Man (1998) #64'
+issue: 64
 series:
   period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/4937/avengers_1998_76?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Iron Man
+url: http://marvel.com/comics/issue/19940/iron_man_1998_64?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/04/586d55dd8decf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb7d0fcd1a08
   extension: jpg
