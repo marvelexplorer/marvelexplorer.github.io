@@ -1,12 +1,12 @@
 ---
-date: '2003-01-10T00:00:00-0500'
-year: '2003'
-title: 'Spider-Man''s Tangled Web (2001) #20'
-issue: 20
+date: '1990-07-10T00:00:00-0400'
+year: '1990'
+title: 'Amazing Spider-Man (1963) #334'
+issue: 334
 series:
-  period: '2001'
-  name: Spider-Man's Tangled Web
-url: http://marvel.com/comics/issue/10921/spider-mans_tangled_web_2001_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6743/amazing_spider-man_1963_334?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc4706eaa4d8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/57f50143d1319
   extension: jpg
