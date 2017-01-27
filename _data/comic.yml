@@ -1,12 +1,12 @@
 ---
-date: '1981-09-10T00:00:00-0400'
-year: '1981'
-title: 'Amazing Spider-Man (1963) #220'
-issue: 220
+date: '2011-03-23T00:00:00-0400'
+year: '2011'
+title: 'Astonishing Spider-Man/Wolverine (2010) #5'
+issue: 5
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6617/amazing_spider-man_1963_220?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Astonishing Spider-Man/Wolverine
+url: http://marvel.com/comics/issue/31224/astonishing_spider-manwolverine_2010_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/536bceb51d276
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/519661e61a765
   extension: jpg
