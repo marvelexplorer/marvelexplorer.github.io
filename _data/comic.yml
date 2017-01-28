@@ -1,12 +1,12 @@
 ---
-date: '1992-04-10T00:00:00-0400'
-year: '1992'
-title: 'Spider-Man (1990) #21'
-issue: 21
+date: '2012-05-02T00:00:00-0400'
+year: '2012'
+title: 'Amazing Spider-Man (1999) #685'
+issue: 685
 series:
-  period: '1990'
-  name: Spider-Man
-url: http://marvel.com/comics/issue/10780/spider-man_1990_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/40116/amazing_spider-man_1999_685?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/58335c3986a91
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/57ed2a3fbc88e
   extension: jpg
