@@ -1,12 +1,12 @@
 ---
-date: '1982-10-10T00:00:00-0400'
-year: '1982'
-title: 'What If? (1977) #35'
-issue: 35
+date: '2006-01-25T00:00:00-0500'
+year: '2006'
+title: 'New Avengers Vol.2: Sentry (2006)'
+issue: 0
 series:
-  period: '1977'
-  name: What If?
-url: http://marvel.com/comics/issue/12149/what_if_1977_35?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/4004/new_avengers_vol.2_sentry_2006?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/55e482cd2598d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bc5f64f2aff6
   extension: jpg
