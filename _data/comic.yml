@@ -1,12 +1,12 @@
 ---
-date: '1993-08-10T00:00:00-0400'
-year: '1993'
-title: 'Daredevil (1964) #319'
-issue: 319
+date: '1982-10-10T00:00:00-0400'
+year: '1982'
+title: 'What If? (1977) #35'
+issue: 35
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8317/daredevil_1964_319?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: What If?
+url: http://marvel.com/comics/issue/12149/what_if_1977_35?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/55784a7d04b7c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/55e482cd2598d
   extension: jpg
