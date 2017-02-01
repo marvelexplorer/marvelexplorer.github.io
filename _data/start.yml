@@ -1,7 +1,8 @@
 ---
-name: Romulus
-description: ''
-url: http://marvel.com/universe/Romulus?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Skaar
+description: The Hulk fathered a son while on the planet Sakaar, but thought him killed
+  while still in his mother's womb; he was wrong.
+url: http://marvel.com/universe/Skaar?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a75b67009
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ce18a92c7a50
   extension: jpg
