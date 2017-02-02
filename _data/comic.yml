@@ -1,12 +1,12 @@
 ---
-date: '2010-11-03T00:00:00-0400'
-year: '2010'
-title: 'Wolverine (2010) #3'
-issue: 3
+date: '2011-10-19T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself (2010) #7'
+issue: 7
 series:
   period: '2010'
-  name: Wolverine
-url: http://marvel.com/comics/issue/30229/wolverine_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Fear Itself
+url: http://marvel.com/comics/issue/38028/fear_itself_2010_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/a0/4f68c9d46fa79
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f7ddfc62178b
   extension: jpg
