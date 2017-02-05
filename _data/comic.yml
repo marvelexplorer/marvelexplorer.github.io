@@ -1,12 +1,12 @@
 ---
-date: '2012-11-07T00:00:00-0500'
+date: '2012-10-10T00:00:00-0400'
 year: '2012'
-title: 'Avengers (2010) #33'
-issue: 33
+title: 'Avengers (2010) #31'
+issue: 31
 series:
   period: '2010'
   name: Avengers
-url: http://marvel.com/comics/issue/40402/avengers_2010_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/40408/avengers_2010_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/51685f8ca91e4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/51685f779a98b
   extension: jpg
