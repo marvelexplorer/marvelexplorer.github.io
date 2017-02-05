@@ -1,12 +1,12 @@
 ---
-date: '1987-03-10T00:00:00-0500'
-year: '1987'
-title: 'Uncanny X-Men (1963) #215'
-issue: 215
+date: '2007-07-11T00:00:00-0400'
+year: '2007'
+title: 'New Excalibur (2006) #21'
+issue: 21
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13756/uncanny_x-men_1963_215?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: New Excalibur
+url: http://marvel.com/comics/issue/15838/new_excalibur_2006_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bc46a98a9be8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/58054e69ca6c6
   extension: jpg
