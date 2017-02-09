@@ -1,12 +1,12 @@
 ---
-date: '2010-09-09T00:00:00-0400'
-year: '2010'
-title: 'X-Men (2010) #3'
-issue: 3
+date: '2009-10-07T00:00:00-0400'
+year: '2009'
+title: 'Astonishing X-Men (2004) #31'
+issue: 31
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/32193/x-men_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/24502/astonishing_x-men_2004_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4f4fe48bbfbe3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/f0/56e9622368370
   extension: jpg
