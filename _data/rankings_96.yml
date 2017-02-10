@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 6
+  score: 7
 - name: Daredevil
   score: 5
-- name: Spider-Man
-  score: 3
 - name: Black Widow
   score: 3
+- name: Spider-Man
+  score: 2
 - name: Mary Jane Watson
   score: 2
