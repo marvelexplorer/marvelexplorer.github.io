@@ -1,12 +1,12 @@
 ---
-date: '1995-05-10T00:00:00-0400'
-year: '1995'
-title: 'Avengers (1963) #386'
-issue: 386
+date: '2003-04-02T00:00:00-0500'
+year: '2003'
+title: 'Marvel Universe: The End (2003) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7270/avengers_1963_386?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: 'Marvel Universe: The End'
+url: http://marvel.com/comics/issue/15786/marvel_universe_the_end_2003_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/52615ce9ad3c1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5188021fd1fc8
   extension: jpg
