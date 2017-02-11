@@ -1,9 +1,9 @@
 ---
-name: Vision
-description: The metal monstrosity called Ultron created the synthetic humanoid known
-  as the Vision from the remains of the original android Human Torch of the 1940s
-  to serve as a vehicle of vengeance against the Avengers.
-url: http://marvel.com/universe/Vision_(Victor_Shade)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Sunspot
+description: Growing up in a wealthy Brazilian family, Roberto da Costa was forging
+  a career as a skilled soccer player until his mutant nature manifested during a
+  match.
+url: http://marvel.com/universe/Sunspot?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/50/4c003ab716add
   extension: jpg
