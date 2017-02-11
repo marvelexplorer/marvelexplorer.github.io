@@ -1,12 +1,12 @@
 ---
-date: '1968-03-10T00:00:00-0500'
-year: '1968'
-title: 'Tales of Suspense (1959) #99'
-issue: 99
+date: '2011-10-05T00:00:00-0400'
+year: '2011'
+title: 'Thunderbolts (2006) #164'
+issue: 164
 series:
-  period: '1959'
-  name: Tales of Suspense
-url: http://marvel.com/comics/issue/11346/tales_of_suspense_1959_99?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Thunderbolts
+url: http://marvel.com/comics/issue/38098/thunderbolts_2006_164?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/536f07e06823c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/4e81f0b938857
   extension: jpg
