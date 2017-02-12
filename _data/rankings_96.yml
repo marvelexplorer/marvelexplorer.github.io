@@ -3,9 +3,9 @@
   score: 8
 - name: Daredevil
   score: 4
-- name: Storm
-  score: 4
 - name: Wolverine
   score: 4
 - name: Black Widow
+  score: 3
+- name: Cyclops
   score: 3
