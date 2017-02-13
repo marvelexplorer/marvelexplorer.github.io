@@ -1,9 +1,7 @@
 ---
-name: Shadow King
-description: One of the oldest and more powerful mutants ever, Amahl Farouk has been
-  a threat to mankind at least for decades. He was the first evil mutant met by Charles
-  Xavier, convincing him of the need of the X-Men.
-url: http://marvel.com/universe/Shadow_King?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Psylocke
+description: ''
+url: http://marvel.com/universe/Psylocke?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4ce5a16fd4182
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/526961ce86539
   extension: jpg
