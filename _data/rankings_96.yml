@@ -1,9 +1,9 @@
 ---
-- name: Thor
+- name: Spider-Man
   score: 5
 - name: Wolverine
   score: 4
-- name: Spider-Man
+- name: Thor
   score: 4
 - name: Bishop
   score: 3
