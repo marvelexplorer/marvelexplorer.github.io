@@ -1,12 +1,12 @@
 ---
-date: '2011-12-14T00:00:00-0500'
-year: '2011'
-title: 'Marvel Holiday Comic (2011) #1'
-issue: 1
+date: '2010-07-14T00:00:00-0400'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #637'
+issue: 637
 series:
-  period: '2011'
-  name: Marvel Holiday Comic
-url: http://marvel.com/comics/issue/41494/marvel_holiday_comic_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30312/amazing_spider-man_1999_637?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/56b8eceaa28bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/5808fe2f7709c
   extension: jpg
