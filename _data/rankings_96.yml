@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 6
-- name: Wolverine
-  score: 4
+  score: 7
 - name: Thor
   score: 4
 - name: Bishop
+  score: 3
+- name: Wolverine
   score: 3
 - name: Sif
   score: 3
