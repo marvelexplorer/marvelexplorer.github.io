@@ -1,12 +1,12 @@
 ---
-date: '2002-08-15T00:00:00-0400'
-year: '2002'
-title: 'New X-Men (2001) #128'
-issue: 128
+date: '2012-09-12T00:00:00-0400'
+year: '2012'
+title: 'New Avengers (2010) #30'
+issue: 30
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14947/new_x-men_2001_128?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/40736/new_avengers_2010_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/577d25a808cf7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/517ae8f604121
   extension: jpg
