@@ -1,12 +1,12 @@
 ---
-date: '1996-02-10T00:00:00-0500'
-year: '1996'
-title: 'Iron Man (1968) #325'
-issue: 325
+date: '2006-02-01T00:00:00-0500'
+year: '2006'
+title: 'Fantastic Four/Iron Man: Big in Japan (2005) #4'
+issue: 4
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9578/iron_man_1968_325?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: 'Fantastic Four/Iron Man: Big in Japan'
+url: http://marvel.com/comics/issue/3363/fantastic_fouriron_man_big_in_japan_2005_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/50b51a8e06971
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4bc478f1698ce
   extension: jpg
