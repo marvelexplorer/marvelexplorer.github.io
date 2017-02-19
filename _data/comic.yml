@@ -1,12 +1,12 @@
 ---
-date: '1988-12-10T00:00:00-0500'
-year: '1988'
-title: 'Fantastic Four (1961) #321'
-issue: 321
+date: '1977-02-10T00:00:00-0500'
+year: '1977'
+title: 'Ms. Marvel (1977) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13141/fantastic_four_1961_321?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/10298/ms_marvel_1977_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/55f0a3f034921
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc4689e41c5b
   extension: jpg
