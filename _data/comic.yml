@@ -1,12 +1,12 @@
 ---
-date: '1981-09-10T00:00:00-0400'
-year: '1981'
-title: 'Daredevil (1964) #174'
-issue: 174
+date: '2011-07-06T00:00:00-0400'
+year: '2011'
+title: 'Heroes for Hire (2010) #9'
+issue: 9
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8156/daredevil_1964_174?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Heroes for Hire
+url: http://marvel.com/comics/issue/37192/heroes_for_hire_2010_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb6ed040bbe7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/56438bdd24213
   extension: jpg
