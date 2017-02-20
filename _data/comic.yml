@@ -1,12 +1,12 @@
 ---
-date: '1993-12-01T00:00:00-0500'
-year: '1993'
-title: 'X-Force (1991) #29'
-issue: 29
+date: '1995-07-01T00:00:00-0400'
+year: '1995'
+title: 'X-Men: Prime (1995) #1'
+issue: 1
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/17993/x-force_1991_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: 'X-Men: Prime'
+url: http://marvel.com/comics/issue/12371/x-men_prime_1995_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/587660e811a8b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51e710eca04f3
   extension: jpg
