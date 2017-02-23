@@ -1,6 +1,4 @@
 ---
-- name: Spider-Man
-  score: 4
 - name: Beast
   score: 4
 - name: Iron Man
@@ -8,4 +6,6 @@
 - name: Quicksilver
   score: 4
 - name: Stingray (Walter Newell)
+  score: 3
+- name: Spider-Man
   score: 3
