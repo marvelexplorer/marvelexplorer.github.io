@@ -1,12 +1,12 @@
 ---
-date: '1965-09-10T00:00:00-0400'
-year: '1965'
-title: 'Avengers (1963) #20'
-issue: 20
+date: '1992-11-10T00:00:00-0500'
+year: '1992'
+title: 'X-Men (1991) #14'
+issue: 14
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7064/avengers_1963_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14300/x-men_1991_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/585305ccc5585
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/558020d485a9f
   extension: jpg
