@@ -1,12 +1,12 @@
 ---
-date: '1993-05-01T00:00:00-0400'
-year: '1993'
-title: 'Silver Surfer/Warlock: Resurrection (1993) #3'
-issue: 3
+date: '1994-07-10T00:00:00-0400'
+year: '1994'
+title: 'Fantastic Four (1961) #390'
+issue: 390
 series:
-  period: '1993'
-  name: 'Silver Surfer/Warlock: Resurrection'
-url: http://marvel.com/comics/issue/57829/silver_surferwarlock_resurrection_1993_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13217/fantastic_four_1961_390?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/587fc93b9264e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/52615e23e60f3
   extension: jpg
