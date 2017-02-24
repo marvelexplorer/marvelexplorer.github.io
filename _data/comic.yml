@@ -1,12 +1,12 @@
 ---
-date: '1994-02-10T00:00:00-0500'
-year: '1994'
-title: 'Daredevil: The Man Without Fear (1993) #5'
-issue: 5
+date: '1967-09-10T00:00:00-0400'
+year: '1967'
+title: 'Daredevil (1964) #32'
+issue: 32
 series:
-  period: '1993'
-  name: 'Daredevil: The Man Without Fear'
-url: http://marvel.com/comics/issue/20754/daredevil_the_man_without_fear_1993_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8318/daredevil_1964_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb86394dbcca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5722232f9c6ba
   extension: jpg
