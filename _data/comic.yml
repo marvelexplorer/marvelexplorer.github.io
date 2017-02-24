@@ -1,12 +1,12 @@
 ---
-date: '2011-03-16T00:00:00-0400'
-year: '2011'
-title: 'Thunderbolts (2006) #155'
-issue: 155
+date: '2009-12-23T00:00:00-0500'
+year: '2009'
+title: 'New Avengers (2004) #60'
+issue: 60
 series:
-  period: '2006'
-  name: Thunderbolts
-url: http://marvel.com/comics/issue/37336/thunderbolts_2006_155?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/26039/new_avengers_2004_60?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5744d2913e39a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5773e57c2cdaf
   extension: jpg
