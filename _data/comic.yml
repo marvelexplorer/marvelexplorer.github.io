@@ -1,12 +1,12 @@
 ---
-date: '2011-01-26T00:00:00-0500'
-year: '2011'
-title: 'Uncanny X-Force (2010) #4'
-issue: 4
+date: '2000-06-01T00:00:00-0400'
+year: '2000'
+title: 'X-Force (1991) #103'
+issue: 103
 series:
-  period: '2010'
-  name: Uncanny X-Force
-url: http://marvel.com/comics/issue/32586/uncanny_x-force_2010_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/17947/x-force_1991_103?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4cb61b5ec0dd9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb54065274cd
   extension: jpg
