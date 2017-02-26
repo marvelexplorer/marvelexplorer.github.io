@@ -1,12 +1,12 @@
 ---
-date: '1996-08-10T00:00:00-0400'
-year: '1996'
-title: 'Cable (1993) #34'
-issue: 34
+date: '2001-02-10T00:00:00-0500'
+year: '2001'
+title: 'X-Men: Search for Cyclops (2000) #3'
+issue: 3
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7409/cable_1993_34?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: 'X-Men: Search for Cyclops'
+url: http://marvel.com/comics/issue/23521/x-men_search_for_cyclops_2000_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb87fab88700
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bb5bde3a61b9
   extension: jpg
