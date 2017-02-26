@@ -1,12 +1,12 @@
 ---
-date: '2009-11-25T00:00:00-0500'
-year: '2009'
-title: 'Invincible Iron Man (2008) #20'
-issue: 20
+date: '2017-02-22T00:00:00-0500'
+year: '2017'
+title: 'Thunderbolts (2016) #10'
+issue: 10
 series:
-  period: '2008'
-  name: Invincible Iron Man
-url: http://marvel.com/comics/issue/25540/invincible_iron_man_2008_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Thunderbolts
+url: http://marvel.com/comics/issue/57245/thunderbolts_2016_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4f7c7a30cfef3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/58a48946aefc6
   extension: jpg
