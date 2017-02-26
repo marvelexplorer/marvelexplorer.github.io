@@ -1,12 +1,12 @@
 ---
-date: '2000-02-01T00:00:00-0500'
-year: '2000'
-title: 'X-Force (1991) #99'
-issue: 99
+date: '2016-07-27T00:00:00-0400'
+year: '2016'
+title: 'New Avengers (2015) #14'
+issue: 14
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/18070/x-force_1991_99?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: New Avengers
+url: http://marvel.com/comics/issue/60135/new_avengers_2015_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5873bd842218f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/57927b85d76ce
   extension: jpg
