@@ -1,12 +1,12 @@
 ---
-date: '1983-10-10T00:00:00-0400'
-year: '1983'
-title: 'Fantastic Four (1961) #259'
-issue: 259
+date: '1982-02-10T00:00:00-0500'
+year: '1982'
+title: 'What If? (1977) #31'
+issue: 31
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13071/fantastic_four_1961_259?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: What If?
+url: http://marvel.com/comics/issue/12145/what_if_1977_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb793ccdd1c6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4bb50896311aa
   extension: jpg
