@@ -1,12 +1,12 @@
 ---
-date: '1968-06-10T00:00:00-0400'
-year: '1968'
-title: 'Sub-Mariner (1968) #2'
-issue: 2
+date: '1967-05-10T00:00:00-0400'
+year: '1967'
+title: 'Avengers (1963) #40'
+issue: 40
 series:
-  period: '1968'
-  name: Sub-Mariner
-url: http://marvel.com/comics/issue/17073/sub-mariner_1968_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7286/avengers_1963_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/50adfcb21c7bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/5863febecbd01
   extension: jpg
