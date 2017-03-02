@@ -1,12 +1,12 @@
 ---
-date: '1970-06-10T00:00:00-0400'
-year: '1970'
-title: 'Avengers (1963) #77'
-issue: 77
+date: '2013-05-15T00:00:00-0400'
+year: '2013'
+title: 'Age of Ultron (2013) #8'
+issue: 8
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7329/avengers_1963_77?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Age of Ultron
+url: http://marvel.com/comics/issue/45906/age_of_ultron_2013_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/586e910a1869a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/5182c3fcdec76
   extension: jpg
