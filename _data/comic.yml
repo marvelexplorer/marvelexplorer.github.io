@@ -1,12 +1,12 @@
 ---
-date: '2012-04-11T00:00:00-0400'
-year: '2012'
-title: 'Avengers: The Coming of the Avengers! (2011) #1'
-issue: 1
+date: '1989-06-01T00:00:00-0400'
+year: '1989'
+title: 'Wolverine (1988) #8'
+issue: 8
 series:
-  period: '2011'
-  name: 'Avengers: The Coming of the Avengers!'
-url: http://marvel.com/comics/issue/41140/avengers_the_coming_of_the_avengers_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14203/wolverine_1988_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/535049069cc3c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/58405b0ecca40
   extension: jpg
