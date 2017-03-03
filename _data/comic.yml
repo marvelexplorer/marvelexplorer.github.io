@@ -1,12 +1,12 @@
 ---
-date: '2005-02-02T00:00:00-0500'
-year: '2005'
-title: 'X-Men/Fantastic Four (2004) #3'
-issue: 3
+date: '1985-02-10T00:00:00-0500'
+year: '1985'
+title: 'Secret Wars (1984) #10'
+issue: 10
 series:
-  period: '2004'
-  name: X-Men/Fantastic Four
-url: http://marvel.com/comics/issue/1632/x-menfantastic_four_2004_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10581/secret_wars_1984_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/53518cb06e01f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/51dee63a1cf60
   extension: jpg
