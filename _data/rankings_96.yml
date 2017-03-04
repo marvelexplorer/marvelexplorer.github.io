@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 6
+- name: Daredevil
+  score: 6
 - name: Hulk
-  score: 5
-- name: Thor
   score: 5
 - name: Captain America
   score: 5
-- name: Daredevil
-  score: 5
+- name: Scarlet Witch
+  score: 4
