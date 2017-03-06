@@ -1,7 +1,7 @@
 ---
-- name: Hulk
-  score: 6
 - name: Avengers
+  score: 7
+- name: Hulk
   score: 6
 - name: Daredevil
   score: 5
