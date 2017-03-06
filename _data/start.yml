@@ -1,7 +1,10 @@
 ---
-name: Mephisto
-description: ''
-url: http://marvel.com/universe/Mephisto?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Thor
+description: As the Norse God of thunder and lightning, Thor wields one of the greatest
+  weapons ever made, the enchanted hammer Mjolnir. While others have described Thor
+  as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured,
+  and he would never, ever stop fighting for a worthwhile cause.
+url: http://marvel.com/universe/Thor_(Thor_Odinson)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/526034d178ddc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350
   extension: jpg
