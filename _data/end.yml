@@ -1,10 +1,9 @@
 ---
-name: Spider-Man
-description: Bitten by a radioactive spider, high school student Peter Parker gained
-  the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter
-  hoped to start a career using his new abilities. Taught that with great power comes
-  great responsibility, Spidey has vowed to use his powers to help people.
-url: http://marvel.com/universe/Spider-Man_(Peter_Parker)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Shang-Chi
+description: Shang-Chi is the son of an internationally-renowned and powerful criminal
+  mastermind whose childhood was a lonely one, full of constant training in rigorous
+  mental and martial arts, with only limited contact with his parents.
+url: http://marvel.com/universe/Shang-Chi?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/535ff3b116209
   extension: jpg
