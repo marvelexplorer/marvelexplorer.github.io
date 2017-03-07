@@ -1,12 +1,12 @@
 ---
-date: '2011-07-27T00:00:00-0400'
-year: '2011'
-title: 'X-Men: Schism (2011) #2'
-issue: 2
+date: '2013-03-20T00:00:00-0400'
+year: '2013'
+title: 'All-New X-Men (2012) #9'
+issue: 9
 series:
-  period: '2011'
-  name: 'X-Men: Schism'
-url: http://marvel.com/comics/issue/38492/x-men_schism_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: All-New X-Men
+url: http://marvel.com/comics/issue/43474/all-new_x-men_2012_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/52c5b149b5a88
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/584b1ac871de8
   extension: jpg
