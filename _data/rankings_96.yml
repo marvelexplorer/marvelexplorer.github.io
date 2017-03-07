@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 6
-- name: Daredevil
-  score: 5
 - name: Thor
   score: 5
 - name: Rogue
   score: 5
+- name: Daredevil
+  score: 4
 - name: Wolverine
   score: 4
