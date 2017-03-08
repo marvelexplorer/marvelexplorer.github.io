@@ -1,12 +1,12 @@
 ---
-date: '2007-10-10T00:00:00-0400'
-year: '2007'
-title: 'X-Factor (2005) #24'
-issue: 24
+date: '2017-01-25T00:00:00-0500'
+year: '2017'
+title: 'Extraordinary X-Men (2015) #18'
+issue: 18
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/16505/x-factor_2005_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Extraordinary X-Men
+url: http://marvel.com/comics/issue/55450/extraordinary_x-men_2015_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc3940a109f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5878fd1002ff9
   extension: jpg
