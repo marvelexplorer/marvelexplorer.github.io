@@ -1,10 +1,10 @@
 ---
+- name: Rogue
+  score: 7
 - name: Avengers
   score: 6
-- name: Rogue
-  score: 6
 - name: Thor
-  score: 5
+  score: 4
 - name: Wolverine
   score: 4
 - name: Invisible Woman
