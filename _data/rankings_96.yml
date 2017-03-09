@@ -2,10 +2,10 @@
 - name: Rogue
   score: 7
 - name: X-Men
-  score: 5
+  score: 6
 - name: Wolverine
   score: 5
-- name: Invisible Woman
-  score: 4
 - name: Storm
   score: 4
+- name: Avengers
+  score: 3
