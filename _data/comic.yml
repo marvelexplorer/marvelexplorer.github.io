@@ -1,12 +1,12 @@
 ---
-date: '2008-10-29T00:00:00-0400'
-year: '2008'
-title: 'Thor (2007) #11'
-issue: 11
+date: '1997-08-10T00:00:00-0400'
+year: '1997'
+title: 'Avengers (1996) #10'
+issue: 10
 series:
-  period: '2007'
-  name: Thor
-url: http://marvel.com/comics/issue/21947/thor_2007_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1996'
+  name: Avengers
+url: http://marvel.com/comics/issue/17752/avengers_1996_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4d24f1eec4766
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/40/587666d6c2293
   extension: jpg
