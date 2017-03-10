@@ -1,12 +1,12 @@
 ---
-date: '2009-10-07T00:00:00-0400'
-year: '2009'
-title: 'X-Babies (2009) #1'
-issue: 1
+date: '2008-11-05T00:00:00-0500'
+year: '2008'
+title: 'X-Men: Manifest Destiny (2008) #3'
+issue: 3
 series:
-  period: '2009'
-  name: X-Babies
-url: http://marvel.com/comics/issue/27974/x-babies_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'X-Men: Manifest Destiny'
+url: http://marvel.com/comics/issue/22569/x-men_manifest_destiny_2008_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/573a07950e9d9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb67f516ce2b
   extension: jpg
