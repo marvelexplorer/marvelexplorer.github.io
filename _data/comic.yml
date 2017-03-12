@@ -1,12 +1,12 @@
 ---
-date: '2006-03-22T00:00:00-0500'
+date: '2006-11-15T00:00:00-0500'
 year: '2006'
-title: 'X-Men (2004) #184'
-issue: 184
+title: 'Ms. Marvel (2006) #9'
+issue: 9
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/3945/x-men_2004_184?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/5569/ms_marvel_2006_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/58b43d4b2c2ec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5768447a27b3d
   extension: jpg
