@@ -1,12 +1,12 @@
 ---
-date: '1999-08-01T00:00:00-0400'
-year: '1999'
-title: 'Uncanny X-Men (1963) #371'
-issue: 371
+date: '2006-08-30T00:00:00-0400'
+year: '2006'
+title: 'X-Men (2004) #190'
+issue: 190
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13912/uncanny_x-men_1963_371?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/4754/x-men_2004_190?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5115325a29b09
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/58b48a538a4d7
   extension: jpg
