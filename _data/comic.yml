@@ -1,12 +1,12 @@
 ---
-date: '1986-03-01T00:00:00-0500'
-year: '1986'
-title: 'Cloak and Dagger (1985) #5'
-issue: 5
+date: '2009-12-23T00:00:00-0500'
+year: '2009'
+title: 'Wolverine Origins (2006) #43'
+issue: 43
 series:
-  period: '1985'
-  name: Cloak and Dagger
-url: http://marvel.com/comics/issue/62786/cloak_and_dagger_1985_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/27201/wolverine_origins_2006_43?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/58b89571455e6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/58471cdcbeff3
   extension: jpg
