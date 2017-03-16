@@ -1,12 +1,12 @@
 ---
-date: '1966-09-10T00:00:00-0400'
-year: '1966'
-title: 'Tales of Suspense (1959) #81'
-issue: 81
+date: '1982-08-10T00:00:00-0400'
+year: '1982'
+title: 'Captain America (1968) #272'
+issue: 272
 series:
-  period: '1959'
-  name: Tales of Suspense
-url: http://marvel.com/comics/issue/11327/tales_of_suspense_1959_81?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7653/captain_america_1968_272?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/536d48b754fb2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/51f94ce847d15
   extension: jpg
