@@ -1,7 +1,9 @@
 ---
-name: Synch
-description: Everett Thomas was a founding member of Generation X.
-url: http://marvel.com/universe/Synch?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Skin
+description: Angelo Espinosa, a founding member of Generation X, code-named "Skin"
+  due to his mutant ability to extend and control his extra skin in any number of
+  ways.
+url: http://marvel.com/universe/Skin?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708
-  extension: gif
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/20/4c003c0ce4a43
+  extension: jpg
