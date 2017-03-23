@@ -1,12 +1,12 @@
 ---
-date: '1973-10-10T00:00:00-0400'
-year: '1973'
-title: 'Vampire Tales (1973) #2'
-issue: 2
+date: '1993-12-20T00:00:00-0500'
+year: '1993'
+title: 'Marvel Comics Presents (1988) #144'
+issue: 144
 series:
-  period: '1973'
-  name: Vampire Tales
-url: http://marvel.com/comics/issue/11946/vampire_tales_1973_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10060/marvel_comics_presents_1988_144?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/56fd8073ec8b0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/57f4111badeb5
   extension: jpg
