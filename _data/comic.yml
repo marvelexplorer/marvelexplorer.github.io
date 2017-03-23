@@ -1,12 +1,12 @@
 ---
-date: '1999-08-10T00:00:00-0400'
-year: '1999'
-title: 'Iron Man (1998) #19'
-issue: 19
+date: '2002-05-01T00:00:00-0400'
+year: '2002'
+title: 'Black Panther (1998) #42'
+issue: 42
 series:
   period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/19890/iron_man_1998_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Black Panther
+url: http://marvel.com/comics/issue/12611/black_panther_1998_42?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/50b3b4cccee12
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc34c5ec90f5
   extension: jpg
