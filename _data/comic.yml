@@ -1,12 +1,12 @@
 ---
-date: '1967-06-10T00:00:00-0400'
-year: '1967'
-title: 'Amazing Spider-Man (1963) #49'
-issue: 49
+date: '1980-08-10T00:00:00-0400'
+year: '1980'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #45'
+issue: 45
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6867/amazing_spider-man_1963_49?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14745/peter_parker_the_spectacular_spider-man_1976_45?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/57a369ae9e543
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/57c88d1a97973
   extension: jpg
