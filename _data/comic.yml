@@ -1,12 +1,12 @@
 ---
-date: '1980-08-10T00:00:00-0400'
-year: '1980'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #45'
-issue: 45
+date: '2006-07-05T00:00:00-0400'
+year: '2006'
+title: 'Beyond! (2006) #1'
+issue: 1
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14745/peter_parker_the_spectacular_spider-man_1976_45?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Beyond!
+url: http://marvel.com/comics/issue/4447/beyond_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/57c88d1a97973
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/56dd9dbc2e44a
   extension: jpg
