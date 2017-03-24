@@ -1,12 +1,12 @@
 ---
-date: '2016-09-21T00:00:00-0400'
-year: '2016'
-title: 'Civil War II: X-Men (2016) #4'
-issue: 4
+date: '2008-10-15T00:00:00-0400'
+year: '2008'
+title: 'Astonishing X-Men (2004) #27'
+issue: 27
 series:
-  period: '2016'
-  name: 'Civil War II: X-Men'
-url: http://marvel.com/comics/issue/59628/civil_war_ii_x-men_2016_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/21941/astonishing_x-men_2004_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57d2c347826b4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/56e6dfce121e5
   extension: jpg
