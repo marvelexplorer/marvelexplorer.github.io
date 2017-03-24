@@ -1,12 +1,12 @@
 ---
-date: '2003-06-01T00:00:00-0400'
-year: '2003'
-title: 'Mystique (2003) #1'
-issue: 1
+date: '1991-07-01T00:00:00-0400'
+year: '1991'
+title: 'Wolverine (1988) #41'
+issue: 41
 series:
-  period: '2003'
-  name: Mystique
-url: http://marvel.com/comics/issue/14487/mystique_2003_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14161/wolverine_1988_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc46846aa44c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/5846fccde7a0d
   extension: jpg
