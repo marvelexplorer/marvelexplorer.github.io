@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 6
-- name: Iron Man
+- name: X-Men
   score: 4
 - name: Avengers
   score: 3
 - name: Vision
   score: 3
-- name: X-Men
+- name: Iron Man
   score: 3
