@@ -1,12 +1,12 @@
 ---
-date: '2011-02-23T00:00:00-0500'
+date: '2011-06-29T00:00:00-0400'
 year: '2011'
-title: 'Uncanny X-Men (1963) #533'
-issue: 533
+title: 'X-Men: Prelude to Schism (2011) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/36324/uncanny_x-men_1963_533?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'X-Men: Prelude to Schism'
+url: http://marvel.com/comics/issue/38481/x-men_prelude_to_schism_2011_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/513f55f106590
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/58caf5561c803
   extension: jpg
