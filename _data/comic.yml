@@ -1,12 +1,12 @@
 ---
-date: '1989-05-10T00:00:00-0400'
-year: '1989'
-title: 'X-Factor (1986) #40'
-issue: 40
+date: '2007-09-06T00:00:00-0400'
+year: '2007'
+title: 'Marvel Adventures Spider-Man (2005) #31'
+issue: 31
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12258/x-factor_1986_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Marvel Adventures Spider-Man
+url: http://marvel.com/comics/issue/16483/marvel_adventures_spider-man_2005_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/50ad29b634317
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57f43f21237b9
   extension: jpg
