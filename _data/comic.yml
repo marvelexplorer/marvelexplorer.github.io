@@ -1,12 +1,12 @@
 ---
-date: '2011-06-29T00:00:00-0400'
+date: '2011-07-13T00:00:00-0400'
 year: '2011'
-title: 'X-Men: Prelude to Schism (2011) #4'
-issue: 4
+title: 'X-Men: Schism (2011) #1'
+issue: 1
 series:
   period: '2011'
-  name: 'X-Men: Prelude to Schism'
-url: http://marvel.com/comics/issue/38481/x-men_prelude_to_schism_2011_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: 'X-Men: Schism'
+url: http://marvel.com/comics/issue/38491/x-men_schism_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/58caf5561c803
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/52c5b13ae5704
   extension: jpg
