@@ -1,12 +1,12 @@
 ---
-date: '2008-03-12T00:00:00-0400'
-year: '2008'
-title: 'Wolverine (2003) #63'
-issue: 63
+date: '2006-04-19T00:00:00-0400'
+year: '2006'
+title: 'X-Men (2004) #185'
+issue: 185
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/20833/wolverine_2003_63?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/4068/x-men_2004_185?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/58939aff8d264
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/58b4454309a43
   extension: jpg
