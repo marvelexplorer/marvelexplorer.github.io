@@ -1,12 +1,12 @@
 ---
-date: '2006-06-07T00:00:00-0400'
-year: '2006'
-title: 'Annihilation: Silver Surfer (2006) #3'
+date: '2003-12-03T00:00:00-0500'
+year: '2003'
+title: 'Thanos (2003) #3'
 issue: 3
 series:
-  period: '2006'
-  name: 'Annihilation: Silver Surfer'
-url: http://marvel.com/comics/issue/4315/annihilation_silver_surfer_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Thanos
+url: http://marvel.com/comics/issue/174/thanos_2003_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/578693c24666f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/577eb29f09a39
   extension: jpg
