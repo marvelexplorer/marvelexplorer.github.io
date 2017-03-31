@@ -1,12 +1,12 @@
 ---
-date: '1987-07-10T00:00:00-0400'
-year: '1987'
-title: 'Fantastic Four (1961) #304'
-issue: 304
+date: '2016-12-28T00:00:00-0500'
+year: '2016'
+title: 'Moon Girl and Devil Dinosaur (2015) #14'
+issue: 14
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13122/fantastic_four_1961_304?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Moon Girl and Devil Dinosaur
+url: http://marvel.com/comics/issue/60712/moon_girl_and_devil_dinosaur_2015_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537669afd052d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/585aa8c239e57
   extension: jpg
