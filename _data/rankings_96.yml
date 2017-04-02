@@ -1,6 +1,4 @@
 ---
-- name: Captain Marvel (Carol Danvers)
-  score: 4
 - name: Spider-Man
   score: 4
 - name: Human Torch
@@ -8,4 +6,6 @@
 - name: Storm
   score: 3
 - name: Cable
+  score: 3
+- name: Captain Marvel (Carol Danvers)
   score: 3
