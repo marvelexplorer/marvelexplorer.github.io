@@ -1,12 +1,12 @@
 ---
-date: '2006-12-27T00:00:00-0500'
-year: '2006'
-title: 'Immortal Iron Fist (2006) #2'
-issue: 2
+date: '2010-12-15T00:00:00-0500'
+year: '2010'
+title: 'Thunderbolts (2006) #151'
+issue: 151
 series:
   period: '2006'
-  name: Immortal Iron Fist
-url: http://marvel.com/comics/issue/5727/immortal_iron_fist_2006_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Thunderbolts
+url: http://marvel.com/comics/issue/29870/thunderbolts_2006_151?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/5819eed7cd0a4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5744d0eb77fbd
   extension: jpg
