@@ -1,12 +1,12 @@
 ---
-date: '1984-06-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #2'
-issue: 2
+date: '2011-03-09T00:00:00-0500'
+year: '2011'
+title: 'X-Men Legacy (2008) #246'
+issue: 246
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10584/secret_wars_1984_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/36437/x-men_legacy_2008_246?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/5756da47dab15
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/58b88352af764
   extension: jpg
