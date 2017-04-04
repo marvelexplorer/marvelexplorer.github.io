@@ -1,9 +1,9 @@
 ---
 - name: Spider-Man
   score: 7
-- name: Storm
-  score: 4
 - name: Beast
+  score: 3
+- name: Storm
   score: 3
 - name: Wolverine
   score: 3
