@@ -1,12 +1,12 @@
 ---
-date: '2005-04-20T00:00:00-0400'
-year: '2005'
-title: 'X-Men (2004) #169'
-issue: 169
+date: '1991-10-10T00:00:00-0400'
+year: '1991'
+title: 'X-Factor (1986) #71'
+issue: 71
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/1864/x-men_2004_169?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12292/x-factor_1986_71?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/58b05237832cd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/4bc37db63996f
   extension: jpg
