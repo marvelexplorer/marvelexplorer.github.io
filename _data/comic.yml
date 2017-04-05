@@ -1,12 +1,12 @@
 ---
-date: '2007-07-25T00:00:00-0400'
-year: '2007'
-title: 'Onslaught Reborn (2006) #4'
-issue: 4
+date: '1964-05-10T00:00:00-0400'
+year: '1964'
+title: 'Avengers (1963) #5'
+issue: 5
 series:
-  period: '2006'
-  name: Onslaught Reborn
-url: http://marvel.com/comics/issue/5956/onslaught_reborn_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7299/avengers_1963_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/4bc3572e49895
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/4e8f18e485558
   extension: jpg
