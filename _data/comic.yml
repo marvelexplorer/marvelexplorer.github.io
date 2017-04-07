@@ -1,12 +1,12 @@
 ---
-date: '2004-12-22T00:00:00-0500'
-year: '2004'
-title: 'Astonishing X-Men (2004) #7'
-issue: 7
+date: '2009-08-12T00:00:00-0400'
+year: '2009'
+title: 'X-Men Forever (2009) #5'
+issue: 5
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/38/astonishing_x-men_2004_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: X-Men Forever
+url: http://marvel.com/comics/issue/27309/x-men_forever_2009_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/56ddf11f48885
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/58c6a33ef3dc3
   extension: jpg
