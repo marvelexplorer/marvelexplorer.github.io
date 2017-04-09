@@ -1,12 +1,12 @@
 ---
-date: '2011-03-23T00:00:00-0400'
-year: '2011'
-title: 'Astonishing Spider-Man/Wolverine (2010) #5'
-issue: 5
+date: '1993-05-10T00:00:00-0400'
+year: '1993'
+title: 'Spider-Man 2099 (1992) #7'
+issue: 7
 series:
-  period: '2010'
-  name: Astonishing Spider-Man/Wolverine
-url: http://marvel.com/comics/issue/31224/astonishing_spider-manwolverine_2010_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1992'
+  name: Spider-Man 2099
+url: http://marvel.com/comics/issue/10908/spider-man_2099_1992_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/519661e61a765
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/50ac1efd68161
   extension: jpg
