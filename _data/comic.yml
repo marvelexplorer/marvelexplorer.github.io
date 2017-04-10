@@ -1,12 +1,12 @@
 ---
-date: '2004-11-03T00:00:00-0500'
-year: '2004'
-title: 'Ultimate Spider-Man (2000) #68'
-issue: 68
+date: '2006-08-16T00:00:00-0400'
+year: '2006'
+title: 'Ultimate Fantastic Four (2003) #32'
+issue: 32
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/12/ultimate_spider-man_2000_68?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Ultimate Fantastic Four
+url: http://marvel.com/comics/issue/4445/ultimate_fantastic_four_2003_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/04/58e69de9d1fed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/4bc5d8dff0af1
   extension: jpg
