@@ -1,12 +1,12 @@
 ---
-date: '2012-02-29T00:00:00-0500'
-year: '2012'
-title: 'Ultimate Comics Ultimates  (2011) #7'
-issue: 7
+date: '2011-02-02T00:00:00-0500'
+year: '2011'
+title: 'Ultimate Comics Thor (2010) #4'
+issue: 4
 series:
-  period: '2011'
-  name: 'Ultimate Comics Ultimates '
-url: http://marvel.com/comics/issue/38686/ultimate_comics_ultimates_2011_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Ultimate Comics Thor
+url: http://marvel.com/comics/issue/33578/ultimate_comics_thor_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/56bbaec928986
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4cb61b68bbd1b
   extension: jpg
