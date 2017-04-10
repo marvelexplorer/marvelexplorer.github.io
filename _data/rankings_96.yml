@@ -2,10 +2,10 @@
 - name: X-Men
   score: 6
 - name: Avengers
-  score: 4
-- name: Wolverine
-  score: 4
+  score: 5
 - name: Magneto
   score: 3
 - name: Cyclops
+  score: 3
+- name: Emma Frost
   score: 3
