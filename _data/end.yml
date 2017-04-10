@@ -1,10 +1,11 @@
 ---
-name: Wolverine
-description: Born with super-human senses and the power to heal from almost any wound,
-  Wolverine was captured by a secret Canadian organization and given an unbreakable
-  skeleton and claws. Treated like an animal, it took years for him to control himself.
-  Now, he's a premiere member of both the X-Men and the Avengers.
-url: http://marvel.com/universe/Wolverine_(James_Howlett)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Wild Child
+description: Kyle Gibney's mutant powers emerged at an early age and left him with
+  a freakish appearance, horrifying his parents, who kicked him out of the house,
+  where he was eventually found and experimented upon by the Secret Empire and, later,
+  Department H, who dubbed Gibney Wild Child and placed him with Gamma Flight, the
+  entry-level team whose recruits can eventually graduate to Alpha Flight.
+url: http://marvel.com/universe/Wild_Child?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/00/4c003a6b5d11a
   extension: jpg
