@@ -1,12 +1,12 @@
 ---
-date: '2002-01-10T00:00:00-0500'
-year: '2002'
-title: 'Ultimate Spider-Man (2000) #15'
-issue: 15
+date: '2011-01-26T00:00:00-0500'
+year: '2011'
+title: 'Ultimate Comics Doom (2010) #2'
+issue: 2
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/14841/ultimate_spider-man_2000_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Ultimate Comics Doom
+url: http://marvel.com/comics/issue/30215/ultimate_comics_doom_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bc3622bbc5a7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f624364986ac
   extension: jpg
