@@ -1,12 +1,12 @@
 ---
-date: '1971-03-10T00:00:00-0500'
-year: '1971'
-title: 'Avengers (1963) #86'
-issue: 86
+date: '2014-03-19T00:00:00-0400'
+year: '2014'
+title: 'New Avengers (2013) #15'
+issue: 15
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7339/avengers_1963_86?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: New Avengers
+url: http://marvel.com/comics/issue/48785/new_avengers_2013_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/586fe01ac0671
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/577580a3bd921
   extension: jpg
