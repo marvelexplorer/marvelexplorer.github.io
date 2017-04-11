@@ -1,12 +1,12 @@
 ---
-date: '1974-05-10T00:00:00-0400'
-year: '1974'
-title: 'Captain America (1968) #173'
-issue: 173
+date: '2012-05-02T00:00:00-0400'
+year: '2012'
+title: 'Marvel''s The Avengers: The Avengers Initiative (2011) #1'
+issue: 1
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7554/captain_america_1968_173?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Marvel''s The Avengers: The Avengers Initiative'
+url: http://marvel.com/comics/issue/41578/marvels_the_avengers_the_avengers_initiative_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb6f9425e24b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5176bb4405b2d
   extension: jpg
