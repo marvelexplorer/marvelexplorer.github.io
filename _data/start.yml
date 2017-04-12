@@ -1,10 +1,9 @@
 ---
-name: Falcon
-description: With a mental connection to all birds and a suit that gives him wings
-  to fly, The Falcon has been both the partner to Captain America and an Avenger himself.
-  Whether as a super hero or in his secret identity of social worker Sam Wilson, The
-  Falcon dedicates his life to standing up for others.
-url: http://marvel.com/universe/Falcon_(Sam_Wilson)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Shang-Chi
+description: Shang-Chi is the son of an internationally-renowned and powerful criminal
+  mastermind whose childhood was a lonely one, full of constant training in rigorous
+  mental and martial arts, with only limited contact with his parents.
+url: http://marvel.com/universe/Shang-Chi?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/5111505fb7009
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/535ff3b116209
   extension: jpg
