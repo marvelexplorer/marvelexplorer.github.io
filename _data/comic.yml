@@ -1,12 +1,12 @@
 ---
-date: '2005-01-01T00:00:00-0500'
-year: '2005'
-title: 'Wha...Huh? (2005) #1'
-issue: 1
+date: '2002-08-01T00:00:00-0400'
+year: '2002'
+title: 'Spider-Man: Quality of Life (2002) #2'
+issue: 2
 series:
-  period: '2005'
-  name: Wha...Huh?
-url: http://marvel.com/comics/issue/12120/wha.huh_2005_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: 'Spider-Man: Quality of Life'
+url: http://marvel.com/comics/issue/18812/spider-man_quality_of_life_2002_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc37524aa318
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb65b4869b3c
   extension: jpg
