@@ -2,10 +2,10 @@
 - name: Avengers
   score: 7
 - name: Iron Man
-  score: 5
+  score: 6
 - name: Black Panther
-  score: 4
-- name: Vision
   score: 4
 - name: Spider-Man
   score: 4
+- name: Wolverine
+  score: 3
