@@ -1,12 +1,12 @@
 ---
-date: '2011-02-02T00:00:00-0500'
-year: '2011'
-title: 'Iron Man Legacy (2010) #11'
-issue: 11
+date: '1975-12-10T00:00:00-0500'
+year: '1975'
+title: 'Super-Villain Team-Up (1975) #3'
+issue: 3
 series:
-  period: '2010'
-  name: Iron Man Legacy
-url: http://marvel.com/comics/issue/33698/iron_man_legacy_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1975'
+  name: Super-Villain Team-Up
+url: http://marvel.com/comics/issue/18789/super-villain_team-up_1975_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f689ab27000a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/58b07fb03ec66
   extension: jpg
