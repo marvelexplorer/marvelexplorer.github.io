@@ -1,12 +1,12 @@
 ---
-date: '2013-01-02T00:00:00-0500'
-year: '2013'
-title: 'New Avengers (2013) #1'
-issue: 1
+date: '2011-02-02T00:00:00-0500'
+year: '2011'
+title: 'Iron Man Legacy (2010) #11'
+issue: 11
 series:
-  period: '2013'
-  name: New Avengers
-url: http://marvel.com/comics/issue/43512/new_avengers_2013_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Iron Man Legacy
+url: http://marvel.com/comics/issue/33698/iron_man_legacy_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/5164719b5f233
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f689ab27000a
   extension: jpg
