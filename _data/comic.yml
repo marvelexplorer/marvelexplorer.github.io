@@ -1,12 +1,12 @@
 ---
-date: '2009-07-22T00:00:00-0400'
-year: '2009'
-title: 'Immortal Weapons (2009) #1'
-issue: 1
+date: '1985-12-10T00:00:00-0500'
+year: '1985'
+title: 'Avengers (1963) #262'
+issue: 262
 series:
-  period: '2009'
-  name: Immortal Weapons
-url: http://marvel.com/comics/issue/24824/immortal_weapons_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7133/avengers_1963_262?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/57d0657c017b7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/5888d6fc82348
   extension: jpg
