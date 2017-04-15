@@ -1,12 +1,12 @@
 ---
-date: '1980-11-10T00:00:00-0500'
-year: '1980'
-title: 'Fantastic Four (1961) #224'
-issue: 224
+date: '2011-07-13T00:00:00-0400'
+year: '2011'
+title: 'The Iron Age (2010) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13033/fantastic_four_1961_224?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: The Iron Age
+url: http://marvel.com/comics/issue/39685/the_iron_age_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/5261734ccba9f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/4d9f148d84dd7
   extension: jpg
