@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 5
-- name: Avengers
+- name: Iron Man
   score: 5
 - name: Rogue
   score: 4
-- name: Iron Man
+- name: Avengers
   score: 4
 - name: Daredevil
   score: 3
