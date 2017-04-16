@@ -1,12 +1,12 @@
 ---
-date: '2016-05-11T00:00:00-0400'
+date: '2016-12-21T00:00:00-0500'
 year: '2016'
-title: 'Ultimates (2015) #7'
-issue: 7
+title: 'Ultimates 2 (2016) #2'
+issue: 2
 series:
-  period: '2015'
-  name: Ultimates
-url: http://marvel.com/comics/issue/57261/ultimates_2015_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Ultimates 2
+url: http://marvel.com/comics/issue/62432/ultimates_2_2016_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5727ae7b32592
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/584b200f030ef
   extension: jpg
