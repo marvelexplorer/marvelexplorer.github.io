@@ -1,12 +1,12 @@
 ---
-date: '2007-08-29T00:00:00-0400'
-year: '2007'
-title: 'Black Panther (2005) #30'
-issue: 30
+date: '1989-03-10T00:00:00-0500'
+year: '1989'
+title: 'Fantastic Four (1961) #324'
+issue: 324
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/16122/black_panther_2005_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13144/fantastic_four_1961_324?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/56defc97b5c44
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/50ad2b8154ef4
   extension: jpg
