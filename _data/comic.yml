@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
+date: '2006-04-19T00:00:00-0400'
 year: '2006'
-title: 'New Avengers Vol.2: Sentry (2006)'
-issue: 0
+title: 'X-Men (2004) #185'
+issue: 185
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/4004/new_avengers_vol.2_sentry_2006?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/4068/x-men_2004_185?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f7db39021b77
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/58b4454309a43
   extension: jpg
