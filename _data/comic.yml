@@ -1,12 +1,12 @@
 ---
-date: '2009-10-14T00:00:00-0400'
-year: '2009'
-title: 'X-Men Forever (2009) #9'
-issue: 9
+date: '2000-04-01T00:00:00-0500'
+year: '2000'
+title: 'Cable (1993) #78'
+issue: 78
 series:
-  period: '2009'
-  name: X-Men Forever
-url: http://marvel.com/comics/issue/27313/x-men_forever_2009_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7457/cable_1993_78?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/58c6c756cbaa8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/50b3ad8ea944c
   extension: jpg
