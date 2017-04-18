@@ -1,7 +1,7 @@
 ---
-- name: Rogue
-  score: 4
 - name: Wolverine
+  score: 5
+- name: Rogue
   score: 4
 - name: Human Torch
   score: 3

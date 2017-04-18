@@ -1,12 +1,12 @@
 ---
-date: '2009-04-01T00:00:00-0400'
+date: '2009-06-24T00:00:00-0400'
 year: '2009'
-title: 'Avengers/Invaders (2008) #9'
-issue: 9
+title: 'Ms. Marvel (2006) #40'
+issue: 40
 series:
-  period: '2008'
-  name: Avengers/Invaders
-url: http://marvel.com/comics/issue/24549/avengersinvaders_2008_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/26003/ms_marvel_2006_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4f8475869b358
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/57695a8b19f10
   extension: jpg
