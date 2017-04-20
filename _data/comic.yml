@@ -1,12 +1,12 @@
 ---
-date: '1991-01-20T00:00:00-0500'
-year: '1991'
-title: 'Marvel Comics Presents (1988) #68'
-issue: 68
+date: '1980-12-10T00:00:00-0500'
+year: '1980'
+title: 'Fantastic Four (1961) #225'
+issue: 225
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10150/marvel_comics_presents_1988_68?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13034/fantastic_four_1961_225?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4c365162e6a9b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/531f75fe6d862
   extension: jpg
