@@ -1,12 +1,12 @@
 ---
-date: '2017-04-05T00:00:00-0400'
-year: '2017'
-title: 'Nova (2016) #5'
-issue: 5
+date: '2016-07-27T00:00:00-0400'
+year: '2016'
+title: 'All-New, All-Different Avengers (2015) #12'
+issue: 12
 series:
-  period: '2016'
-  name: Nova
-url: http://marvel.com/comics/issue/61636/nova_2016_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: All-New, All-Different Avengers
+url: http://marvel.com/comics/issue/55365/all-new_all-different_avengers_2015_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/58d58c62d21e4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/57911f1745d10
   extension: jpg
