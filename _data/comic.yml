@@ -1,12 +1,12 @@
 ---
-date: '2016-07-27T00:00:00-0400'
-year: '2016'
-title: 'All-New, All-Different Avengers (2015) #12'
-issue: 12
+date: '2017-02-08T00:00:00-0500'
+year: '2017'
+title: 'The Totally Awesome Hulk (2015) #16'
+issue: 16
 series:
   period: '2015'
-  name: All-New, All-Different Avengers
-url: http://marvel.com/comics/issue/55365/all-new_all-different_avengers_2015_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: The Totally Awesome Hulk
+url: http://marvel.com/comics/issue/56098/the_totally_awesome_hulk_2015_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/57911f1745d10
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/588fb9b812613
   extension: jpg
