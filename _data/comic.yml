@@ -1,12 +1,12 @@
 ---
-date: '2009-08-26T00:00:00-0400'
+date: '2009-11-18T00:00:00-0500'
 year: '2009'
-title: 'X-Men Forever (2009) #6'
-issue: 6
+title: 'X-Men Legacy (2008) #229'
+issue: 229
 series:
-  period: '2009'
-  name: X-Men Forever
-url: http://marvel.com/comics/issue/27310/x-men_forever_2009_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/27346/x-men_legacy_2008_229?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/57a2627a44424
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/58bec6f754999
   extension: jpg
