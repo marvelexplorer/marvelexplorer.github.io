@@ -1,12 +1,12 @@
 ---
-date: '2007-10-17T00:00:00-0400'
-year: '2007'
-title: 'Spider-Man Family (2007) #5'
-issue: 5
+date: '1976-08-10T00:00:00-0400'
+year: '1976'
+title: 'Defenders (1972) #38'
+issue: 38
 series:
-  period: '2007'
-  name: Spider-Man Family
-url: http://marvel.com/comics/issue/16537/spider-man_family_2007_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1972'
+  name: Defenders
+url: http://marvel.com/comics/issue/20346/defenders_1972_38?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc392c697425
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/b0/57d9568a97b6e
   extension: jpg
