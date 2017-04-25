@@ -1,12 +1,12 @@
 ---
-date: '2005-04-27T00:00:00-0400'
-year: '2005'
-title: 'Fantastic Four: Foes (2005) #4'
-issue: 4
+date: '1987-03-10T00:00:00-0500'
+year: '1987'
+title: 'Fantastic Four (1961) #300'
+issue: 300
 series:
-  period: '2005'
-  name: 'Fantastic Four: Foes'
-url: http://marvel.com/comics/issue/1874/fantastic_four_foes_2005_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13118/fantastic_four_1961_300?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/53518f925059e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/50ad54f84fc14
   extension: jpg
