@@ -1,12 +1,12 @@
 ---
-date: '2000-10-10T00:00:00-0400'
-year: '2000'
-title: 'Captain America (1998) #34'
-issue: 34
+date: '1996-09-01T00:00:00-0400'
+year: '1996'
+title: 'Punisher (1995) #11'
+issue: 11
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12794/captain_america_1998_34?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: Punisher
+url: http://marvel.com/comics/issue/23391/punisher_1995_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4e8ca45c14e3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb56c3a578e0
   extension: jpg
