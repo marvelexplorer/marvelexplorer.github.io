@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 6
-- name: Polaris
-  score: 3
 - name: Iron Man
   score: 3
 - name: Wolverine
   score: 3
 - name: Storm
+  score: 3
+- name: Black Panther
   score: 3
