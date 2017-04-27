@@ -1,12 +1,12 @@
 ---
-date: '2001-01-10T00:00:00-0500'
-year: '2001'
-title: 'Black Widow: Breakdown (2001) #1'
-issue: 1
+date: '2010-11-24T00:00:00-0500'
+year: '2010'
+title: 'Shadowland: Blood on the Streets (2010) #4'
+issue: 4
 series:
-  period: '2001'
-  name: 'Black Widow: Breakdown'
-url: http://marvel.com/comics/issue/14809/black_widow_breakdown_2001_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Shadowland: Blood on the Streets'
+url: http://marvel.com/comics/issue/33892/shadowland_blood_on_the_streets_2010_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bc33616545d5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c65c218d89b7
   extension: jpg
