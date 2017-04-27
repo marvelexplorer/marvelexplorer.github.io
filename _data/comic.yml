@@ -1,12 +1,12 @@
 ---
-date: '1979-10-01T00:00:00-0400'
-year: '1979'
-title: 'Power Man and Iron Fist (1978) #59'
-issue: 59
+date: '1976-02-10T00:00:00-0500'
+year: '1976'
+title: 'Iron Fist (1975) #3'
+issue: 3
 series:
-  period: '1978'
-  name: Power Man and Iron Fist
-url: http://marvel.com/comics/issue/56366/power_man_and_iron_fist_1978_59?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1975'
+  name: Iron Fist
+url: http://marvel.com/comics/issue/22629/iron_fist_1975_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/57d06492b4fde
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/578fed64a6199
   extension: jpg
