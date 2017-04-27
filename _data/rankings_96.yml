@@ -1,6 +1,4 @@
 ---
-- name: Black Panther
-  score: 4
 - name: Wolverine
   score: 4
 - name: Mr. Fantastic
@@ -8,4 +6,6 @@
 - name: Hulk
   score: 4
 - name: Thor
+  score: 4
+- name: Captain America
   score: 4
