@@ -1,12 +1,12 @@
 ---
-date: '2017-02-22T00:00:00-0500'
-year: '2017'
-title: 'Amazing Spider-Man (2015) #24'
-issue: 24
+date: '2011-04-13T00:00:00-0400'
+year: '2011'
+title: 'Amazing Spider-Man (1999) #658'
+issue: 658
 series:
-  period: '2015'
+  period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/55322/amazing_spider-man_2015_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/39019/amazing_spider-man_1999_658?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/70/58a20dcab2a81
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/580a359142c92
   extension: jpg
