@@ -1,12 +1,12 @@
 ---
-date: '2010-12-02T00:00:00-0500'
-year: '2010'
-title: 'Shadowland (2010) #5'
-issue: 5
+date: '1992-06-10T00:00:00-0400'
+year: '1992'
+title: 'Spider-Man (1990) #23'
+issue: 23
 series:
-  period: '2010'
-  name: Shadowland
-url: http://marvel.com/comics/issue/33700/shadowland_2010_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1990'
+  name: Spider-Man
+url: http://marvel.com/comics/issue/10782/spider-man_1990_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/52c5ba7fbaec2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/58335d943f43f
   extension: jpg
