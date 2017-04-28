@@ -1,12 +1,12 @@
 ---
-date: '1992-11-10T00:00:00-0500'
-year: '1992'
-title: 'Infinity War (1992) #6'
-issue: 6
+date: '1973-11-10T00:00:00-0500'
+year: '1973'
+title: 'Captain Marvel (1968) #29'
+issue: 29
 series:
-  period: '1992'
-  name: Infinity War
-url: http://marvel.com/comics/issue/9297/infinity_war_1992_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain Marvel
+url: http://marvel.com/comics/issue/8018/captain_marvel_1968_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/51f69686e27c2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb5efec30339
   extension: jpg
