@@ -1,12 +1,12 @@
 ---
-date: '1977-06-10T00:00:00-0400'
-year: '1977'
-title: 'Avengers (1963) #160'
-issue: 160
+date: '2001-04-10T00:00:00-0400'
+year: '2001'
+title: 'Avengers (1998) #39'
+issue: 39
 series:
-  period: '1963'
+  period: '1998'
   name: Avengers
-url: http://marvel.com/comics/issue/7020/avengers_1963_160?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/17522/avengers_1998_39?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/5881252a130c9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/585c312c2c343
   extension: jpg
