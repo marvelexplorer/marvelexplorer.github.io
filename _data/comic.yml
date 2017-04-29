@@ -1,12 +1,12 @@
 ---
-date: '1998-11-10T00:00:00-0500'
-year: '1998'
-title: 'Iron Man (1998) #10'
-issue: 10
+date: '2000-11-10T00:00:00-0500'
+year: '2000'
+title: 'Avengers (1998) #34'
+issue: 34
 series:
   period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/37770/iron_man_1998_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Avengers
+url: http://marvel.com/comics/issue/17517/avengers_1998_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/50b3cf5639812
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/585c2b3033d16
   extension: jpg
