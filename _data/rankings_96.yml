@@ -1,11 +1,11 @@
 ---
-- name: Thor
+- name: Vision
   score: 4
 - name: Iron Fist (Danny Rand)
   score: 3
 - name: Hulk
   score: 3
-- name: Vision
-  score: 3
 - name: Iron Man
+  score: 3
+- name: Avengers
   score: 3
