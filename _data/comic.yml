@@ -1,12 +1,12 @@
 ---
-date: '1968-12-10T00:00:00-0500'
-year: '1968'
-title: 'Amazing Spider-Man (1963) #67'
-issue: 67
+date: '1989-06-10T00:00:00-0400'
+year: '1989'
+title: 'Amazing Spider-Man (1963) #316'
+issue: 316
 series:
   period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6887/amazing_spider-man_1963_67?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6723/amazing_spider-man_1963_316?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/57adda713d542
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/57f3e0838b7d6
   extension: jpg
