@@ -1,12 +1,12 @@
 ---
-date: '1985-01-19T00:00:00-0500'
-year: '1985'
-title: 'Amazing Spider-Man Annual (1964) #19'
-issue: 19
+date: '1995-01-01T00:00:00-0500'
+year: '1995'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #220'
+issue: 220
 series:
-  period: '1964'
-  name: Amazing Spider-Man Annual
-url: http://marvel.com/comics/issue/16893/amazing_spider-man_annual_1964_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14677/peter_parker_the_spectacular_spider-man_1976_220?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5810e6df45b66
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/5820e312ca037
   extension: jpg
