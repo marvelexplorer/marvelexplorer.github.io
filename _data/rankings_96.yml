@@ -1,11 +1,11 @@
 ---
-- name: Avengers
-  score: 5
 - name: Runaways
   score: 5
 - name: X-Men
   score: 5
 - name: Vision
+  score: 4
+- name: Avengers
   score: 4
 - name: Old Lace
   score: 4
