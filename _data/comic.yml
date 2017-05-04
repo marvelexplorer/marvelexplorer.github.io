@@ -1,12 +1,12 @@
 ---
-date: '2001-02-10T00:00:00-0500'
-year: '2001'
-title: 'Wolverine (1988) #159'
-issue: 159
+date: '2008-04-23T00:00:00-0400'
+year: '2008'
+title: 'Mighty Avengers (2007) #12'
+issue: 12
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14102/wolverine_1988_159?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/21001/mighty_avengers_2007_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb79daa75186
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4d24eb19eb913
   extension: jpg
