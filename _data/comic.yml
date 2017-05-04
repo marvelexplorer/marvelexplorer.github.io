@@ -1,12 +1,12 @@
 ---
-date: '1966-09-10T00:00:00-0400'
-year: '1966'
-title: 'Tales of Suspense (1959) #81'
-issue: 81
+date: '1996-08-01T00:00:00-0400'
+year: '1996'
+title: 'X-Men (1991) #55'
+issue: 55
 series:
-  period: '1959'
-  name: Tales of Suspense
-url: http://marvel.com/comics/issue/11327/tales_of_suspense_1959_81?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14345/x-men_1991_55?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/536d48b754fb2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bb57a282e1f0
   extension: jpg
