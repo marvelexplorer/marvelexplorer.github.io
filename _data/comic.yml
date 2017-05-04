@@ -1,12 +1,12 @@
 ---
-date: '2007-06-27T00:00:00-0400'
-year: '2007'
-title: 'Marvel Adventures the Avengers (2006) #14'
-issue: 14
+date: '1998-05-10T00:00:00-0400'
+year: '1998'
+title: 'Avengers (1998) #4'
+issue: 4
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/15851/marvel_adventures_the_avengers_2006_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17523/avengers_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4f6392619f43a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/5851662c4c602
   extension: jpg
