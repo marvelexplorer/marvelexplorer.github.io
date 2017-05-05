@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 5
-- name: Runaways
-  score: 4
 - name: Wolverine
   score: 4
 - name: Spider-Man
   score: 4
 - name: Fantastic Four
   score: 4
+- name: Old Lace
+  score: 3
