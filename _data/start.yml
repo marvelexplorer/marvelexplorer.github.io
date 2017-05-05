@@ -1,7 +1,10 @@
 ---
-name: Mantis
-description: ''
-url: http://marvel.com/universe/Mantis?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Avengers
+description: Earth's Mightiest Heroes joined forces to take on threats that were too
+  big for any one hero to tackle. With a roster that has included Captain America,
+  Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers
+  have come to be regarded as Earth's No. 1 team.
+url: http://marvel.com/universe/Avengers?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/52740fa12e826
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7
   extension: jpg
