@@ -1,12 +1,12 @@
 ---
-date: '1990-02-10T00:00:00-0500'
-year: '1990'
-title: 'Marvel Comics Presents (1988) #43'
-issue: 43
+date: '1992-08-10T00:00:00-0400'
+year: '1992'
+title: 'X-Force (1991) #13'
+issue: 13
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10123/marvel_comics_presents_1988_43?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/17976/x-force_1991_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/4c36530751820
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/586d47309e1d0
   extension: jpg
