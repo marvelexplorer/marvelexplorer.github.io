@@ -1,12 +1,12 @@
 ---
-date: '1985-03-10T00:00:00-0500'
+date: '1985-11-01T00:00:00-0500'
 year: '1985'
-title: 'Marvel Fanfare (1982) #19'
-issue: 19
+title: 'Cloak and Dagger (1985) #3'
+issue: 3
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19792/marvel_fanfare_1982_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1985'
+  name: Cloak and Dagger
+url: http://marvel.com/comics/issue/62784/cloak_and_dagger_1985_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58e40e55279b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/58b8940f7d3f6
   extension: jpg
