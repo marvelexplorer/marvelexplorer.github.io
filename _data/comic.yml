@@ -1,12 +1,12 @@
 ---
-date: '2000-10-01T00:00:00-0400'
-year: '2000'
-title: 'Marvel Knights (2000) #4'
-issue: 4
+date: '1985-03-10T00:00:00-0500'
+year: '1985'
+title: 'Marvel Fanfare (1982) #19'
+issue: 19
 series:
-  period: '2000'
-  name: Marvel Knights
-url: http://marvel.com/comics/issue/16064/marvel_knights_2000_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1982'
+  name: Marvel Fanfare
+url: http://marvel.com/comics/issue/19792/marvel_fanfare_1982_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc369fea90dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58e40e55279b2
   extension: jpg
