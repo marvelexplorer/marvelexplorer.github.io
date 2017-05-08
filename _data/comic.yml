@@ -1,12 +1,12 @@
 ---
-date: '2000-04-01T00:00:00-0500'
-year: '2000'
-title: 'Amazing Spider-Man (1999) #18'
-issue: 18
+date: '1997-05-10T00:00:00-0400'
+year: '1997'
+title: 'Amazing Spider-Man (1963) #423'
+issue: 423
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/48433/amazing_spider-man_1999_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6842/amazing_spider-man_1963_423?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/57e936213c7f2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4badf3942c97c
   extension: jpg
