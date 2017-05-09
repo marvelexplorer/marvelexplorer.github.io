@@ -1,11 +1,11 @@
 ---
 - name: Thor
   score: 5
-- name: Wolverine
-  score: 4
 - name: Spider-Man
+  score: 5
+- name: Wolverine
   score: 4
 - name: Ant-Man (Eric O'Grady)
   score: 3
-- name: Nick Fury
+- name: Kang
   score: 3
