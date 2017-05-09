@@ -1,12 +1,12 @@
 ---
-date: '1977-11-10T00:00:00-0500'
-year: '1977'
-title: 'Avengers (1963) #165'
-issue: 165
+date: '2008-01-30T00:00:00-0500'
+year: '2008'
+title: 'Mighty Avengers (2007) #8'
+issue: 8
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7025/avengers_1963_165?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/17627/mighty_avengers_2007_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/588240641db1d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4d24eb0d3a729
   extension: jpg
