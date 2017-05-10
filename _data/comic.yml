@@ -1,12 +1,12 @@
 ---
-date: '2000-03-01T00:00:00-0500'
-year: '2000'
-title: 'Thor (1998) #21'
-issue: 21
+date: '1984-11-10T00:00:00-0500'
+year: '1984'
+title: 'Thor (1966) #349'
+issue: 349
 series:
-  period: '1998'
+  period: '1966'
   name: Thor
-url: http://marvel.com/comics/issue/18644/thor_1998_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/11677/thor_1966_349?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4e8211d09a322
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc46fe1552c5
   extension: jpg
