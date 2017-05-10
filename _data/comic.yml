@@ -1,12 +1,12 @@
 ---
-date: '2012-11-21T00:00:00-0500'
-year: '2012'
-title: 'Amazing Spider-Man (1999) #698'
-issue: 698
+date: '2004-11-01T00:00:00-0500'
+year: '2004'
+title: 'Avengers (1998) #502'
+issue: 502
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/40120/amazing_spider-man_1999_698?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/845/avengers_1998_502?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/57ed3544796b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f58d176985bc
   extension: jpg
