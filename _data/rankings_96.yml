@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 6
+  score: 7
 - name: Thor
   score: 5
 - name: Wolverine
   score: 4
-- name: Ant-Man (Eric O'Grady)
-  score: 3
 - name: Kang
+  score: 3
+- name: Human Torch
   score: 3
