@@ -1,12 +1,12 @@
 ---
-date: '2010-07-21T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man (1999) #638'
-issue: 638
+date: '2004-08-25T00:00:00-0400'
+year: '2004'
+title: 'Amazing Spider-Man (1999) #511'
+issue: 511
 series:
   period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/30313/amazing_spider-man_1999_638?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/765/amazing_spider-man_1999_511?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5808ff8aa4340
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/04/57f66ffbedf99
   extension: jpg
