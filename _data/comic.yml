@@ -1,12 +1,12 @@
 ---
-date: '2007-03-07T00:00:00-0500'
-year: '2007'
-title: 'Marvel Zombies/Army of Darkness (2007) #1'
-issue: 1
+date: '1994-03-10T00:00:00-0500'
+year: '1994'
+title: 'Cable (1993) #9'
+issue: 9
 series:
-  period: '2007'
-  name: Marvel Zombies/Army of Darkness
-url: http://marvel.com/comics/issue/6093/marvel_zombiesarmy_of_darkness_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7470/cable_1993_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5a3d5e8a71
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/50b3f88100154
   extension: jpg
