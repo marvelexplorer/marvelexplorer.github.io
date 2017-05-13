@@ -1,12 +1,12 @@
 ---
-date: '1968-04-10T00:00:00-0500'
-year: '1968'
-title: 'Avengers (1963) #51'
-issue: 51
+date: '1965-07-10T00:00:00-0400'
+year: '1965'
+title: 'Tales to Astonish (1959) #69'
+issue: 69
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7301/avengers_1963_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11414/tales_to_astonish_1959_69?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/58657e710691e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/536d4db73e04d
   extension: jpg
