@@ -1,12 +1,12 @@
 ---
-date: '2012-11-07T00:00:00-0500'
-year: '2012'
-title: 'Avengers (2010) #33'
-issue: 33
+date: '2013-03-06T00:00:00-0500'
+year: '2013'
+title: 'All-New X-Men (2012) #8'
+issue: 8
 series:
-  period: '2010'
-  name: Avengers
-url: http://marvel.com/comics/issue/40402/avengers_2010_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: All-New X-Men
+url: http://marvel.com/comics/issue/43473/all-new_x-men_2012_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/51685f8ca91e4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/584b19ce3dd92
   extension: jpg
