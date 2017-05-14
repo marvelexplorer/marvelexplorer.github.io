@@ -1,12 +1,12 @@
 ---
-date: '2005-08-03T00:00:00-0400'
-year: '2005'
-title: 'New Avengers (2004) #8'
-issue: 8
+date: '2012-11-07T00:00:00-0500'
+year: '2012'
+title: 'Avengers (2010) #33'
+issue: 33
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/2149/new_avengers_2004_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Avengers
+url: http://marvel.com/comics/issue/40402/avengers_2010_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f7db48e58b01
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/51685f8ca91e4
   extension: jpg
