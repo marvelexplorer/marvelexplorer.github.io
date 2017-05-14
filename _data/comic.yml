@@ -1,12 +1,12 @@
 ---
-date: '1984-08-10T00:00:00-0400'
-year: '1984'
-title: 'Amazing Spider-Man (1963) #255'
-issue: 255
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'Amazing Spider-Man (1999) #52'
+issue: 52
 series:
-  period: '1963'
+  period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6655/amazing_spider-man_1963_255?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/43165/amazing_spider-man_1999_52?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/57c5ad3567e56
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/57e9548f527a8
   extension: jpg
