@@ -1,12 +1,12 @@
 ---
-date: '2004-05-12T00:00:00-0400'
-year: '2004'
-title: 'The Pulse (2004) #3'
-issue: 3
+date: '2010-02-24T00:00:00-0500'
+year: '2010'
+title: 'New Avengers (2004) #62'
+issue: 62
 series:
   period: '2004'
-  name: The Pulse
-url: http://marvel.com/comics/issue/638/the_pulse_2004_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: New Avengers
+url: http://marvel.com/comics/issue/29017/new_avengers_2004_62?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/565355c370b6e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/5773e352f0f99
   extension: jpg
