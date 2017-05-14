@@ -1,12 +1,12 @@
 ---
-date: '2013-08-28T00:00:00-0400'
-year: '2013'
-title: 'Deadpool (2012) #15'
-issue: 15
+date: '1941-01-10T00:00:00-0500'
+year: '1941'
+title: 'Human Torch (1940) #3'
+issue: 3
 series:
-  period: '2012'
-  name: Deadpool
-url: http://marvel.com/comics/issue/46051/deadpool_2012_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1940'
+  name: Human Torch
+url: http://marvel.com/comics/issue/8889/human_torch_1940_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5212669b4d5d7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc3359bc13c3
   extension: jpg
