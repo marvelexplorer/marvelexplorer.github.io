@@ -1,12 +1,12 @@
 ---
-date: '1981-01-10T00:00:00-0500'
+date: '1981-03-10T00:00:00-0500'
 year: '1981'
-title: 'Avengers (1963) #203'
-issue: 203
+title: 'Avengers (1963) #205'
+issue: 205
 series:
   period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/7068/avengers_1963_203?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/7070/avengers_1963_205?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/587fa755268af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/587fa8dc5a619
   extension: jpg
