@@ -1,12 +1,12 @@
 ---
-date: '1972-09-10T00:00:00-0400'
-year: '1972'
-title: 'Marvel Team-Up (1972) #4'
-issue: 4
+date: '2004-07-28T00:00:00-0400'
+year: '2004'
+title: 'Astonishing X-Men (2004) #3'
+issue: 3
 series:
-  period: '1972'
-  name: Marvel Team-Up
-url: http://marvel.com/comics/issue/19659/marvel_team-up_1972_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/531/astonishing_x-men_2004_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/4bb50ec2bbbef
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/58f666296111f
   extension: jpg
