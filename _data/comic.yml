@@ -1,12 +1,12 @@
 ---
-date: '1991-12-10T00:00:00-0500'
-year: '1991'
-title: 'X-Men (1991) #3'
-issue: 3
+date: '1985-06-01T00:00:00-0400'
+year: '1985'
+title: 'Beauty and the Beast (1985) #4'
+issue: 4
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14317/x-men_1991_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1985'
+  name: Beauty and the Beast
+url: http://marvel.com/comics/issue/62752/beauty_and_the_beast_1985_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/589cc0bd9b99d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/5887982e7491c
   extension: jpg
