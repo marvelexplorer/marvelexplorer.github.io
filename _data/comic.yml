@@ -1,12 +1,12 @@
 ---
-date: '1969-02-10T00:00:00-0500'
-year: '1969'
-title: 'Avengers (1963) #61'
-issue: 61
+date: '2006-09-13T00:00:00-0400'
+year: '2006'
+title: 'New Excalibur (2006) #11'
+issue: 11
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7312/avengers_1963_61?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: New Excalibur
+url: http://marvel.com/comics/issue/5085/new_excalibur_2006_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb86eb03b226
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58054c9381e7a
   extension: jpg
