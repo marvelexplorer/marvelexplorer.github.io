@@ -1,12 +1,12 @@
 ---
-date: '2010-12-29T00:00:00-0500'
-year: '2010'
-title: 'S.H.I.E.L.D. (2010) #5'
-issue: 5
+date: '2011-12-28T00:00:00-0500'
+year: '2011'
+title: 'Uncanny X-Men (2011) #3'
+issue: 3
 series:
-  period: '2010'
-  name: S.H.I.E.L.D.
-url: http://marvel.com/comics/issue/30512/shield_2010_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/40159/uncanny_x-men_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f674dac7819b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/51895afe48608
   extension: jpg
