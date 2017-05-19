@@ -1,12 +1,12 @@
 ---
-date: '2008-11-19T00:00:00-0500'
-year: '2008'
-title: 'Amazing Spider-Man (1999) #578'
-issue: 578
+date: '2009-10-07T00:00:00-0400'
+year: '2009'
+title: 'Amazing Spider-Man (1999) #608'
+issue: 608
 series:
   period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/22469/amazing_spider-man_1999_578?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/24415/amazing_spider-man_1999_608?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/578e7384d7355
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/58062ee200676
   extension: jpg
