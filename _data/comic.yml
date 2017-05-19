@@ -1,12 +1,12 @@
 ---
-date: '2011-07-27T00:00:00-0400'
-year: '2011'
-title: 'Amazing Spider-Man (1999) #666'
-issue: 666
+date: '1989-10-20T00:00:00-0400'
+year: '1989'
+title: 'Amazing Spider-Man (1963) #322'
+issue: 322
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/35513/amazing_spider-man_1999_666?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6730/amazing_spider-man_1963_322?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/57eaa30fd170e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/57f52232429ef
   extension: jpg
