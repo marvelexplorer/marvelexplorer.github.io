@@ -1,12 +1,12 @@
 ---
-date: '2013-05-22T00:00:00-0400'
-year: '2013'
-title: 'Deadpool (2012) #10'
-issue: 10
+date: '2011-06-29T00:00:00-0400'
+year: '2011'
+title: 'Incredible Hulks Annual (2011) #1'
+issue: 1
 series:
-  period: '2012'
-  name: Deadpool
-url: http://marvel.com/comics/issue/46046/deadpool_2012_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Incredible Hulks Annual
+url: http://marvel.com/comics/issue/36948/incredible_hulks_annual_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/51892cfec211d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d7a8f0168b71
   extension: jpg
