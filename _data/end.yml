@@ -1,9 +1,7 @@
 ---
-name: Typhoid Mary
-description: Typhoid Mary, an enemy and former lover of Daredevil with psionic powers,
-  including telekinesis, is also truly gravely mentally ill and not entirely responsible
-  for her actions.
-url: http://marvel.com/universe/Typhoid_Mary?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Black Panther
+description: ''
+url: http://marvel.com/universe/Black_Panther_(T%27Challa)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4c00390aa2403
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d
   extension: jpg
