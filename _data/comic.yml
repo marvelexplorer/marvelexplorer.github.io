@@ -1,12 +1,12 @@
 ---
-date: '2002-10-01T00:00:00-0400'
-year: '2002'
-title: 'Amazing Spider-Man (1999) #44'
-issue: 44
+date: '1987-01-10T00:00:00-0500'
+year: '1987'
+title: 'Amazing Spider-Man (1963) #284'
+issue: 284
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/43148/amazing_spider-man_1999_44?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6687/amazing_spider-man_1963_284?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/57a33fab0ce5b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/55fad53adf7fb
   extension: jpg
