@@ -1,12 +1,12 @@
 ---
-date: '1987-01-10T00:00:00-0500'
-year: '1987'
-title: 'Amazing Spider-Man (1963) #284'
-issue: 284
+date: '1990-04-10T00:00:00-0400'
+year: '1990'
+title: 'Amazing Spider-Man (1963) #331'
+issue: 331
 series:
   period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6687/amazing_spider-man_1963_284?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6740/amazing_spider-man_1963_331?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/55fad53adf7fb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/57c89cf7a4a31
   extension: jpg
