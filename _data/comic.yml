@@ -1,12 +1,12 @@
 ---
-date: '1941-03-01T00:00:00-0500'
-year: '1941'
-title: 'Captain America Comics (1941) #1'
-issue: 1
+date: '2003-03-01T00:00:00-0500'
+year: '2003'
+title: 'Killraven (2002) #4'
+issue: 4
 series:
-  period: '1941'
-  name: Captain America Comics
-url: http://marvel.com/comics/issue/7849/captain_america_comics_1941_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Killraven
+url: http://marvel.com/comics/issue/19858/killraven_2002_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc47abf542ee
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/4c364f69f2185
   extension: jpg
