@@ -1,12 +1,12 @@
 ---
-date: '2016-11-30T00:00:00-0500'
-year: '2016'
-title: 'Guardians of the Galaxy (2015) #14'
-issue: 14
+date: '1975-10-10T00:00:00-0400'
+year: '1975'
+title: 'Defenders (1972) #28'
+issue: 28
 series:
-  period: '2015'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/55477/guardians_of_the_galaxy_2015_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1972'
+  name: Defenders
+url: http://marvel.com/comics/issue/20335/defenders_1972_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/582cba0bcaea0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/50adbe7c3efdf
   extension: jpg
