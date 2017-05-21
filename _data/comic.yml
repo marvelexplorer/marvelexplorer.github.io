@@ -1,12 +1,12 @@
 ---
-date: '2011-08-17T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself: Fearsome Four (2011) #3'
-issue: 3
+date: '1978-04-10T00:00:00-0500'
+year: '1978'
+title: 'Howard the Duck (1976) #23'
+issue: 23
 series:
-  period: '2011'
-  name: 'Fear Itself: Fearsome Four'
-url: http://marvel.com/comics/issue/38863/fear_itself_fearsome_four_2011_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Howard the Duck
+url: http://marvel.com/comics/issue/21111/howard_the_duck_1976_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4f7dcdb8dffab
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb5e67c81c7e
   extension: jpg
