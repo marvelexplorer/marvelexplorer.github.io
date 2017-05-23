@@ -1,12 +1,12 @@
 ---
-date: '1999-10-06T00:00:00-0400'
-year: '1999'
-title: 'Amazing Spider-Man (1999) #10'
-issue: 10
+date: '1990-07-10T00:00:00-0400'
+year: '1990'
+title: 'Amazing Spider-Man (1963) #334'
+issue: 334
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/37988/amazing_spider-man_1999_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6743/amazing_spider-man_1963_334?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57e95e53e173a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/57f50143d1319
   extension: jpg
