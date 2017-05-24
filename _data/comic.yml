@@ -1,12 +1,12 @@
 ---
-date: '2012-04-18T00:00:00-0400'
-year: '2012'
-title: 'Avengers Vs. X-Men (2012) #2'
-issue: 2
+date: '1992-10-10T00:00:00-0400'
+year: '1992'
+title: 'X-Men (1991) #13'
+issue: 13
 series:
-  period: '2012'
-  name: Avengers Vs. X-Men
-url: http://marvel.com/comics/issue/41191/avengers_vs_x-men_2012_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14299/x-men_1991_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/515f1a2cbc874
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/557f35b0354a0
   extension: jpg
