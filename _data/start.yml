@@ -1,7 +1,10 @@
 ---
-name: Defenders
-description: ''
-url: http://marvel.com/universe/Defenders?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Hulk
+description: Caught in a gamma bomb explosion while trying to save the life of a teenager,
+  Dr. Bruce Banner was transformed into the incredibly powerful creature called the
+  Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger
+  the Hulk gets.
+url: http://marvel.com/universe/Hulk_(Bruce_Banner)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/526031e9c785a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0
   extension: jpg
