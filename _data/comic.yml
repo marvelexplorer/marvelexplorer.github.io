@@ -1,12 +1,12 @@
 ---
-date: '2007-01-24T00:00:00-0500'
-year: '2007'
-title: 'Punisher War Journal (2006) #3'
-issue: 3
+date: '2003-09-02T00:00:00-0400'
+year: '2003'
+title: 'Avengers (1998) #69'
+issue: 69
 series:
-  period: '2006'
-  name: Punisher War Journal
-url: http://marvel.com/comics/issue/5831/punisher_war_journal_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17555/avengers_1998_69?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/583450288a69e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/586bd504bc79f
   extension: jpg
