@@ -1,12 +1,12 @@
 ---
-date: '2013-03-20T00:00:00-0400'
-year: '2013'
-title: 'All-New X-Men (2012) #9'
-issue: 9
+date: '2006-09-27T00:00:00-0400'
+year: '2006'
+title: 'X-Men (2004) #191'
+issue: 191
 series:
-  period: '2012'
-  name: All-New X-Men
-url: http://marvel.com/comics/issue/43474/all-new_x-men_2012_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/5050/x-men_2004_191?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/584b1ac871de8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4d24dedbd7d6e
   extension: jpg
