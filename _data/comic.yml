@@ -1,12 +1,12 @@
 ---
-date: '2017-02-22T00:00:00-0500'
-year: '2017'
-title: 'Prowler (2016) #5'
-issue: 5
+date: '1995-03-01T00:00:00-0500'
+year: '1995'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #222'
+issue: 222
 series:
-  period: '2016'
-  name: Prowler
-url: http://marvel.com/comics/issue/61308/prowler_2016_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14679/peter_parker_the_spectacular_spider-man_1976_222?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/58a22f6bf1dec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/581cee6d9ed33
   extension: jpg
