@@ -1,12 +1,12 @@
 ---
-date: '1969-12-10T00:00:00-0500'
-year: '1969'
-title: 'Amazing Spider-Man (1963) #79'
-issue: 79
+date: '2017-02-22T00:00:00-0500'
+year: '2017'
+title: 'Prowler (2016) #5'
+issue: 5
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6900/amazing_spider-man_1963_79?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Prowler
+url: http://marvel.com/comics/issue/61308/prowler_2016_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/57b1c7c960297
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/58a22f6bf1dec
   extension: jpg
