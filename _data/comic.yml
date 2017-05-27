@@ -1,12 +1,12 @@
 ---
-date: '2007-09-26T00:00:00-0400'
+date: '2007-11-07T00:00:00-0500'
 year: '2007'
-title: 'Immortal Iron Fist Annual (2007) #1'
-issue: 1
+title: 'Immortal Iron Fist (2006) #10'
+issue: 10
 series:
-  period: '2007'
-  name: Immortal Iron Fist Annual
-url: http://marvel.com/comics/issue/16610/immortal_iron_fist_annual_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Immortal Iron Fist
+url: http://marvel.com/comics/issue/16534/immortal_iron_fist_2006_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/51b74e390a79d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/51b74bd428c4c
   extension: jpg
