@@ -3,9 +3,9 @@
   score: 6
 - name: Spider-Man
   score: 5
-- name: Rogue
-  score: 4
 - name: Cyclops
   score: 4
+- name: Rogue
+  score: 3
 - name: Professor X
   score: 3
