@@ -1,12 +1,12 @@
 ---
-date: '2005-01-01T00:00:00-0500'
-year: '2005'
-title: 'Wha...Huh? (2005) #1'
-issue: 1
+date: '1966-08-10T00:00:00-0400'
+year: '1966'
+title: 'Strange Tales (1951) #147'
+issue: 147
 series:
-  period: '2005'
-  name: Wha...Huh?
-url: http://marvel.com/comics/issue/12120/wha.huh_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1951'
+  name: Strange Tales
+url: http://marvel.com/comics/issue/11069/strange_tales_1951_147?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc37524aa318
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/57bde3e02dd2f
   extension: jpg
