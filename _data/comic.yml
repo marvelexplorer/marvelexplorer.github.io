@@ -1,12 +1,12 @@
 ---
-date: '1998-06-10T00:00:00-0400'
-year: '1998'
-title: 'Captain America (1998) #6'
-issue: 6
+date: '2007-07-25T00:00:00-0400'
+year: '2007'
+title: 'Onslaught Reborn (2006) #4'
+issue: 4
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12813/captain_america_1998_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Onslaught Reborn
+url: http://marvel.com/comics/issue/5956/onslaught_reborn_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4e94983351c6d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/4bc3572e49895
   extension: jpg
