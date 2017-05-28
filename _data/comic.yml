@@ -1,12 +1,12 @@
 ---
-date: '2004-07-01T00:00:00-0400'
-year: '2004'
-title: 'Avengers (1998) #82'
-issue: 82
+date: '1998-06-10T00:00:00-0400'
+year: '1998'
+title: 'Captain America (1998) #6'
+issue: 6
 series:
   period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/4938/avengers_1998_82?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Captain America
+url: http://marvel.com/comics/issue/12813/captain_america_1998_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/586d5d9068920
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4e94983351c6d
   extension: jpg
