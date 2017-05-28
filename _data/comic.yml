@@ -1,12 +1,12 @@
 ---
-date: '2008-12-03T00:00:00-0500'
+date: '2008-08-27T00:00:00-0400'
 year: '2008'
-title: 'Secret Invasion (2008) #8'
-issue: 8
+title: 'Mighty Avengers (2007) #17'
+issue: 17
 series:
-  period: '2008'
-  name: Secret Invasion
-url: http://marvel.com/comics/issue/22527/secret_invasion_2008_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/21735/mighty_avengers_2007_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/5151f0d51369a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d25194ee9cd4
   extension: jpg
