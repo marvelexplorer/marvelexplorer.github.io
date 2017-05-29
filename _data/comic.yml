@@ -1,12 +1,12 @@
 ---
-date: '2003-04-01T00:00:00-0500'
-year: '2003'
-title: 'X-Treme X-Men (2001) #21'
-issue: 21
+date: '2006-12-27T00:00:00-0500'
+year: '2006'
+title: 'Black Panther (2005) #23'
+issue: 23
 series:
-  period: '2001'
-  name: X-Treme X-Men
-url: http://marvel.com/comics/issue/15024/x-treme_x-men_2001_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Black Panther
+url: http://marvel.com/comics/issue/5667/black_panther_2005_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc3681b6887b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/56fd34d40df79
   extension: jpg
