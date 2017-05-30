@@ -1,12 +1,12 @@
 ---
-date: '1980-08-10T00:00:00-0400'
-year: '1980'
-title: 'Avengers (1963) #198'
-issue: 198
+date: '2008-07-23T00:00:00-0400'
+year: '2008'
+title: 'Avengers: The Initiative (2007) #15'
+issue: 15
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7061/avengers_1963_198?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/21546/avengers_the_initiative_2007_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5886190d1e0a9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/58dbda827bec8
   extension: jpg
