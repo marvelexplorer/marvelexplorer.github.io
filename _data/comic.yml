@@ -1,12 +1,12 @@
 ---
-date: '1993-03-10T00:00:00-0500'
-year: '1993'
-title: 'X-Factor (1986) #88'
-issue: 88
+date: '2005-10-12T00:00:00-0400'
+year: '2005'
+title: 'House of M (2005) #7'
+issue: 7
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12310/x-factor_1986_88?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: House of M
+url: http://marvel.com/comics/issue/2427/house_of_m_2005_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bb5806cd72c1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/589e0f61e709d
   extension: jpg
