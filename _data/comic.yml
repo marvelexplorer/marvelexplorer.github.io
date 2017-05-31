@@ -1,12 +1,12 @@
 ---
-date: '1983-09-10T00:00:00-0400'
-year: '1983'
-title: 'Uncanny X-Men (1963) #173'
-issue: 173
+date: '2009-08-12T00:00:00-0400'
+year: '2009'
+title: 'X-Men Forever (2009) #5'
+issue: 5
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13714/uncanny_x-men_1963_173?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: X-Men Forever
+url: http://marvel.com/comics/issue/27309/x-men_forever_2009_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/58d97d2b532a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/58c6a33ef3dc3
   extension: jpg
