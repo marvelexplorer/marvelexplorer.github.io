@@ -1,12 +1,12 @@
 ---
-date: '2006-09-27T00:00:00-0400'
-year: '2006'
-title: 'Heroes for Hire (2006) #2'
-issue: 2
+date: '1975-10-10T00:00:00-0400'
+year: '1975'
+title: 'Marvel Premiere (1972) #25'
+issue: 25
 series:
-  period: '2006'
-  name: Heroes for Hire
-url: http://marvel.com/comics/issue/5123/heroes_for_hire_2006_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1972'
+  name: Marvel Premiere
+url: http://marvel.com/comics/issue/10212/marvel_premiere_1972_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/580fe23714b83
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/57c760a425c5b
   extension: jpg
