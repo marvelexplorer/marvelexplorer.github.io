@@ -1,12 +1,12 @@
 ---
-date: '2011-04-27T00:00:00-0400'
-year: '2011'
-title: 'Namor: The First Mutant (2010) #9'
-issue: 9
+date: '1942-10-01T00:00:00-0400'
+year: '1942'
+title: 'All-Winners Comics (1941) #6'
+issue: 6
 series:
-  period: '2010'
-  name: 'Namor: The First Mutant'
-url: http://marvel.com/comics/issue/36334/namor_the_first_mutant_2010_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1941'
+  name: All-Winners Comics
+url: http://marvel.com/comics/issue/12571/all-winners_comics_1941_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4d35ae9fb0188
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc3784a8a401
   extension: jpg
