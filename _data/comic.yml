@@ -1,12 +1,12 @@
 ---
-date: '1967-12-10T00:00:00-0500'
-year: '1967'
-title: 'Uncanny X-Men (1963) #39'
-issue: 39
+date: '2011-04-27T00:00:00-0400'
+year: '2011'
+title: 'Namor: The First Mutant (2010) #9'
+issue: 9
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12487/uncanny_x-men_1963_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Namor: The First Mutant'
+url: http://marvel.com/comics/issue/36334/namor_the_first_mutant_2010_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/5372cb587cbcd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4d35ae9fb0188
   extension: jpg
