@@ -1,12 +1,12 @@
 ---
-date: '2000-05-01T00:00:00-0400'
-year: '2000'
-title: 'Amazing Spider-Man (1999) #19'
-issue: 19
+date: '1995-02-01T00:00:00-0500'
+year: '1995'
+title: 'Venom: Separation Anxiety (1994) #3'
+issue: 3
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/48434/amazing_spider-man_1999_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1994'
+  name: 'Venom: Separation Anxiety'
+url: http://marvel.com/comics/issue/62596/venom_separation_anxiety_1994_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/57e941fe8358d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5893bfdeb8b50
   extension: jpg
