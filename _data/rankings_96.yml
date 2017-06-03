@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 4
-- name: Avengers
-  score: 4
 - name: Spider-Man
   score: 4
 - name: Storm
   score: 3
 - name: Nightcrawler
+  score: 3
+- name: Human Torch
   score: 3
