@@ -1,11 +1,11 @@
 ---
 - name: Havok
   score: 4
-- name: Invisible Woman
-  score: 4
 - name: X-Men
   score: 4
 - name: Spider-Man
+  score: 4
+- name: Invisible Woman
   score: 4
 - name: Avengers
   score: 3

@@ -1,12 +1,12 @@
 ---
-date: '1997-10-01T00:00:00-0400'
-year: '1997'
-title: 'Iron Man (1996) #12'
-issue: 12
+date: '1994-04-10T00:00:00-0400'
+year: '1994'
+title: 'Fantastic Four (1961) #387'
+issue: 387
 series:
-  period: '1996'
-  name: Iron Man
-url: http://marvel.com/comics/issue/16331/iron_man_1996_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13213/fantastic_four_1961_387?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f7ef7344300d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5266a4b3194e6
   extension: jpg
