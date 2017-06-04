@@ -1,12 +1,12 @@
 ---
-date: '2014-01-15T00:00:00-0500'
-year: '2014'
-title: 'Superior Spider-Man (2013) #25'
-issue: 25
+date: '2011-12-07T00:00:00-0500'
+year: '2011'
+title: 'Venom (2011) #10'
+issue: 10
 series:
-  period: '2013'
-  name: Superior Spider-Man
-url: http://marvel.com/comics/issue/48033/superior_spider-man_2013_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Venom
+url: http://marvel.com/comics/issue/38588/venom_2011_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/52cee2f4eea1d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/56b8d8139d92a
   extension: jpg
