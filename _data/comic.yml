@@ -1,12 +1,12 @@
 ---
-date: '2011-09-21T00:00:00-0400'
-year: '2011'
-title: 'Captain America Corps (2010) #4'
-issue: 4
+date: '2004-01-01T00:00:00-0500'
+year: '2004'
+title: 'Avengers (1998) #74'
+issue: 74
 series:
-  period: '2010'
-  name: Captain America Corps
-url: http://marvel.com/comics/issue/36955/captain_america_corps_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/348/avengers_1998_74?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/4e78c69fdf7f5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/586d530a711f6
   extension: jpg
