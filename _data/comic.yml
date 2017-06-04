@@ -1,12 +1,12 @@
 ---
-date: '2004-01-01T00:00:00-0500'
-year: '2004'
-title: 'Avengers (1998) #74'
-issue: 74
+date: '1980-05-10T00:00:00-0400'
+year: '1980'
+title: 'Avengers (1963) #195'
+issue: 195
 series:
-  period: '1998'
+  period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/348/avengers_1998_74?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/7058/avengers_1963_195?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/586d530a711f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/5886158dc71f2
   extension: jpg

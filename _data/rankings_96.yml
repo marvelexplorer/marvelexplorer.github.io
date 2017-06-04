@@ -1,8 +1,8 @@
 ---
 - name: Spider-Man
   score: 5
-- name: Storm
-  score: 3
+- name: Avengers
+  score: 4
 - name: Nightcrawler
   score: 3
 - name: X-Men
