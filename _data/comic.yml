@@ -1,12 +1,12 @@
 ---
-date: '2011-12-07T00:00:00-0500'
+date: '2011-06-15T00:00:00-0400'
 year: '2011'
-title: 'Venom (2011) #10'
-issue: 10
+title: 'Captain America Corps (2010) #1'
+issue: 1
 series:
-  period: '2011'
-  name: Venom
-url: http://marvel.com/comics/issue/38588/venom_2011_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Captain America Corps
+url: http://marvel.com/comics/issue/36952/captain_america_corps_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/56b8d8139d92a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/f0/4d88c8dea1ee6
   extension: jpg
