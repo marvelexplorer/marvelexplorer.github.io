@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 5
-- name: Spider-Man
-  score: 4
 - name: Human Torch
   score: 3
 - name: Thing
   score: 3
 - name: Eddie Brock
+  score: 3
+- name: Spider-Man
   score: 3
