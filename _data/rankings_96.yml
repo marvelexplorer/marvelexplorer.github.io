@@ -1,11 +1,11 @@
 ---
 - name: Avengers
-  score: 5
+  score: 6
 - name: Human Torch
   score: 4
 - name: Eddie Brock
   score: 3
 - name: Spider-Man
   score: 3
-- name: X-Men
+- name: Cannonball
   score: 3
