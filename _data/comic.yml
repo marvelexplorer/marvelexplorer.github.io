@@ -1,12 +1,12 @@
 ---
-date: '1966-12-10T00:00:00-0500'
-year: '1966'
-title: 'Daredevil (1964) #23'
-issue: 23
+date: '2010-12-08T00:00:00-0500'
+year: '2010'
+title: 'Shadowland:After the Fall (2010) #1'
+issue: 1
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8218/daredevil_1964_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Shadowland:After the Fall
+url: http://marvel.com/comics/issue/37059/shadowlandafter_the_fall_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/57221cfd312b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c91292e26db5
   extension: jpg
