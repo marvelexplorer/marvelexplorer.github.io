@@ -1,12 +1,12 @@
 ---
-date: '1972-04-10T00:00:00-0500'
-year: '1972'
-title: 'Avengers (1963) #98'
-issue: 98
+date: '2006-06-07T00:00:00-0400'
+year: '2006'
+title: 'Civil War: Front Line (2006) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7352/avengers_1963_98?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'Civil War: Front Line'
+url: http://marvel.com/comics/issue/4339/civil_war_front_line_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/90/4f67579c18ee6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/56f993e54beb5
   extension: jpg
