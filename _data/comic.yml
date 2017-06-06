@@ -1,12 +1,12 @@
 ---
-date: '2006-09-20T00:00:00-0400'
+date: '2006-06-14T00:00:00-0400'
 year: '2006'
-title: 'Blade (2006) #1'
-issue: 1
+title: 'Civil War (2006) #2'
+issue: 2
 series:
   period: '2006'
-  name: Blade
-url: http://marvel.com/comics/issue/5133/blade_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Civil War
+url: http://marvel.com/comics/issue/4313/civil_war_2006_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/56c35c36de382
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/511307fb3f7bc
   extension: jpg
