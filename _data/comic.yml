@@ -1,12 +1,12 @@
 ---
-date: '2011-10-26T00:00:00-0400'
-year: '2011'
-title: 'Secret Avengers (2010) #18'
-issue: 18
+date: '2004-12-01T00:00:00-0500'
+year: '2004'
+title: 'Avengers (1998) #503'
+issue: 503
 series:
-  period: '2010'
-  name: Secret Avengers
-url: http://marvel.com/comics/issue/35140/secret_avengers_2010_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/923/avengers_1998_503?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5189758c86a0b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f5a4f71e8dd5
   extension: jpg
