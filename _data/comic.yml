@@ -1,12 +1,12 @@
 ---
-date: '2004-12-01T00:00:00-0500'
-year: '2004'
-title: 'Avengers (1998) #503'
-issue: 503
+date: '1975-06-10T00:00:00-0400'
+year: '1975'
+title: 'Giant-Size Avengers (1974) #4'
+issue: 4
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/923/avengers_1998_503?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1974'
+  name: Giant-Size Avengers
+url: http://marvel.com/comics/issue/20023/giant-size_avengers_1974_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f5a4f71e8dd5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb68ad96310c
   extension: jpg
