@@ -1,12 +1,12 @@
 ---
-date: '2006-03-22T00:00:00-0500'
+date: '2006-03-15T00:00:00-0500'
 year: '2006'
-title: 'Captain America (2004) #16'
-issue: 16
+title: 'Friendly Neighborhood Spider-Man (2005) #6'
+issue: 6
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/3910/captain_america_2004_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Friendly Neighborhood Spider-Man
+url: http://marvel.com/comics/issue/3888/friendly_neighborhood_spider-man_2005_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/570bc8fd6586d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/56a8f493b9d4d
   extension: jpg
