@@ -1,12 +1,12 @@
 ---
-date: '2007-07-11T00:00:00-0400'
-year: '2007'
-title: 'Fantastic Five (2007) #1'
-issue: 1
+date: '1987-07-10T00:00:00-0400'
+year: '1987'
+title: 'Fantastic Four (1961) #304'
+issue: 304
 series:
-  period: '2007'
-  name: Fantastic Five
-url: http://marvel.com/comics/issue/16003/fantastic_five_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13122/fantastic_four_1961_304?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/55f31360e4b10
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537669afd052d
   extension: jpg
