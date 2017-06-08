@@ -1,11 +1,11 @@
 ---
 - name: Avengers
-  score: 7
+  score: 6
 - name: X-Men
   score: 4
 - name: Spider-Man
   score: 4
 - name: Cannonball
   score: 3
-- name: Arclight
-  score: 2
+- name: Gladiator (Kallark)
+  score: 3
