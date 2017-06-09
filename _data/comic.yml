@@ -1,12 +1,12 @@
 ---
-date: '2007-02-14T00:00:00-0500'
+date: '2007-06-06T00:00:00-0400'
 year: '2007'
-title: 'Thunderbolts (2006) #111'
-issue: 111
+title: 'Avengers: The Initiative (2007) #3'
+issue: 3
 series:
-  period: '2006'
-  name: Thunderbolts
-url: http://marvel.com/comics/issue/5965/thunderbolts_2006_111?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/15869/avengers_the_initiative_2007_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/5744c9189be4b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/4e8f5926cb285
   extension: jpg
