@@ -1,12 +1,12 @@
 ---
-date: '1986-11-10T00:00:00-0500'
-year: '1986'
-title: 'Avengers (1963) #273'
-issue: 273
+date: '1982-08-10T00:00:00-0400'
+year: '1982'
+title: 'Avengers (1963) #222'
+issue: 222
 series:
   period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/7145/avengers_1963_273?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/7089/avengers_1963_222?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/5888fa8b16c28
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/5873c2547f8f5
   extension: jpg
