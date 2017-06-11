@@ -1,12 +1,12 @@
 ---
-date: '1967-01-10T00:00:00-0500'
-year: '1967'
-title: 'Uncanny X-Men (1963) #28'
-issue: 28
+date: '2007-10-31T00:00:00-0400'
+year: '2007'
+title: 'X-Men: Messiah Complex (2007) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12475/uncanny_x-men_1963_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'X-Men: Messiah Complex'
+url: http://marvel.com/comics/issue/16600/x-men_messiah_complex_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/58a30d7b76545
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/513a8972c747e
   extension: jpg
