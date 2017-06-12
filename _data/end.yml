@@ -1,12 +1,10 @@
 ---
-name: Tiger Shark
-description: A champion Olympic swimmer, Todd Arliss earned nearly half million dollars
-  in advances for public exhibitions, but his dreams came crashing down around him
-  when he injured his back and legs while rescuing a man who had fallen overboard
-  from a private craft, sending Arliss into the arms of Dr. Lemuel Dorcas, who used
-  his "morphotron," which could imprint the genetic pattern of an animal onto a human,
-  turning Arliss into a superhuman, amphibious creature.
-url: http://marvel.com/universe/Tiger_Shark?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Wolverine
+description: Born with super-human senses and the power to heal from almost any wound,
+  Wolverine was captured by a secret Canadian organization and given an unbreakable
+  skeleton and claws. Treated like an animal, it took years for him to control himself.
+  Now, he's a premiere member of both the X-Men and the Avengers.
+url: http://marvel.com/universe/Wolverine_(James_Howlett)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c003a9db2f77
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf
   extension: jpg
