@@ -1,12 +1,12 @@
 ---
-date: '2008-09-24T00:00:00-0400'
-year: '2008'
-title: 'Captain America (2004) #42'
-issue: 42
+date: '2011-10-19T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself (2010) #7'
+issue: 7
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/21945/captain_america_2004_42?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Fear Itself
+url: http://marvel.com/comics/issue/38028/fear_itself_2010_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/570be66fe68ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f7ddfc62178b
   extension: jpg
