@@ -1,12 +1,12 @@
 ---
-date: '1997-01-01T00:00:00-0500'
-year: '1997'
-title: 'Marvel Valentine Special (1997) #1'
-issue: 1
+date: '1979-05-10T00:00:00-0400'
+year: '1979'
+title: 'Avengers (1963) #183'
+issue: 183
 series:
-  period: '1997'
-  name: Marvel Valentine Special
-url: http://marvel.com/comics/issue/51044/marvel_valentine_special_1997_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7045/avengers_1963_183?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/b0/580687fe89ca8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/588607e9a7a9c
   extension: jpg
