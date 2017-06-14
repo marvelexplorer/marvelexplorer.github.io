@@ -1,12 +1,12 @@
 ---
-date: '1994-12-01T00:00:00-0500'
-year: '1994'
-title: 'X-Factor (1986) #109'
-issue: 109
+date: '2001-01-01T00:00:00-0500'
+year: '2001'
+title: 'Cable (1993) #87'
+issue: 87
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12185/x-factor_1986_109?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7467/cable_1993_87?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/586516b732193
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb6e3bb34a85
   extension: jpg
