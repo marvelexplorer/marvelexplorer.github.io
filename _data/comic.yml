@@ -1,12 +1,12 @@
 ---
-date: '2008-03-26T00:00:00-0400'
-year: '2008'
-title: 'X-Men: First Class (2007) #10'
-issue: 10
+date: '2010-01-20T00:00:00-0500'
+year: '2010'
+title: 'Uncanny X-Men (1963) #520'
+issue: 520
 series:
-  period: '2007'
-  name: 'X-Men: First Class'
-url: http://marvel.com/comics/issue/20888/x-men_first_class_2007_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/26973/uncanny_x-men_1963_520?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bb88f41a53f2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/5927307cc022d
   extension: jpg
