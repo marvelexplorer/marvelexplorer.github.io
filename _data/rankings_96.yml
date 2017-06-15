@@ -1,10 +1,10 @@
 ---
 - name: X-Men
   score: 6
-- name: Spider-Man
-  score: 4
 - name: Wolverine
   score: 4
+- name: Spider-Man
+  score: 3
 - name: Avengers
   score: 3
 - name: Cyclops
