@@ -3,9 +3,9 @@
   score: 6
 - name: Wolverine
   score: 4
-- name: Avengers
-  score: 3
 - name: Cyclops
   score: 3
 - name: Mystique
   score: 3
+- name: Eddie Brock
+  score: 2
