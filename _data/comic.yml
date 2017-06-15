@@ -1,12 +1,12 @@
 ---
-date: '2016-08-10T00:00:00-0400'
+date: '2016-09-14T00:00:00-0400'
 year: '2016'
-title: 'All-New, All-Different Avengers Annual (2016) #1'
-issue: 1
+title: 'Spider-Man (2016) #8'
+issue: 8
 series:
   period: '2016'
-  name: All-New, All-Different Avengers Annual
-url: http://marvel.com/comics/issue/60276/all-new_all-different_avengers_annual_2016_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Spider-Man
+url: http://marvel.com/comics/issue/55702/spider-man_2016_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/57a4ec1674511
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/57c983ca61622
   extension: jpg
