@@ -1,12 +1,12 @@
 ---
-date: '2006-07-19T00:00:00-0400'
-year: '2006'
-title: 'Annihilation: Nova (2006) #4'
-issue: 4
+date: '2017-04-05T00:00:00-0400'
+year: '2017'
+title: 'Nova (2016) #5'
+issue: 5
 series:
-  period: '2006'
-  name: 'Annihilation: Nova'
-url: http://marvel.com/comics/issue/4473/annihilation_nova_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Nova
+url: http://marvel.com/comics/issue/61636/nova_2016_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/578646de5027a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/58d58c62d21e4
   extension: jpg
