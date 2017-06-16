@@ -1,12 +1,12 @@
 ---
-date: '2003-04-01T00:00:00-0500'
-year: '2003'
-title: 'New X-Men (2001) #137'
-issue: 137
+date: '2013-04-10T00:00:00-0400'
+year: '2013'
+title: 'Uncanny X-Men (2013) #4'
+issue: 4
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14956/new_x-men_2001_137?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/46667/uncanny_x-men_2013_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/577d62c5c9c3a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/593012b56cec5
   extension: jpg
