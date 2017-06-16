@@ -1,12 +1,12 @@
 ---
-date: '1999-09-01T00:00:00-0400'
-year: '1999'
-title: 'Amazing Spider-Man (1999) #9'
-issue: 9
+date: '1977-08-10T00:00:00-0400'
+year: '1977'
+title: 'Amazing Spider-Man (1963) #171'
+issue: 171
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/37904/amazing_spider-man_1999_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6562/amazing_spider-man_1963_171?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57e95d00876da
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/57bf344bedc03
   extension: jpg
