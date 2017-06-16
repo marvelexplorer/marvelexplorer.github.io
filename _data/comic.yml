@@ -1,12 +1,12 @@
 ---
-date: '2016-11-09T00:00:00-0500'
-year: '2016'
-title: 'All-New X-Men (2015) #15'
-issue: 15
+date: '1995-05-10T00:00:00-0400'
+year: '1995'
+title: 'Gambit and the X-Ternals (1995) #3'
+issue: 3
 series:
-  period: '2015'
-  name: All-New X-Men
-url: http://marvel.com/comics/issue/56244/all-new_x-men_2015_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1995'
+  name: Gambit and the X-Ternals
+url: http://marvel.com/comics/issue/16079/gambit_and_the_x-ternals_1995_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/5817629fd6401
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4c7d53c9652f6
   extension: jpg
