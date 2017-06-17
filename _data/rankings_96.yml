@@ -3,9 +3,9 @@
   score: 7
 - name: Captain America
   score: 4
-- name: Cyclops
-  score: 3
 - name: Thor
+  score: 4
+- name: Cyclops
   score: 3
 - name: Avengers
   score: 3
