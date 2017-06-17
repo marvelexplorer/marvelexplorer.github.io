@@ -1,10 +1,10 @@
 ---
-name: Captain America
-description: Vowing to serve his country any way he could, young Steve Rogers took
-  the super soldier serum to become America's one-man army. Fighting for the red,
-  white and blue for over 60 years, Captain America is the living, breathing symbol
-  of freedom and liberty.
-url: http://marvel.com/universe/Captain_America_(Steve_Rogers)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Thor
+description: As the Norse God of thunder and lightning, Thor wields one of the greatest
+  weapons ever made, the enchanted hammer Mjolnir. While others have described Thor
+  as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured,
+  and he would never, ever stop fighting for a worthwhile cause.
+url: http://marvel.com/universe/Thor_(Thor_Odinson)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350
   extension: jpg

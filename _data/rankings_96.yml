@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 8
-- name: Wolverine
-  score: 3
 - name: Cyclops
   score: 3
 - name: Thor
   score: 3
 - name: Avengers
+  score: 3
+- name: Nova
   score: 3
