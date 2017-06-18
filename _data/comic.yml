@@ -1,12 +1,12 @@
 ---
-date: '2006-05-03T00:00:00-0400'
-year: '2006'
-title: 'Annihilation: Silver Surfer (2006) #2'
-issue: 2
+date: '1967-06-10T00:00:00-0400'
+year: '1967'
+title: 'Tales to Astonish (1959) #92'
+issue: 92
 series:
-  period: '2006'
-  name: 'Annihilation: Silver Surfer'
-url: http://marvel.com/comics/issue/4218/annihilation_silver_surfer_2006_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11440/tales_to_astonish_1959_92?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/578687f70173c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/536d43ad99cbc
   extension: jpg
