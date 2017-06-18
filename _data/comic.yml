@@ -1,12 +1,12 @@
 ---
-date: '2006-06-14T00:00:00-0400'
-year: '2006'
-title: 'Marvel Adventures Fantastic Four (2005) #13'
-issue: 13
+date: '2007-04-25T00:00:00-0400'
+year: '2007'
+title: 'Fantastic Four (1998) #545'
+issue: 545
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/4321/marvel_adventures_fantastic_four_2005_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/6342/fantastic_four_1998_545?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc5df323dd85
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/57e97442ced6d
   extension: jpg
