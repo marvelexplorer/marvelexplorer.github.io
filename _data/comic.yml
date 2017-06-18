@@ -1,12 +1,12 @@
 ---
-date: '2012-08-15T00:00:00-0400'
-year: '2012'
-title: 'Uncanny X-Force (2010) #29'
-issue: 29
+date: '1994-12-10T00:00:00-0500'
+year: '1994'
+title: 'Wolverine (1988) #88'
+issue: 88
 series:
-  period: '2010'
-  name: Uncanny X-Force
-url: http://marvel.com/comics/issue/40440/uncanny_x-force_2010_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14212/wolverine_1988_88?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/59428cfb9a0a6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/585a9d83aacfd
   extension: jpg
