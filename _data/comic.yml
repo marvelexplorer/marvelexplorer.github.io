@@ -1,12 +1,12 @@
 ---
-date: '2008-09-10T00:00:00-0400'
-year: '2008'
-title: 'Ms. Marvel (2006) #30'
-issue: 30
+date: '2013-08-21T00:00:00-0400'
+year: '2013'
+title: 'Avengers (2012) #18'
+issue: 18
 series:
-  period: '2006'
-  name: Ms. Marvel
-url: http://marvel.com/comics/issue/21726/ms_marvel_2006_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Avengers
+url: http://marvel.com/comics/issue/43548/avengers_2012_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/515205d3c4c38
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/51ffc0f097620
   extension: jpg
