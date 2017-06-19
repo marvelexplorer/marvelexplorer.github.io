@@ -1,12 +1,12 @@
 ---
-date: '1997-01-10T00:00:00-0500'
-year: '1997'
-title: 'Avengers (1996) #3'
-issue: 3
+date: '2012-06-20T00:00:00-0400'
+year: '2012'
+title: 'Secret Avengers (2010) #28'
+issue: 28
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17757/avengers_1996_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/40709/secret_avengers_2010_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/58765c50c9f2d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/518d17adc9f6c
   extension: jpg
