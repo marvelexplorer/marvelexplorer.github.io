@@ -1,12 +1,12 @@
 ---
-date: '1991-07-01T00:00:00-0400'
-year: '1991'
-title: 'Wolverine (1988) #41'
-issue: 41
+date: '2004-12-01T00:00:00-0500'
+year: '2004'
+title: Young Guns Sketchbook (2004)
+issue: 0
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14161/wolverine_1988_41?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/1504/young_guns_sketchbook_2004?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/5846fccde7a0d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bc65a6229678
   extension: jpg
