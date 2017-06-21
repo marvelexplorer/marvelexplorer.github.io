@@ -1,12 +1,12 @@
 ---
-date: '2016-08-17T00:00:00-0400'
-year: '2016'
-title: 'Daredevil/Punisher (2016) #4'
-issue: 4
+date: '1991-03-10T00:00:00-0500'
+year: '1991'
+title: 'Marvel Comics Presents (1988) #71'
+issue: 71
 series:
-  period: '2016'
-  name: Daredevil/Punisher
-url: http://marvel.com/comics/issue/58688/daredevilpunisher_2016_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10154/marvel_comics_presents_1988_71?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57a8d1650b88e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c361ef117d74
   extension: jpg
