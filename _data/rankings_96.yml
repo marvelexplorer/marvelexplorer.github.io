@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 6
+- name: X-Men
+  score: 4
 - name: Avengers
   score: 3
 - name: Fantastic Four
   score: 3
 - name: Sabretooth
-  score: 3
-- name: Wolverine
   score: 3
