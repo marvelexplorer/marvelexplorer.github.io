@@ -1,12 +1,12 @@
 ---
-date: '2004-10-27T00:00:00-0400'
-year: '2004'
-title: 'X-Men (2004) #163'
-issue: 163
+date: '2003-10-22T00:00:00-0400'
+year: '2003'
+title: 'Weapon X (2002) #15'
+issue: 15
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/930/x-men_2004_163?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Weapon X
+url: http://marvel.com/comics/issue/244/weapon_x_2002_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/58af304b1a42f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5944049d1edfb
   extension: jpg
