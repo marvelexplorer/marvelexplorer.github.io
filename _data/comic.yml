@@ -1,12 +1,12 @@
 ---
-date: '2011-12-07T00:00:00-0500'
-year: '2011'
-title: 'X-Men (2010) #22'
-issue: 22
+date: '2007-02-14T00:00:00-0500'
+year: '2007'
+title: 'Astonishing X-Men (2004) #20'
+issue: 20
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/40874/x-men_2010_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/5674/astonishing_x-men_2004_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5159decc27910
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb8847c9c804
   extension: jpg
