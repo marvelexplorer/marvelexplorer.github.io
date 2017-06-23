@@ -1,12 +1,12 @@
 ---
-date: '2001-01-01T00:00:00-0500'
-year: '2001'
-title: 'Iron Fist/Wolverine (2000) #3'
-issue: 3
+date: '1977-09-10T00:00:00-0400'
+year: '1977'
+title: 'Iron Fist (1975) #15'
+issue: 15
 series:
-  period: '2000'
-  name: Iron Fist/Wolverine
-url: http://marvel.com/comics/issue/54904/iron_fistwolverine_2000_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1975'
+  name: Iron Fist
+url: http://marvel.com/comics/issue/22627/iron_fist_1975_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/57b4de144d843
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/578fec31e6c6e
   extension: jpg
