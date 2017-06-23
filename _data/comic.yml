@@ -1,12 +1,12 @@
 ---
-date: '1976-02-10T00:00:00-0500'
-year: '1976'
-title: 'Iron Fist (1975) #3'
-issue: 3
+date: '2007-06-27T00:00:00-0400'
+year: '2007'
+title: 'Immortal Iron Fist (2006) #6'
+issue: 6
 series:
-  period: '1975'
-  name: Iron Fist
-url: http://marvel.com/comics/issue/22629/iron_fist_1975_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Immortal Iron Fist
+url: http://marvel.com/comics/issue/13487/immortal_iron_fist_2006_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/578fed64a6199
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/40/581caeadde19d
   extension: jpg
