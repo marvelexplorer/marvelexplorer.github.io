@@ -1,12 +1,12 @@
 ---
-date: '2004-05-19T00:00:00-0400'
-year: '2004'
-title: 'X-Men (2004) #157'
-issue: 157
+date: '1984-12-10T00:00:00-0500'
+year: '1984'
+title: 'Secret Wars (1984) #8'
+issue: 8
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/659/x-men_2004_157?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1984'
+  name: Secret Wars
+url: http://marvel.com/comics/issue/10590/secret_wars_1984_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/58adfe0ea6d21
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/5757174e3255d
   extension: jpg
