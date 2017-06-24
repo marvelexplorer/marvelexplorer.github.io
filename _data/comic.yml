@@ -1,12 +1,12 @@
 ---
-date: '2002-06-01T00:00:00-0400'
-year: '2002'
-title: 'Startling Stories: The Megalomaniacal Spider-Man (2003) #1'
-issue: 1
+date: '1990-01-10T00:00:00-0500'
+year: '1990'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #160'
+issue: 160
 series:
-  period: '2003'
-  name: 'Startling Stories: The Megalomaniacal Spider-Man'
-url: http://marvel.com/comics/issue/18806/startling_stories_the_megalomaniacal_spider-man_2003_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14610/peter_parker_the_spectacular_spider-man_1976_160?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/00/50b3a13cad3da
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/5833510b8c05d
   extension: jpg
