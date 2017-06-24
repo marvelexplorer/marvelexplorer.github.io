@@ -1,12 +1,12 @@
 ---
-date: '2011-06-22T00:00:00-0400'
-year: '2011'
-title: 'Captain America (2004) #619'
-issue: 619
+date: '2006-06-21T00:00:00-0400'
+year: '2006'
+title: 'New Avengers (2004) #20'
+issue: 20
 series:
   period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/35769/captain_america_2004_619?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: New Avengers
+url: http://marvel.com/comics/issue/4282/new_avengers_2004_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/513f72600d05c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f7f0422bd5b9
   extension: jpg
