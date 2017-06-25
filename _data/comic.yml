@@ -1,12 +1,12 @@
 ---
-date: '2007-10-10T00:00:00-0400'
-year: '2007'
-title: 'Heroes for Hire (2006) #14'
-issue: 14
+date: '2010-09-01T00:00:00-0400'
+year: '2010'
+title: 'Amazing Spider-Man Presents: Black Cat (2010) #3'
+issue: 3
 series:
-  period: '2006'
-  name: Heroes for Hire
-url: http://marvel.com/comics/issue/16515/heroes_for_hire_2006_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Amazing Spider-Man Presents: Black Cat'
+url: http://marvel.com/comics/issue/30023/amazing_spider-man_presents_black_cat_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/580fe26223523
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/581790ea46d4f
   extension: jpg
