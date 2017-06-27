@@ -3,9 +3,9 @@
   score: 8
 - name: X-Men
   score: 7
-- name: Misty Knight
-  score: 3
 - name: Rogue
   score: 3
 - name: Colossus
+  score: 3
+- name: Cyclops
   score: 3
