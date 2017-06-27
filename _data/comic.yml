@@ -1,12 +1,12 @@
 ---
-date: '1940-04-01T00:00:00-0500'
-year: '1940'
-title: 'Marvel Mystery Comics (1939) #6'
-issue: 6
+date: '2011-05-18T00:00:00-0400'
+year: '2011'
+title: 'X-Men: Prelude to Schism (2011) #2'
+issue: 2
 series:
-  period: '1939'
-  name: Marvel Mystery Comics
-url: http://marvel.com/comics/issue/16769/marvel_mystery_comics_1939_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'X-Men: Prelude to Schism'
+url: http://marvel.com/comics/issue/38483/x-men_prelude_to_schism_2011_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bc37b50e9924
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/58cae62616084
   extension: jpg
