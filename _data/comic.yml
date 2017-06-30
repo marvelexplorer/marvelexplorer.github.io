@@ -1,12 +1,12 @@
 ---
-date: '1992-12-01T00:00:00-0500'
-year: '1992'
-title: 'Guardians of the Galaxy (1990) #31'
-issue: 31
+date: '1988-11-10T00:00:00-0500'
+year: '1988'
+title: 'Fantastic Four (1961) #320'
+issue: 320
 series:
-  period: '1990'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/61798/guardians_of_the_galaxy_1990_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13140/fantastic_four_1961_320?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/58d04e19dd98e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4c366a3d1c5ce
   extension: jpg
