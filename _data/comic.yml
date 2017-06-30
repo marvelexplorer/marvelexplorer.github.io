@@ -1,12 +1,12 @@
 ---
-date: '1982-01-10T00:00:00-0500'
-year: '1982'
-title: 'Amazing Spider-Man (1963) #224'
-issue: 224
+date: '2007-06-06T00:00:00-0400'
+year: '2007'
+title: 'Spider-Man Family (2007) #3'
+issue: 3
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6621/amazing_spider-man_1963_224?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Spider-Man Family
+url: http://marvel.com/comics/issue/15866/spider-man_family_2007_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5261729cce06f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc496d6ba0ea
   extension: jpg
