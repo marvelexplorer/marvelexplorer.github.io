@@ -1,12 +1,12 @@
 ---
-date: '2010-06-03T00:00:00-0400'
-year: '2010'
-title: 'The Thanos Imperative (2010) #1'
-issue: 1
+date: '2016-06-08T00:00:00-0400'
+year: '2016'
+title: 'Marvel Universe Guardians of the Galaxy (2015) #9'
+issue: 9
 series:
-  period: '2010'
-  name: The Thanos Imperative
-url: http://marvel.com/comics/issue/32970/the_thanos_imperative_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Marvel Universe Guardians of the Galaxy
+url: http://marvel.com/comics/issue/55113/marvel_universe_guardians_of_the_galaxy_2015_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/51f69eaebaa8f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/5751d8ea49929
   extension: jpg
