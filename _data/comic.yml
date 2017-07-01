@@ -1,12 +1,12 @@
 ---
-date: '2011-06-01T00:00:00-0400'
+date: '2011-08-31T00:00:00-0400'
 year: '2011'
-title: 'X-Men (2010) #12'
-issue: 12
+title: 'Fear Itself: The Deep (2011) #3'
+issue: 3
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/32188/x-men_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Fear Itself: The Deep'
+url: http://marvel.com/comics/issue/38949/fear_itself_the_deep_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/58d13465b5c13
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4f859b7a56416
   extension: jpg
