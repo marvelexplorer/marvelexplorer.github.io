@@ -1,12 +1,12 @@
 ---
-date: '1996-06-01T00:00:00-0400'
-year: '1996'
-title: 'Excalibur (1988) #98'
-issue: 98
+date: '1992-09-10T00:00:00-0400'
+year: '1992'
+title: 'Uncanny X-Men (1963) #292'
+issue: 292
 series:
-  period: '1988'
-  name: Excalibur
-url: http://marvel.com/comics/issue/8685/excalibur_1988_98?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13833/uncanny_x-men_1963_292?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/55affc7c324ff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/511425e5ebcf6
   extension: jpg
