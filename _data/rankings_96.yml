@@ -1,6 +1,4 @@
 ---
-- name: Gambit
-  score: 3
 - name: X-Men
   score: 3
 - name: Spider-Man
@@ -9,3 +7,5 @@
   score: 3
 - name: Wolverine
   score: 3
+- name: Aurora
+  score: 2
