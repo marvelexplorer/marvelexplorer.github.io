@@ -1,12 +1,12 @@
 ---
-date: '1964-01-10T00:00:00-0500'
-year: '1964'
-title: 'Uncanny X-Men (1963) #3'
-issue: 3
+date: '2012-01-25T00:00:00-0500'
+year: '2012'
+title: 'X-Men Legacy (2008) #261'
+issue: 261
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12477/uncanny_x-men_1963_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/40853/x-men_legacy_2008_261?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/589de2c6a0bb6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/51a4e825deae9
   extension: jpg
