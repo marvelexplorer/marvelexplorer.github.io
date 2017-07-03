@@ -1,9 +1,9 @@
 ---
-- name: X-Men
-  score: 4
 - name: Archangel
   score: 4
 - name: Gambit
+  score: 3
+- name: X-Men
   score: 3
 - name: Wolverine
   score: 3
