@@ -1,9 +1,9 @@
 ---
 - name: X-Men
   score: 4
-- name: Spider-Man
-  score: 3
 - name: Fantastic Four
+  score: 4
+- name: Spider-Man
   score: 3
 - name: Archangel
   score: 3
