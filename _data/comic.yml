@@ -1,12 +1,12 @@
 ---
-date: '2004-09-29T00:00:00-0400'
-year: '2004'
-title: 'X-Men (2004) #162'
-issue: 162
+date: '2011-05-11T00:00:00-0400'
+year: '2011'
+title: 'New Avengers (2010) #12'
+issue: 12
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/851/x-men_2004_162?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/32709/new_avengers_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/58af20339b762
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/57743245d2d66
   extension: jpg
