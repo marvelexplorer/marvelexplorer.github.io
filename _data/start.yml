@@ -1,10 +1,7 @@
 ---
-name: Titania
-description: Despondent and hopeless after it was discovered that she was not, in
-  fact, Spider-Woman, Mary MacPherran encountered Doctor Doom, who offered her a chance
-  to become superpowered in exchange for joining his army, to which Mary readily agreed,
-  and Doom transformed her into Titania.
-url: http://marvel.com/universe/Titania_(Mary_MacPherran)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Deathlok
+description: "&nbsp;"
+url: http://marvel.com/universe/Deathlok?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/526957a91a469
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/526165a98dd8e
   extension: jpg
