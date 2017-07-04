@@ -1,12 +1,12 @@
 ---
-date: '2007-05-09T00:00:00-0400'
-year: '2007'
-title: 'Amazing Spider-Man (1999) #540'
-issue: 540
+date: '1974-09-10T00:00:00-0400'
+year: '1974'
+title: 'Amazing Spider-Man (1963) #136'
+issue: 136
 series:
-  period: '1999'
+  period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6174/amazing_spider-man_1999_540?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6523/amazing_spider-man_1963_136?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/56cdecc254c68
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/57bdced66a357
   extension: jpg
