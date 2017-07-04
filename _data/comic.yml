@@ -1,12 +1,12 @@
 ---
-date: '2012-01-25T00:00:00-0500'
-year: '2012'
-title: 'X-Men Legacy (2008) #261'
-issue: 261
+date: '2004-09-29T00:00:00-0400'
+year: '2004'
+title: 'X-Men (2004) #162'
+issue: 162
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/40853/x-men_legacy_2008_261?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/851/x-men_2004_162?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/51a4e825deae9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/58af20339b762
   extension: jpg
