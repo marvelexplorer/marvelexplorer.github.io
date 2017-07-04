@@ -1,12 +1,12 @@
 ---
-date: '2011-05-11T00:00:00-0400'
-year: '2011'
-title: 'New Avengers (2010) #12'
-issue: 12
+date: '2000-04-10T00:00:00-0400'
+year: '2000'
+title: 'Captain America (1998) #28'
+issue: 28
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/32709/new_avengers_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12787/captain_america_1998_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/57743245d2d66
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/4e8b265983613
   extension: jpg
