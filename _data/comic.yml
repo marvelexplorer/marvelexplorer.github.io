@@ -1,12 +1,12 @@
 ---
-date: '2000-02-01T00:00:00-0500'
-year: '2000'
-title: 'Thor (1998) #20'
-issue: 20
+date: '1969-05-10T00:00:00-0400'
+year: '1969'
+title: 'Thor (1966) #164'
+issue: 164
 series:
-  period: '1998'
+  period: '1966'
   name: Thor
-url: http://marvel.com/comics/issue/18643/thor_1998_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/11492/thor_1966_164?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4f203a80a5438
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4f63500d2d9da
   extension: jpg
