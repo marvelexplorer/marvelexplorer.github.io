@@ -1,12 +1,12 @@
 ---
-date: '2011-02-23T00:00:00-0500'
-year: '2011'
-title: 'Avengers (2010) #10'
-issue: 10
+date: '1984-03-10T00:00:00-0500'
+year: '1984'
+title: 'Thor (1966) #341'
+issue: 341
 series:
-  period: '2010'
-  name: Avengers
-url: http://marvel.com/comics/issue/29196/avengers_2010_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11669/thor_1966_341?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f50de2dc9b60
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb4fef0b526c
   extension: jpg
