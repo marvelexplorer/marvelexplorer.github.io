@@ -1,12 +1,12 @@
 ---
-date: '1990-08-20T00:00:00-0400'
-year: '1990'
-title: 'Uncanny X-Men (1963) #266'
-issue: 266
+date: '2017-03-29T00:00:00-0400'
+year: '2017'
+title: 'All-New X-Men (2015) #19'
+issue: 19
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13807/uncanny_x-men_1963_266?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: All-New X-Men
+url: http://marvel.com/comics/issue/60520/all-new_x-men_2015_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/590cad0a92714
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/58d150b703cef
   extension: jpg
