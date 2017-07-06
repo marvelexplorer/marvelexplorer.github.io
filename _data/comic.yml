@@ -1,12 +1,12 @@
 ---
-date: '2017-03-29T00:00:00-0400'
-year: '2017'
-title: 'All-New X-Men (2015) #19'
-issue: 19
+date: '2005-01-26T00:00:00-0500'
+year: '2005'
+title: 'X-23 (2005) #2'
+issue: 2
 series:
-  period: '2015'
-  name: All-New X-Men
-url: http://marvel.com/comics/issue/60520/all-new_x-men_2015_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: X-23
+url: http://marvel.com/comics/issue/1545/x-23_2005_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/58d150b703cef
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/57488a1a2c6c3
   extension: jpg
