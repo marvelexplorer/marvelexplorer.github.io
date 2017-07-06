@@ -1,12 +1,12 @@
 ---
-date: '1966-04-10T00:00:00-0500'
-year: '1966'
-title: 'Avengers (1963) #27'
-issue: 27
+date: '2007-10-01T00:00:00-0400'
+year: '2007'
+title: 'Marvel Adventures the Avengers (2006) #16'
+issue: 16
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7141/avengers_1963_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/16511/marvel_adventures_the_avengers_2006_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/585462ace25a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4f6392c7eba2a
   extension: jpg
