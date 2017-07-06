@@ -1,12 +1,13 @@
 ---
-date: '2011-05-04T00:00:00-0400'
+date: '2011-03-02T00:00:00-0500'
 year: '2011'
-title: 'Fear Itself (2010) #2'
-issue: 2
+title: 'Avengers, Thor & Captain America: Official Index to the Marvel Universe (2010)
+  #11'
+issue: 11
 series:
   period: '2010'
-  name: Fear Itself
-url: http://marvel.com/comics/issue/40892/fear_itself_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: 'Avengers, Thor & Captain America: Official Index to the Marvel Universe'
+url: http://marvel.com/comics/issue/34182/avengers_thor_captain_america_official_index_to_the_marvel_universe_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4db99a461afff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4d641bbaa6fc5
   extension: jpg
