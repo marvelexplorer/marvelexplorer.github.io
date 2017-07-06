@@ -1,12 +1,12 @@
 ---
-date: '2000-08-10T00:00:00-0400'
-year: '2000'
-title: 'Avengers (1998) #31'
-issue: 31
+date: '2001-08-10T00:00:00-0400'
+year: '2001'
+title: 'Fantastic Four (1998) #44'
+issue: 44
 series:
   period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17514/avengers_1998_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15565/fantastic_four_1998_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/585c2953b6a65
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/51d1a31e5b524
   extension: jpg
