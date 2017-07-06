@@ -1,12 +1,12 @@
 ---
-date: '2009-09-02T00:00:00-0400'
-year: '2009'
-title: 'Mystic Comics 70th Anniversary Special (2009) #1'
-issue: 1
+date: '2011-01-26T00:00:00-0500'
+year: '2011'
+title: 'X-Men Legacy (2008) #244'
+issue: 244
 series:
-  period: '2009'
-  name: Mystic Comics 70th Anniversary Special
-url: http://marvel.com/comics/issue/26021/mystic_comics_70th_anniversary_special_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/36427/x-men_legacy_2008_244?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bb4919a68f80
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/51a4e4171853b
   extension: jpg
