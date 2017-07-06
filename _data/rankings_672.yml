@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 35
+  score: 36
 - name: Wolverine
   score: 26
 - name: Spider-Man
   score: 25
 - name: Avengers
-  score: 19
+  score: 18
 - name: Captain America
   score: 17
