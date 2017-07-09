@@ -1,12 +1,12 @@
 ---
-date: '2000-01-01T00:00:00-0500'
-year: '2000'
-title: 'Earth X (1999) #10'
-issue: 10
+date: '1973-08-10T00:00:00-0400'
+year: '1973'
+title: 'Incredible Hulk (1962) #166'
+issue: 166
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8549/earth_x_1999_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/8977/incredible_hulk_1962_166?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/4bb677894650e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5284ea82357da
   extension: jpg
