@@ -1,12 +1,12 @@
 ---
-date: '1973-08-10T00:00:00-0400'
-year: '1973'
-title: 'Incredible Hulk (1962) #166'
-issue: 166
+date: '1982-09-10T00:00:00-0400'
+year: '1982'
+title: 'Avengers (1963) #223'
+issue: 223
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/8977/incredible_hulk_1962_166?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7090/avengers_1963_223?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5284ea82357da
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5873c420b3ae2
   extension: jpg
