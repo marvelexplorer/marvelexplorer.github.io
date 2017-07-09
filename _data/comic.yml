@@ -1,12 +1,12 @@
 ---
-date: '1989-04-10T00:00:00-0400'
-year: '1989'
-title: 'Classic X-Men (1986) #32'
-issue: 32
+date: '1994-10-10T00:00:00-0400'
+year: '1994'
+title: 'Cable (1993) #16'
+issue: 16
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20588/classic_x-men_1986_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7389/cable_1993_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/569ea76843aef
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/594c3c1065cbe
   extension: jpg
