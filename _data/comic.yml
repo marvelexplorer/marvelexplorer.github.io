@@ -1,12 +1,12 @@
 ---
-date: '1996-01-10T00:00:00-0500'
-year: '1996'
-title: 'Cable (1993) #27'
-issue: 27
+date: '1997-08-01T00:00:00-0400'
+year: '1997'
+title: 'X-Force (1991) #68'
+issue: 68
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7401/cable_1993_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/18036/x-force_1991_68?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/56f95a4b9fa6c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5873bbaf4816d
   extension: jpg
