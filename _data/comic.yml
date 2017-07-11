@@ -1,12 +1,12 @@
 ---
-date: '2011-09-28T00:00:00-0400'
-year: '2011'
-title: 'Deadpool Max (2010) #12'
-issue: 12
+date: '2002-05-01T00:00:00-0400'
+year: '2002'
+title: 'Deadpool (1997) #64'
+issue: 64
 series:
-  period: '2010'
-  name: Deadpool Max
-url: http://marvel.com/comics/issue/32225/deadpool_max_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1997'
+  name: Deadpool
+url: http://marvel.com/comics/issue/8522/deadpool_1997_64?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4e80dd0c92c0e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bb54eed2de77
   extension: jpg

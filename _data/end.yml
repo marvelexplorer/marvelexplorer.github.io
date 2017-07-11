@@ -1,7 +1,9 @@
 ---
-name: Deadpool
-description: ''
-url: http://marvel.com/universe/Deadpool_(Wade_Wilson)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Thanos
+description: The Mad Titan Thanos, a melancholy, brooding individual, consumed with
+  the concept of death, sought out personal power and increased strength, endowing
+  himself with cybernetic implants until he became more powerful than any of his brethren.
+url: http://marvel.com/universe/Thanos?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd
   extension: jpg
