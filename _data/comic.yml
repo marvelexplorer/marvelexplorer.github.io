@@ -1,12 +1,12 @@
 ---
-date: '1994-07-10T00:00:00-0400'
-year: '1994'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #214'
-issue: 214
+date: '2008-04-02T00:00:00-0400'
+year: '2008'
+title: 'Secret Invasion (2008) #1'
+issue: 1
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14670/peter_parker_the_spectacular_spider-man_1976_214?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Secret Invasion
+url: http://marvel.com/comics/issue/21034/secret_invasion_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/b0/5887bf1f84d78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5151efbb93d76
   extension: jpg
