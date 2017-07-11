@@ -1,12 +1,12 @@
 ---
-date: '2012-11-07T00:00:00-0500'
-year: '2012'
-title: 'New Avengers (2010) #32'
-issue: 32
+date: '2002-04-01T00:00:00-0500'
+year: '2002'
+title: 'Avengers (1998) #51'
+issue: 51
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/40734/new_avengers_2010_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17536/avengers_1998_51?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/517ae98c7366a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/5863d5acd9997
   extension: jpg
