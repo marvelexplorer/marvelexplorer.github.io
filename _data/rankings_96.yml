@@ -3,9 +3,9 @@
   score: 6
 - name: Storm
   score: 6
-- name: Avengers
-  score: 5
 - name: Cyclops
   score: 4
 - name: Wolverine
+  score: 4
+- name: Avengers
   score: 4
