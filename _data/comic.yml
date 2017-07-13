@@ -1,12 +1,12 @@
 ---
-date: '1998-07-10T00:00:00-0400'
-year: '1998'
-title: 'Thunderbolts (1997) #16'
-issue: 16
+date: '1989-11-20T00:00:00-0500'
+year: '1989'
+title: 'Captain America (1968) #362'
+issue: 362
 series:
-  period: '1997'
-  name: Thunderbolts
-url: http://marvel.com/comics/issue/15318/thunderbolts_1997_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7743/captain_america_1968_362?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/c0/5841d52445926
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f20779a8c6a9
   extension: jpg
