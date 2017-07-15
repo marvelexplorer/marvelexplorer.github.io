@@ -1,12 +1,12 @@
 ---
-date: '2017-02-01T00:00:00-0500'
-year: '2017'
-title: 'Nova (2016) #3'
-issue: 3
+date: '1992-09-10T00:00:00-0400'
+year: '1992'
+title: 'Warlock and the Infinity Watch (1992) #8'
+issue: 8
 series:
-  period: '2016'
-  name: Nova
-url: http://marvel.com/comics/issue/61634/nova_2016_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1992'
+  name: Warlock and the Infinity Watch
+url: http://marvel.com/comics/issue/18453/warlock_and_the_infinity_watch_1992_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/588b751b8d440
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/4c36078543316
   extension: jpg
