@@ -1,12 +1,12 @@
 ---
-date: '2016-11-02T00:00:00-0400'
+date: '2016-06-01T00:00:00-0400'
 year: '2016'
-title: 'Avengers (2016) #1'
-issue: 1
+title: 'All-New, All-Different Avengers (2015) #10'
+issue: 10
 series:
-  period: '2016'
-  name: Avengers
-url: http://marvel.com/comics/issue/61373/avengers_2016_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: All-New, All-Different Avengers
+url: http://marvel.com/comics/issue/55363/all-new_all-different_avengers_2015_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/580e547031c2f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/10/5743705117996
   extension: jpg
