@@ -1,12 +1,12 @@
 ---
-date: '1990-03-10T00:00:00-0500'
-year: '1990'
-title: 'Avengers (1963) #315'
-issue: 315
+date: '2016-11-02T00:00:00-0400'
+year: '2016'
+title: 'Avengers (2016) #1'
+issue: 1
 series:
-  period: '1963'
+  period: '2016'
   name: Avengers
-url: http://marvel.com/comics/issue/7192/avengers_1963_315?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/61373/avengers_2016_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/a0/588b797ddae58
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/580e547031c2f
   extension: jpg
