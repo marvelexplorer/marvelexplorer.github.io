@@ -1,12 +1,12 @@
 ---
-date: '2011-03-16T00:00:00-0400'
-year: '2011'
-title: 'Uncanny X-Force (2010) #5.1'
-issue: 5.1
+date: '1996-08-10T00:00:00-0400'
+year: '1996'
+title: 'Uncanny X-Men (1963) #335'
+issue: 335
 series:
-  period: '2010'
-  name: Uncanny X-Force
-url: http://marvel.com/comics/issue/39670/uncanny_x-force_2010_5.1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13876/uncanny_x-men_1963_335?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/04/58bdf96de7da9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/f0/58925c588d9f6
   extension: jpg
