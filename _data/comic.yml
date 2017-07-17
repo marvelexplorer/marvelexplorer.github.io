@@ -1,12 +1,12 @@
 ---
-date: '2002-09-01T00:00:00-0400'
-year: '2002'
-title: 'Paradise X (2002) #4'
-issue: 4
+date: '2006-02-22T00:00:00-0500'
+year: '2006'
+title: 'New Avengers (2004) #16'
+issue: 16
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10499/paradise_x_2002_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/3464/new_avengers_2004_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c360714db59f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/e0/5196646a80915
   extension: jpg
