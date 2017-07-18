@@ -1,12 +1,12 @@
 ---
-date: '2009-04-22T00:00:00-0400'
-year: '2009'
-title: 'Astonishing X-Men (2004) #29'
-issue: 29
+date: '1999-04-10T00:00:00-0400'
+year: '1999'
+title: 'Deadpool (1997) #27'
+issue: 27
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/23937/astonishing_x-men_2004_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1997'
+  name: Deadpool
+url: http://marvel.com/comics/issue/8481/deadpool_1997_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/58f7c7a95257e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/4f186c7354d05
   extension: jpg
