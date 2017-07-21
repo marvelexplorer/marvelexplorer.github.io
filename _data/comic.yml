@@ -1,12 +1,12 @@
 ---
-date: '1988-02-10T00:00:00-0500'
-year: '1988'
-title: 'Uncanny X-Men (1963) #226'
-issue: 226
+date: '1999-08-01T00:00:00-0400'
+year: '1999'
+title: 'Earth X (1999) #5'
+issue: 5
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13767/uncanny_x-men_1963_226?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8555/earth_x_1999_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/0/03/51141c0a47569
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bb7c32033b26
   extension: jpg
