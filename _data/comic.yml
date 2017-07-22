@@ -1,12 +1,12 @@
 ---
-date: '1991-08-01T00:00:00-0400'
-year: '1991'
-title: 'New Warriors (1990) #14'
-issue: 14
+date: '1966-03-10T00:00:00-0500'
+year: '1966'
+title: 'Tales to Astonish (1959) #77'
+issue: 77
 series:
-  period: '1990'
-  name: New Warriors
-url: http://marvel.com/comics/issue/53444/new_warriors_1990_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11423/tales_to_astonish_1959_77?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/586d7ff7376e3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/536d4bbbc76fc
   extension: jpg
