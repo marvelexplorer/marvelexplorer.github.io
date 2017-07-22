@@ -5,7 +5,7 @@
   score: 6
 - name: Storm
   score: 6
-- name: Spider-Man
-  score: 4
 - name: Colossus
   score: 4
+- name: Bishop
+  score: 3
