@@ -1,12 +1,12 @@
 ---
-date: '2012-06-06T00:00:00-0400'
-year: '2012'
-title: 'Avengers Academy (2010) #31'
-issue: 31
+date: '2008-06-25T00:00:00-0400'
+year: '2008'
+title: 'Avengers: The Initiative (2007) #14'
+issue: 14
 series:
-  period: '2010'
-  name: Avengers Academy
-url: http://marvel.com/comics/issue/40253/avengers_academy_2010_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/21366/avengers_the_initiative_2007_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f62521e7a6ec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/58dbce634ea70
   extension: jpg
