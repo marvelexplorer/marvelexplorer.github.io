@@ -1,12 +1,12 @@
 ---
-date: '2011-09-14T00:00:00-0400'
-year: '2011'
-title: 'X-Men Legacy (2008) #255'
-issue: 255
+date: '2001-09-01T00:00:00-0400'
+year: '2001'
+title: 'X-Treme X-Men (2001) #3'
+issue: 3
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/36430/x-men_legacy_2008_255?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15033/x-treme_x-men_2001_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/51a4e5ff514cc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc3238309c1a
   extension: jpg
