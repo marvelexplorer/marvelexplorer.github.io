@@ -1,12 +1,12 @@
 ---
-date: '2017-07-19T00:00:00-0400'
-year: '2017'
-title: 'Ultimates 2 (2016) #9'
-issue: 9
+date: '1999-10-10T00:00:00-0400'
+year: '1999'
+title: 'Iron Man (1998) #21'
+issue: 21
 series:
-  period: '2016'
-  name: Ultimates 2
-url: http://marvel.com/comics/issue/63863/ultimates_2_2016_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19893/iron_man_1998_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5967f5d999ccc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4d24e07b53640
   extension: jpg
