@@ -1,12 +1,12 @@
 ---
-date: '1998-03-10T00:00:00-0500'
-year: '1998'
-title: 'Captain America (1998) #3'
-issue: 3
+date: '2011-10-26T00:00:00-0400'
+year: '2011'
+title: 'Secret Avengers (2010) #18'
+issue: 18
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12789/captain_america_1998_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/35140/secret_avengers_2010_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/4e9469c539434
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5189758c86a0b
   extension: jpg
