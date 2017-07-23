@@ -1,12 +1,12 @@
 ---
-date: '2007-12-12T00:00:00-0500'
-year: '2007'
-title: 'New Avengers (2004) #37'
-issue: 37
+date: '1989-03-10T00:00:00-0500'
+year: '1989'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #148'
+issue: 148
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/17357/new_avengers_2004_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14596/peter_parker_the_spectacular_spider-man_1976_148?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4f7efadc9afd4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/5825fa2493954
   extension: jpg
