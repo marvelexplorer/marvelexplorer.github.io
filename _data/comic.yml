@@ -1,12 +1,12 @@
 ---
-date: '2001-12-01T00:00:00-0500'
+date: '2001-09-01T00:00:00-0400'
 year: '2001'
-title: 'Elektra (2001) #4'
-issue: 4
+title: 'Elektra (2001) #1'
+issue: 1
 series:
   period: '2001'
   name: Elektra
-url: http://marvel.com/comics/issue/20081/elektra_2001_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/20052/elektra_2001_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb682f4aaa1d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb7b2fa964d3
   extension: jpg
