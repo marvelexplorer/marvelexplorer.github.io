@@ -1,12 +1,12 @@
 ---
-date: '1972-12-10T00:00:00-0500'
-year: '1972'
-title: 'Amazing Spider-Man (1963) #115'
-issue: 115
+date: '2005-01-19T00:00:00-0500'
+year: '2005'
+title: 'Daredevil (1998) #69'
+issue: 69
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6500/amazing_spider-man_1963_115?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/1518/daredevil_1998_69?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/57b604b08f4a1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5727968375c39
   extension: jpg
