@@ -1,12 +1,12 @@
 ---
-date: '1988-06-10T00:00:00-0400'
-year: '1988'
-title: 'Classic X-Men (1986) #22'
-issue: 22
+date: '2012-05-30T00:00:00-0400'
+year: '2012'
+title: 'X-Men (2010) #29'
+issue: 29
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20577/classic_x-men_1986_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/40859/x-men_2010_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb67ae26c7d1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/03/5159e157e6040
   extension: jpg
