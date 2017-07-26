@@ -1,12 +1,12 @@
 ---
-date: '1997-04-01T00:00:00-0500'
-year: '1997'
-title: 'Iron Man (1996) #6'
-issue: 6
+date: '2012-05-09T00:00:00-0400'
+year: '2012'
+title: 'Avengers Assemble (2012) #3'
+issue: 3
 series:
-  period: '1996'
-  name: Iron Man
-url: http://marvel.com/comics/issue/16337/iron_man_1996_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Avengers Assemble
+url: http://marvel.com/comics/issue/41354/avengers_assemble_2012_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/40/4bc351e0af0b3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4fabd17ca6e23
   extension: jpg
