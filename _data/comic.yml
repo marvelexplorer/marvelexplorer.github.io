@@ -1,12 +1,12 @@
 ---
-date: '2017-05-17T00:00:00-0400'
-year: '2017'
-title: 'X-Men: Gold (2017) #4'
-issue: 4
+date: '1995-09-01T00:00:00-0400'
+year: '1995'
+title: 'Wolverine & Gambit: Victims (1995) #1'
+issue: 1
 series:
-  period: '2017'
-  name: 'X-Men: Gold'
-url: http://marvel.com/comics/issue/62850/x-men_gold_2017_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: 'Wolverine & Gambit: Victims'
+url: http://marvel.com/comics/issue/27519/wolverine_gambit_victims_1995_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/591220750af7e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/575eb43d94feb
   extension: jpg
