@@ -1,12 +1,12 @@
 ---
-date: '2012-02-29T00:00:00-0500'
-year: '2012'
-title: 'New Avengers (2010) #22'
-issue: 22
+date: '2016-09-28T00:00:00-0400'
+year: '2016'
+title: 'Ultimates (2015) #11'
+issue: 11
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/35242/new_avengers_2010_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: Ultimates
+url: http://marvel.com/comics/issue/57265/ultimates_2015_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/56bbac674308c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/57dc38b281434
   extension: jpg
