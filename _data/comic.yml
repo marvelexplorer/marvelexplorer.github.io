@@ -1,12 +1,12 @@
 ---
-date: '1975-07-01T00:00:00-0400'
-year: '1975'
-title: 'Avengers (1963) #137'
-issue: 137
+date: '1964-11-10T00:00:00-0500'
+year: '1964'
+title: 'Tales of Suspense (1959) #59'
+issue: 59
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/6994/avengers_1963_137?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11302/tales_of_suspense_1959_59?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/587e5c2f2c1bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/536d56e6ebe48
   extension: jpg
