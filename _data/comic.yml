@@ -1,12 +1,12 @@
 ---
-date: '1998-04-10T00:00:00-0400'
-year: '1998'
-title: 'Avengers (1998) #3'
-issue: 3
+date: '1989-02-01T00:00:00-0500'
+year: '1989'
+title: 'Wolverine (1988) #4'
+issue: 4
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17512/avengers_1998_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14159/wolverine_1988_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/585165650e5c3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/5840374be06ac
   extension: jpg
