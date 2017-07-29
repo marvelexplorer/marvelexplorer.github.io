@@ -1,12 +1,12 @@
 ---
-date: '2008-07-09T00:00:00-0400'
-year: '2008'
-title: 'Secret Invasion (2008) #4'
-issue: 4
+date: '1966-05-10T00:00:00-0400'
+year: '1966'
+title: 'Strange Tales (1951) #144'
+issue: 144
 series:
-  period: '2008'
-  name: Secret Invasion
-url: http://marvel.com/comics/issue/21572/secret_invasion_2008_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1951'
+  name: Strange Tales
+url: http://marvel.com/comics/issue/11066/strange_tales_1951_144?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5151efe58715c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/57bde3b68fc5c
   extension: jpg
