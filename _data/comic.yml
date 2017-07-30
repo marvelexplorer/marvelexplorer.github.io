@@ -1,12 +1,12 @@
 ---
-date: '1967-10-10T00:00:00-0400'
-year: '1967'
-title: 'Strange Tales (1951) #161'
-issue: 161
+date: '2011-10-05T00:00:00-0400'
+year: '2011'
+title: 'Hulk (2008) #42'
+issue: 42
 series:
-  period: '1951'
-  name: Strange Tales
-url: http://marvel.com/comics/issue/11085/strange_tales_1951_161?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Hulk
+url: http://marvel.com/comics/issue/37052/hulk_2008_42?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/57bde47deb23b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4e80e00d25de8
   extension: jpg
