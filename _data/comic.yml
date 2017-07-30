@@ -1,12 +1,12 @@
 ---
-date: '2016-07-06T00:00:00-0400'
-year: '2016'
-title: 'Invincible Iron Man (2015) #11'
-issue: 11
+date: '2003-10-22T00:00:00-0400'
+year: '2003'
+title: 'Amazing Spider-Man (1999) #500'
+issue: 500
 series:
-  period: '2015'
-  name: Invincible Iron Man
-url: http://marvel.com/comics/issue/55532/invincible_iron_man_2015_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/277/amazing_spider-man_1999_500?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/5775225f31a08
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57fe6d3d58106
   extension: jpg
