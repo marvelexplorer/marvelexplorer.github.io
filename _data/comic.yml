@@ -1,12 +1,12 @@
 ---
-date: '1970-11-10T00:00:00-0500'
-year: '1970'
-title: 'Avengers (1963) #82'
-issue: 82
+date: '1986-01-10T00:00:00-0500'
+year: '1986'
+title: 'Fantastic Four (1961) #286'
+issue: 286
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7335/avengers_1963_82?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13101/fantastic_four_1961_286?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/586fc32d68fc9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c366a5371c01
   extension: jpg
