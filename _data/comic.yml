@@ -1,12 +1,12 @@
 ---
-date: '1971-08-10T00:00:00-0400'
-year: '1971'
-title: 'Uncanny X-Men (1963) #71'
-issue: 71
+date: '1986-08-10T00:00:00-0400'
+year: '1986'
+title: 'X-Factor (1986) #7'
+issue: 7
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12523/uncanny_x-men_1963_71?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12290/x-factor_1986_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4f67bb8be22a1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/594abc7f5c705
   extension: jpg
