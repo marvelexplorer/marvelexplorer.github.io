@@ -1,12 +1,12 @@
 ---
-date: '1978-02-10T00:00:00-0500'
-year: '1978'
-title: 'Marvel Two-in-One (1974) #36'
-issue: 36
+date: '2000-05-01T00:00:00-0400'
+year: '2000'
+title: 'Cable (1993) #79'
+issue: 79
 series:
-  period: '1974'
-  name: Marvel Two-in-One
-url: http://marvel.com/comics/issue/19505/marvel_two-in-one_1974_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7458/cable_1993_79?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/5804f34790e19
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/594c3bdd2d71a
   extension: jpg
