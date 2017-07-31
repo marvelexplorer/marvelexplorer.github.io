@@ -1,12 +1,12 @@
 ---
-date: '1986-01-10T00:00:00-0500'
-year: '1986'
-title: 'Fantastic Four (1961) #286'
-issue: 286
+date: '1993-11-10T00:00:00-0500'
+year: '1993'
+title: 'Uncanny X-Men (1963) #306'
+issue: 306
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13101/fantastic_four_1961_286?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13847/uncanny_x-men_1963_306?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c366a5371c01
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/03/591491112ea65
   extension: jpg
