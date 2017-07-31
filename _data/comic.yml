@@ -1,12 +1,12 @@
 ---
-date: '1986-08-10T00:00:00-0400'
-year: '1986'
-title: 'X-Factor (1986) #7'
-issue: 7
+date: '2012-10-10T00:00:00-0400'
+year: '2012'
+title: 'Wolverine & the X-Men (2011) #18'
+issue: 18
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12290/x-factor_1986_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Wolverine & the X-Men
+url: http://marvel.com/comics/issue/40087/wolverine_the_x-men_2011_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/594abc7f5c705
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/593eb1d79b019
   extension: jpg
