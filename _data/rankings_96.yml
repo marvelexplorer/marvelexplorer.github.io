@@ -1,9 +1,9 @@
 ---
-- name: Wolverine
-  score: 5
 - name: Avengers
   score: 5
 - name: Nick Fury
+  score: 4
+- name: Wolverine
   score: 4
 - name: Scarlet Witch
   score: 4

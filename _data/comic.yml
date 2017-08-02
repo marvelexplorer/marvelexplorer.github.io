@@ -1,12 +1,12 @@
 ---
-date: '2002-01-01T00:00:00-0500'
-year: '2002'
-title: 'Peter Parker: Spider-Man (1999) #37'
-issue: 37
+date: '1981-01-05T00:00:00-0500'
+year: '1981'
+title: 'X-Men Annual (1970) #5'
+issue: 5
 series:
-  period: '1999'
-  name: 'Peter Parker: Spider-Man'
-url: http://marvel.com/comics/issue/10547/peter_parker_spider-man_1999_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12365/x-men_annual_1970_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/58247ea5bce63
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5849baec158ca
   extension: jpg
