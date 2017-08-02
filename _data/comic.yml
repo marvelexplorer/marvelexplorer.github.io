@@ -1,12 +1,12 @@
 ---
-date: '2006-10-04T00:00:00-0400'
-year: '2006'
-title: 'Irredeemable Ant-Man (2006) #1'
-issue: 1
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #57'
+issue: 57
 series:
-  period: '2006'
-  name: Irredeemable Ant-Man
-url: http://marvel.com/comics/issue/5199/irredeemable_ant-man_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17542/avengers_1998_57?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/58498477421c8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5863dd6a70a67
   extension: jpg
