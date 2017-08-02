@@ -1,12 +1,12 @@
 ---
-date: '2011-07-27T00:00:00-0400'
-year: '2011'
-title: 'Amazing Spider-Man (1999) #666'
-issue: 666
+date: '2002-01-01T00:00:00-0500'
+year: '2002'
+title: 'Peter Parker: Spider-Man (1999) #37'
+issue: 37
 series:
   period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/35513/amazing_spider-man_1999_666?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: 'Peter Parker: Spider-Man'
+url: http://marvel.com/comics/issue/10547/peter_parker_spider-man_1999_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/57eaa30fd170e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/58247ea5bce63
   extension: jpg
