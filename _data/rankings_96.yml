@@ -1,8 +1,8 @@
 ---
-- name: Nick Fury
-  score: 4
 - name: Wolverine
   score: 4
+- name: Nick Fury
+  score: 3
 - name: X-Men
   score: 3
 - name: Avengers
