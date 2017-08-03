@@ -1,12 +1,12 @@
 ---
-date: '1974-04-01T00:00:00-0400'
-year: '1974'
-title: 'Avengers (1963) #122'
-issue: 122
+date: '2001-08-01T00:00:00-0400'
+year: '2001'
+title: 'Wolverine (1988) #165'
+issue: 165
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/6978/avengers_1963_122?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14109/wolverine_1988_165?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5877b24a34b36
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/5849b7fb95592
   extension: jpg
