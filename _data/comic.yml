@@ -1,12 +1,12 @@
 ---
-date: '2002-12-01T00:00:00-0500'
-year: '2002'
-title: 'Paradise X (2002) #6'
-issue: 6
+date: '2006-10-11T00:00:00-0400'
+year: '2006'
+title: 'Annihilation (2006) #3'
+issue: 3
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10501/paradise_x_2002_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Annihilation
+url: http://marvel.com/comics/issue/5230/annihilation_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/4bb68da8d9bcb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/51b612534e2e6
   extension: jpg
