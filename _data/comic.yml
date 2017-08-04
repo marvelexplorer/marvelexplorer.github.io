@@ -1,12 +1,12 @@
 ---
-date: '2006-10-11T00:00:00-0400'
-year: '2006'
-title: 'Annihilation (2006) #3'
-issue: 3
+date: '1992-06-10T00:00:00-0400'
+year: '1992'
+title: 'Warlock and the Infinity Watch (1992) #5'
+issue: 5
 series:
-  period: '2006'
-  name: Annihilation
-url: http://marvel.com/comics/issue/5230/annihilation_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1992'
+  name: Warlock and the Infinity Watch
+url: http://marvel.com/comics/issue/18450/warlock_and_the_infinity_watch_1992_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/51b612534e2e6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/584acb5284024
   extension: jpg
