@@ -1,12 +1,12 @@
 ---
-date: '1987-09-10T00:00:00-0400'
-year: '1987'
-title: 'Avengers (1963) #283'
-issue: 283
+date: '2001-09-10T00:00:00-0400'
+year: '2001'
+title: 'Avengers (1998) #44'
+issue: 44
 series:
-  period: '1963'
+  period: '1998'
   name: Avengers
-url: http://marvel.com/comics/issue/7156/avengers_1963_283?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/17528/avengers_1998_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/4e95befec80ca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/58627e3380ab5
   extension: jpg
