@@ -1,12 +1,12 @@
 ---
-date: '1992-04-10T00:00:00-0400'
-year: '1992'
-title: 'X-Factor (1986) #77'
-issue: 77
+date: '2009-05-13T00:00:00-0400'
+year: '2009'
+title: 'X-Factor (2005) #43'
+issue: 43
 series:
-  period: '1986'
+  period: '2005'
   name: X-Factor
-url: http://marvel.com/comics/issue/12298/x-factor_1986_77?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/24156/x-factor_2005_43?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5955020c981cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/59525cb6b33fb
   extension: jpg
