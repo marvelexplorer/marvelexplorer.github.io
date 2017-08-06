@@ -1,12 +1,12 @@
 ---
-date: '2006-03-08T00:00:00-0500'
-year: '2006'
-title: 'Cable & Deadpool (2004) #26'
-issue: 26
+date: '2000-09-01T00:00:00-0400'
+year: '2000'
+title: 'Uncanny X-Men (1963) #384'
+issue: 384
 series:
-  period: '2004'
-  name: Cable & Deadpool
-url: http://marvel.com/comics/issue/3961/cable_deadpool_2004_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13925/uncanny_x-men_1963_384?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/5981eaf57db58
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5919f807daac3
   extension: jpg
