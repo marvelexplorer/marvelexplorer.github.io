@@ -1,12 +1,12 @@
 ---
-date: '2008-09-10T00:00:00-0400'
-year: '2008'
-title: 'Secret Invasion: Inhumans (2008) #2'
-issue: 2
+date: '2002-03-10T00:00:00-0500'
+year: '2002'
+title: 'Fantastic Four (1998) #51'
+issue: 51
 series:
-  period: '2008'
-  name: 'Secret Invasion: Inhumans'
-url: http://marvel.com/comics/issue/22009/secret_invasion_inhumans_2008_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15573/fantastic_four_1998_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5151f43f66d7a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c365c3365a33
   extension: jpg
