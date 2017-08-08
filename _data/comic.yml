@@ -1,12 +1,12 @@
 ---
-date: '2016-06-01T00:00:00-0400'
-year: '2016'
-title: 'All-New, All-Different Avengers (2015) #10'
-issue: 10
+date: '2015-05-06T00:00:00-0400'
+year: '2015'
+title: 'Captain America Special (2015) #1'
+issue: 1
 series:
   period: '2015'
-  name: All-New, All-Different Avengers
-url: http://marvel.com/comics/issue/55363/all-new_all-different_avengers_2015_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Captain America Special
+url: http://marvel.com/comics/issue/51563/captain_america_special_2015_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/10/5743705117996
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5862e2bf7343d
   extension: jpg
