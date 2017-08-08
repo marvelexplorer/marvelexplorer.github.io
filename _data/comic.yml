@@ -1,12 +1,12 @@
 ---
-date: '2011-08-31T00:00:00-0400'
-year: '2011'
-title: 'Amazing Spider-Man (1999) #668'
-issue: 668
+date: '2010-10-13T00:00:00-0400'
+year: '2010'
+title: 'Shadowland (2010) #4'
+issue: 4
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/35532/amazing_spider-man_1999_668?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Shadowland
+url: http://marvel.com/comics/issue/29706/shadowland_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/57eac7c20aec6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/597206cedac4d
   extension: jpg
