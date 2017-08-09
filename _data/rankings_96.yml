@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 9
+  score: 10
 - name: Mr. Fantastic
   score: 4
 - name: Cyclops
   score: 4
-- name: Iron Man
-  score: 3
 - name: Gambit
+  score: 3
+- name: Nova
   score: 3
