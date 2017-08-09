@@ -1,12 +1,12 @@
 ---
-date: '2011-02-23T00:00:00-0500'
-year: '2011'
-title: 'Astonishing X-Men (2004) #36'
-issue: 36
+date: '2002-02-01T00:00:00-0500'
+year: '2002'
+title: 'New X-Men (2001) #121'
+issue: 121
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/38317/astonishing_x-men_2004_36?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14940/new_x-men_2001_121?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/58f8eee2eb213
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/577c150a481a1
   extension: jpg
