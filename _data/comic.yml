@@ -1,12 +1,12 @@
 ---
-date: '1999-02-01T00:00:00-0500'
-year: '1999'
-title: 'Spider-Man: Chapter One (1998) #4'
-issue: 4
+date: '2002-06-10T00:00:00-0400'
+year: '2002'
+title: 'Ultimate Spider-Man (2000) #20'
+issue: 20
 series:
-  period: '1998'
-  name: 'Spider-Man: Chapter One'
-url: http://marvel.com/comics/issue/43226/spider-man_chapter_one_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Ultimate Spider-Man
+url: http://marvel.com/comics/issue/14847/ultimate_spider-man_2000_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/589ceef375632
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/58e2b15694400
   extension: jpg
