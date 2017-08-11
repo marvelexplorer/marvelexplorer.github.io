@@ -1,12 +1,12 @@
 ---
-date: '2011-01-26T00:00:00-0500'
-year: '2011'
-title: 'Secret Avengers (2010) #9'
-issue: 9
+date: '2000-12-01T00:00:00-0500'
+year: '2000'
+title: 'Iron Fist/Wolverine (2000) #2'
+issue: 2
 series:
-  period: '2010'
-  name: Secret Avengers
-url: http://marvel.com/comics/issue/29100/secret_avengers_2010_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Iron Fist/Wolverine
+url: http://marvel.com/comics/issue/54903/iron_fistwolverine_2000_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/51897311e86a1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/57b4ddff52ef4
   extension: jpg
