@@ -2,10 +2,10 @@
 - name: X-Men
   score: 10
 - name: Spider-Man
-  score: 6
-- name: Mr. Fantastic
-  score: 4
+  score: 7
 - name: Cyclops
   score: 4
 - name: Daredevil
   score: 4
+- name: Mr. Fantastic
+  score: 3
