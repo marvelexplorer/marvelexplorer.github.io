@@ -1,12 +1,12 @@
 ---
-date: '1991-07-10T00:00:00-0400'
+date: '1991-11-10T00:00:00-0500'
 year: '1991'
-title: 'Infinity Gauntlet (1991) #1'
-issue: 1
+title: 'Infinity Gauntlet (1991) #5'
+issue: 5
 series:
   period: '1991'
   name: Infinity Gauntlet
-url: http://marvel.com/comics/issue/9286/infinity_gauntlet_1991_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/9290/infinity_gauntlet_1991_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/51f6911ce3cc3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/51f690f0e7b77
   extension: jpg
