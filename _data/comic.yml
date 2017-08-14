@@ -1,12 +1,12 @@
 ---
-date: '2016-11-09T00:00:00-0500'
-year: '2016'
-title: 'Power Man and Iron Fist (2016) #10'
-issue: 10
+date: '1984-05-10T00:00:00-0400'
+year: '1984'
+title: 'Amazing Spider-Man (1963) #252'
+issue: 252
 series:
-  period: '2016'
-  name: Power Man and Iron Fist
-url: http://marvel.com/comics/issue/57959/power_man_and_iron_fist_2016_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6652/amazing_spider-man_1963_252?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/58066aefc4b40
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/57c4543392337
   extension: jpg
