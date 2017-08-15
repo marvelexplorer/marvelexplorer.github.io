@@ -1,12 +1,12 @@
 ---
-date: '2016-11-09T00:00:00-0500'
-year: '2016'
-title: 'All-New X-Men (2015) #15'
-issue: 15
+date: '2011-10-05T00:00:00-0400'
+year: '2011'
+title: 'X-Men (2010) #19'
+issue: 19
 series:
-  period: '2015'
-  name: All-New X-Men
-url: http://marvel.com/comics/issue/56244/all-new_x-men_2015_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/38083/x-men_2010_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/5817629fd6401
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/58d13b92afc9c
   extension: jpg
