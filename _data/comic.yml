@@ -1,12 +1,12 @@
 ---
-date: '1986-11-10T00:00:00-0500'
-year: '1986'
-title: 'Fantastic Four (1961) #296'
-issue: 296
+date: '1984-09-10T00:00:00-0400'
+year: '1984'
+title: 'Fantastic Four (1961) #270'
+issue: 270
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13112/fantastic_four_1961_296?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13084/fantastic_four_1961_270?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb5efd16662d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb78fd45a043
   extension: jpg
