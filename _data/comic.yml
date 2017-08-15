@@ -1,12 +1,12 @@
 ---
-date: '2006-03-01T00:00:00-0500'
-year: '2006'
-title: 'X-Men: The End - Men and X-Men (2006) #3'
-issue: 3
+date: '2016-11-09T00:00:00-0500'
+year: '2016'
+title: 'All-New X-Men (2015) #15'
+issue: 15
 series:
-  period: '2006'
-  name: 'X-Men: The End - Men and X-Men'
-url: http://marvel.com/comics/issue/3879/x-men_the_end_-_men_and_x-men_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: All-New X-Men
+url: http://marvel.com/comics/issue/56244/all-new_x-men_2015_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/535184d1753af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/5817629fd6401
   extension: jpg
