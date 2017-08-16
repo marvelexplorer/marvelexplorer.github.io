@@ -1,12 +1,12 @@
 ---
-date: '2007-12-28T00:00:00-0500'
-year: '2007'
-title: 'Black Panther (2005) #33'
-issue: 33
+date: '1983-03-10T00:00:00-0500'
+year: '1983'
+title: 'Uncanny X-Men (1963) #167'
+issue: 167
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/17358/black_panther_2005_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13708/uncanny_x-men_1963_167?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/574705890d1b6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c362e6d980b2
   extension: jpg

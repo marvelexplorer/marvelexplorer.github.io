@@ -1,11 +1,11 @@
 ---
-- name: Spider-Man
-  score: 4
 - name: Captain America
   score: 4
 - name: Storm
   score: 4
 - name: X-Men
   score: 4
+- name: Spider-Man
+  score: 3
 - name: Colossus
   score: 3
