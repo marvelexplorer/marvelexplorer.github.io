@@ -1,12 +1,12 @@
 ---
-date: '1972-02-10T00:00:00-0500'
-year: '1972'
-title: 'Fantastic Four (1961) #119'
-issue: 119
+date: '2007-12-28T00:00:00-0500'
+year: '2007'
+title: 'Black Panther (2005) #33'
+issue: 33
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/12916/fantastic_four_1961_119?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Black Panther
+url: http://marvel.com/comics/issue/17358/black_panther_2005_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bb7a8bc8d7a9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/574705890d1b6
   extension: jpg
