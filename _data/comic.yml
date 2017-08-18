@@ -1,12 +1,12 @@
 ---
-date: '1985-01-10T00:00:00-0500'
-year: '1985'
-title: 'Secret Wars (1984) #9'
-issue: 9
+date: '2003-05-01T00:00:00-0400'
+year: '2003'
+title: 'New X-Men (2001) #138'
+issue: 138
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10591/secret_wars_1984_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14957/new_x-men_2001_138?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/57581b0e17cb5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/577d6c7191401
   extension: jpg
