@@ -1,12 +1,12 @@
 ---
-date: '2003-06-01T00:00:00-0400'
-year: '2003'
-title: 'Daredevil (1998) #46'
-issue: 46
+date: '1979-10-10T00:00:00-0400'
+year: '1979'
+title: 'Amazing Spider-Man (1963) #197'
+issue: 197
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/15649/daredevil_1998_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6590/amazing_spider-man_1963_197?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/5727987d1991a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/57c452d1b8706
   extension: jpg
