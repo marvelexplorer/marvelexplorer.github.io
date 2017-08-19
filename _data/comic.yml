@@ -1,12 +1,12 @@
 ---
-date: '1975-12-10T00:00:00-0500'
-year: '1975'
-title: 'Amazing Spider-Man (1963) #151'
-issue: 151
+date: '1998-09-10T00:00:00-0400'
+year: '1998'
+title: 'Amazing Spider-Man (1963) #438'
+issue: 438
 series:
   period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6540/amazing_spider-man_1963_151?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6858/amazing_spider-man_1963_438?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/57bc4ac6c80e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/57d8587595d09
   extension: jpg
