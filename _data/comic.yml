@@ -1,12 +1,12 @@
 ---
-date: '1997-11-10T00:00:00-0500'
-year: '1997'
-title: 'Deadpool (1997) #10'
-issue: 10
+date: '2017-02-22T00:00:00-0500'
+year: '2017'
+title: 'Great Lakes Avengers (2016) #5'
+issue: 5
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8463/deadpool_1997_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Great Lakes Avengers
+url: http://marvel.com/comics/issue/61501/great_lakes_avengers_2016_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/20/4f2040ba1e314
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/58a22257d0b54
   extension: jpg
