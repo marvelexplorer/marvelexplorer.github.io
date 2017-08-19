@@ -1,12 +1,12 @@
 ---
-date: '1995-03-01T00:00:00-0500'
-year: '1995'
-title: 'X-Men Chronicles (1995) #1'
+date: '2017-06-21T00:00:00-0400'
+year: '2017'
+title: 'Secret Empire: Underground (2017) #1'
 issue: 1
 series:
-  period: '1995'
-  name: X-Men Chronicles
-url: http://marvel.com/comics/issue/18172/x-men_chronicles_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: 'Secret Empire: Underground'
+url: http://marvel.com/comics/issue/63127/secret_empire_underground_2017_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/595fdbbb12d86
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/5941aaddf27b1
   extension: jpg
