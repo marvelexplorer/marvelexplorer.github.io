@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 4
+  score: 3
 - name: Black Panther
+  score: 3
+- name: Spider-Man
   score: 3
 - name: Human Torch
   score: 2
 - name: Captain America
-  score: 2
-- name: Sub-Mariner
   score: 2
