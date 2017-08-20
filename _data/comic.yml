@@ -1,12 +1,12 @@
 ---
-date: '2009-10-07T00:00:00-0400'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #608'
-issue: 608
+date: '2002-12-10T00:00:00-0500'
+year: '2002'
+title: 'Spider-Man''s Tangled Web (2001) #19'
+issue: 19
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/24415/amazing_spider-man_1999_608?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: Spider-Man's Tangled Web
+url: http://marvel.com/comics/issue/10920/spider-mans_tangled_web_2001_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/58062ee200676
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc47073ba750
   extension: jpg
