@@ -1,11 +1,11 @@
 ---
-- name: Wolverine
-  score: 4
 - name: J. Jonah Jameson
   score: 4
 - name: Spider-Man
   score: 4
 - name: X-Men
+  score: 3
+- name: Wolverine
   score: 3
 - name: Beast
   score: 3
