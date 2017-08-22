@@ -1,12 +1,12 @@
 ---
-date: '1989-12-10T00:00:00-0500'
-year: '1989'
-title: 'Avengers (1963) #311'
-issue: 311
+date: '2011-11-02T00:00:00-0400'
+year: '2011'
+title: 'Shame Itself (2011) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7188/avengers_1963_311?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Shame Itself
+url: http://marvel.com/comics/issue/41161/shame_itself_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/588b583ed0523
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4ec53ab6db90c
   extension: jpg
