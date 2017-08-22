@@ -1,12 +1,12 @@
 ---
-date: '2011-08-10T00:00:00-0400'
-year: '2011'
-title: 'Marvel Adventures Super Heroes (2010) #17'
-issue: 17
+date: '1966-01-10T00:00:00-0500'
+year: '1966'
+title: 'Avengers (1963) #24'
+issue: 24
 series:
-  period: '2010'
-  name: Marvel Adventures Super Heroes
-url: http://marvel.com/comics/issue/36744/marvel_adventures_super_heroes_2010_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7108/avengers_1963_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/4dcaf39adfb18
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/585444af6fe21
   extension: jpg
