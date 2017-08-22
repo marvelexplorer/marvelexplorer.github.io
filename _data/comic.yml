@@ -1,12 +1,12 @@
 ---
-date: '1994-06-10T00:00:00-0400'
-year: '1994'
-title: 'Spider-Man 2099 (1992) #20'
-issue: 20
+date: '2003-09-01T00:00:00-0400'
+year: '2003'
+title: '1602 (2003) #2'
+issue: 2
 series:
-  period: '1992'
-  name: Spider-Man 2099
-url: http://marvel.com/comics/issue/10877/spider-man_2099_1992_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: '1602'
+url: http://marvel.com/comics/issue/50114/1602_2003_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/5834579776b6b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/52961aabe3f5f
   extension: jpg
