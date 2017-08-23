@@ -1,12 +1,12 @@
 ---
-date: '2006-09-20T00:00:00-0400'
-year: '2006'
-title: 'Marvel Adventures Fantastic Four (2005) #16'
-issue: 16
+date: '2004-12-01T00:00:00-0500'
+year: '2004'
+title: 'X-Men/Fantastic Four (2004) #1'
+issue: 1
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/5082/marvel_adventures_fantastic_four_2005_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: X-Men/Fantastic Four
+url: http://marvel.com/comics/issue/1446/x-menfantastic_four_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc5c9a385815
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/53518c90be9fd
   extension: jpg
