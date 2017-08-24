@@ -1,8 +1,8 @@
 ---
-- name: Wolverine
-  score: 5
 - name: Spider-Man
   score: 5
+- name: Wolverine
+  score: 4
 - name: Fantastic Four
   score: 4
 - name: Black Widow
