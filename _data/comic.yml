@@ -1,12 +1,12 @@
 ---
-date: '2010-08-25T00:00:00-0400'
-year: '2010'
-title: 'X-Men Legacy (2008) #239'
-issue: 239
+date: '1999-12-01T00:00:00-0500'
+year: '1999'
+title: 'Uncanny X-Men (1963) #375'
+issue: 375
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/30706/x-men_legacy_2008_239?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13916/uncanny_x-men_1963_375?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/51a4e332e8c32
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/509c4ba455689
   extension: jpg
