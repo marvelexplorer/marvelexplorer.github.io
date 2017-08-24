@@ -1,12 +1,12 @@
 ---
-date: '2003-01-01T00:00:00-0500'
-year: '2003'
-title: 'X-Men: God Loves, Man Kills - Special Edition (1982)'
-issue: 0
+date: '1991-07-10T00:00:00-0400'
+year: '1991'
+title: 'X-Factor (1986) #68'
+issue: 68
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/20773/x-men_god_loves_man_kills_-_special_edition_1982?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12288/x-factor_1986_68?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb4e66e505b4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/5736141115357
   extension: jpg
