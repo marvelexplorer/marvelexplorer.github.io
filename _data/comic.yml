@@ -1,12 +1,12 @@
 ---
-date: '2012-07-18T00:00:00-0400'
-year: '2012'
-title: 'Avengers Academy (2010) #33'
-issue: 33
+date: '2007-09-06T00:00:00-0400'
+year: '2007'
+title: 'Ms. Marvel (2006) #19'
+issue: 19
 series:
-  period: '2010'
-  name: Avengers Academy
-url: http://marvel.com/comics/issue/40264/avengers_academy_2010_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/16496/ms_marvel_2006_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/58e4feca4f3cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/57684c29efa09
   extension: jpg
