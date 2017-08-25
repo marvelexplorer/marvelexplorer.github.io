@@ -1,12 +1,12 @@
 ---
-date: '2017-08-02T00:00:00-0400'
-year: '2017'
-title: 'X-Men: Gold (2017) #9'
-issue: 9
+date: '2004-11-03T00:00:00-0500'
+year: '2004'
+title: 'Astonishing X-Men (2004) #6'
+issue: 6
 series:
-  period: '2017'
-  name: 'X-Men: Gold'
-url: http://marvel.com/comics/issue/64290/x-men_gold_2017_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/927/astonishing_x-men_2004_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/596d18c87375f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/51968134e1764
   extension: jpg
