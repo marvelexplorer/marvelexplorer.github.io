@@ -1,12 +1,12 @@
 ---
-date: '2007-12-05T00:00:00-0500'
-year: '2007'
-title: 'Annihilation: Conquest (2007) #2'
-issue: 2
+date: '2011-10-12T00:00:00-0400'
+year: '2011'
+title: 'FF (2010) #10'
+issue: 10
 series:
-  period: '2007'
-  name: 'Annihilation: Conquest'
-url: http://marvel.com/comics/issue/17405/annihilation_conquest_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: FF
+url: http://marvel.com/comics/issue/38608/ff_2010_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4e8384c84cd95
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4e8626ba91a54
   extension: jpg
