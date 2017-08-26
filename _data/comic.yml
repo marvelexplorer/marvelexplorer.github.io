@@ -1,12 +1,12 @@
 ---
-date: '2004-01-28T00:00:00-0500'
-year: '2004'
-title: 'Amazing Spider-Man (1999) #503'
-issue: 503
+date: '1986-02-10T00:00:00-0500'
+year: '1986'
+title: 'Thor (1966) #364'
+issue: 364
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/290/amazing_spider-man_1999_503?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11692/thor_1966_364?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/57fe72e85427e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bc46ed72f5f7
   extension: jpg
