@@ -1,12 +1,12 @@
 ---
-date: '2011-06-01T00:00:00-0400'
-year: '2011'
-title: 'Amazing Spider-Man (1999) #663'
-issue: 663
+date: '2004-01-28T00:00:00-0500'
+year: '2004'
+title: 'Amazing Spider-Man (1999) #503'
+issue: 503
 series:
   period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/35501/amazing_spider-man_1999_663?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/290/amazing_spider-man_1999_503?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/580e212952c6d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/57fe72e85427e
   extension: jpg
