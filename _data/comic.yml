@@ -1,12 +1,12 @@
 ---
-date: '1989-09-01T00:00:00-0400'
-year: '1989'
-title: 'Saga of the Sub-Mariner (1988) #11'
-issue: 11
+date: '2006-07-26T00:00:00-0400'
+year: '2006'
+title: 'Wolverine (2003) #44'
+issue: 44
 series:
-  period: '1988'
-  name: Saga of the Sub-Mariner
-url: http://marvel.com/comics/issue/62676/saga_of_the_sub-mariner_1988_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/4432/wolverine_2003_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5893c10d931ad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/589362dfe2ee1
   extension: jpg
