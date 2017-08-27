@@ -1,12 +1,12 @@
 ---
-date: '1997-02-10T00:00:00-0500'
-year: '1997'
-title: 'Avengers (1996) #4'
-issue: 4
+date: '1968-03-10T00:00:00-0500'
+year: '1968'
+title: 'Avengers (1963) #50'
+issue: 50
 series:
-  period: '1996'
+  period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/17758/avengers_1996_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7300/avengers_1963_50?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/58765ddd3b89d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/58656429957a5
   extension: jpg
