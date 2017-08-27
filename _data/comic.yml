@@ -1,12 +1,12 @@
 ---
-date: '2006-06-14T00:00:00-0400'
-year: '2006'
-title: 'Ms. Marvel (2006) #4'
-issue: 4
+date: '2016-07-20T00:00:00-0400'
+year: '2016'
+title: 'A-Force (2016) #7'
+issue: 7
 series:
-  period: '2006'
-  name: Ms. Marvel
-url: http://marvel.com/comics/issue/4287/ms_marvel_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: A-Force
+url: http://marvel.com/comics/issue/56018/a-force_2016_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/03/57684001c2c86
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/57855538e2f42
   extension: jpg
