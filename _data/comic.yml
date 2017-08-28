@@ -1,12 +1,12 @@
 ---
-date: '1988-01-10T00:00:00-0500'
-year: '1988'
-title: 'Uncanny X-Men (1963) #225'
-issue: 225
+date: '2002-09-01T00:00:00-0400'
+year: '2002'
+title: 'X-Treme X-Men (2001) #15'
+issue: 15
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13766/uncanny_x-men_1963_225?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15017/x-treme_x-men_2001_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/51141b8ca7973
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc33a8317f01
   extension: jpg
