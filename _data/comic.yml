@@ -1,12 +1,12 @@
 ---
-date: '1984-12-15T00:00:00-0500'
-year: '1984'
-title: 'Beauty and the Beast (1985) #1'
-issue: 1
+date: '2006-03-01T00:00:00-0500'
+year: '2006'
+title: 'New Excalibur (2006) #5'
+issue: 5
 series:
-  period: '1985'
-  name: Beauty and the Beast
-url: http://marvel.com/comics/issue/62749/beauty_and_the_beast_1985_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: New Excalibur
+url: http://marvel.com/comics/issue/3898/new_excalibur_2006_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/70/588791e692aa8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/58054df7718be
   extension: jpg
