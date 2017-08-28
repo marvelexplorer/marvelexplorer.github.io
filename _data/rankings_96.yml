@@ -3,9 +3,9 @@
   score: 7
 - name: Avengers
   score: 6
-- name: Wolverine
-  score: 4
 - name: Spider-Man
   score: 3
 - name: Hawkeye
+  score: 3
+- name: Wolverine
   score: 3
