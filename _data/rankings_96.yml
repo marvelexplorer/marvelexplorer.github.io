@@ -1,8 +1,8 @@
 ---
-- name: Captain America
-  score: 5
 - name: Avengers
   score: 5
+- name: Captain America
+  score: 4
 - name: Thor
   score: 3
 - name: Chase Stein
