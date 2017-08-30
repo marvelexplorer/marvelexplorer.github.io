@@ -1,12 +1,12 @@
 ---
-date: '1989-01-13T00:00:00-0500'
-year: '1989'
-title: 'X-Men Annual (1970) #13'
-issue: 13
+date: '1991-10-10T00:00:00-0400'
+year: '1991'
+title: 'X-Factor (1986) #71'
+issue: 71
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12359/x-men_annual_1970_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12292/x-factor_1986_71?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/50ad3e003e46d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/30/59540593860d8
   extension: jpg
