@@ -1,12 +1,12 @@
 ---
-date: '1994-10-01T00:00:00-0400'
-year: '1994'
-title: 'Guardians of the Galaxy (1990) #53'
-issue: 53
+date: '2010-01-27T00:00:00-0500'
+year: '2010'
+title: 'Guardians of the Galaxy (2008) #22'
+issue: 22
 series:
-  period: '1990'
+  period: '2008'
   name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/62870/guardians_of_the_galaxy_1990_53?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/29022/guardians_of_the_galaxy_2008_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/594c3b7892c9a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/517ad7df48bd9
   extension: jpg
