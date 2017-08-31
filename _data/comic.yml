@@ -1,12 +1,12 @@
 ---
-date: '2000-11-01T00:00:00-0500'
-year: '2000'
-title: 'Avengers: Infinity (2000) #3'
-issue: 3
+date: '1993-01-10T00:00:00-0500'
+year: '1993'
+title: 'Warlock and the Infinity Watch (1992) #12'
+issue: 12
 series:
-  period: '2000'
-  name: 'Avengers: Infinity'
-url: http://marvel.com/comics/issue/64195/avengers_infinity_2000_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1992'
+  name: Warlock and the Infinity Watch
+url: http://marvel.com/comics/issue/18416/warlock_and_the_infinity_watch_1992_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5925d48f308c4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/584acdb4cc80f
   extension: jpg
