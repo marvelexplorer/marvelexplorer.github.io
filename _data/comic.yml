@@ -1,12 +1,12 @@
 ---
-date: '1998-02-10T00:00:00-0500'
-year: '1998'
-title: 'Amazing Spider-Man (1963) #431'
-issue: 431
+date: '2011-08-31T00:00:00-0400'
+year: '2011'
+title: 'The Mighty Thor (2011) #5'
+issue: 5
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6851/amazing_spider-man_1963_431?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: The Mighty Thor
+url: http://marvel.com/comics/issue/38211/the_mighty_thor_2011_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/51ed4d9b4fa67
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4e53ac69ad67b
   extension: jpg
