@@ -1,12 +1,12 @@
 ---
-date: '2008-01-09T00:00:00-0500'
-year: '2008'
-title: 'Mighty Avengers (2007) #7'
-issue: 7
+date: '2009-01-07T00:00:00-0500'
+year: '2009'
+title: 'Invincible Iron Man (2008) #9'
+issue: 9
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/17247/mighty_avengers_2007_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Invincible Iron Man
+url: http://marvel.com/comics/issue/23149/invincible_iron_man_2008_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4d24f3d7dbe4d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/58fe205cd60b4
   extension: jpg
