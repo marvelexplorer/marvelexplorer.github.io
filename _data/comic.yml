@@ -1,12 +1,12 @@
 ---
-date: '2001-11-01T00:00:00-0500'
-year: '2001'
-title: 'X-Treme X-Men: The Savage Land (2001) #1'
-issue: 1
+date: '2011-06-08T00:00:00-0400'
+year: '2011'
+title: 'X-Men Legacy (2008) #250'
+issue: 250
 series:
-  period: '2001'
-  name: 'X-Treme X-Men: The Savage Land'
-url: http://marvel.com/comics/issue/12394/x-treme_x-men_the_savage_land_2001_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/36424/x-men_legacy_2008_250?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4bc46cd0aadb8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/51a4e4df338ac
   extension: jpg
