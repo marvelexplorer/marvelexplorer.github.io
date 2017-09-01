@@ -1,12 +1,12 @@
 ---
-date: '1985-07-10T00:00:00-0400'
-year: '1985'
-title: 'Fantastic Four (1961) #280'
-issue: 280
+date: '1982-09-10T00:00:00-0400'
+year: '1982'
+title: 'Fantastic Four (1961) #246'
+issue: 246
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13095/fantastic_four_1961_280?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13057/fantastic_four_1961_246?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4c366bdb8f472
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bb79a9499d13
   extension: jpg
