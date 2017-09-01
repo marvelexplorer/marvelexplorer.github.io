@@ -1,12 +1,12 @@
 ---
-date: '2011-08-03T00:00:00-0400'
-year: '2011'
-title: 'Hulk (2008) #38'
-issue: 38
+date: '2012-10-31T00:00:00-0400'
+year: '2012'
+title: 'A+X (2012) #1'
+issue: 1
 series:
-  period: '2008'
-  name: Hulk
-url: http://marvel.com/comics/issue/37051/hulk_2008_38?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: A+X
+url: http://marvel.com/comics/issue/43488/ax_2012_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4f5783b3bfa5b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/584f0b479c3f8
   extension: jpg
