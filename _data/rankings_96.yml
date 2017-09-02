@@ -2,10 +2,10 @@
 - name: Thor
   score: 6
 - name: Spider-Man
-  score: 5
+  score: 6
 - name: X-Men
   score: 4
-- name: Storm
-  score: 3
 - name: Emma Frost
+  score: 3
+- name: Fantastic Four
   score: 3
