@@ -1,12 +1,12 @@
 ---
-date: '2002-04-20T00:00:00-0400'
-year: '2002'
-title: 'Exiles (2001) #10'
-issue: 10
+date: '2004-11-10T00:00:00-0500'
+year: '2004'
+title: '4 (2004) #12'
+issue: 12
 series:
-  period: '2001'
-  name: Exiles
-url: http://marvel.com/comics/issue/16250/exiles_2001_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: '4'
+url: http://marvel.com/comics/issue/52/4_2004_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc36bd4c6b4e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5841c31f01da8
   extension: jpg
