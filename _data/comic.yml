@@ -1,12 +1,12 @@
 ---
-date: '1994-04-10T00:00:00-0400'
-year: '1994'
-title: 'Amazing Spider-Man (1963) #388'
-issue: 388
+date: '2002-04-20T00:00:00-0400'
+year: '2002'
+title: 'Exiles (2001) #10'
+issue: 10
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6802/amazing_spider-man_1963_388?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: Exiles
+url: http://marvel.com/comics/issue/16250/exiles_2001_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/52615f4293300
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc36bd4c6b4e
   extension: jpg
