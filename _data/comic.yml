@@ -1,12 +1,12 @@
 ---
-date: '2006-10-11T00:00:00-0400'
-year: '2006'
-title: 'Annihilation (2006) #3'
-issue: 3
+date: '2009-08-05T00:00:00-0400'
+year: '2009'
+title: 'War of Kings (2009) #6'
+issue: 6
 series:
-  period: '2006'
-  name: Annihilation
-url: http://marvel.com/comics/issue/5230/annihilation_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: War of Kings
+url: http://marvel.com/comics/issue/27063/war_of_kings_2009_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/51b612534e2e6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/5935c48412a13
   extension: jpg
