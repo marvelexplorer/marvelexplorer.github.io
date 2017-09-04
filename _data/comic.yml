@@ -1,12 +1,12 @@
 ---
-date: '2017-08-09T00:00:00-0400'
-year: '2017'
-title: 'Secret Empire (2017) #8'
-issue: 8
+date: '1992-06-01T00:00:00-0400'
+year: '1992'
+title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #36'
+issue: 36
 series:
-  period: '2017'
-  name: Secret Empire
-url: http://marvel.com/comics/issue/64166/secret_empire_2017_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1989'
+  name: Nick Fury, Agent of S.H.I.E.L.D.
+url: http://marvel.com/comics/issue/27739/nick_fury_agent_of_shield_1989_36?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/597796e27601a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/5978db909dca2
   extension: jpg
