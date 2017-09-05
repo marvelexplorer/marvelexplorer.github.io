@@ -1,12 +1,12 @@
 ---
-date: '1986-01-10T00:00:00-0500'
-year: '1986'
-title: 'Longshot (1985) #5'
-issue: 5
+date: '2009-06-10T00:00:00-0400'
+year: '2009'
+title: 'Uncanny X-Men (1963) #511'
+issue: 511
 series:
-  period: '1985'
-  name: Longshot
-url: http://marvel.com/comics/issue/22246/longshot_1985_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/26964/uncanny_x-men_1963_511?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bb5cfdfd7d7b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/59270ae2873ec
   extension: jpg
