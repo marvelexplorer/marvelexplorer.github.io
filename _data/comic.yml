@@ -1,12 +1,12 @@
 ---
-date: '1981-12-10T00:00:00-0500'
-year: '1981'
-title: 'Captain America (1968) #264'
-issue: 264
+date: '2017-08-16T00:00:00-0400'
+year: '2017'
+title: 'Astonishing X-Men (2017) #2'
+issue: 2
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7645/captain_america_1968_264?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/64205/astonishing_x-men_2017_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5382c6cd0a25b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/597bbacfb6a00
   extension: jpg
