@@ -1,12 +1,12 @@
 ---
-date: '1972-03-10T00:00:00-0500'
-year: '1972'
-title: 'Captain America (1968) #147'
-issue: 147
+date: '1999-08-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers Forever (1998) #9'
+issue: 9
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7528/captain_america_1968_147?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers Forever
+url: http://marvel.com/comics/issue/12412/avengers_forever_1998_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/56e32bd2953a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc47c7f39fd7
   extension: jpg
