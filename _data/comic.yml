@@ -1,12 +1,12 @@
 ---
-date: '2002-02-01T00:00:00-0500'
-year: '2002'
-title: 'X-Treme X-Men: The Savage Land (2001) #4'
-issue: 4
+date: '2011-05-11T00:00:00-0400'
+year: '2011'
+title: 'New Avengers (2010) #12'
+issue: 12
 series:
-  period: '2001'
-  name: 'X-Treme X-Men: The Savage Land'
-url: http://marvel.com/comics/issue/12397/x-treme_x-men_the_savage_land_2001_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/32709/new_avengers_2010_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc46cc689925
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/57743245d2d66
   extension: jpg
