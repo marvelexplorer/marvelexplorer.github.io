@@ -1,12 +1,12 @@
 ---
-date: '2010-05-12T00:00:00-0400'
-year: '2010'
-title: 'Black Widow (2010) #2'
-issue: 2
+date: '2008-05-21T00:00:00-0400'
+year: '2008'
+title: 'Wolverine Origins (2006) #25'
+issue: 25
 series:
-  period: '2010'
-  name: Black Widow
-url: http://marvel.com/comics/issue/29749/black_widow_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/21206/wolverine_origins_2006_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f54f615ba557
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5841a0e96e5d4
   extension: jpg
