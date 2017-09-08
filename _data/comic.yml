@@ -1,12 +1,12 @@
 ---
-date: '2002-07-01T00:00:00-0400'
-year: '2002'
-title: 'Peter Parker: Spider-Man (1999) #44'
-issue: 44
+date: '2007-03-28T00:00:00-0400'
+year: '2007'
+title: 'Sensational Spider-Man (2006) #36'
+issue: 36
 series:
-  period: '1999'
-  name: 'Peter Parker: Spider-Man'
-url: http://marvel.com/comics/issue/10555/peter_parker_spider-man_1999_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Sensational Spider-Man
+url: http://marvel.com/comics/issue/6150/sensational_spider-man_2006_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/58248837460bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bc5a1f222a57
   extension: jpg
