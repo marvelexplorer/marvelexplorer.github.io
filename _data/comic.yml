@@ -1,12 +1,12 @@
 ---
-date: '1971-05-10T00:00:00-0400'
-year: '1971'
-title: 'Captain America (1968) #137'
-issue: 137
+date: '1984-09-10T00:00:00-0400'
+year: '1984'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #94'
+issue: 94
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7518/captain_america_1968_137?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14799/peter_parker_the_spectacular_spider-man_1976_94?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5995f2b50f183
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5825f4d909e50
   extension: jpg
