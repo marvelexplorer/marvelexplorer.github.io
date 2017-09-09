@@ -1,12 +1,12 @@
 ---
-date: '2008-12-24T00:00:00-0500'
-year: '2008'
-title: 'Daredevil (1998) #114'
-issue: 114
+date: '2010-09-01T00:00:00-0400'
+year: '2010'
+title: 'Shadowland (2010) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/22860/daredevil_1998_114?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Shadowland
+url: http://marvel.com/comics/issue/29705/shadowland_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/572d11c59be79
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/5971feddc010e
   extension: jpg
