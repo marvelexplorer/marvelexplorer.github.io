@@ -1,12 +1,12 @@
 ---
-date: '1967-09-10T00:00:00-0400'
-year: '1967'
-title: 'Daredevil (1964) #32'
-issue: 32
+date: '2008-12-24T00:00:00-0500'
+year: '2008'
+title: 'Daredevil (1998) #114'
+issue: 114
 series:
-  period: '1964'
+  period: '1998'
   name: Daredevil
-url: http://marvel.com/comics/issue/8318/daredevil_1964_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/22860/daredevil_1998_114?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5722232f9c6ba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/572d11c59be79
   extension: jpg
