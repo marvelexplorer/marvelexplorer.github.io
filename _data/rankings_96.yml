@@ -2,10 +2,10 @@
 - name: Captain America
   score: 7
 - name: Spider-Man
-  score: 6
-- name: Storm
-  score: 3
+  score: 7
 - name: Black Panther
   score: 3
 - name: X-Men
+  score: 3
+- name: Black Widow
   score: 3
