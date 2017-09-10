@@ -1,12 +1,12 @@
 ---
-date: '2016-12-28T00:00:00-0500'
-year: '2016'
-title: 'Uncanny Avengers (2015) #18'
-issue: 18
+date: '2017-08-09T00:00:00-0400'
+year: '2017'
+title: 'Captain America (2017) #25'
+issue: 25
 series:
-  period: '2015'
-  name: Uncanny Avengers
-url: http://marvel.com/comics/issue/61095/uncanny_avengers_2015_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: Captain America
+url: http://marvel.com/comics/issue/64178/captain_america_2017_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/585d5827c5110
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/597793a2a2137
   extension: jpg
