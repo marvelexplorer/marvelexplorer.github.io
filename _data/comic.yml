@@ -1,12 +1,12 @@
 ---
-date: '2009-04-22T00:00:00-0400'
-year: '2009'
-title: 'Wolverine: Weapon X Files (2009) #1'
-issue: 1
+date: '1986-04-10T00:00:00-0500'
+year: '1986'
+title: 'Uncanny X-Men (1963) #204'
+issue: 204
 series:
-  period: '2009'
-  name: 'Wolverine: Weapon X Files'
-url: http://marvel.com/comics/issue/24036/wolverine_weapon_x_files_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13745/uncanny_x-men_1963_204?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/535144f4a3e63
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/511415a4afce4
   extension: jpg
