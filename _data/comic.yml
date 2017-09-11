@@ -1,12 +1,12 @@
 ---
-date: '2002-02-01T00:00:00-0500'
-year: '2002'
-title: 'Deadpool (1997) #61'
-issue: 61
+date: '2011-10-26T00:00:00-0400'
+year: '2011'
+title: 'Wolverine & the X-Men (2011) #1'
+issue: 1
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8519/deadpool_1997_61?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Wolverine & the X-Men
+url: http://marvel.com/comics/issue/38586/wolverine_the_x-men_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4f2189e7085a3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/5140c36f07979
   extension: jpg
