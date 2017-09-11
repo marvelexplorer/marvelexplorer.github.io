@@ -1,12 +1,12 @@
 ---
-date: '1984-09-10T00:00:00-0400'
-year: '1984'
-title: 'Avengers (1963) #247'
-issue: 247
+date: '2005-12-28T00:00:00-0500'
+year: '2005'
+title: 'Wolverine (2003) #37'
+issue: 37
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7116/avengers_1963_247?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/3155/wolverine_2003_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5877deaa55a65
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/4d24ecf291027
   extension: jpg
