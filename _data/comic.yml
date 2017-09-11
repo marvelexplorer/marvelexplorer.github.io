@@ -1,12 +1,12 @@
 ---
-date: '1990-04-10T00:00:00-0400'
-year: '1990'
-title: 'Avengers (1963) #316'
-issue: 316
+date: '1984-09-10T00:00:00-0400'
+year: '1984'
+title: 'Avengers (1963) #247'
+issue: 247
 series:
   period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/7193/avengers_1963_316?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/7116/avengers_1963_247?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/588b8142d6823
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5877deaa55a65
   extension: jpg
