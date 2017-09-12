@@ -1,12 +1,12 @@
 ---
-date: '2011-01-19T00:00:00-0500'
-year: '2011'
-title: 'X-Factor (2005) #213'
-issue: 213
+date: '2008-09-03T00:00:00-0400'
+year: '2008'
+title: 'X-Men: Manifest Destiny (2008) #1'
+issue: 1
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/30668/x-factor_2005_213?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'X-Men: Manifest Destiny'
+url: http://marvel.com/comics/issue/22048/x-men_manifest_destiny_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/595e3b7586ccd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/58c1653d64f68
   extension: jpg
