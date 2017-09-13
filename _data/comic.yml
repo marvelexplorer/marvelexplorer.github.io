@@ -1,12 +1,12 @@
 ---
-date: '2013-06-19T00:00:00-0400'
-year: '2013'
-title: 'New Avengers (2013) #7'
-issue: 7
+date: '1984-08-10T00:00:00-0400'
+year: '1984'
+title: 'Incredible Hulk (1962) #298'
+issue: 298
 series:
-  period: '2013'
-  name: New Avengers
-url: http://marvel.com/comics/issue/43521/new_avengers_2013_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9109/incredible_hulk_1962_298?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/51b78bdbc8877
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/57fd503330c86
   extension: jpg
