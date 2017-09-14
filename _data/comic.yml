@@ -1,12 +1,12 @@
 ---
-date: '2011-07-27T00:00:00-0400'
-year: '2011'
-title: 'X-Men: Schism (2011) #2'
-issue: 2
+date: '1995-11-01T00:00:00-0500'
+year: '1995'
+title: 'X-Men (1991) #46'
+issue: 46
 series:
-  period: '2011'
-  name: 'X-Men: Schism'
-url: http://marvel.com/comics/issue/38492/x-men_schism_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14335/x-men_1991_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/52c5b149b5a88
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/a0/58a4aaeaa614c
   extension: jpg
