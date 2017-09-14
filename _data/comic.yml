@@ -1,12 +1,12 @@
 ---
-date: '2005-11-30T00:00:00-0500'
+date: '2005-08-31T00:00:00-0400'
 year: '2005'
-title: 'Wolverine (2003) #36'
-issue: 36
+title: 'Amazing Spider-Man (1999) #523'
+issue: 523
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/3060/wolverine_2003_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/2980/amazing_spider-man_1999_523?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d24edc54a507
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/20/56cde741caceb
   extension: jpg
