@@ -1,12 +1,12 @@
 ---
-date: '1987-08-10T00:00:00-0400'
-year: '1987'
-title: 'X-Factor (1986) #19'
-issue: 19
+date: '1997-01-01T00:00:00-0500'
+year: '1997'
+title: 'Rise of Apocalypse (1996) #4'
+issue: 4
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12234/x-factor_1986_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1996'
+  name: Rise of Apocalypse
+url: http://marvel.com/comics/issue/60192/rise_of_apocalypse_1996_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5735fb0a6b49d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/58b893d180d08
   extension: jpg
