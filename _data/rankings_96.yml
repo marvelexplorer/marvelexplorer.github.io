@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 8
+  score: 9
 - name: Doctor Strange
   score: 4
 - name: Wolverine
   score: 4
 - name: Iceman
   score: 4
-- name: Iron Man
+- name: Spider-Woman (Jessica Drew)
   score: 3
