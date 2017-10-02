@@ -1,12 +1,12 @@
 ---
-date: '1980-11-10T00:00:00-0500'
-year: '1980'
-title: 'Fantastic Four (1961) #224'
-issue: 224
+date: '1975-01-10T00:00:00-0500'
+year: '1975'
+title: 'Avengers (1963) #131'
+issue: 131
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13033/fantastic_four_1961_224?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/6988/avengers_1963_131?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/5261734ccba9f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/f0/587e291850660
   extension: jpg
