@@ -1,12 +1,12 @@
 ---
-date: '1967-02-10T00:00:00-0500'
-year: '1967'
-title: 'Strange Tales (1951) #153'
-issue: 153
+date: '2003-11-23T00:00:00-0500'
+year: '2003'
+title: 'Fantastic Four (1998) #504'
+issue: 504
 series:
-  period: '1951'
-  name: Strange Tales
-url: http://marvel.com/comics/issue/11076/strange_tales_1951_153?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/12858/fantastic_four_1998_504?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/57bde343a4bb2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc4791458da8
   extension: jpg
