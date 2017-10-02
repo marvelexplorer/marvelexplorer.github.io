@@ -1,12 +1,12 @@
 ---
-date: '1987-06-10T00:00:00-0400'
-year: '1987'
-title: 'Uncanny X-Men (1963) #218'
-issue: 218
+date: '2011-03-02T00:00:00-0500'
+year: '2011'
+title: 'X-Factor (2005) #216'
+issue: 216
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13759/uncanny_x-men_1963_218?utm_campaign=apiRef&utm_source=20e57699816824af894e4eb9ba3365e8
+  period: '2005'
+  name: X-Factor
+url: http://marvel.com/comics/issue/35282/x-factor_2005_216?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5908c15457fdc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/595e54ea54861
   extension: jpg
