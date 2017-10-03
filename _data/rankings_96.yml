@@ -2,10 +2,10 @@
 - name: X-Men
   score: 11
 - name: Nick Fury
-  score: 5
-- name: Iceman
-  score: 3
+  score: 6
 - name: Polaris
   score: 3
 - name: Wolverine
+  score: 3
+- name: Iron Man
   score: 3
