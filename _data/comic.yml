@@ -1,12 +1,12 @@
 ---
-date: '1996-12-10T00:00:00-0500'
-year: '1996'
-title: 'Captain America (1996) #2'
-issue: 2
+date: '1991-04-10T00:00:00-0400'
+year: '1991'
+title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #22'
+issue: 22
 series:
-  period: '1996'
-  name: Captain America
-url: http://marvel.com/comics/issue/7841/captain_america_1996_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1989'
+  name: Nick Fury, Agent of S.H.I.E.L.D.
+url: http://marvel.com/comics/issue/27724/nick_fury_agent_of_shield_1989_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bc34be0efe4b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5834bc77126d8
   extension: jpg
