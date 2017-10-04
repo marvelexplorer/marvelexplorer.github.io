@@ -1,12 +1,12 @@
 ---
-date: '2017-08-02T00:00:00-0400'
-year: '2017'
-title: 'Spider-Man/Deadpool (2016) #20'
-issue: 20
+date: '2011-05-11T00:00:00-0400'
+year: '2011'
+title: 'Cable & Deadpool MGC (2011) #1'
+issue: 1
 series:
-  period: '2016'
-  name: Spider-Man/Deadpool
-url: http://marvel.com/comics/issue/63984/spider-mandeadpool_2016_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Cable & Deadpool MGC
+url: http://marvel.com/comics/issue/38509/cable_deadpool_mgc_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/596d17a6db3e4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4d51889f3cf01
   extension: jpg
