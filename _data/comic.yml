@@ -1,12 +1,12 @@
 ---
-date: '2016-09-07T00:00:00-0400'
-year: '2016'
-title: 'Deadpool & the Mercs for Money (2016) #3'
-issue: 3
+date: '2017-08-02T00:00:00-0400'
+year: '2017'
+title: 'Spider-Man/Deadpool (2016) #20'
+issue: 20
 series:
   period: '2016'
-  name: Deadpool & the Mercs for Money
-url: http://marvel.com/comics/issue/59965/deadpool_the_mercs_for_money_2016_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Spider-Man/Deadpool
+url: http://marvel.com/comics/issue/63984/spider-mandeadpool_2016_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57c59455260db
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/596d17a6db3e4
   extension: jpg
