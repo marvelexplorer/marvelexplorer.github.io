@@ -1,12 +1,12 @@
 ---
-date: '2000-02-10T00:00:00-0500'
-year: '2000'
-title: 'Deadpool (1997) #37'
-issue: 37
+date: '2009-05-13T00:00:00-0400'
+year: '2009'
+title: 'Thor: Tales of Asgard by Stan Lee & Jack Kirby (2009) #1'
+issue: 1
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8492/deadpool_1997_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: 'Thor: Tales of Asgard by Stan Lee & Jack Kirby'
+url: http://marvel.com/comics/issue/24240/thor_tales_of_asgard_by_stan_lee_jack_kirby_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f205d47f2ccd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/579a51e39ffb5
   extension: jpg
