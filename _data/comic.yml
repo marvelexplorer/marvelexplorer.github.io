@@ -1,12 +1,12 @@
 ---
-date: '2011-04-06T00:00:00-0400'
-year: '2011'
-title: 'Annihilators (2010) #2'
-issue: 2
+date: '1991-08-20T00:00:00-0400'
+year: '1991'
+title: 'Avengers (1963) #336'
+issue: 336
 series:
-  period: '2010'
-  name: Annihilators
-url: http://marvel.com/comics/issue/36647/annihilators_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7215/avengers_1963_336?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/5785004a15618
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/00/588f753a7d898
   extension: jpg
