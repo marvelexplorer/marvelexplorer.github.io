@@ -1,12 +1,12 @@
 ---
-date: '2017-09-13T00:00:00-0400'
-year: '2017'
-title: 'Amazing Spider-Man (2015) #32'
-issue: 32
+date: '1977-04-06T00:00:00-0500'
+year: '1977'
+title: 'Marvel Two-in-One Annual (1976) #2'
+issue: 2
 series:
-  period: '2015'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/60540/amazing_spider-man_2015_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Marvel Two-in-One Annual
+url: http://marvel.com/comics/issue/47961/marvel_two-in-one_annual_1976_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/59b04cda59f90
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5877fd5600bbb
   extension: jpg
