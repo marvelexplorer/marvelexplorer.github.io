@@ -3,9 +3,9 @@
   score: 6
 - name: Captain America
   score: 4
-- name: X-Men
-  score: 4
 - name: Thor
   score: 4
 - name: Cable
+  score: 3
+- name: X-Men
   score: 3
