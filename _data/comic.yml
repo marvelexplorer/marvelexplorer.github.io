@@ -1,12 +1,12 @@
 ---
-date: '1997-03-10T00:00:00-0500'
-year: '1997'
-title: 'Avengers (1996) #5'
-issue: 5
+date: '2006-07-26T00:00:00-0400'
+year: '2006'
+title: 'New Avengers (2004) #22'
+issue: 22
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17759/avengers_1996_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/4438/new_avengers_2004_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/58765f271f371
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/571fbde825568
   extension: jpg
