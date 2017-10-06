@@ -1,12 +1,12 @@
 ---
-date: '1974-02-10T00:00:00-0400'
-year: '1974'
-title: 'Captain America (1968) #170'
-issue: 170
+date: '1971-12-10T00:00:00-0500'
+year: '1971'
+title: 'Avengers (1963) #94'
+issue: 94
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7551/captain_america_1968_170?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7348/avengers_1963_94?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bb6f96722228
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5873c760732ce
   extension: jpg
