@@ -1,9 +1,9 @@
 ---
 - name: Captain America
   score: 7
-- name: Nick Fury
-  score: 5
 - name: Thor
+  score: 4
+- name: Nick Fury
   score: 4
 - name: Avengers
   score: 4
