@@ -1,12 +1,12 @@
 ---
-date: '1990-01-24T00:00:00-0500'
-year: '1990'
-title: 'Amazing Spider-Man Annual (1964) #24'
-issue: 24
+date: '1991-02-10T00:00:00-0500'
+year: '1991'
+title: 'Fantastic Four (1961) #347'
+issue: 347
 series:
-  period: '1964'
-  name: Amazing Spider-Man Annual
-url: http://marvel.com/comics/issue/16899/amazing_spider-man_annual_1964_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13169/fantastic_four_1961_347?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/57beed6d001dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc479234b700
   extension: jpg
