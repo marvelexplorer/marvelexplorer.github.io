@@ -3,9 +3,9 @@
   score: 8
 - name: Captain America
   score: 6
-- name: Hulk
-  score: 5
 - name: Avengers
+  score: 4
+- name: Hulk
   score: 4
 - name: Wolverine
   score: 3
