@@ -1,12 +1,12 @@
 ---
-date: '1999-05-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #2'
-issue: 2
+date: '1995-01-10T00:00:00-0500'
+year: '1995'
+title: 'Wolverine (1988) #89'
+issue: 89
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8552/earth_x_1999_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14213/wolverine_1988_89?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc32807d6682
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/59a486638ca2a
   extension: jpg
