@@ -1,12 +1,12 @@
 ---
-date: '1997-09-10T00:00:00-0400'
-year: '1997'
-title: 'Incredible Hulk (1962) #456'
-issue: 456
+date: '2001-03-10T00:00:00-0500'
+year: '2001'
+title: 'X-Men: Search for Cyclops (2000) #4'
+issue: 4
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9267/incredible_hulk_1962_456?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: 'X-Men: Search for Cyclops'
+url: http://marvel.com/comics/issue/23522/x-men_search_for_cyclops_2000_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/594ae3777c458
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/40/4bb5bddf0cc00
   extension: jpg
