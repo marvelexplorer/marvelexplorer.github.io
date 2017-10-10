@@ -1,12 +1,12 @@
 ---
-date: '2003-12-31T00:00:00-0500'
-year: '2003'
-title: 'Weapon X (2002) #18'
-issue: 18
+date: '2002-06-01T00:00:00-0400'
+year: '2002'
+title: 'Uncanny X-Men (1963) #405'
+issue: 405
 series:
-  period: '2002'
-  name: Weapon X
-url: http://marvel.com/comics/issue/241/weapon_x_2002_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13946/uncanny_x-men_1963_405?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/59442e2c8a8c9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/591deb1bd1554
   extension: jpg
