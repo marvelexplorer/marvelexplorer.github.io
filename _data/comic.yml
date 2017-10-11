@@ -1,12 +1,12 @@
 ---
-date: '2011-02-02T00:00:00-0500'
-year: '2011'
-title: 'Invincible Iron Man (2008) #500.1'
-issue: 500.1
+date: '2010-11-24T00:00:00-0500'
+year: '2010'
+title: 'Invincible Iron Man (2008) #32'
+issue: 32
 series:
   period: '2008'
   name: Invincible Iron Man
-url: http://marvel.com/comics/issue/39239/invincible_iron_man_2008_500.1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/30450/invincible_iron_man_2008_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4f689bbd73712
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/58fe556705aa4
   extension: jpg
