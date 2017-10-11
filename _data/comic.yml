@@ -1,12 +1,12 @@
 ---
-date: '2007-04-18T00:00:00-0400'
-year: '2007'
-title: 'Marvel Adventures the Avengers (2006) #12'
-issue: 12
+date: '2011-02-02T00:00:00-0500'
+year: '2011'
+title: 'Invincible Iron Man (2008) #500.1'
+issue: 500.1
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/6305/marvel_adventures_the_avengers_2006_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Invincible Iron Man
+url: http://marvel.com/comics/issue/39239/invincible_iron_man_2008_500.1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4f6391540be4b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4f689bbd73712
   extension: jpg
