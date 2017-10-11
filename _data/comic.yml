@@ -1,12 +1,12 @@
 ---
-date: '1985-12-10T00:00:00-0500'
-year: '1985'
-title: 'Amazing Spider-Man (1963) #271'
-issue: 271
+date: '1984-09-10T00:00:00-0400'
+year: '1984'
+title: 'Amazing Spider-Man (1963) #256'
+issue: 256
 series:
   period: '1963'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6673/amazing_spider-man_1963_271?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6656/amazing_spider-man_1963_256?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/57d80bfb02bfc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/57c5afc609ef4
   extension: jpg
