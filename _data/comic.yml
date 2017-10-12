@@ -1,12 +1,12 @@
 ---
-date: '2012-07-11T00:00:00-0400'
-year: '2012'
-title: 'Wolverine & the X-Men (2011) #13'
-issue: 13
+date: '1989-02-10T00:00:00-0500'
+year: '1989'
+title: 'X-Factor (1986) #37'
+issue: 37
 series:
-  period: '2011'
-  name: Wolverine & the X-Men
-url: http://marvel.com/comics/issue/40088/wolverine_the_x-men_2011_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12254/x-factor_1986_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/51e44ca7e28b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/594d6f45dd631
   extension: jpg
