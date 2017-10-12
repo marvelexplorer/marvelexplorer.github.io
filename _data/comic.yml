@@ -1,12 +1,12 @@
 ---
-date: '1992-03-10T00:00:00-0500'
-year: '1992'
-title: 'X-Factor (1986) #76'
-issue: 76
+date: '2008-02-13T00:00:00-0500'
+year: '2008'
+title: 'X-Force (2008) #1'
+issue: 1
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12297/x-factor_1986_76?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Force
+url: http://marvel.com/comics/issue/20704/x-force_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5955007f15a8b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/595e3b6d7c3fc
   extension: jpg
