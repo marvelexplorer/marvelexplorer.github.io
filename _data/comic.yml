@@ -1,12 +1,12 @@
 ---
-date: '2012-08-01T00:00:00-0400'
-year: '2012'
-title: 'X-Men (2010) #33'
-issue: 33
+date: '2009-12-03T00:00:00-0500'
+year: '2009'
+title: 'Psylocke (2009) #2'
+issue: 2
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/40864/x-men_2010_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Psylocke
+url: http://marvel.com/comics/issue/28074/psylocke_2009_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/58b881bf0f7dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/577d36e755439
   extension: jpg
