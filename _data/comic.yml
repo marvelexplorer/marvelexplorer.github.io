@@ -1,12 +1,12 @@
 ---
-date: '1984-09-10T00:00:00-0400'
-year: '1984'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #94'
-issue: 94
+date: '2007-02-28T00:00:00-0500'
+year: '2007'
+title: 'Heroes for Hire (2006) #7'
+issue: 7
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14799/peter_parker_the_spectacular_spider-man_1976_94?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Heroes for Hire
+url: http://marvel.com/comics/issue/6001/heroes_for_hire_2006_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5825f4d909e50
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb85a2d89c08
   extension: jpg
