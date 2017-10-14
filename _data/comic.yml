@@ -1,12 +1,12 @@
 ---
-date: '2011-10-19T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself (2010) #7'
-issue: 7
+date: '1999-02-10T00:00:00-0500'
+year: '1999'
+title: 'Peter Parker: Spider-Man (1999) #2'
+issue: 2
 series:
-  period: '2010'
-  name: Fear Itself
-url: http://marvel.com/comics/issue/38028/fear_itself_2010_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: 'Peter Parker: Spider-Man'
+url: http://marvel.com/comics/issue/10528/peter_parker_spider-man_1999_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f7ddfc62178b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/58239332565ae
   extension: jpg
