@@ -1,12 +1,12 @@
 ---
-date: '1967-04-10T00:00:00-0500'
-year: '1967'
-title: 'Amazing Spider-Man (1963) #47'
-issue: 47
+date: '2002-07-01T00:00:00-0400'
+year: '2002'
+title: 'New X-Men (2001) #126'
+issue: 126
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6865/amazing_spider-man_1963_47?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14945/new_x-men_2001_126?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/c0/57aa2bf18faab
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/577d157e06bba
   extension: jpg
