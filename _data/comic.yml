@@ -1,12 +1,12 @@
 ---
-date: '2016-11-30T00:00:00-0500'
-year: '2016'
-title: 'Deadpool: Back in Black (2016) #4'
-issue: 4
+date: '1967-04-10T00:00:00-0500'
+year: '1967'
+title: 'Amazing Spider-Man (1963) #47'
+issue: 47
 series:
-  period: '2016'
-  name: 'Deadpool: Back in Black'
-url: http://marvel.com/comics/issue/58993/deadpool_back_in_black_2016_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6865/amazing_spider-man_1963_47?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/582cb91d813b3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/c0/57aa2bf18faab
   extension: jpg
