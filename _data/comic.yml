@@ -1,12 +1,12 @@
 ---
-date: '2012-04-04T00:00:00-0400'
-year: '2012'
-title: 'Avengers Academy (2010) #28'
-issue: 28
+date: '2005-05-18T00:00:00-0400'
+year: '2005'
+title: 'Runaways (2005) #4'
+issue: 4
 series:
-  period: '2010'
-  name: Avengers Academy
-url: http://marvel.com/comics/issue/40252/avengers_academy_2010_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Runaways
+url: http://marvel.com/comics/issue/1979/runaways_2005_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f7dc6ebcffd6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/515af8b22881d
   extension: jpg
