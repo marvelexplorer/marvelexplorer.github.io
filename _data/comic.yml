@@ -1,12 +1,12 @@
 ---
-date: '2012-02-22T00:00:00-0500'
-year: '2012'
-title: 'Uncanny X-Force (2010) #22'
-issue: 22
+date: '2006-06-21T00:00:00-0400'
+year: '2006'
+title: 'Uncanny X-Men (1963) #474'
+issue: 474
 series:
-  period: '2010'
-  name: Uncanny X-Force
-url: http://marvel.com/comics/issue/40452/uncanny_x-force_2010_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/4280/uncanny_x-men_1963_474?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/59419853a6a3d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5922ecee5c2f3
   extension: jpg
