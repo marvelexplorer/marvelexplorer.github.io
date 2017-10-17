@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 7
-- name: Iceman
-  score: 3
+- name: Captain America
+  score: 4
 - name: Spider-Man
   score: 3
-- name: Captain America
-  score: 3
 - name: Colossus
+  score: 3
+- name: Iron Fist (Danny Rand)
   score: 3
