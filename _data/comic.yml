@@ -1,12 +1,12 @@
 ---
-date: '2017-09-13T00:00:00-0400'
-year: '2017'
-title: 'Runaways (2017) #1'
-issue: 1
+date: '2006-07-19T00:00:00-0400'
+year: '2006'
+title: 'Runaways (2005) #18'
+issue: 18
 series:
-  period: '2017'
+  period: '2005'
   name: Runaways
-url: http://marvel.com/comics/issue/64431/runaways_2017_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/4429/runaways_2005_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/60/59b04ddcb102a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/515afb8e99af5
   extension: jpg
