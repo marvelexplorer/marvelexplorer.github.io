@@ -1,12 +1,12 @@
 ---
-date: '2017-02-01T00:00:00-0500'
-year: '2017'
-title: 'Monsters Unleashed (2017) #2'
-issue: 2
+date: '1989-11-10T00:00:00-0500'
+year: '1989'
+title: 'Avengers (1963) #309'
+issue: 309
 series:
-  period: '2017'
-  name: Monsters Unleashed
-url: http://marvel.com/comics/issue/60626/monsters_unleashed_2017_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7185/avengers_1963_309?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/588b720260f5b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/588a68a2920b2
   extension: jpg
