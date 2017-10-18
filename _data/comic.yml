@@ -1,12 +1,12 @@
 ---
-date: '2002-11-01T00:00:00-0500'
-year: '2002'
-title: 'Weapon X (2002) #1'
-issue: 1
+date: '2003-10-08T00:00:00-0400'
+year: '2003'
+title: 'Weapon X (2002) #13'
+issue: 13
 series:
   period: '2002'
   name: Weapon X
-url: http://marvel.com/comics/issue/18071/weapon_x_2002_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/246/weapon_x_2002_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/595125f44b10d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/5943ef02beb23
   extension: jpg
