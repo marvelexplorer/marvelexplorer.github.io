@@ -1,12 +1,12 @@
 ---
-date: '1984-06-10T00:00:00-0400'
-year: '1984'
-title: 'New Mutants (1983) #16'
-issue: 16
+date: '2010-03-10T00:00:00-0500'
+year: '2010'
+title: 'Cable (2008) #24'
+issue: 24
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10351/new_mutants_1983_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Cable
+url: http://marvel.com/comics/issue/30346/cable_2008_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c35f01f820ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ea1c7cd06b61
   extension: jpg
