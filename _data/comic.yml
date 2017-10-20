@@ -1,12 +1,12 @@
 ---
-date: '1993-03-01T00:00:00-0500'
-year: '1993'
-title: 'Fantastic Four (1961) #374'
-issue: 374
+date: '2007-01-10T00:00:00-0500'
+year: '2007'
+title: 'Blade (2006) #5'
+issue: 5
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13199/fantastic_four_1961_374?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Blade
+url: http://marvel.com/comics/issue/5849/blade_2006_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/5294ecb3255f5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/56c38cd36e119
   extension: jpg
