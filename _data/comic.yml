@@ -1,12 +1,12 @@
 ---
-date: '1995-04-10T00:00:00-0400'
-year: '1995'
-title: 'Weapon X (1995) #2'
-issue: 2
+date: '2006-07-05T00:00:00-0400'
+year: '2006'
+title: 'New Excalibur (2006) #9'
+issue: 9
 series:
-  period: '1995'
-  name: Weapon X
-url: http://marvel.com/comics/issue/18100/weapon_x_1995_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: New Excalibur
+url: http://marvel.com/comics/issue/4481/new_excalibur_2006_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/59440e3f0da1f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/58054cdcecf31
   extension: jpg
