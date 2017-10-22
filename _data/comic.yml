@@ -1,12 +1,12 @@
 ---
-date: '2002-10-01T00:00:00-0400'
-year: '2002'
-title: 'Spider-Man/Daredevil (2002) #1'
-issue: 1
+date: '2008-11-26T00:00:00-0500'
+year: '2008'
+title: 'Daredevil (1998) #113'
+issue: 113
 series:
-  period: '2002'
-  name: Spider-Man/Daredevil
-url: http://marvel.com/comics/issue/18826/spider-mandaredevil_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/22465/daredevil_1998_113?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb6f6444c0ce
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/572d13d1da764
   extension: jpg
