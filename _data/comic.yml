@@ -1,12 +1,12 @@
 ---
-date: '2008-11-26T00:00:00-0500'
-year: '2008'
-title: 'Daredevil (1998) #113'
-issue: 113
+date: '2002-10-16T00:00:00-0400'
+year: '2002'
+title: 'Black Panther (1998) #48'
+issue: 48
 series:
   period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/22465/daredevil_1998_113?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Black Panther
+url: http://marvel.com/comics/issue/12617/black_panther_1998_48?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/572d13d1da764
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/597a2f3ba5af8
   extension: jpg
