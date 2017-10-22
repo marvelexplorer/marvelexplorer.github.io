@@ -1,12 +1,12 @@
 ---
-date: '2009-03-25T00:00:00-0400'
-year: '2009'
-title: 'New Avengers (2004) #51'
-issue: 51
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Spider-Man/Daredevil (2002) #1'
+issue: 1
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/23747/new_avengers_2004_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Spider-Man/Daredevil
+url: http://marvel.com/comics/issue/18826/spider-mandaredevil_2002_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/5773ea00cea12
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb6f6444c0ce
   extension: jpg
