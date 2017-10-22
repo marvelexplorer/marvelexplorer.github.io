@@ -1,12 +1,12 @@
 ---
-date: '2009-05-20T00:00:00-0400'
+date: '2009-03-25T00:00:00-0400'
 year: '2009'
-title: 'Punisher (2008) #5'
-issue: 5
+title: 'New Avengers (2004) #51'
+issue: 51
 series:
-  period: '2008'
-  name: Punisher
-url: http://marvel.com/comics/issue/24228/punisher_2008_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/23747/new_avengers_2004_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/582c706152ced
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/5773ea00cea12
   extension: jpg
