@@ -1,12 +1,12 @@
 ---
-date: '1982-09-10T00:00:00-0400'
-year: '1982'
-title: 'Uncanny X-Men (1963) #161'
-issue: 161
+date: '2004-07-14T00:00:00-0400'
+year: '2004'
+title: 'Captain America (2002) #29'
+issue: 29
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13702/uncanny_x-men_1963_161?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Captain America
+url: http://marvel.com/comics/issue/595/captain_america_2002_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/575af02add2dc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/56e6fe8a88b3f
   extension: jpg
