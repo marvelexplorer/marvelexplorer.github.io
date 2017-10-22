@@ -1,12 +1,12 @@
 ---
-date: '1978-05-10T00:00:00-0400'
-year: '1978'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #18'
-issue: 18
+date: '2009-06-17T00:00:00-0400'
+year: '2009'
+title: 'Mighty Avengers (2007) #26'
+issue: 26
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14631/peter_parker_the_spectacular_spider-man_1976_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/25970/mighty_avengers_2007_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4c35fd083c2c6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f7c9235e45ea
   extension: jpg
