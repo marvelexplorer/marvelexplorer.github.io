@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 7
+- name: Beast
+  score: 4
 - name: Wolverine
   score: 3
 - name: Spider-Man
-  score: 3
-- name: Beast
   score: 3
 - name: Professor X
   score: 3
