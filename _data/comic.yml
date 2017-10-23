@@ -1,12 +1,12 @@
 ---
-date: '1994-12-01T00:00:00-0500'
-year: '1994'
-title: 'X-Men (1991) #39'
-issue: 39
+date: '2016-11-09T00:00:00-0500'
+year: '2016'
+title: 'All-New X-Men (2015) #15'
+issue: 15
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14327/x-men_1991_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: All-New X-Men
+url: http://marvel.com/comics/issue/56244/all-new_x-men_2015_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5580479bd62cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/5817629fd6401
   extension: jpg
