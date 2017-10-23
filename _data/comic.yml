@@ -1,12 +1,12 @@
 ---
-date: '2005-09-14T00:00:00-0400'
-year: '2005'
-title: 'X-Men (2004) #175'
-issue: 175
+date: '2006-01-18T00:00:00-0500'
+year: '2006'
+title: 'Uncanny X-Men (1963) #468'
+issue: 468
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/2410/x-men_2004_175?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/3143/uncanny_x-men_1963_468?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4d24f195c0ea1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/59233724d1d96
   extension: jpg
