@@ -1,12 +1,12 @@
 ---
-date: '2013-06-26T00:00:00-0400'
+date: '2013-03-20T00:00:00-0400'
 year: '2013'
-title: 'Captain America (2012) #8'
-issue: 8
+title: 'Captain America (2012) #5'
+issue: 5
 series:
   period: '2012'
   name: Captain America
-url: http://marvel.com/comics/issue/45974/captain_america_2012_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/45970/captain_america_2012_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/56f97baeba01e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/59b83f7cad7e1
   extension: jpg
