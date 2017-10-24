@@ -1,12 +1,12 @@
 ---
-date: '1994-08-01T00:00:00-0400'
+date: '1994-03-01T00:00:00-0500'
 year: '1994'
-title: 'Venom: Nights Of Vengeance (1994) #1'
-issue: 1
+title: 'Venom: The Enemy Within (1994) #2'
+issue: 2
 series:
   period: '1994'
-  name: 'Venom: Nights Of Vengeance'
-url: http://marvel.com/comics/issue/62581/venom_nights_of_vengeance_1994_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: 'Venom: The Enemy Within'
+url: http://marvel.com/comics/issue/62608/venom_the_enemy_within_1994_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/5893bca2c38cd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/5834899c3da34
   extension: jpg
