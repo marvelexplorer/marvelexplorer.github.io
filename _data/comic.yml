@@ -1,12 +1,12 @@
 ---
-date: '2010-02-24T00:00:00-0500'
-year: '2010'
-title: 'X-Men Legacy (2008) #233'
-issue: 233
+date: '2000-12-20T00:00:00-0500'
+year: '2000'
+title: 'Uncanny X-Men (1963) #388'
+issue: 388
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/30700/x-men_legacy_2008_233?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13929/uncanny_x-men_1963_388?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/51a4e27c40a31
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c7d48f4c1660
   extension: jpg
