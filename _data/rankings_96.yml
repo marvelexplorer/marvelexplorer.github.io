@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 8
+  score: 9
 - name: Wolverine
   score: 4
 - name: Professor X
   score: 3
 - name: Cyclops
   score: 3
-- name: Beast
+- name: Captain America
   score: 3
