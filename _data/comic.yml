@@ -1,12 +1,12 @@
 ---
-date: '2016-07-27T00:00:00-0400'
-year: '2016'
-title: 'All-New, All-Different Avengers (2015) #12'
-issue: 12
+date: '2017-06-07T00:00:00-0400'
+year: '2017'
+title: 'Avengers (2016) #8'
+issue: 8
 series:
-  period: '2015'
-  name: All-New, All-Different Avengers
-url: http://marvel.com/comics/issue/55365/all-new_all-different_avengers_2015_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Avengers
+url: http://marvel.com/comics/issue/61380/avengers_2016_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/57911f1745d10
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/593061a9a0521
   extension: jpg
