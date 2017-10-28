@@ -1,7 +1,8 @@
 ---
-name: Doctor Octopus
-description: ''
-url: http://marvel.com/universe/Doctor_Octopus_%28Otto_Octavius%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Gwen Stacy
+description: Peter Parker's first true love, Gwen Stacy was killed during a rescue
+  attempt by Spider-Man, the guilt from which Peter has never overcome.
+url: http://marvel.com/universe/Stacy%2C_Gwen?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/528d31b62eaba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/40/4c003ad20ab78
   extension: jpg
