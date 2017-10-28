@@ -1,12 +1,12 @@
 ---
-date: '2016-05-18T00:00:00-0400'
-year: '2016'
-title: 'Spider-Man (2016) #4'
-issue: 4
+date: '1976-08-10T00:00:00-0400'
+year: '1976'
+title: 'Amazing Spider-Man (1963) #159'
+issue: 159
 series:
-  period: '2016'
-  name: Spider-Man
-url: http://marvel.com/comics/issue/55698/spider-man_2016_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6548/amazing_spider-man_1963_159?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/572ba17f74054
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/51fc217c2ab7d
   extension: jpg
