@@ -1,12 +1,12 @@
 ---
-date: '2016-09-07T00:00:00-0400'
-year: '2016'
-title: 'Uncanny X-Men (2016) #12'
-issue: 12
+date: '2011-05-18T00:00:00-0400'
+year: '2011'
+title: 'X-Factor (2005) #219'
+issue: 219
 series:
-  period: '2016'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/56060/uncanny_x-men_2016_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: X-Factor
+url: http://marvel.com/comics/issue/35277/x-factor_2005_219?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/57c59bc772a2c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/595e69a649d63
   extension: jpg
