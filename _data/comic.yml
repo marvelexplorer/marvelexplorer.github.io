@@ -1,12 +1,12 @@
 ---
-date: '2006-06-21T00:00:00-0400'
-year: '2006'
-title: 'Last Planet Standing (2006) #4'
-issue: 4
+date: '1954-04-10T00:00:00-0500'
+year: '1954'
+title: 'Human Torch (1940) #36'
+issue: 36
 series:
-  period: '2006'
-  name: Last Planet Standing
-url: http://marvel.com/comics/issue/4289/last_planet_standing_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1940'
+  name: Human Torch
+url: http://marvel.com/comics/issue/8858/human_torch_1940_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/4bc5e27caf5bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/56f1a97e1adfd
   extension: jpg
