@@ -1,12 +1,12 @@
 ---
-date: '2012-03-21T00:00:00-0400'
+date: '2012-01-11T00:00:00-0500'
 year: '2012'
-title: 'Amazing Spider-Man (1999) #682'
-issue: 682
+title: 'Scarlet Spider (2011) #1'
+issue: 1
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/40110/amazing_spider-man_1999_682?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Scarlet Spider
+url: http://marvel.com/comics/issue/41172/scarlet_spider_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/57ebe3a097c9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5140c218cb8db
   extension: jpg
