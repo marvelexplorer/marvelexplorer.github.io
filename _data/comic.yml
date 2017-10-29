@@ -1,12 +1,12 @@
 ---
-date: '2012-09-12T00:00:00-0400'
-year: '2012'
-title: 'Uncanny X-Force (2010) #31'
-issue: 31
+date: '2007-06-20T00:00:00-0400'
+year: '2007'
+title: 'X-Men: Endangered Species (2007) #1'
+issue: 1
 series:
-  period: '2010'
-  name: Uncanny X-Force
-url: http://marvel.com/comics/issue/40449/uncanny_x-force_2010_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'X-Men: Endangered Species'
+url: http://marvel.com/comics/issue/15874/x-men_endangered_species_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/5931681e53b70
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953
   extension: jpg
