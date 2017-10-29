@@ -1,12 +1,12 @@
 ---
-date: '1976-01-10T00:00:00-0500'
-year: '1976'
-title: 'Avengers (1963) #143'
-issue: 143
+date: '2004-04-15T00:00:00-0400'
+year: '2004'
+title: 'Avengers (1998) #79'
+issue: 79
 series:
-  period: '1963'
+  period: '1998'
   name: Avengers
-url: http://marvel.com/comics/issue/7001/avengers_1963_143?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/360/avengers_1998_79?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb6dea895a15
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/586d5a21ecc90
   extension: jpg
