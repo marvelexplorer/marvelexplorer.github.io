@@ -1,12 +1,12 @@
 ---
-date: '1969-05-10T00:00:00-0400'
-year: '1969'
-title: 'Uncanny X-Men (1963) #56'
-issue: 56
+date: '1941-09-10T00:00:00-0400'
+year: '1941'
+title: 'Marvel Mystery Comics (1939) #23'
+issue: 23
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12506/uncanny_x-men_1963_56?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16729/marvel_mystery_comics_1939_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/80/5372bebcbcb30
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/598cad846abd5
   extension: jpg
