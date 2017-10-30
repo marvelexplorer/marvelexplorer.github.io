@@ -3,9 +3,9 @@
   score: 9
 - name: Storm
   score: 6
-- name: Thor
-  score: 3
 - name: Nightcrawler
   score: 3
 - name: Wolverine
   score: 3
+- name: Defenders
+  score: 2
