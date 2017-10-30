@@ -1,12 +1,12 @@
 ---
-date: '2005-07-13T00:00:00-0400'
-year: '2005'
-title: 'New Avengers (2004) #7'
-issue: 7
+date: '2013-01-09T00:00:00-0500'
+year: '2013'
+title: 'Marvel Universe vs. The Avengers (2012) #4'
+issue: 4
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/1975/new_avengers_2004_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Marvel Universe vs. The Avengers
+url: http://marvel.com/comics/issue/46296/marvel_universe_vs_the_avengers_2012_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f7db39021b77
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/576ac1f5d2a9e
   extension: jpg
