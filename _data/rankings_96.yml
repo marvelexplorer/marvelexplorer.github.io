@@ -1,8 +1,8 @@
 ---
 - name: X-Men
-  score: 10
+  score: 9
 - name: Wolverine
-  score: 5
+  score: 6
 - name: Storm
   score: 3
 - name: Archangel
