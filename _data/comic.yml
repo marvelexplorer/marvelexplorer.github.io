@@ -1,12 +1,12 @@
 ---
-date: '2001-04-01T00:00:00-0500'
-year: '2001'
-title: 'X-Men (1991) #111'
-issue: 111
+date: '1986-10-10T00:00:00-0400'
+year: '1986'
+title: 'X-Factor (1986) #9'
+issue: 9
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14295/x-men_1991_111?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12312/x-factor_1986_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/4bb7b67b95f89
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/594ad499ca18b
   extension: jpg
