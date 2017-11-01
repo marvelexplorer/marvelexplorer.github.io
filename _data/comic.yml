@@ -1,12 +1,12 @@
 ---
-date: '1986-09-10T00:00:00-0400'
-year: '1986'
-title: 'Classic X-Men (1986) #1'
+date: '2011-01-19T00:00:00-0500'
+year: '2011'
+title: 'Wolverine & Jubilee (2010) #1'
 issue: 1
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20563/classic_x-men_1986_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Wolverine & Jubilee
+url: http://marvel.com/comics/issue/36648/wolverine_jubilee_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/57e55adc898b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4cb7761fc3c32
   extension: jpg
