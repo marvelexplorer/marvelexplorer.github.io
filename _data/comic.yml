@@ -1,12 +1,12 @@
 ---
-date: '2007-01-31T00:00:00-0500'
-year: '2007'
-title: 'X-Men (2004) #195'
-issue: 195
+date: '2009-02-18T00:00:00-0500'
+year: '2009'
+title: 'X-Men: Kingbreaker (2008) #3'
+issue: 3
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/5778/x-men_2004_195?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'X-Men: Kingbreaker'
+url: http://marvel.com/comics/issue/23663/x-men_kingbreaker_2008_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d24dc7e5681b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/58caf1f20a976
   extension: jpg
