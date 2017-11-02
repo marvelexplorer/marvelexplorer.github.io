@@ -1,12 +1,12 @@
 ---
-date: '2011-11-30T00:00:00-0500'
-year: '2011'
-title: 'X-Men Legacy (2008) #259'
-issue: 259
+date: '2007-01-31T00:00:00-0500'
+year: '2007'
+title: 'X-Men (2004) #195'
+issue: 195
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/38102/x-men_legacy_2008_259?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/5778/x-men_2004_195?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/51a4e6eecc109
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d24dc7e5681b
   extension: jpg
