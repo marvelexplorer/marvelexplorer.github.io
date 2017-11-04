@@ -1,12 +1,12 @@
 ---
-date: '1989-02-10T00:00:00-0500'
-year: '1989'
-title: 'Avengers (1963) #300'
-issue: 300
+date: '2006-06-07T00:00:00-0400'
+year: '2006'
+title: 'Annihilation: Silver Surfer (2006) #3'
+issue: 3
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7176/avengers_1963_300?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'Annihilation: Silver Surfer'
+url: http://marvel.com/comics/issue/4315/annihilation_silver_surfer_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4e946b9b0ae02
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/578693c24666f
   extension: jpg
