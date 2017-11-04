@@ -1,12 +1,12 @@
 ---
-date: '1964-04-10T00:00:00-0500'
-year: '1964'
-title: 'Daredevil (1964) #1'
-issue: 1
+date: '1984-02-10T00:00:00-0500'
+year: '1984'
+title: 'Fantastic Four (1961) #263'
+issue: 263
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8073/daredevil_1964_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13076/fantastic_four_1961_263?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/51894efb25f92
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4c7d51f80d81e
   extension: jpg
