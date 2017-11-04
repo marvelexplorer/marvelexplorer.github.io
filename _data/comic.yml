@@ -1,12 +1,12 @@
 ---
-date: '1976-12-10T00:00:00-0500'
-year: '1976'
-title: 'Nova (1976) #4'
-issue: 4
+date: '2013-03-13T00:00:00-0400'
+year: '2013'
+title: 'Avengers Assemble (2012) #13'
+issue: 13
 series:
-  period: '1976'
-  name: Nova
-url: http://marvel.com/comics/issue/23382/nova_1976_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Avengers Assemble
+url: http://marvel.com/comics/issue/45876/avengers_assemble_2012_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5820ae4588c35
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/58d549afd8b8a
   extension: jpg
