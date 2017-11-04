@@ -1,12 +1,12 @@
 ---
-date: '2006-06-07T00:00:00-0400'
+date: '2006-08-09T00:00:00-0400'
 year: '2006'
-title: 'Annihilation: Silver Surfer (2006) #3'
-issue: 3
+title: 'Annihilation (2006) #1'
+issue: 1
 series:
   period: '2006'
-  name: 'Annihilation: Silver Surfer'
-url: http://marvel.com/comics/issue/4315/annihilation_silver_surfer_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Annihilation
+url: http://marvel.com/comics/issue/4788/annihilation_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/578693c24666f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51b61283075b2
   extension: jpg
