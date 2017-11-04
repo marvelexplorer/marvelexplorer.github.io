@@ -1,12 +1,12 @@
 ---
-date: '2005-11-09T00:00:00-0500'
-year: '2005'
-title: 'Friendly Neighborhood Spider-Man (2005) #2'
-issue: 2
+date: '1968-04-10T00:00:00-0500'
+year: '1968'
+title: 'Captain America (1968) #100'
+issue: 100
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/3021/friendly_neighborhood_spider-man_2005_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7481/captain_america_1968_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/56a8f84d6bc30
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5994604e20b1e
   extension: jpg
