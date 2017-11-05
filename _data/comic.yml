@@ -1,12 +1,12 @@
 ---
-date: '2009-02-04T00:00:00-0500'
-year: '2009'
-title: 'Cable (2008) #11'
-issue: 11
+date: '2012-03-21T00:00:00-0400'
+year: '2012'
+title: 'Uncanny X-Men (2011) #9'
+issue: 9
 series:
-  period: '2008'
-  name: Cable
-url: http://marvel.com/comics/issue/23618/cable_2008_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/40156/uncanny_x-men_2011_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4ea0720a9f634
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/51895d742cf28
   extension: jpg
