@@ -1,12 +1,12 @@
 ---
-date: '2003-02-01T00:00:00-0500'
-year: '2003'
-title: 'Paradise X (2002) #8'
-issue: 8
+date: '2007-08-22T00:00:00-0400'
+year: '2007'
+title: 'Marvel Adventures Fantastic Four (2005) #27'
+issue: 27
 series:
-  period: '2002'
-  name: Paradise X
-url: http://marvel.com/comics/issue/10503/paradise_x_2002_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Marvel Adventures Fantastic Four
+url: http://marvel.com/comics/issue/16132/marvel_adventures_fantastic_four_2005_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4c36038fe6ddb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc39b63df29d
   extension: jpg
