@@ -1,12 +1,12 @@
 ---
-date: '1998-10-01T00:00:00-0400'
-year: '1998'
-title: 'X-Men (1991) #80'
-issue: 80
+date: '1967-12-10T00:00:00-0500'
+year: '1967'
+title: 'Avengers (1963) #47'
+issue: 47
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14373/x-men_1991_80?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7296/avengers_1963_47?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/587e86c0bff49
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/c0/5865398d33f69
   extension: jpg
