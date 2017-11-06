@@ -1,12 +1,12 @@
 ---
-date: '2000-02-10T00:00:00-0500'
-year: '2000'
-title: 'Peter Parker: Spider-Man (1999) #14'
-issue: 14
+date: '1976-10-10T00:00:00-0400'
+year: '1976'
+title: 'Amazing Spider-Man (1963) #161'
+issue: 161
 series:
-  period: '1999'
-  name: 'Peter Parker: Spider-Man'
-url: http://marvel.com/comics/issue/10522/peter_parker_spider-man_1999_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6551/amazing_spider-man_1963_161?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/58247a98004c6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/526177e9249e3
   extension: jpg
