@@ -1,12 +1,12 @@
 ---
-date: '1965-06-10T00:00:00-0400'
-year: '1965'
-title: 'Avengers (1963) #17'
-issue: 17
+date: '2000-02-10T00:00:00-0500'
+year: '2000'
+title: 'Peter Parker: Spider-Man (1999) #14'
+issue: 14
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7030/avengers_1963_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: 'Peter Parker: Spider-Man'
+url: http://marvel.com/comics/issue/10522/peter_parker_spider-man_1999_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5852e7182b5e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/58247a98004c6
   extension: jpg
