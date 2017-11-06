@@ -1,12 +1,12 @@
 ---
-date: '2006-02-01T00:00:00-0500'
-year: '2006'
-title: 'X-Men: The End - Men and X-Men (2006) #2'
-issue: 2
+date: '1987-12-10T00:00:00-0500'
+year: '1987'
+title: 'X-Factor (1986) #23'
+issue: 23
 series:
-  period: '2006'
-  name: 'X-Men: The End - Men and X-Men'
-url: http://marvel.com/comics/issue/3457/x-men_the_end_-_men_and_x-men_2006_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12239/x-factor_1986_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/b0/59496fae91e9e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/573606f4131ae
   extension: jpg
