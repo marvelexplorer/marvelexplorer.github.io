@@ -1,12 +1,12 @@
 ---
-date: '2010-04-28T00:00:00-0400'
-year: '2010'
-title: 'X-Force (2008) #26'
-issue: 26
+date: '2001-10-01T00:00:00-0400'
+year: '2001'
+title: 'New X-Men (2001) #117'
+issue: 117
 series:
-  period: '2008'
-  name: X-Force
-url: http://marvel.com/comics/issue/32583/x-force_2008_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14936/new_x-men_2001_117?utm_campaign=apiRef&utm_source=d7b2d15c06e6282ea192d53c58ce0abf
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/513a7fb1b065a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc46b330096b
   extension: jpg
