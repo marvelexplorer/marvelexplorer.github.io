@@ -1,12 +1,12 @@
 ---
-date: '1980-09-10T00:00:00-0400'
-year: '1980'
-title: 'Uncanny X-Men (1963) #137'
-issue: 137
+date: '2008-05-29T00:00:00-0400'
+year: '2008'
+title: 'Ms. Marvel (2006) #27'
+issue: 27
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12455/uncanny_x-men_1963_137?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/21199/ms_marvel_2006_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5372a8d26e25e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/0/03/515205a815e09
   extension: jpg
