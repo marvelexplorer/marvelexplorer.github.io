@@ -1,12 +1,12 @@
 ---
-date: '2011-08-31T00:00:00-0400'
-year: '2011'
-title: 'Ultimate Comics Hawkeye (2011) #1'
-issue: 1
+date: '2003-03-10T00:00:00-0500'
+year: '2003'
+title: 'Ultimate War (2003) #3'
+issue: 3
 series:
-  period: '2011'
-  name: Ultimate Comics Hawkeye
-url: http://marvel.com/comics/issue/38950/ultimate_comics_hawkeye_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Ultimate War
+url: http://marvel.com/comics/issue/18476/ultimate_war_2003_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/70/4e53b194c0a01
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4c361fc40691a
   extension: jpg
