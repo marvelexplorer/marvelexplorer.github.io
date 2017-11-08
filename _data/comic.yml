@@ -1,12 +1,12 @@
 ---
-date: '2007-02-07T00:00:00-0500'
-year: '2007'
-title: 'Ultimate Spider-Man (2000) #105'
-issue: 105
+date: '2000-07-10T00:00:00-0400'
+year: '2000'
+title: 'Captain America (1998) #31'
+issue: 31
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/5951/ultimate_spider-man_2000_105?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12791/captain_america_1998_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/58f1255e3fffd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4e8b4d83564dd
   extension: jpg
