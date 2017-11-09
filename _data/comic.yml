@@ -1,12 +1,12 @@
 ---
-date: '1990-05-10T00:00:00-0400'
-year: '1990'
-title: 'Amazing Spider-Man (1963) #332'
-issue: 332
+date: '1994-08-01T00:00:00-0400'
+year: '1994'
+title: 'Venom: Nights Of Vengeance (1994) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6741/amazing_spider-man_1963_332?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1994'
+  name: 'Venom: Nights Of Vengeance'
+url: http://marvel.com/comics/issue/62581/venom_nights_of_vengeance_1994_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/57c89eeb4f0ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/5893bca2c38cd
   extension: jpg
