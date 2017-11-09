@@ -1,12 +1,12 @@
 ---
-date: '2012-11-14T00:00:00-0500'
-year: '2012'
-title: 'Amazing Spider-Man (1999) #697'
-issue: 697
+date: '1989-02-10T00:00:00-0500'
+year: '1989'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #147'
+issue: 147
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/40127/amazing_spider-man_1999_697?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14595/peter_parker_the_spectacular_spider-man_1976_147?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/57ed2435eccb2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/5825f9137e973
   extension: jpg
