@@ -1,12 +1,12 @@
 ---
-date: '1998-02-10T00:00:00-0500'
-year: '1998'
-title: 'Avengers (1998) #1'
-issue: 1
+date: '2000-01-01T00:00:00-0500'
+year: '2000'
+title: 'Cable (1993) #75'
+issue: 75
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17490/avengers_1998_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7454/cable_1993_75?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/594aa1f76914b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/d0/56f95d5827d78
   extension: jpg
