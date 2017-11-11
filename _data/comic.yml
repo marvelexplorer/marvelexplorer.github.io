@@ -1,12 +1,12 @@
 ---
-date: '1992-04-01T00:00:00-0500'
-year: '1992'
-title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #34'
-issue: 34
+date: '1993-03-01T00:00:00-0500'
+year: '1993'
+title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #45'
+issue: 45
 series:
   period: '1989'
   name: Nick Fury, Agent of S.H.I.E.L.D.
-url: http://marvel.com/comics/issue/27737/nick_fury_agent_of_shield_1989_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/27749/nick_fury_agent_of_shield_1989_45?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5835b14a3e7b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5978dca470363
   extension: jpg
