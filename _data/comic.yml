@@ -1,12 +1,12 @@
 ---
-date: '2002-08-01T00:00:00-0400'
-year: '2002'
-title: 'Avengers (1998) #55'
-issue: 55
+date: '1943-04-01T00:00:00-0400'
+year: '1943'
+title: 'All-Winners Comics (1941) #8'
+issue: 8
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17540/avengers_1998_55?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1941'
+  name: All-Winners Comics
+url: http://marvel.com/comics/issue/12573/all-winners_comics_1941_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5863dac41ca89
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/4bc3785499f26
   extension: jpg
