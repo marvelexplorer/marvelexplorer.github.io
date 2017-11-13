@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 8
-- name: Spider-Man
-  score: 4
 - name: Thing
   score: 4
 - name: Vision
   score: 4
+- name: Spider-Man
+  score: 3
 - name: Human Torch
   score: 3
