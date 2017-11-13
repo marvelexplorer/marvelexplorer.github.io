@@ -1,7 +1,8 @@
 ---
-name: Puck
-description: ''
-url: http://marvel.com/universe/Puck_%28Eugene_Judd%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Vindicator
+description: Heather McNeil-Hudson married James Hudson, founder of Canadian super-team,
+  Alpha Flight, and donned a version of his Vindicator armor after his death.
+url: http://marvel.com/universe/Vindicator_%28Heather_Hudson%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c003c7cc0d8f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c003a7f39967
   extension: jpg
