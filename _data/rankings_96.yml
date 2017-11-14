@@ -1,9 +1,9 @@
 ---
 - name: Captain America
   score: 7
-- name: Vision
-  score: 5
 - name: Spider-Man
+  score: 4
+- name: Vision
   score: 4
 - name: Scarlet Witch
   score: 3
