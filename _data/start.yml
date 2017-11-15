@@ -1,7 +1,9 @@
 ---
-name: Nova
-description: ''
-url: http://marvel.com/universe/Nova_%28Richard_Rider%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Warlock (Technarchy)
+description: The New Mutants' Warlock is an alien being from an unidentified world
+  where the a sentient life forms are "techno-organic" life that resembles circuitry
+  and machinery in various ways.
+url: http://marvel.com/universe/Warlock_(Technarchy)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/51756578d2a75
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4da612d77cbd0
   extension: jpg
