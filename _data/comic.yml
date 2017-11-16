@@ -1,12 +1,12 @@
 ---
-date: '1985-05-10T00:00:00-0400'
-year: '1985'
-title: 'Fantastic Four (1961) #278'
-issue: 278
+date: '1967-02-10T00:00:00-0500'
+year: '1967'
+title: 'Tales to Astonish (1959) #88'
+issue: 88
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13092/fantastic_four_1961_278?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11435/tales_to_astonish_1959_88?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4c366d7377d71
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/536d44888e1c4
   extension: jpg
