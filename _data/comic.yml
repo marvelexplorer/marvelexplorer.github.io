@@ -1,12 +1,12 @@
 ---
-date: '2005-07-20T00:00:00-0400'
-year: '2005'
-title: 'Defenders (2005) #1'
-issue: 1
+date: '1976-10-10T00:00:00-0400'
+year: '1976'
+title: 'Defenders (1972) #40'
+issue: 40
 series:
-  period: '2005'
+  period: '1972'
   name: Defenders
-url: http://marvel.com/comics/issue/2160/defenders_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/20349/defenders_1972_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/581ba2be3fe79
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/57d95a4c67662
   extension: jpg
