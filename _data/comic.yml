@@ -1,12 +1,12 @@
 ---
-date: '2011-12-14T00:00:00-0500'
-year: '2011'
-title: 'Carnage, U.S.A. (2011) #1'
-issue: 1
+date: '1989-01-01T00:00:00-0500'
+year: '1989'
+title: 'Squadron Supreme: Death of a Universe (1999)'
+issue: 0
 series:
-  period: '2011'
-  name: Carnage, U.S.A.
-url: http://marvel.com/comics/issue/40355/carnage_usa_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/18819/squadron_supreme_death_of_a_universe_1999?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/51d3262cd6f69
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb6abafe8516
   extension: jpg
