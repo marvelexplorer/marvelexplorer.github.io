@@ -1,8 +1,8 @@
 ---
-- name: Spider-Man
-  score: 5
 - name: X-Men
   score: 5
+- name: Spider-Man
+  score: 4
 - name: Thor
   score: 3
 - name: Sif
