@@ -1,12 +1,12 @@
 ---
-date: '2011-01-05T00:00:00-0500'
-year: '2011'
-title: 'X-Force: Force to Be Reckoned with (2011)'
-issue: 0
+date: '1985-12-10T00:00:00-0500'
+year: '1985'
+title: 'Incredible Hulk (1962) #314'
+issue: 314
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/37377/x-force_force_to_be_reckoned_with_2011?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9125/incredible_hulk_1962_314?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c4dffab7e77d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4baea9389c17d
   extension: jpg
