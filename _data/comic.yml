@@ -1,12 +1,12 @@
 ---
-date: '1994-09-10T00:00:00-0400'
-year: '1994'
-title: 'Spider-Man 2099 (1992) #23'
-issue: 23
+date: '1991-01-10T00:00:00-0500'
+year: '1991'
+title: 'Amazing Spider-Man (1963) #343'
+issue: 343
 series:
-  period: '1992'
-  name: Spider-Man 2099
-url: http://marvel.com/comics/issue/10880/spider-man_2099_1992_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6753/amazing_spider-man_1963_343?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5925d515bfd93
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/57ceee5d133f5
   extension: jpg
