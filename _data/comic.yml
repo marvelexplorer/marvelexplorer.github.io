@@ -1,12 +1,12 @@
 ---
-date: '2017-08-09T00:00:00-0400'
-year: '2017'
-title: 'Secret Warriors  (2017) #5'
-issue: 5
+date: '1982-09-10T00:00:00-0400'
+year: '1982'
+title: 'Amazing Spider-Man (1963) #232'
+issue: 232
 series:
-  period: '2017'
-  name: 'Secret Warriors '
-url: http://marvel.com/comics/issue/64286/secret_warriors_2017_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6630/amazing_spider-man_1963_232?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/20/5977959d169d6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/594aac3b77995
   extension: jpg
