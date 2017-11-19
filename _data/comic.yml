@@ -1,12 +1,12 @@
 ---
-date: '1988-04-10T00:00:00-0400'
-year: '1988'
-title: 'Marvel Fanfare (1982) #37'
-issue: 37
+date: '2001-02-01T00:00:00-0500'
+year: '2001'
+title: 'Thor (1998) #32'
+issue: 32
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19812/marvel_fanfare_1982_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/18656/thor_1998_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/58e40d88101d8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/50b3a604e95b5
   extension: jpg
