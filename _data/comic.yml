@@ -1,12 +1,12 @@
 ---
-date: '2006-04-19T00:00:00-0400'
-year: '2006'
-title: 'Sensational Spider-Man (2006) #25'
-issue: 25
+date: '2010-05-12T00:00:00-0400'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #631'
+issue: 631
 series:
-  period: '2006'
-  name: Sensational Spider-Man
-url: http://marvel.com/comics/issue/4102/sensational_spider-man_2006_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30306/amazing_spider-man_1999_631?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/596f833044f46
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/c0/5808e32178066
   extension: jpg
