@@ -1,12 +1,12 @@
 ---
-date: '1983-03-10T00:00:00-0500'
-year: '1983'
-title: 'Marvel Fanfare (1982) #7'
-issue: 7
+date: '1979-02-10T00:00:00-0500'
+year: '1979'
+title: 'Incredible Hulk (1962) #232'
+issue: 232
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19839/marvel_fanfare_1982_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9043/incredible_hulk_1962_232?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bb5c20861ab6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/52617ad3a1f9e
   extension: jpg
