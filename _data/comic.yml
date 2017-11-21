@@ -1,12 +1,12 @@
 ---
-date: '1971-01-10T00:00:00-0500'
-year: '1971'
-title: 'Iron Man (1968) #33'
-issue: 33
+date: '2012-09-26T00:00:00-0400'
+year: '2012'
+title: 'Amazing Spider-Man (1999) #694'
+issue: 694
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9583/iron_man_1968_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/40125/amazing_spider-man_1999_694?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/512e85ac68ab3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/56d480bb93cc9
   extension: jpg
