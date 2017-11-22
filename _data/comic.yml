@@ -1,12 +1,12 @@
 ---
-date: '1970-05-10T00:00:00-0400'
-year: '1970'
-title: 'Iron Man (1968) #25'
-issue: 25
+date: '1975-12-30T00:00:00-0500'
+year: '1975'
+title: 'Avengers (1963) #142'
+issue: 142
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9494/iron_man_1968_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7000/avengers_1963_142?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4e837526b6f23
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6deade8315
   extension: jpg
