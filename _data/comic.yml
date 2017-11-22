@@ -1,12 +1,12 @@
 ---
-date: '2005-10-26T00:00:00-0400'
-year: '2005'
-title: 'Daredevil (1998) #78'
-issue: 78
+date: '2016-09-21T00:00:00-0400'
+year: '2016'
+title: 'Agents of S.H.I.E.L.D. (2016) #9'
+issue: 9
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/2484/daredevil_1998_78?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Agents of S.H.I.E.L.D.
+url: http://marvel.com/comics/issue/56037/agents_of_shield_2016_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/572d0d466f69f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/57d2c16c5ced1
   extension: jpg
