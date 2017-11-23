@@ -1,9 +1,7 @@
 ---
-name: Demogoblin
-description: Jason Macendale, the newest Hobgoblin was down on his luck and offered
-  the demon N'astirh his soul in exchange for power during the  Inferno crisis, turning
-  him into the Demogoblin.
-url: http://marvel.com/universe/Demogoblin?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Morbius
+description: ''
+url: http://marvel.com/universe/Morbius?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/535fedd611db9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/535fee11e0e1a
   extension: jpg
