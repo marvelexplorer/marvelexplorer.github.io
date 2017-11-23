@@ -1,12 +1,12 @@
 ---
-date: '1989-03-10T00:00:00-0500'
-year: '1989'
-title: 'Doctor Strange, Sorcerer Supreme (1988) #3'
-issue: 3
+date: '2001-02-01T00:00:00-0500'
+year: '2001'
+title: 'Marvel Knights (2000) #8'
+issue: 8
 series:
-  period: '1988'
-  name: Doctor Strange, Sorcerer Supreme
-url: http://marvel.com/comics/issue/20190/doctor_strange_sorcerer_supreme_1988_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Marvel Knights
+url: http://marvel.com/comics/issue/16068/marvel_knights_2000_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/59d7c83b44e62
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/4bc36a0deb1be
   extension: jpg
