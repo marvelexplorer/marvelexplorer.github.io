@@ -1,12 +1,12 @@
 ---
-date: '2005-06-29T00:00:00-0400'
-year: '2005'
-title: 'Amazing Spider-Man (1999) #521'
-issue: 521
+date: '2017-07-12T00:00:00-0400'
+year: '2017'
+title: 'Spider-Men II (2017) #1'
+issue: 1
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/2069/amazing_spider-man_1999_521?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: Spider-Men II
+url: http://marvel.com/comics/issue/63766/spider-men_ii_2017_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/56cde65f20251
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/595ea83c1df85
   extension: jpg
