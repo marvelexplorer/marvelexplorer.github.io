@@ -1,12 +1,12 @@
 ---
-date: '2011-12-07T00:00:00-0500'
-year: '2011'
-title: 'Villains for Hire (2011) #1'
-issue: 1
+date: '1982-03-01T00:00:00-0500'
+year: '1982'
+title: 'Power Man and Iron Fist (1978) #79'
+issue: 79
 series:
-  period: '2011'
-  name: Villains for Hire
-url: http://marvel.com/comics/issue/41142/villains_for_hire_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1978'
+  name: Power Man and Iron Fist
+url: http://marvel.com/comics/issue/62332/power_man_and_iron_fist_1978_79?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/51966f155a3ba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/57d995ad231cf
   extension: jpg
