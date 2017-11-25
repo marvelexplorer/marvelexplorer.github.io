@@ -1,12 +1,12 @@
 ---
-date: '1978-12-01T00:00:00-0500'
-year: '1978'
-title: 'Power Man and Iron Fist (1978) #54'
-issue: 54
+date: '2012-10-03T00:00:00-0400'
+year: '2012'
+title: 'Avengers Vs. X-Men (2012) #12'
+issue: 12
 series:
-  period: '1978'
-  name: Power Man and Iron Fist
-url: http://marvel.com/comics/issue/56361/power_man_and_iron_fist_1978_54?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Avengers Vs. X-Men
+url: http://marvel.com/comics/issue/41278/avengers_vs_x-men_2012_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/57d025c863242
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/515f1bf1860a9
   extension: jpg
