@@ -1,12 +1,12 @@
 ---
-date: '1980-04-01T00:00:00-0500'
-year: '1980'
-title: 'Power Man and Iron Fist (1978) #62'
-issue: 62
+date: '1975-06-10T00:00:00-0400'
+year: '1975'
+title: 'Marvel Premiere (1972) #22'
+issue: 22
 series:
-  period: '1978'
-  name: Power Man and Iron Fist
-url: http://marvel.com/comics/issue/56369/power_man_and_iron_fist_1978_62?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1972'
+  name: Marvel Premiere
+url: http://marvel.com/comics/issue/10209/marvel_premiere_1972_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/57d07e83f13ab
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/57c761bfc9c39
   extension: jpg
