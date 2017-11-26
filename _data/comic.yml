@@ -1,12 +1,12 @@
 ---
-date: '2006-10-04T00:00:00-0400'
-year: '2006'
-title: 'Friendly Neighborhood Spider-Man (2005) #13'
-issue: 13
+date: '2000-03-01T00:00:00-0500'
+year: '2000'
+title: 'Amazing Spider-Man (1999) #17'
+issue: 17
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/5237/friendly_neighborhood_spider-man_2005_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/48432/amazing_spider-man_1999_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/56a8f346d1128
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/57e92d59bd7cc
   extension: jpg
