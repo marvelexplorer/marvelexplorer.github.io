@@ -1,12 +1,12 @@
 ---
-date: '1941-10-01T00:00:00-0500'
-year: '1941'
-title: 'Sub-Mariner Comics (1941) #3'
-issue: 3
+date: '2002-08-10T00:00:00-0400'
+year: '2002'
+title: 'Exiles (2001) #14'
+issue: 14
 series:
-  period: '1941'
-  name: Sub-Mariner Comics
-url: http://marvel.com/comics/issue/11206/sub-mariner_comics_1941_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Exiles
+url: http://marvel.com/comics/issue/16254/exiles_2001_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bc3745fbfbf4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc36be382777
   extension: jpg
