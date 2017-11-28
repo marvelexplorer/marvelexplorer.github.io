@@ -1,12 +1,12 @@
 ---
-date: '2006-04-19T00:00:00-0400'
-year: '2006'
-title: 'X-Men (2004) #185'
-issue: 185
+date: '1987-12-10T00:00:00-0500'
+year: '1987'
+title: 'X-Factor (1986) #23'
+issue: 23
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/4068/x-men_2004_185?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12239/x-factor_1986_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/58b4454309a43
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/573606f4131ae
   extension: jpg
