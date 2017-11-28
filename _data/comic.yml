@@ -1,12 +1,12 @@
 ---
-date: '1975-11-10T00:00:00-0500'
-year: '1975'
-title: 'Iron Fist (1975) #1'
-issue: 1
+date: '2008-11-12T00:00:00-0500'
+year: '2008'
+title: 'Wolverine (2003) #69'
+issue: 69
 series:
-  period: '1975'
-  name: Iron Fist
-url: http://marvel.com/comics/issue/22621/iron_fist_1975_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/22475/wolverine_2003_69?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/578fee05e16af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5893a124b72fb
   extension: jpg
