@@ -1,12 +1,12 @@
 ---
-date: '1989-01-01T00:00:00-0500'
-year: '1989'
-title: 'X-Factor Annual (1986) #4'
-issue: 4
+date: '2016-10-19T00:00:00-0400'
+year: '2016'
+title: 'Deadpool: Back in Black (2016) #2'
+issue: 2
 series:
-  period: '1986'
-  name: X-Factor Annual
-url: http://marvel.com/comics/issue/23512/x-factor_annual_1986_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: 'Deadpool: Back in Black'
+url: http://marvel.com/comics/issue/58991/deadpool_back_in_black_2016_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/20/50b40a6cd0ccb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/57fe4c38a7dd1
   extension: jpg
