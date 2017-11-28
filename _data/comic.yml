@@ -1,12 +1,12 @@
 ---
-date: '2009-06-10T00:00:00-0400'
-year: '2009'
-title: 'X-Men Forever (2009) #1'
-issue: 1
+date: '2014-11-19T00:00:00-0500'
+year: '2014'
+title: 'Deadpool (2012) #37'
+issue: 37
 series:
-  period: '2009'
-  name: X-Men Forever
-url: http://marvel.com/comics/issue/27298/x-men_forever_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Deadpool
+url: http://marvel.com/comics/issue/51067/deadpool_2012_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/58c30cd15db5f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/20/59764e883857f
   extension: jpg
