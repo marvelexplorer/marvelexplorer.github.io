@@ -1,12 +1,12 @@
 ---
-date: '1966-01-10T00:00:00-0500'
-year: '1966'
-title: 'Avengers (1963) #24'
-issue: 24
+date: '1982-10-10T00:00:00-0400'
+year: '1982'
+title: 'Defenders (1972) #112'
+issue: 112
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7108/avengers_1963_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1972'
+  name: Defenders
+url: http://marvel.com/comics/issue/20277/defenders_1972_112?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/585444af6fe21
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/f0/598b342314498
   extension: jpg
