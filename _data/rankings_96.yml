@@ -3,9 +3,9 @@
   score: 7
 - name: Beast
   score: 4
-- name: Avengers
-  score: 3
 - name: Fantastic Four
   score: 3
 - name: Hulk
+  score: 3
+- name: X-Men
   score: 3
