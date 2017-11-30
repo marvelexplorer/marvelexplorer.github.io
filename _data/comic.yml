@@ -1,12 +1,12 @@
 ---
-date: '2005-03-16T00:00:00-0500'
-year: '2005'
-title: 'Wolverine (2003) #26'
-issue: 26
+date: '2012-10-17T00:00:00-0400'
+year: '2012'
+title: 'Avengers Assemble (2012) #8'
+issue: 8
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/1712/wolverine_2003_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Avengers Assemble
+url: http://marvel.com/comics/issue/41885/avengers_assemble_2012_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/51ed65d183c56
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/58d522274dc9a
   extension: jpg
