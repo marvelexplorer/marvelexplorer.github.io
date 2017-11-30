@@ -1,12 +1,12 @@
 ---
-date: '2012-10-17T00:00:00-0400'
-year: '2012'
-title: 'Avengers Assemble (2012) #8'
-issue: 8
+date: '2016-05-18T00:00:00-0400'
+year: '2016'
+title: 'Power Man and Iron Fist (2016) #4'
+issue: 4
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/41885/avengers_assemble_2012_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Power Man and Iron Fist
+url: http://marvel.com/comics/issue/57953/power_man_and_iron_fist_2016_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/58d522274dc9a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/572b9ca2c41a8
   extension: jpg
