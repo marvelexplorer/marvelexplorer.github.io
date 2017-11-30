@@ -1,12 +1,12 @@
 ---
-date: '2007-12-12T00:00:00-0500'
-year: '2007'
-title: 'New Avengers (2004) #37'
-issue: 37
+date: '2004-08-18T00:00:00-0400'
+year: '2004'
+title: 'X-Men (2004) #160'
+issue: 160
 series:
   period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/17357/new_avengers_2004_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: X-Men
+url: http://marvel.com/comics/issue/762/x-men_2004_160?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4f7efadc9afd4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/58af0e679ea6e
   extension: jpg
