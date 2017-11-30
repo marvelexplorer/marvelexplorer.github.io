@@ -1,12 +1,12 @@
 ---
-date: '2004-08-18T00:00:00-0400'
-year: '2004'
-title: 'X-Men (2004) #160'
-issue: 160
+date: '1996-07-01T00:00:00-0400'
+year: '1996'
+title: 'X-Men (1991) #54'
+issue: 54
 series:
-  period: '2004'
+  period: '1991'
   name: X-Men
-url: http://marvel.com/comics/issue/762/x-men_2004_160?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/14344/x-men_1991_54?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/58af0e679ea6e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb86d42d4fd7
   extension: jpg
