@@ -1,12 +1,12 @@
 ---
-date: '1967-06-10T00:00:00-0400'
-year: '1967'
-title: 'Avengers (1963) #41'
-issue: 41
+date: '2006-09-20T00:00:00-0400'
+year: '2006'
+title: 'Civil War (2006) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7290/avengers_1963_41?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Civil War
+url: http://marvel.com/comics/issue/4786/civil_war_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/586415aa12cc2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/5113086a9cc96
   extension: jpg
