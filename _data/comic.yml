@@ -1,12 +1,12 @@
 ---
-date: '1991-08-10T00:00:00-0400'
-year: '1991'
-title: 'Avengers (1963) #335'
-issue: 335
+date: '1941-07-10T00:00:00-0400'
+year: '1941'
+title: 'All-Winners Comics (1941) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7214/avengers_1963_335?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1941'
+  name: All-Winners Comics
+url: http://marvel.com/comics/issue/12555/all-winners_comics_1941_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/51f946fc7319a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bc38112ca3bf
   extension: jpg
