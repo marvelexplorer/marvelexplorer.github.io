@@ -1,12 +1,12 @@
 ---
-date: '1974-11-20T00:00:00-0500'
-year: '1974'
-title: 'Avengers (1963) #129'
-issue: 129
+date: '2012-12-12T00:00:00-0500'
+year: '2012'
+title: 'Avengers Assemble (2012) #10'
+issue: 10
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/6985/avengers_1963_129?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Avengers Assemble
+url: http://marvel.com/comics/issue/41880/avengers_assemble_2012_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/04/5878fdf9cb3fd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/58d532036eee7
   extension: jpg
