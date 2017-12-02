@@ -1,12 +1,12 @@
 ---
-date: '1997-03-10T00:00:00-0500'
-year: '1997'
-title: 'Avengers (1996) #5'
-issue: 5
+date: '1974-11-20T00:00:00-0500'
+year: '1974'
+title: 'Avengers (1963) #129'
+issue: 129
 series:
-  period: '1996'
+  period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/17759/avengers_1996_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6985/avengers_1963_129?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/58765f271f371
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/04/5878fdf9cb3fd
   extension: jpg
