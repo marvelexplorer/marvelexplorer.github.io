@@ -1,12 +1,12 @@
 ---
-date: '1976-06-10T00:00:00-0400'
-year: '1976'
-title: 'Avengers (1963) #148'
-issue: 148
+date: '2016-07-20T00:00:00-0400'
+year: '2016'
+title: 'Patsy Walker, A.K.A. Hellcat! (2015) #8'
+issue: 8
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7006/avengers_1963_148?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Patsy Walker, A.K.A. Hellcat!
+url: http://marvel.com/comics/issue/57069/patsy_walker_aka_hellcat_2015_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bb6de9dedade
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/c0/57869e7509ffb
   extension: jpg
