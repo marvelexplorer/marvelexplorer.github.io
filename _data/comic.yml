@@ -1,12 +1,12 @@
 ---
-date: '2017-05-24T00:00:00-0400'
-year: '2017'
-title: 'Elektra (2017) #4'
-issue: 4
+date: '1979-08-10T00:00:00-0400'
+year: '1979'
+title: 'Uncanny X-Men (1963) #124'
+issue: 124
 series:
-  period: '2017'
-  name: Elektra
-url: http://marvel.com/comics/issue/61484/elektra_2017_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12441/uncanny_x-men_1963_124?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/591c9c5e1efa3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/58aca218a9b92
   extension: jpg
