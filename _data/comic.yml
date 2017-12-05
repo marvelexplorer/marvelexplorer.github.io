@@ -1,12 +1,12 @@
 ---
-date: '2014-01-15T00:00:00-0500'
-year: '2014'
-title: 'X-Men Legacy (2012) #22'
-issue: 22
+date: '2011-11-23T00:00:00-0500'
+year: '2011'
+title: 'Astonishing X-Men (2004) #44'
+issue: 44
 series:
-  period: '2012'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/49281/x-men_legacy_2012_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/39318/astonishing_x-men_2004_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/d0/58c99bf38d86e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/56b8bf730cf0e
   extension: jpg
