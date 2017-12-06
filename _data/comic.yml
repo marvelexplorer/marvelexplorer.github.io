@@ -1,12 +1,12 @@
 ---
-date: '2004-07-21T00:00:00-0400'
-year: '2004'
-title: 'X-Men (2004) #159'
-issue: 159
+date: '2000-02-01T00:00:00-0500'
+year: '2000'
+title: 'Cable (1993) #76'
+issue: 76
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/528/x-men_2004_159?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7455/cable_1993_76?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/58aefcbc6d232
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb589c75b195
   extension: jpg
