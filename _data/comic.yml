@@ -1,12 +1,12 @@
 ---
-date: '1992-02-10T00:00:00-0500'
-year: '1992'
-title: 'Spider-Man (1990) #19'
-issue: 19
+date: '1991-10-10T00:00:00-0400'
+year: '1991'
+title: 'X-Force (1991) #3'
+issue: 3
 series:
-  period: '1990'
-  name: Spider-Man
-url: http://marvel.com/comics/issue/10777/spider-man_1990_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/17994/x-force_1991_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/58335a93a1580
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/595fd54215910
   extension: jpg
