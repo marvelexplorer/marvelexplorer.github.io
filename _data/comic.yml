@@ -1,12 +1,12 @@
 ---
-date: '2012-03-07T00:00:00-0500'
+date: '2012-02-01T00:00:00-0500'
 year: '2012'
-title: 'Uncanny X-Men (2011) #8'
-issue: 8
+title: 'Uncanny X-Men (2011) #6'
+issue: 6
 series:
   period: '2011'
   name: Uncanny X-Men
-url: http://marvel.com/comics/issue/40162/uncanny_x-men_2011_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/40161/uncanny_x-men_2011_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/51895c19e6914
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/51895c3a4ea41
   extension: jpg
