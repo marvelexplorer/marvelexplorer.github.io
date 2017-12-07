@@ -1,12 +1,12 @@
 ---
-date: '1984-05-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #1'
-issue: 1
+date: '1963-11-10T00:00:00-0500'
+year: '1963'
+title: 'Strange Tales (1951) #114'
+issue: 114
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10580/secret_wars_1984_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1951'
+  name: Strange Tales
+url: http://marvel.com/comics/issue/11033/strange_tales_1951_114?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51dee6dd91671
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc470287482d
   extension: jpg
