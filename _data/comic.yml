@@ -1,12 +1,12 @@
 ---
-date: '1999-03-03T00:00:00-0500'
-year: '1999'
-title: 'Amazing Spider-Man (1999) #3'
-issue: 3
+date: '2017-01-11T00:00:00-0500'
+year: '2017'
+title: 'Spider-Man/Deadpool (2016) #13'
+issue: 13
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/37896/amazing_spider-man_1999_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Spider-Man/Deadpool
+url: http://marvel.com/comics/issue/55731/spider-mandeadpool_2016_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/57e1458b120af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/586ebdfa0e801
   extension: jpg
