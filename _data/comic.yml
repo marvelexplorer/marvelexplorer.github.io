@@ -1,12 +1,12 @@
 ---
-date: '2017-01-11T00:00:00-0500'
-year: '2017'
-title: 'Spider-Man/Deadpool (2016) #13'
-issue: 13
+date: '2009-09-02T00:00:00-0400'
+year: '2009'
+title: 'Deadpool (2008) #15'
+issue: 15
 series:
-  period: '2016'
-  name: Spider-Man/Deadpool
-url: http://marvel.com/comics/issue/55731/spider-mandeadpool_2016_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Deadpool
+url: http://marvel.com/comics/issue/24949/deadpool_2008_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/586ebdfa0e801
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/51a4f6e086ead
   extension: jpg
