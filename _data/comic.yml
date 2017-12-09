@@ -1,12 +1,12 @@
 ---
-date: '2005-08-17T00:00:00-0400'
-year: '2005'
-title: 'Cable & Deadpool (2004) #18'
-issue: 18
+date: '1996-10-01T00:00:00-0400'
+year: '1996'
+title: 'Onslaught: Marvel Universe (1996) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Cable & Deadpool
-url: http://marvel.com/comics/issue/2330/cable_deadpool_2004_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1996'
+  name: 'Onslaught: Marvel Universe'
+url: http://marvel.com/comics/issue/10453/onslaught_marvel_universe_1996_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/56e1da2cf2df6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57dae7fc9caf2
   extension: jpg
