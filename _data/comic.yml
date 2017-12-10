@@ -1,12 +1,12 @@
 ---
-date: '2012-08-08T00:00:00-0400'
-year: '2012'
-title: 'Avengers Assemble (2012) #6'
-issue: 6
+date: '1990-01-09T00:00:00-0500'
+year: '1990'
+title: 'Captain America Annual (1971) #9'
+issue: 9
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/41883/avengers_assemble_2012_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1971'
+  name: Captain America Annual
+url: http://marvel.com/comics/issue/17886/captain_america_annual_1971_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/58d4306ce1efa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/5810e872b0ac1
   extension: jpg
