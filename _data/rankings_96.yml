@@ -1,11 +1,11 @@
 ---
 - name: Colossus
   score: 4
+- name: Captain America
+  score: 4
 - name: Kitty Pryde
   score: 3
 - name: Cyclops
   score: 3
 - name: Spider-Man
-  score: 3
-- name: Thor
   score: 3
