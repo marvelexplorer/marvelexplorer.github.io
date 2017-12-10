@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 7
-- name: Colossus
+- name: Scarlet Witch
   score: 4
+- name: Colossus
+  score: 3
 - name: Spider-Man
   score: 3
 - name: Thor
-  score: 3
-- name: Avengers
   score: 3
