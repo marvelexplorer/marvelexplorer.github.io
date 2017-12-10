@@ -1,12 +1,12 @@
 ---
-date: '2000-10-01T00:00:00-0400'
-year: '2000'
-title: 'Deadpool (1997) #45'
-issue: 45
+date: '2016-05-11T00:00:00-0400'
+year: '2016'
+title: 'Illuminati (2015) #7'
+issue: 7
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8501/deadpool_1997_45?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Illuminati
+url: http://marvel.com/comics/issue/55857/illuminati_2015_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/4f2071e092339
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5745cbf0d4802
   extension: jpg
