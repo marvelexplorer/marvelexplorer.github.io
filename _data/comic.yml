@@ -1,12 +1,12 @@
 ---
-date: '2000-12-10T00:00:00-0500'
-year: '2000'
-title: 'Avengers (1998) #35'
-issue: 35
+date: '1965-01-10T00:00:00-0500'
+year: '1965'
+title: 'Tales of Suspense (1959) #61'
+issue: 61
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17518/avengers_1998_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11305/tales_of_suspense_1959_61?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/585c2daa42560
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/536d555e1643a
   extension: jpg
