@@ -1,12 +1,12 @@
 ---
-date: '2005-03-02T00:00:00-0500'
-year: '2005'
-title: 'X-Men: Age of Apocalypse One Shot (2005)'
-issue: 0
+date: '2012-03-21T00:00:00-0400'
+year: '2012'
+title: 'Uncanny X-Men (2011) #9'
+issue: 9
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/1930/x-men_age_of_apocalypse_one_shot_2005?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/40156/uncanny_x-men_2011_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc63e65f2848
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/51895d742cf28
   extension: jpg
