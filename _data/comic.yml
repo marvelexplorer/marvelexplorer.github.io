@@ -1,12 +1,12 @@
 ---
-date: '2008-09-24T00:00:00-0400'
-year: '2008'
-title: 'Wolverine: Roar (2008) #2'
-issue: 2
+date: '1999-07-10T00:00:00-0400'
+year: '1999'
+title: 'Wolverine (1988) #140'
+issue: 140
 series:
-  period: '2008'
-  name: 'Wolverine: Roar'
-url: http://marvel.com/comics/issue/21980/wolverine_roar_2008_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14082/wolverine_1988_140?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb7183bee494
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/59c52b933d70d
   extension: jpg
