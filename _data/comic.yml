@@ -1,12 +1,12 @@
 ---
-date: '1990-07-10T00:00:00-0400'
-year: '1990'
-title: 'Fantastic Four (1961) #340'
-issue: 340
+date: '2010-05-12T00:00:00-0400'
+year: '2010'
+title: 'Siege (2009) #4'
+issue: 4
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13162/fantastic_four_1961_340?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Siege
+url: http://marvel.com/comics/issue/30471/siege_2009_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c36614b176d4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/517aee0b2667b
   extension: jpg
