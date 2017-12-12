@@ -1,12 +1,12 @@
 ---
-date: '2012-06-13T00:00:00-0400'
-year: '2012'
-title: 'Uncanny X-Force (2010) #26'
-issue: 26
+date: '2010-12-29T00:00:00-0500'
+year: '2010'
+title: 'Deadpool Team-Up (2009) #886'
+issue: 886
 series:
-  period: '2010'
-  name: Uncanny X-Force
-url: http://marvel.com/comics/issue/40443/uncanny_x-force_2010_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Deadpool Team-Up
+url: http://marvel.com/comics/issue/31182/deadpool_team-up_2009_886?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/594286dacaf9f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/563d00fe5fa4d
   extension: jpg
