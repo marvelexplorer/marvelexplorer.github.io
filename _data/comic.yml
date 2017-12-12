@@ -1,12 +1,12 @@
 ---
-date: '2010-05-12T00:00:00-0400'
-year: '2010'
-title: 'Siege (2009) #4'
-issue: 4
+date: '2008-01-30T00:00:00-0500'
+year: '2008'
+title: 'What If? Annihilation (2007) #2'
+issue: 2
 series:
-  period: '2009'
-  name: Siege
-url: http://marvel.com/comics/issue/30471/siege_2009_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: What If? Annihilation
+url: http://marvel.com/comics/issue/17664/what_if_annihilation_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/517aee0b2667b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc33e4c0d6f2
   extension: jpg
