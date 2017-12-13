@@ -1,12 +1,12 @@
 ---
-date: '1989-12-15T00:00:00-0500'
-year: '1989'
-title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #6'
-issue: 6
+date: '1968-03-10T00:00:00-0500'
+year: '1968'
+title: 'Tales of Suspense (1959) #99'
+issue: 99
 series:
-  period: '1989'
-  name: Nick Fury, Agent of S.H.I.E.L.D.
-url: http://marvel.com/comics/issue/27753/nick_fury_agent_of_shield_1989_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11346/tales_of_suspense_1959_99?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/5834ac2f3623c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/536f07e06823c
   extension: jpg
