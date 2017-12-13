@@ -1,12 +1,12 @@
 ---
-date: '1993-10-01T00:00:00-0400'
-year: '1993'
-title: 'X-Force (1991) #27'
-issue: 27
+date: '2008-02-13T00:00:00-0500'
+year: '2008'
+title: 'X-Force (2008) #1'
+issue: 1
 series:
-  period: '1991'
+  period: '2008'
   name: X-Force
-url: http://marvel.com/comics/issue/17991/x-force_1991_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/20704/x-force_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/58765e6a9108e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/595e3b6d7c3fc
   extension: jpg
