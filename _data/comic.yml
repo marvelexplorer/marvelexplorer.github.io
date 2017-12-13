@@ -1,12 +1,12 @@
 ---
-date: '2013-08-14T00:00:00-0400'
-year: '2013'
-title: 'Secret Avengers (2013) #7'
-issue: 7
+date: '2009-02-04T00:00:00-0500'
+year: '2009'
+title: 'Invincible Iron Man (2008) #10'
+issue: 10
 series:
-  period: '2013'
-  name: Secret Avengers
-url: http://marvel.com/comics/issue/46451/secret_avengers_2013_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Invincible Iron Man
+url: http://marvel.com/comics/issue/23637/invincible_iron_man_2008_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/51f7d86a7b0fe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/58fe216652e02
   extension: jpg
