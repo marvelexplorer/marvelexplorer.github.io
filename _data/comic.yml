@@ -1,12 +1,12 @@
 ---
-date: '2017-10-25T00:00:00-0400'
-year: '2017'
-title: 'X-Men: Blue (2017) #14'
-issue: 14
+date: '2016-05-18T00:00:00-0400'
+year: '2016'
+title: 'Star-Lord (2015) #7'
+issue: 7
 series:
-  period: '2017'
-  name: 'X-Men: Blue'
-url: http://marvel.com/comics/issue/64958/x-men_blue_2017_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Star-Lord
+url: http://marvel.com/comics/issue/56186/star-lord_2015_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/59e7b0e322295
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/572ba7c2a0045
   extension: jpg
