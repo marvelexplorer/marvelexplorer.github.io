@@ -1,12 +1,12 @@
 ---
-date: '1993-06-01T00:00:00-0400'
-year: '1993'
-title: 'Silver Surfer/Warlock: Resurrection (1993) #4'
-issue: 4
+date: '1989-03-01T00:00:00-0500'
+year: '1989'
+title: 'Solo Avengers (1987) #16'
+issue: 16
 series:
-  period: '1993'
-  name: 'Silver Surfer/Warlock: Resurrection'
-url: http://marvel.com/comics/issue/57830/silver_surferwarlock_resurrection_1993_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1987'
+  name: Solo Avengers
+url: http://marvel.com/comics/issue/51131/solo_avengers_1987_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/587fc9266ba22
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/589ce6757ad46
   extension: jpg
