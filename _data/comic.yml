@@ -1,12 +1,12 @@
 ---
-date: '1989-03-01T00:00:00-0500'
-year: '1989'
-title: 'Solo Avengers (1987) #16'
-issue: 16
+date: '1990-09-20T00:00:00-0400'
+year: '1990'
+title: 'Uncanny X-Men (1963) #268'
+issue: 268
 series:
-  period: '1987'
-  name: Solo Avengers
-url: http://marvel.com/comics/issue/51131/solo_avengers_1987_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13809/uncanny_x-men_1963_268?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/589ce6757ad46
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c36286138f1b
   extension: jpg
