@@ -1,12 +1,12 @@
 ---
-date: '1996-10-01T00:00:00-0400'
-year: '1996'
-title: 'Onslaught: Marvel Universe (1996) #1'
+date: '1982-09-10T00:00:00-0400'
+year: '1982'
+title: 'Wolverine (1982) #1'
 issue: 1
 series:
-  period: '1996'
-  name: 'Onslaught: Marvel Universe'
-url: http://marvel.com/comics/issue/10453/onslaught_marvel_universe_1996_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1982'
+  name: Wolverine
+url: http://marvel.com/comics/issue/12168/wolverine_1982_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57dae7fc9caf2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5854497f12e1f
   extension: jpg
