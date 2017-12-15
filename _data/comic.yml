@@ -1,12 +1,12 @@
 ---
-date: '2009-02-04T00:00:00-0500'
-year: '2009'
-title: 'Black Panther (2008) #1'
-issue: 1
+date: '1970-05-10T00:00:00-0400'
+year: '1970'
+title: 'Thor (1966) #176'
+issue: 176
 series:
-  period: '2008'
-  name: Black Panther
-url: http://marvel.com/comics/issue/23657/black_panther_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11504/thor_1966_176?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5978a3167a5b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f635725cf53c
   extension: jpg
