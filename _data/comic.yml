@@ -1,12 +1,12 @@
 ---
-date: '2017-09-20T00:00:00-0400'
-year: '2017'
-title: 'Spider-Men II (2017) #3'
-issue: 3
+date: '2009-01-21T00:00:00-0500'
+year: '2009'
+title: 'Amazing Spider-Man (1999) #584'
+issue: 584
 series:
-  period: '2017'
-  name: Spider-Men II
-url: http://marvel.com/comics/issue/64575/spider-men_ii_2017_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/23078/amazing_spider-man_1999_584?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/0/04/59b93efc6ce5b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/04/57ff9f26d3fcc
   extension: jpg
