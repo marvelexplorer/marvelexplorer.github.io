@@ -1,12 +1,12 @@
 ---
-date: '2011-05-25T00:00:00-0400'
-year: '2011'
-title: 'Iron Man 2.0 (2011) #5'
-issue: 5
+date: '2003-01-01T00:00:00-0500'
+year: '2003'
+title: 'Thor (1998) #56'
+issue: 56
 series:
-  period: '2011'
-  name: Iron Man 2.0
-url: http://marvel.com/comics/issue/29794/iron_man_2.0_2011_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/18682/thor_1998_56?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/515f2c9b61f88
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/59d6371529c34
   extension: jpg
