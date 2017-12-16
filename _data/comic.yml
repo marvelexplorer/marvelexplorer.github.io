@@ -1,12 +1,12 @@
 ---
-date: '2006-11-29T00:00:00-0500'
-year: '2006'
-title: 'Black Panther (2005) #22'
-issue: 22
+date: '2009-06-10T00:00:00-0400'
+year: '2009'
+title: 'Wolverine (2003) #74'
+issue: 74
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/5408/black_panther_2005_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/24142/wolverine_2003_74?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/56fd343003339
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/58948b07e364b
   extension: jpg
