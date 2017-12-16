@@ -1,12 +1,12 @@
 ---
-date: '1970-11-10T00:00:00-0500'
-year: '1970'
-title: 'Thor (1966) #182'
-issue: 182
+date: '2011-11-02T00:00:00-0400'
+year: '2011'
+title: 'Thor: The Deviants Saga (2011) #1'
+issue: 1
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11510/thor_1966_182?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Thor: The Deviants Saga'
+url: http://marvel.com/comics/issue/41225/thor_the_deviants_saga_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f63581b6e0df
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4ecc11539c30d
   extension: jpg
