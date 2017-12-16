@@ -1,12 +1,12 @@
 ---
-date: '2008-02-27T00:00:00-0500'
-year: '2008'
-title: 'House of M: Avengers (2007) #5'
-issue: 5
+date: '2013-01-30T00:00:00-0500'
+year: '2013'
+title: 'Hawkeye (2012) #7'
+issue: 7
 series:
-  period: '2007'
-  name: 'House of M: Avengers'
-url: http://marvel.com/comics/issue/20689/house_of_m_avengers_2007_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Hawkeye
+url: http://marvel.com/comics/issue/42755/hawkeye_2012_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc318dcdb975
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51a515fc2bb35
   extension: jpg
