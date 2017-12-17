@@ -1,12 +1,12 @@
 ---
-date: '1995-01-10T00:00:00-0500'
-year: '1995'
-title: 'Spider-Man 2099 (1992) #27'
-issue: 27
+date: '2009-04-08T00:00:00-0400'
+year: '2009'
+title: 'Timestorm 2009/2099 (2009) #1'
+issue: 1
 series:
-  period: '1992'
-  name: Spider-Man 2099
-url: http://marvel.com/comics/issue/10884/spider-man_2099_1992_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Timestorm 2009/2099
+url: http://marvel.com/comics/issue/24042/timestorm_20092099_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5925d60ce633c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bb5752e0278b
   extension: jpg
