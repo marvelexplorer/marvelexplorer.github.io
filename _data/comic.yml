@@ -1,12 +1,12 @@
 ---
-date: '2008-12-10T00:00:00-0500'
-year: '2008'
-title: 'Astonishing X-Men: Ghost Boxes (2008) #2'
-issue: 2
+date: '2011-03-30T00:00:00-0400'
+year: '2011'
+title: 'Secret Avengers (2010) #11'
+issue: 11
 series:
-  period: '2008'
-  name: 'Astonishing X-Men: Ghost Boxes'
-url: http://marvel.com/comics/issue/22572/astonishing_x-men_ghost_boxes_2008_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/29091/secret_avengers_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/58f765ddaadba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/03/51897326f40b0
   extension: jpg
