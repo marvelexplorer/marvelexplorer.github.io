@@ -1,12 +1,12 @@
 ---
-date: '2012-01-04T00:00:00-0500'
-year: '2012'
-title: 'X-23 (2010) #20'
-issue: 20
+date: '2005-01-12T00:00:00-0500'
+year: '2005'
+title: 'X-23 (2005) #1'
+issue: 1
 series:
-  period: '2010'
+  period: '2005'
   name: X-23
-url: http://marvel.com/comics/issue/40577/x-23_2010_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/1534/x-23_2005_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/56bb4d2d5a317
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc468ba18fc2
   extension: jpg
