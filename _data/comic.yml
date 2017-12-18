@@ -1,12 +1,12 @@
 ---
-date: '1981-01-10T00:00:00-0500'
+date: '1981-09-10T00:00:00-0400'
 year: '1981'
-title: 'Marvel Spotlight (1979) #10'
+title: 'Incredible Hulk Annual (1968) #10'
 issue: 10
 series:
-  period: '1979'
-  name: Marvel Spotlight
-url: http://marvel.com/comics/issue/10257/marvel_spotlight_1979_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Incredible Hulk Annual
+url: http://marvel.com/comics/issue/16867/incredible_hulk_annual_1968_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4c7d4d7da815c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb6de5f0f3f0
   extension: jpg
