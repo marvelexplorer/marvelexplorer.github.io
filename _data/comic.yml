@@ -1,12 +1,12 @@
 ---
-date: '2011-04-13T00:00:00-0400'
-year: '2011'
-title: 'Marvel Adventures Super Heroes (2010) #13'
-issue: 13
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'Marvel Universe: The End (2003) #3'
+issue: 3
 series:
-  period: '2010'
-  name: Marvel Adventures Super Heroes
-url: http://marvel.com/comics/issue/36736/marvel_adventures_super_heroes_2010_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: 'Marvel Universe: The End'
+url: http://marvel.com/comics/issue/19471/marvel_universe_the_end_2003_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4d35adbde8a62
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4c363b774028f
   extension: jpg
