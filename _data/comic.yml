@@ -1,12 +1,12 @@
 ---
-date: '2016-12-07T00:00:00-0500'
-year: '2016'
-title: 'Nova (2016) #1'
-issue: 1
+date: '2011-04-13T00:00:00-0400'
+year: '2011'
+title: 'Marvel Adventures Super Heroes (2010) #13'
+issue: 13
 series:
-  period: '2016'
-  name: Nova
-url: http://marvel.com/comics/issue/61632/nova_2016_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Marvel Adventures Super Heroes
+url: http://marvel.com/comics/issue/36736/marvel_adventures_super_heroes_2010_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/583da33068aca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4d35adbde8a62
   extension: jpg
