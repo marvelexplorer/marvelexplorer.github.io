@@ -1,12 +1,12 @@
 ---
-date: '2017-08-09T00:00:00-0400'
-year: '2017'
-title: 'Marvel Universe Guardians of the Galaxy (2015) #21'
-issue: 21
+date: '2016-10-26T00:00:00-0400'
+year: '2016'
+title: 'Guardians of the Galaxy (2015) #13'
+issue: 13
 series:
   period: '2015'
-  name: Marvel Universe Guardians of the Galaxy
-url: http://marvel.com/comics/issue/61296/marvel_universe_guardians_of_the_galaxy_2015_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/55476/guardians_of_the_galaxy_2015_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/5977951465bdd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/58013e0498d43
   extension: jpg
