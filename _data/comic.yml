@@ -1,12 +1,12 @@
 ---
-date: '2003-05-01T00:00:00-0400'
-year: '2003'
-title: 'Hulk/Wolverine: 6 Hours (2003) #4'
-issue: 4
+date: '2007-09-06T00:00:00-0400'
+year: '2007'
+title: 'Wolverine (2003) #57'
+issue: 57
 series:
   period: '2003'
-  name: 'Hulk/Wolverine: 6 Hours'
-url: http://marvel.com/comics/issue/16048/hulkwolverine_6_hours_2003_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Wolverine
+url: http://marvel.com/comics/issue/16458/wolverine_2003_57?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/4bc369eebab5e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4d251806b541a
   extension: jpg
