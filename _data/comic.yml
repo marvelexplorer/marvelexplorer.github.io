@@ -1,12 +1,12 @@
 ---
-date: '2003-08-01T00:00:00-0400'
-year: '2003'
-title: 'New X-Men (2001) #142'
-issue: 142
+date: '2011-09-21T00:00:00-0400'
+year: '2011'
+title: 'Wolverine & Black Cat: Claws 2 (2010) #3'
+issue: 3
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14961/new_x-men_2001_142?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Wolverine & Black Cat: Claws 2'
+url: http://marvel.com/comics/issue/36726/wolverine_black_cat_claws_2_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc46b237fe78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4e7395e23de79
   extension: jpg
