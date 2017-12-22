@@ -1,10 +1,10 @@
 ---
 - name: Wolverine
   score: 9
-- name: Iron Man
-  score: 7
 - name: X-Men
   score: 7
+- name: Iron Man
+  score: 6
 - name: Archangel
   score: 3
 - name: Iceman
