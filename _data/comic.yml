@@ -1,12 +1,12 @@
 ---
-date: '1986-06-10T00:00:00-0400'
-year: '1986'
-title: 'New Mutants (1983) #40'
-issue: 40
+date: '2012-03-28T00:00:00-0400'
+year: '2012'
+title: Avengers Vs. X-Men (2012)
+issue: 0
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10378/new_mutants_1983_40?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/42332/avengers_vs_x-men_2012?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5a0486afc65c1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/4f74807d9748d
   extension: jpg
