@@ -1,12 +1,12 @@
 ---
-date: '2011-12-21T00:00:00-0500'
-year: '2011'
-title: 'Defenders: Strange Heroes (2011) #1'
-issue: 1
+date: '1977-06-10T00:00:00-0400'
+year: '1977'
+title: 'Iron Fist (1975) #13'
+issue: 13
 series:
-  period: '2011'
-  name: 'Defenders: Strange Heroes'
-url: http://marvel.com/comics/issue/41179/defenders_strange_heroes_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1975'
+  name: Iron Fist
+url: http://marvel.com/comics/issue/22625/iron_fist_1975_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/56b8f5914f9bd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/578fec37207fd
   extension: jpg
