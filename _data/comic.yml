@@ -1,12 +1,12 @@
 ---
-date: '1993-04-01T00:00:00-0500'
+date: '1993-06-01T00:00:00-0400'
 year: '1993'
-title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #46'
-issue: 46
+title: 'X-Force (1991) #23'
+issue: 23
 series:
-  period: '1989'
-  name: Nick Fury, Agent of S.H.I.E.L.D.
-url: http://marvel.com/comics/issue/27750/nick_fury_agent_of_shield_1989_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/17987/x-force_1991_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/50/5978dc8d76bda
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/58765a6d3bf74
   extension: jpg
