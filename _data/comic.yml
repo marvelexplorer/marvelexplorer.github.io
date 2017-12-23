@@ -1,12 +1,12 @@
 ---
-date: '1977-12-01T00:00:00-0500'
-year: '1977'
-title: 'Power Man (1974) #48'
-issue: 48
+date: '2005-06-22T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #6'
+issue: 6
 series:
-  period: '1974'
-  name: Power Man
-url: http://marvel.com/comics/issue/56351/power_man_1974_48?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/1829/new_avengers_2004_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/57c75db1b8999
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f7dae738407f
   extension: jpg
