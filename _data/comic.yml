@@ -1,12 +1,12 @@
 ---
-date: '2008-08-06T00:00:00-0400'
-year: '2008'
-title: 'Invincible Iron Man (2008) #4'
-issue: 4
+date: '1993-04-01T00:00:00-0500'
+year: '1993'
+title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #46'
+issue: 46
 series:
-  period: '2008'
-  name: Invincible Iron Man
-url: http://marvel.com/comics/issue/21788/invincible_iron_man_2008_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1989'
+  name: Nick Fury, Agent of S.H.I.E.L.D.
+url: http://marvel.com/comics/issue/27750/nick_fury_agent_of_shield_1989_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/04/58fe1669ddedd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/50/5978dc8d76bda
   extension: jpg
