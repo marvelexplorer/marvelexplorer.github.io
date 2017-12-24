@@ -1,12 +1,12 @@
 ---
-date: '1995-11-01T00:00:00-0500'
-year: '1995'
-title: 'Spider-Man 2099 Meets Spider-Man (1995) #1'
-issue: 1
+date: '2013-09-04T00:00:00-0400'
+year: '2013'
+title: 'Superior Spider-Man (2013) #17'
+issue: 17
 series:
-  period: '1995'
-  name: Spider-Man 2099 Meets Spider-Man
-url: http://marvel.com/comics/issue/65143/spider-man_2099_meets_spider-man_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Superior Spider-Man
+url: http://marvel.com/comics/issue/47381/superior_spider-man_2013_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/59c2d555a03dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/521bb64dc1632
   extension: jpg
