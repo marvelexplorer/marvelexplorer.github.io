@@ -1,12 +1,12 @@
 ---
-date: '1986-07-10T00:00:00-0400'
-year: '1986'
-title: 'New Mutants (1983) #41'
-issue: 41
+date: '2000-01-10T00:00:00-0500'
+year: '2000'
+title: 'Deadpool (1997) #36'
+issue: 36
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10379/new_mutants_1983_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1997'
+  name: Deadpool
+url: http://marvel.com/comics/issue/8491/deadpool_1997_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/5a04901de62ad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/4f205a7c6ab30
   extension: jpg
