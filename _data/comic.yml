@@ -1,12 +1,12 @@
 ---
-date: '1987-10-10T00:00:00-0400'
-year: '1987'
-title: 'Avengers (1963) #284'
-issue: 284
+date: '2010-06-03T00:00:00-0400'
+year: '2010'
+title: 'Avengers: Prime (2010) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7157/avengers_1963_284?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Avengers: Prime'
+url: http://marvel.com/comics/issue/30094/avengers_prime_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e95df8261f16
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5a20423f75cea
   extension: jpg
