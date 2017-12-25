@@ -1,12 +1,12 @@
 ---
-date: '1995-02-01T00:00:00-0500'
-year: '1995'
-title: 'X-Men (1991) #41'
-issue: 41
+date: '1967-12-10T00:00:00-0500'
+year: '1967'
+title: 'Avengers (1963) #47'
+issue: 47
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14330/x-men_1991_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7296/avengers_1963_47?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5580484ebd331
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/c0/5865398d33f69
   extension: jpg

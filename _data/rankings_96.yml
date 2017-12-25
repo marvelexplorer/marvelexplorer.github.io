@@ -2,10 +2,10 @@
 - name: X-Men
   score: 6
 - name: Iron Man
-  score: 6
+  score: 5
 - name: Avengers
   score: 4
 - name: Spider-Man
   score: 4
-- name: Professor X
-  score: 2
+- name: Rogue
+  score: 3
