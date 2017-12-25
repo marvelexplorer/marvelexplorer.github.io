@@ -1,12 +1,12 @@
 ---
-date: '1986-07-10T00:00:00-0400'
-year: '1986'
-title: 'Amazing Spider-Man (1963) #278'
-issue: 278
+date: '1999-08-04T00:00:00-0400'
+year: '1999'
+title: 'Amazing Spider-Man (1999) #8'
+issue: 8
 series:
-  period: '1963'
+  period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/6680/amazing_spider-man_1963_278?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/37903/amazing_spider-man_1999_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/70/57e977bf46813
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/57e952dc5d115
   extension: jpg
