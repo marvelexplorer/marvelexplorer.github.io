@@ -1,12 +1,12 @@
 ---
-date: '1997-10-01T00:00:00-0400'
-year: '1997'
-title: 'Iron Man (1996) #12'
-issue: 12
+date: '2000-07-10T00:00:00-0400'
+year: '2000'
+title: 'Incredible Hulk (1999) #16'
+issue: 16
 series:
-  period: '1996'
-  name: Iron Man
-url: http://marvel.com/comics/issue/16331/iron_man_1996_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/14416/incredible_hulk_1999_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f7ef7344300d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5978db4214bbc
   extension: jpg
