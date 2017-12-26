@@ -1,12 +1,12 @@
 ---
-date: '2017-06-21T00:00:00-0400'
-year: '2017'
-title: 'Mighty Thor (2015) #20'
-issue: 20
+date: '1999-02-10T00:00:00-0500'
+year: '1999'
+title: 'Thor (1998) #8'
+issue: 8
 series:
-  period: '2015'
-  name: Mighty Thor
-url: http://marvel.com/comics/issue/61015/mighty_thor_2015_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/18708/thor_1998_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/5941aa9719d4a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/59c558fa2da38
   extension: jpg
