@@ -1,12 +1,12 @@
 ---
-date: '1999-02-10T00:00:00-0500'
-year: '1999'
-title: 'Captain America (1998) #14'
-issue: 14
+date: '2003-01-01T00:00:00-0500'
+year: '2003'
+title: 'Paradise X (2002) #7'
+issue: 7
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12772/captain_america_1998_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10502/paradise_x_2002_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/50b3b8ec3fdc5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c3606fb8c49a
   extension: jpg
