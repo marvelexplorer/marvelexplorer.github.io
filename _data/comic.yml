@@ -1,12 +1,12 @@
 ---
-date: '2017-04-12T00:00:00-0400'
-year: '2017'
-title: 'Power Man and Iron Fist (2016) #15'
-issue: 15
+date: '2006-07-26T00:00:00-0400'
+year: '2006'
+title: 'Daredevil (1998) #87'
+issue: 87
 series:
-  period: '2016'
-  name: Power Man and Iron Fist
-url: http://marvel.com/comics/issue/60755/power_man_and_iron_fist_2016_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/4439/daredevil_1998_87?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/58e7f6a3d6331
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bb6abe28cd0d
   extension: jpg
