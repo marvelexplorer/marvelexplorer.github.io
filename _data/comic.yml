@@ -1,12 +1,12 @@
 ---
-date: '1970-11-10T00:00:00-0500'
-year: '1970'
-title: 'Avengers (1963) #82'
-issue: 82
+date: '1989-01-20T00:00:00-0500'
+year: '1989'
+title: 'Havok & Wolverine: Meltdown (1988) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7335/avengers_1963_82?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: 'Havok & Wolverine: Meltdown'
+url: http://marvel.com/comics/issue/20019/havok_wolverine_meltdown_1988_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/586fc32d68fc9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb7b2ffb8b70
   extension: jpg
