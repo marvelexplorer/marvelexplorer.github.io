@@ -1,12 +1,12 @@
 ---
-date: '1979-02-10T00:00:00-0500'
-year: '1979'
-title: 'Uncanny X-Men (1963) #118'
-issue: 118
+date: '2009-01-28T00:00:00-0500'
+year: '2009'
+title: 'X-Men: Worlds Apart (2008) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12434/uncanny_x-men_1963_118?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'X-Men: Worlds Apart'
+url: http://marvel.com/comics/issue/23170/x-men_worlds_apart_2008_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/03/5372ae4064409
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/596671da5ef97
   extension: jpg
