@@ -1,12 +1,12 @@
 ---
-date: '1989-01-20T00:00:00-0500'
-year: '1989'
-title: 'Havok & Wolverine: Meltdown (1988) #4'
-issue: 4
+date: '1990-05-01T00:00:00-0400'
+year: '1990'
+title: 'Wolverine (1988) #24'
+issue: 24
 series:
   period: '1988'
-  name: 'Havok & Wolverine: Meltdown'
-url: http://marvel.com/comics/issue/20019/havok_wolverine_meltdown_1988_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Wolverine
+url: http://marvel.com/comics/issue/14142/wolverine_1988_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb7b2ffb8b70
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc37c944b45b
   extension: jpg
