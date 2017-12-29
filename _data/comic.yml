@@ -1,12 +1,12 @@
 ---
-date: '2010-12-08T00:00:00-0500'
-year: '2010'
-title: 'New Avengers (2010) #7'
-issue: 7
+date: '2007-12-19T00:00:00-0500'
+year: '2007'
+title: 'Immortal Iron Fist (2006) #11'
+issue: 11
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/32720/new_avengers_2010_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Immortal Iron Fist
+url: http://marvel.com/comics/issue/17258/immortal_iron_fist_2006_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4f6235e3705a4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/51b74e78ea8f5
   extension: jpg
