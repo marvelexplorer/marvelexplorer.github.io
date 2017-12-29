@@ -1,12 +1,12 @@
 ---
-date: '1996-09-01T00:00:00-0400'
-year: '1996'
-title: 'Punisher (1995) #11'
-issue: 11
+date: '1963-05-10T00:00:00-0400'
+year: '1963'
+title: 'Sgt. Fury and His Howling Commandos (1963) #1'
+issue: 1
 series:
-  period: '1995'
-  name: Punisher
-url: http://marvel.com/comics/issue/23391/punisher_1995_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Sgt. Fury and His Howling Commandos
+url: http://marvel.com/comics/issue/10644/sgt_fury_and_his_howling_commandos_1963_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb56c3a578e0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/90/59933e964e5fc
   extension: jpg
