@@ -1,12 +1,12 @@
 ---
-date: '2016-11-23T00:00:00-0500'
-year: '2016'
-title: 'X-Men ''92 (2016) #9'
-issue: 9
+date: '2013-06-26T00:00:00-0400'
+year: '2013'
+title: 'Uncanny X-Force (2013) #7'
+issue: 7
 series:
-  period: '2016'
-  name: X-Men '92
-url: http://marvel.com/comics/issue/57370/x-men_92_2016_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2013'
+  name: Uncanny X-Force
+url: http://marvel.com/comics/issue/46642/uncanny_x-force_2013_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/582cb383ba1d0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/51b8885eab49f
   extension: jpg
