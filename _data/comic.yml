@@ -1,12 +1,12 @@
 ---
-date: '2013-06-26T00:00:00-0400'
-year: '2013'
-title: 'Uncanny X-Force (2013) #7'
-issue: 7
+date: '2004-06-23T00:00:00-0400'
+year: '2004'
+title: 'Astonishing X-Men (2004) #2'
+issue: 2
 series:
-  period: '2013'
-  name: Uncanny X-Force
-url: http://marvel.com/comics/issue/46642/uncanny_x-force_2013_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/723/astonishing_x-men_2004_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/51b8885eab49f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/58f664fc764c9
   extension: jpg
