@@ -1,12 +1,12 @@
 ---
-date: '1986-10-10T00:00:00-0400'
-year: '1986'
-title: 'New Mutants (1983) #44'
-issue: 44
+date: '2013-01-09T00:00:00-0500'
+year: '2013'
+title: 'X-Men Legacy (2012) #4'
+issue: 4
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10382/new_mutants_1983_44?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/46799/x-men_legacy_2012_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/00/5a04bb03d00d6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/58c6f49cbc8e5
   extension: jpg
