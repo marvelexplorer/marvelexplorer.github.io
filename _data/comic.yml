@@ -1,12 +1,12 @@
 ---
-date: '2014-01-29T00:00:00-0500'
-year: '2014'
-title: 'X-Men Legacy (2012) #23'
-issue: 23
+date: '2002-06-01T00:00:00-0400'
+year: '2002'
+title: 'X-Treme X-Men (2001) #12'
+issue: 12
 series:
-  period: '2012'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/49282/x-men_legacy_2012_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15014/x-treme_x-men_2001_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/58c9a33817cc0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc367fc8b6fd
   extension: jpg
