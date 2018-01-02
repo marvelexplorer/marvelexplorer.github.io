@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 10
-- name: Human Torch
-  score: 4
 - name: Mr. Fantastic
   score: 4
 - name: Cyclops
   score: 4
 - name: Spider-Man
+  score: 3
+- name: Captain America
   score: 3
