@@ -3,9 +3,9 @@
   score: 11
 - name: Human Torch
   score: 6
-- name: Cyclops
-  score: 4
 - name: Mr. Fantastic
   score: 4
 - name: Fantastic Four
   score: 4
+- name: Cyclops
+  score: 3
