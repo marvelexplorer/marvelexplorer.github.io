@@ -1,12 +1,12 @@
 ---
-date: '1987-12-10T00:00:00-0500'
-year: '1987'
-title: 'Classic X-Men (1986) #16'
-issue: 16
+date: '2009-04-29T00:00:00-0400'
+year: '2009'
+title: 'X-Men Origins: Wolverine (2009) #1'
+issue: 1
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20570/classic_x-men_1986_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: 'X-Men Origins: Wolverine'
+url: http://marvel.com/comics/issue/23947/x-men_origins_wolverine_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb6830df4142
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/5893c18c3c648
   extension: jpg
