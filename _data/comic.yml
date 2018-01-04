@@ -1,12 +1,12 @@
 ---
-date: '2009-10-21T00:00:00-0400'
-year: '2009'
-title: 'Mighty Avengers (2007) #30'
-issue: 30
+date: '2003-08-10T00:00:00-0400'
+year: '2003'
+title: 'Marvel Universe: The End (2003) #6'
+issue: 6
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/25974/mighty_avengers_2007_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: 'Marvel Universe: The End'
+url: http://marvel.com/comics/issue/22249/marvel_universe_the_end_2003_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f7c943b0e7a8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb6db5ce7842
   extension: jpg
