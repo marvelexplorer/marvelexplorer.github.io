@@ -1,11 +1,11 @@
 ---
 - name: X-Men
-  score: 9
-- name: Cyclops
-  score: 4
+  score: 10
 - name: Human Torch
   score: 4
 - name: Emma Frost
   score: 3
 - name: Wolverine
+  score: 3
+- name: Fantastic Four
   score: 3
