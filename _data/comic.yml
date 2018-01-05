@@ -1,12 +1,12 @@
 ---
-date: '2011-04-27T00:00:00-0400'
+date: '2011-10-12T00:00:00-0400'
 year: '2011'
-title: 'X-Men (2010) #10'
-issue: 10
+title: 'New Avengers (2010) #17'
+issue: 17
 series:
   period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/32187/x-men_2010_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: New Avengers
+url: http://marvel.com/comics/issue/35247/new_avengers_2010_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/58d13238f23fd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/40/5775341626597
   extension: jpg
