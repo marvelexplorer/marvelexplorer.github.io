@@ -1,10 +1,10 @@
 ---
-name: Warstar
-description: Warstar, a former member of the Imperial Guard, was one of eight Imperial
-  Guardsmen chosen to battle the team of superhuman Earthling mutants known as the
-  X-Men over the fate of Phoenix, a primal force of the cosmos that had assumed the
-  form of the X-Man Jean Grey.
-url: http://marvel.com/universe/Warstar?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Wolverine
+description: Born with super-human senses and the power to heal from almost any wound,
+  Wolverine was captured by a secret Canadian organization and given an unbreakable
+  skeleton and claws. Treated like an animal, it took years for him to control himself.
+  Now, he's a premiere member of both the X-Men and the Avengers.
+url: http://marvel.com/universe/Wolverine_(James_Howlett)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c003a73b6673
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf
   extension: jpg
