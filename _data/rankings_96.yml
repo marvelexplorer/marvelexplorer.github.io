@@ -1,7 +1,7 @@
 ---
-- name: X-Men
-  score: 7
 - name: Wolverine
+  score: 8
+- name: X-Men
   score: 7
 - name: Human Torch
   score: 4
