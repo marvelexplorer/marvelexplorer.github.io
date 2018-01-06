@@ -1,12 +1,12 @@
 ---
-date: '2010-05-26T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man Annual (2010) #37'
-issue: 37
+date: '2000-07-01T00:00:00-0400'
+year: '2000'
+title: 'Amazing Spider-Man (1999) #21'
+issue: 21
 series:
-  period: '2010'
-  name: Amazing Spider-Man Annual
-url: http://marvel.com/comics/issue/30196/amazing_spider-man_annual_2010_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/48444/amazing_spider-man_1999_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/56d724791075e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57e29a477c70d
   extension: jpg
