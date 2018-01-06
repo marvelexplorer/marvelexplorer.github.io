@@ -1,12 +1,12 @@
 ---
-date: '1999-10-10T00:00:00-0400'
-year: '1999'
-title: 'Avengers Forever (1998) #11'
-issue: 11
+date: '1996-12-10T00:00:00-0500'
+year: '1996'
+title: 'Avengers (1996) #2'
+issue: 2
 series:
-  period: '1998'
-  name: Avengers Forever
-url: http://marvel.com/comics/issue/12403/avengers_forever_1998_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1996'
+  name: Avengers
+url: http://marvel.com/comics/issue/17756/avengers_1996_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc47ca7db73e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/58765a4b98e5d
   extension: jpg
