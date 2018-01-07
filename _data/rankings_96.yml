@@ -1,10 +1,10 @@
 ---
 - name: Wolverine
   score: 9
-- name: X-Men
-  score: 4
 - name: Iron Man
   score: 4
+- name: X-Men
+  score: 3
 - name: Cyclops
   score: 3
 - name: Doctor Strange
