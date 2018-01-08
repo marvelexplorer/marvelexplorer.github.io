@@ -1,12 +1,12 @@
 ---
-date: '1976-06-10T00:00:00-0400'
-year: '1976'
-title: 'Marvel Two-in-One (1974) #16'
-issue: 16
+date: '2011-03-30T00:00:00-0400'
+year: '2011'
+title: 'Incredible Hulks (2009) #625'
+issue: 625
 series:
-  period: '1974'
-  name: Marvel Two-in-One
-url: http://marvel.com/comics/issue/19483/marvel_two-in-one_1974_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Incredible Hulks
+url: http://marvel.com/comics/issue/36049/incredible_hulks_2009_625?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/59b2edf708cc3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4f5788e89d964
   extension: jpg
