@@ -3,9 +3,9 @@
   score: 10
 - name: Doctor Strange
   score: 4
-- name: Cyclops
-  score: 3
 - name: Iron Man
   score: 3
 - name: Eternity
+  score: 2
+- name: X-Men
   score: 2
