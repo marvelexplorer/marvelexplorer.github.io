@@ -1,12 +1,12 @@
 ---
-date: '1980-10-10T00:00:00-0400'
-year: '1980'
-title: 'Avengers (1963) #200'
-issue: 200
+date: '1977-04-10T00:00:00-0500'
+year: '1977'
+title: 'Avengers (1963) #158'
+issue: 158
 series:
   period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/7065/avengers_1963_200?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7017/avengers_1963_158?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/587fa16adc18f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/5881143318ed7
   extension: jpg
