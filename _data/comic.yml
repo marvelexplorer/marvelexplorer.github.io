@@ -1,12 +1,12 @@
 ---
-date: '2017-03-22T00:00:00-0400'
-year: '2017'
-title: 'Captain America: Steve Rogers (2016) #14'
-issue: 14
+date: '1975-02-10T00:00:00-0500'
+year: '1975'
+title: 'Captain America (1968) #182'
+issue: 182
 series:
-  period: '2016'
-  name: 'Captain America: Steve Rogers'
-url: http://marvel.com/comics/issue/60951/captain_america_steve_rogers_2016_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7563/captain_america_1968_182?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/58c9acd451222
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/59b9625feaff5
   extension: jpg
