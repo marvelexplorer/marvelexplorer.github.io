@@ -1,12 +1,12 @@
 ---
-date: '2004-06-16T00:00:00-0400'
-year: '2004'
-title: 'X-Men (2004) #158'
-issue: 158
+date: '1999-03-01T00:00:00-0500'
+year: '1999'
+title: 'X-Men (1991) #85'
+issue: 85
 series:
-  period: '2004'
+  period: '1991'
   name: X-Men
-url: http://marvel.com/comics/issue/720/x-men_2004_158?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/14378/x-men_1991_85?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/58aeef3e4f3a3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/58a4bfe9e01e2
   extension: jpg
