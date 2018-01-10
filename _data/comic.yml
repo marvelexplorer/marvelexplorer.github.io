@@ -1,12 +1,12 @@
 ---
-date: '2001-11-01T00:00:00-0500'
-year: '2001'
-title: 'Wolverine (1988) #168'
-issue: 168
+date: '1994-11-10T00:00:00-0500'
+year: '1994'
+title: 'Amazing Spider-Man (1963) #395'
+issue: 395
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14112/wolverine_1988_168?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6810/amazing_spider-man_1963_395?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/584ebd8c073aa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/57d84db46b044
   extension: jpg
