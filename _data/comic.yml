@@ -1,12 +1,12 @@
 ---
-date: '2018-01-03T00:00:00-0500'
-year: '2018'
-title: 'Iron Fist (2017) #76'
-issue: 76
+date: '2010-10-20T00:00:00-0400'
+year: '2010'
+title: 'Daredevil (1998) #511'
+issue: 511
 series:
-  period: '2017'
-  name: Iron Fist
-url: http://marvel.com/comics/issue/65576/iron_fist_2017_76?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/30370/daredevil_1998_511?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5a382eae06877
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/70/574f471c8d786
   extension: jpg
