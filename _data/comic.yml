@@ -1,12 +1,12 @@
 ---
-date: '2001-07-01T00:00:00-0400'
-year: '2001'
-title: 'New X-Men (2001) #114'
-issue: 114
+date: '1989-01-10T00:00:00-0500'
+year: '1989'
+title: 'Havok & Wolverine: Meltdown (1988) #3'
+issue: 3
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14933/new_x-men_2001_114?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: 'Havok & Wolverine: Meltdown'
+url: http://marvel.com/comics/issue/20018/havok_wolverine_meltdown_1988_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/5140cda8ce9af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/4bb7d1020ca59
   extension: jpg
