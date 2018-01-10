@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
-  score: 4
+  score: 5
 - name: Doctor Strange
   score: 4
 - name: Ka-Zar
   score: 3
-- name: Hawkeye
-  score: 3
 - name: Avengers
+  score: 3
+- name: Scarlet Witch
   score: 3
