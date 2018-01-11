@@ -1,12 +1,12 @@
 ---
-date: '1975-08-10T00:00:00-0400'
-year: '1975'
-title: 'Super-Villain Team-Up (1975) #1'
-issue: 1
+date: '2000-09-10T00:00:00-0400'
+year: '2000'
+title: 'Incredible Hulk (1999) #18'
+issue: 18
 series:
-  period: '1975'
-  name: Super-Villain Team-Up
-url: http://marvel.com/comics/issue/18779/super-villain_team-up_1975_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/14418/incredible_hulk_1999_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/583dde49e64a1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/10/59824a5484527
   extension: jpg
