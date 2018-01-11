@@ -1,12 +1,12 @@
 ---
-date: '1991-01-25T00:00:00-0500'
+date: '1991-09-10T00:00:00-0400'
 year: '1991'
-title: 'Amazing Spider-Man Annual (1964) #25'
-issue: 25
+title: 'Spider-Man (1990) #14'
+issue: 14
 series:
-  period: '1964'
-  name: Amazing Spider-Man Annual
-url: http://marvel.com/comics/issue/16900/amazing_spider-man_annual_1964_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1990'
+  name: Spider-Man
+url: http://marvel.com/comics/issue/10772/spider-man_1990_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/57bef0ba13dd9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/5833583432aa6
   extension: jpg
