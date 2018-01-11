@@ -1,12 +1,12 @@
 ---
-date: '2016-11-23T00:00:00-0500'
-year: '2016'
-title: 'Ultimates 2 (2016) #1'
-issue: 1
+date: '1988-04-10T00:00:00-0400'
+year: '1988'
+title: 'Avengers (1963) #290'
+issue: 290
 series:
-  period: '2016'
-  name: Ultimates 2
-url: http://marvel.com/comics/issue/57267/ultimates_2_2016_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7164/avengers_1963_290?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/90/582f7d798eee1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/560c435e64248
   extension: jpg
