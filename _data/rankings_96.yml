@@ -1,6 +1,4 @@
 ---
-- name: Wolverine
-  score: 4
 - name: X-Men
   score: 4
 - name: Spider-Man
@@ -8,4 +6,6 @@
 - name: Ka-Zar
   score: 3
 - name: Doctor Strange
+  score: 3
+- name: Wolverine
   score: 3
