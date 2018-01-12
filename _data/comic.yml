@@ -1,12 +1,12 @@
 ---
-date: '1998-04-01T00:00:00-0500'
-year: '1998'
-title: 'Quicksilver (1997) #6'
-issue: 6
+date: '1968-02-10T00:00:00-0500'
+year: '1968'
+title: 'Avengers (1963) #49'
+issue: 49
 series:
-  period: '1997'
-  name: Quicksilver
-url: http://marvel.com/comics/issue/53682/quicksilver_1997_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7298/avengers_1963_49?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5835a9c1d8b6f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/58654d16baf65
   extension: jpg
