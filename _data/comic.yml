@@ -1,12 +1,12 @@
 ---
-date: '2008-12-10T00:00:00-0500'
-year: '2008'
-title: 'Adam: Legend of the Blue Marvel (2008) #2'
-issue: 2
+date: '1988-12-10T00:00:00-0500'
+year: '1988'
+title: 'Daredevil (1964) #261'
+issue: 261
 series:
-  period: '2008'
-  name: 'Adam: Legend of the Blue Marvel'
-url: http://marvel.com/comics/issue/22856/adam_legend_of_the_blue_marvel_2008_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8253/daredevil_1964_261?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4f71c50230fd9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/e0/4bc47989b8e97
   extension: jpg
