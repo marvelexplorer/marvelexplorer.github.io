@@ -1,12 +1,12 @@
 ---
-date: '2013-07-17T00:00:00-0400'
-year: '2013'
-title: 'Avengers Assemble (2012) #17'
-issue: 17
+date: '1971-09-10T00:00:00-0400'
+year: '1971'
+title: 'Incredible Hulk (1962) #143'
+issue: 143
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/47591/avengers_assemble_2012_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/8954/incredible_hulk_1962_143?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/58d5578bb268a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/525ec1d1552f9
   extension: jpg
