@@ -1,12 +1,12 @@
 ---
-date: '2001-04-01T00:00:00-0500'
-year: '2001'
-title: 'X-Men: The Hidden Years (1999) #18'
-issue: 18
+date: '2006-05-17T00:00:00-0400'
+year: '2006'
+title: 'X-Men (2004) #186'
+issue: 186
 series:
-  period: '1999'
-  name: 'X-Men: The Hidden Years'
-url: http://marvel.com/comics/issue/65373/x-men_the_hidden_years_1999_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/4181/x-men_2004_186?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/5a56978f1cb8b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/58b45345bbe2d
   extension: jpg
