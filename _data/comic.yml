@@ -1,12 +1,12 @@
 ---
-date: '2007-05-02T00:00:00-0400'
-year: '2007'
-title: 'Astonishing X-Men (2004) #21'
-issue: 21
+date: '2005-09-21T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #10'
+issue: 10
 series:
   period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/6120/astonishing_x-men_2004_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: New Avengers
+url: http://marvel.com/comics/issue/2626/new_avengers_2004_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bb8846d89d2f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/4f7dfbda0e3b9
   extension: jpg
