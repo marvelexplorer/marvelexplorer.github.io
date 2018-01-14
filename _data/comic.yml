@@ -1,12 +1,12 @@
 ---
-date: '1988-01-01T00:00:00-0500'
-year: '1988'
-title: 'X-Men Annual (1970) #12'
-issue: 12
+date: '1996-08-01T00:00:00-0400'
+year: '1996'
+title: 'Excalibur (1988) #100'
+issue: 100
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12358/x-men_annual_1970_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Excalibur
+url: http://marvel.com/comics/issue/8564/excalibur_1988_100?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5261700a4f270
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/55affdc636213
   extension: jpg
