@@ -1,11 +1,11 @@
 ---
 - name: Hulk
   score: 6
-- name: X-Men
-  score: 4
 - name: Spider-Man
   score: 3
 - name: Thing
   score: 3
 - name: Invisible Woman
+  score: 3
+- name: Iceman
   score: 3
