@@ -1,12 +1,12 @@
 ---
-date: '2011-12-14T00:00:00-0500'
-year: '2011'
-title: 'Magneto: Not a Hero (2011) #2'
-issue: 2
+date: '1987-08-10T00:00:00-0400'
+year: '1987'
+title: 'Classic X-Men (1986) #12'
+issue: 12
 series:
-  period: '2011'
-  name: 'Magneto: Not a Hero'
-url: http://marvel.com/comics/issue/39736/magneto_not_a_hero_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20566/classic_x-men_1986_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/56b8ebd769082
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb68487cbaf2
   extension: jpg
