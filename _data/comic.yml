@@ -1,12 +1,12 @@
 ---
-date: '2007-06-13T00:00:00-0400'
-year: '2007'
-title: 'Avengers Classic (2007) #1'
-issue: 1
+date: '2011-12-14T00:00:00-0500'
+year: '2011'
+title: 'Magneto: Not a Hero (2011) #2'
+issue: 2
 series:
-  period: '2007'
-  name: Avengers Classic
-url: http://marvel.com/comics/issue/15858/avengers_classic_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Magneto: Not a Hero'
+url: http://marvel.com/comics/issue/39736/magneto_not_a_hero_2011_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc49543209ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/56b8ebd769082
   extension: jpg
