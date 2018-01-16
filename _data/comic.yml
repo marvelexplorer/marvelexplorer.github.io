@@ -1,12 +1,12 @@
 ---
-date: '1996-07-01T00:00:00-0400'
-year: '1996'
-title: 'Further Adventures of Cyclops & Phoenix (1996) #2'
-issue: 2
+date: '2000-03-01T00:00:00-0500'
+year: '2000'
+title: 'X-Men (1991) #98'
+issue: 98
 series:
-  period: '1996'
-  name: Further Adventures of Cyclops & Phoenix
-url: http://marvel.com/comics/issue/60186/further_adventures_of_cyclops_phoenix_1996_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14392/x-men_1991_98?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/5941bad6bf2f0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bb567359de5d
   extension: jpg
