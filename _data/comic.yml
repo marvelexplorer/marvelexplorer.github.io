@@ -1,12 +1,12 @@
 ---
-date: '1941-10-10T00:00:00-0500'
-year: '1941'
-title: 'Marvel Mystery Comics (1939) #24'
-issue: 24
+date: '1991-12-10T00:00:00-0500'
+year: '1991'
+title: 'X-Men (1991) #3'
+issue: 3
 series:
-  period: '1939'
-  name: Marvel Mystery Comics
-url: http://marvel.com/comics/issue/16730/marvel_mystery_comics_1939_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14317/x-men_1991_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/598cae1046cce
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/589cc0bd9b99d
   extension: jpg
