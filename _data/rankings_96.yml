@@ -1,6 +1,4 @@
 ---
-- name: Hulk
-  score: 4
 - name: Beast
   score: 4
 - name: Avengers
@@ -8,4 +6,6 @@
 - name: X-Men
   score: 4
 - name: Thing
+  score: 3
+- name: Hulk
   score: 3
