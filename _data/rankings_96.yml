@@ -3,9 +3,9 @@
   score: 6
 - name: Wolverine
   score: 6
-- name: Avengers
-  score: 3
 - name: Archangel
   score: 3
 - name: Nightcrawler
+  score: 3
+- name: Professor X
   score: 3
