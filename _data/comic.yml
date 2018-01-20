@@ -1,12 +1,12 @@
 ---
-date: '2000-02-01T00:00:00-0500'
-year: '2000'
-title: 'X-Men: The Hidden Years (1999) #3'
-issue: 3
+date: '1991-10-10T00:00:00-0400'
+year: '1991'
+title: 'X-Factor (1986) #71'
+issue: 71
 series:
-  period: '1999'
-  name: 'X-Men: The Hidden Years'
-url: http://marvel.com/comics/issue/65865/x-men_the_hidden_years_1999_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12292/x-factor_1986_71?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/5a5695ca212dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/30/59540593860d8
   extension: jpg
