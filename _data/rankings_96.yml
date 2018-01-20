@@ -1,10 +1,10 @@
 ---
 - name: Wolverine
   score: 7
-- name: X-Men
-  score: 4
 - name: Gambit
   score: 4
+- name: X-Men
+  score: 3
 - name: Aurora
   score: 3
 - name: Cyclops
