@@ -1,8 +1,8 @@
 ---
-- name: Wolverine
-  score: 4
 - name: Spider-Man (Ultimate)
   score: 4
+- name: Wolverine
+  score: 3
 - name: Captain Marvel (Carol Danvers)
   score: 3
 - name: Polaris
