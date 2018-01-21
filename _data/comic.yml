@@ -1,12 +1,12 @@
 ---
-date: '2005-11-16T00:00:00-0500'
-year: '2005'
-title: 'Ultimate Spider-Man (2000) #86'
-issue: 86
+date: '2011-05-18T00:00:00-0400'
+year: '2011'
+title: 'Ultimate Comics Spider-Man (2009) #158'
+issue: 158
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/3003/ultimate_spider-man_2000_86?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Ultimate Comics Spider-Man
+url: http://marvel.com/comics/issue/37458/ultimate_comics_spider-man_2009_158?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/58e7d06a10a7a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/514caa6f4faa6
   extension: jpg
