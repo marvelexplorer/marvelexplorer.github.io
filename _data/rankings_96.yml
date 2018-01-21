@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 5
-- name: Aurora
-  score: 3
 - name: Gambit
   score: 3
 - name: Professor X
   score: 3
 - name: Nightcrawler
+  score: 3
+- name: Captain Marvel (Carol Danvers)
   score: 3
