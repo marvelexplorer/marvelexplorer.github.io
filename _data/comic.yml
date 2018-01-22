@@ -1,12 +1,12 @@
 ---
-date: '2011-06-29T00:00:00-0400'
-year: '2011'
-title: 'Ultimate Comics X (2010) #5'
-issue: 5
+date: '2008-01-30T00:00:00-0500'
+year: '2008'
+title: 'Ultimate Spider-Man (2000) #118'
+issue: 118
 series:
-  period: '2010'
-  name: Ultimate Comics X
-url: http://marvel.com/comics/issue/30612/ultimate_comics_x_2010_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate Spider-Man
+url: http://marvel.com/comics/issue/17584/ultimate_spider-man_2000_118?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/57a8e8270301e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/58e7d53c9cf30
   extension: jpg
