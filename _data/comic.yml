@@ -1,12 +1,12 @@
 ---
-date: '2008-01-30T00:00:00-0500'
-year: '2008'
-title: 'Ultimate Spider-Man (2000) #118'
-issue: 118
+date: '2001-07-01T00:00:00-0400'
+year: '2001'
+title: 'Ultimate Marvel Team-Up (2001) #4'
+issue: 4
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/17584/ultimate_spider-man_2000_118?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Ultimate Marvel Team-Up
+url: http://marvel.com/comics/issue/15778/ultimate_marvel_team-up_2001_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/58e7d53c9cf30
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bc361bdeff48
   extension: jpg
