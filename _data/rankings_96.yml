@@ -1,9 +1,9 @@
 ---
 - name: Spider-Man (Ultimate)
   score: 6
-- name: Polaris
-  score: 3
 - name: Iron Man
+  score: 4
+- name: Polaris
   score: 3
 - name: Mary Jane Watson (Ultimate)
   score: 3
