@@ -1,12 +1,12 @@
 ---
-date: '1996-01-01T00:00:00-0500'
-year: '1996'
-title: 'Venom: Along Came a Spider (1996) #1'
-issue: 1
+date: '1993-02-01T00:00:00-0500'
+year: '1993'
+title: 'Amazing Spider-Man (1963) #374'
+issue: 374
 series:
-  period: '1996'
-  name: 'Venom: Along Came a Spider'
-url: http://marvel.com/comics/issue/62319/venom_along_came_a_spider_1996_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6787/amazing_spider-man_1963_374?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/59553e0906fe4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/57d8422ec8d77
   extension: jpg
