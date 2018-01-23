@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man (Ultimate)
   score: 6
-- name: Iron Man
-  score: 4
 - name: Mary Jane Watson (Ultimate)
   score: 3
 - name: Nick Fury (Ultimate)
+  score: 3
+- name: Iron Man
   score: 3
 - name: Captain Marvel (Carol Danvers)
   score: 2
