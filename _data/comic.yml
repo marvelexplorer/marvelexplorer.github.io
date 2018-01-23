@@ -1,12 +1,12 @@
 ---
-date: '2011-11-09T00:00:00-0500'
-year: '2011'
-title: 'Avengers Origins: Vision (2013) #1'
-issue: 1
+date: '1983-10-01T00:00:00-0400'
+year: '1983'
+title: 'Hawkeye (1983) #2'
+issue: 2
 series:
-  period: '2013'
-  name: 'Avengers Origins: Vision'
-url: http://marvel.com/comics/issue/32686/avengers_origins_vision_2013_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1983'
+  name: Hawkeye
+url: http://marvel.com/comics/issue/43176/hawkeye_1983_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5a1f21d33d1f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/580535c8a6a90
   extension: jpg
