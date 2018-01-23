@@ -1,12 +1,12 @@
 ---
-date: '1983-10-01T00:00:00-0400'
-year: '1983'
-title: 'Hawkeye (1983) #2'
-issue: 2
+date: '1986-04-10T00:00:00-0500'
+year: '1986'
+title: 'Captain America (1968) #316'
+issue: 316
 series:
-  period: '1983'
-  name: Hawkeye
-url: http://marvel.com/comics/issue/43176/hawkeye_1983_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7697/captain_america_1968_316?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/580535c8a6a90
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/51fad1ad79a5c
   extension: jpg
