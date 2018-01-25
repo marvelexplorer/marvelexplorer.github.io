@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 4
-- name: Spider-Man (Ultimate)
-  score: 3
 - name: Nick Fury
   score: 3
 - name: Thor (Ultimate)
   score: 2
 - name: Captain America (Ultimate)
+  score: 2
+- name: Nick Fury (Ultimate)
   score: 2
