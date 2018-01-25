@@ -1,12 +1,12 @@
 ---
-date: '1979-05-10T00:00:00-0400'
-year: '1979'
-title: 'Fantastic Four (1961) #206'
-issue: 206
+date: '1999-08-01T00:00:00-0400'
+year: '1999'
+title: 'Uncanny X-Men (1963) #371'
+issue: 371
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13013/fantastic_four_1961_206?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13912/uncanny_x-men_1963_371?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/50b424e254998
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5115325a29b09
   extension: jpg
