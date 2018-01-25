@@ -1,12 +1,12 @@
 ---
-date: '1991-09-01T00:00:00-0400'
-year: '1991'
-title: 'Damage Control (1991) #4'
-issue: 4
+date: '1995-04-01T00:00:00-0500'
+year: '1995'
+title: 'Guardians of the Galaxy (1990) #59'
+issue: 59
 series:
-  period: '1991'
-  name: Damage Control
-url: http://marvel.com/comics/issue/57675/damage_control_1991_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1990'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/62876/guardians_of_the_galaxy_1990_59?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/57e55748a66ba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/594c3b58dca83
   extension: jpg
