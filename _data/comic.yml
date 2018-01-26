@@ -1,12 +1,12 @@
 ---
-date: '2010-12-08T00:00:00-0500'
-year: '2010'
-title: 'Captain America & the Korvac Saga (2010) #1'
-issue: 1
+date: '1972-12-10T00:00:00-0500'
+year: '1972'
+title: 'Avengers (1963) #106'
+issue: 106
 series:
-  period: '2010'
-  name: Captain America & the Korvac Saga
-url: http://marvel.com/comics/issue/33864/captain_america_the_korvac_saga_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/6960/avengers_1963_106?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/569ea5594d565
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5875449e02e3a
   extension: jpg
