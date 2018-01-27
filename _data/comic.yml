@@ -1,12 +1,12 @@
 ---
-date: '2006-11-22T00:00:00-0500'
-year: '2006'
-title: 'Amazing Spider-Man (1999) #536'
-issue: 536
+date: '1979-02-10T00:00:00-0500'
+year: '1979'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #27'
+issue: 27
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/5094/amazing_spider-man_1999_536?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14725/peter_parker_the_spectacular_spider-man_1976_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56fd2e0e0eca3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5a06275253216
   extension: jpg
