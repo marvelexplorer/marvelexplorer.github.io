@@ -1,12 +1,12 @@
 ---
-date: '2009-04-15T00:00:00-0400'
-year: '2009'
-title: 'Wolverine Noir (2009) #1'
-issue: 1
+date: '1973-01-10T00:00:00-0500'
+year: '1973'
+title: 'Avengers (1963) #107'
+issue: 107
 series:
-  period: '2009'
-  name: Wolverine Noir
-url: http://marvel.com/comics/issue/24004/wolverine_noir_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/6961/avengers_1963_107?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/4badfbaf0ebe0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/a0/58754c7310671
   extension: jpg
