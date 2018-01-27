@@ -1,12 +1,12 @@
 ---
-date: '1969-07-10T00:00:00-0400'
-year: '1969'
-title: 'Avengers (1963) #66'
-issue: 66
+date: '2006-11-22T00:00:00-0500'
+year: '2006'
+title: 'Amazing Spider-Man (1999) #536'
+issue: 536
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7317/avengers_1963_66?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/5094/amazing_spider-man_1999_536?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4d49e1a8e5b50
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56fd2e0e0eca3
   extension: jpg
