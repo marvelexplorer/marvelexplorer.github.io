@@ -1,12 +1,12 @@
 ---
-date: '2018-01-10T00:00:00-0500'
+date: '2018-01-17T00:00:00-0500'
 year: '2018'
-title: 'Cable (2017) #153'
-issue: 153
+title: 'X-Men: Gold (2017) #20'
+issue: 20
 series:
   period: '2017'
-  name: Cable
-url: http://marvel.com/comics/issue/65450/cable_2017_153?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: 'X-Men: Gold'
+url: http://marvel.com/comics/issue/65935/x-men_gold_2017_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/30/5a4fbcc56ddfa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/30/5a5668df9e999
   extension: jpg
