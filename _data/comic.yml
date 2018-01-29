@@ -1,12 +1,12 @@
 ---
-date: '1988-10-10T00:00:00-0400'
-year: '1988'
-title: 'Uncanny X-Men (1963) #235'
-issue: 235
+date: '2004-12-15T00:00:00-0500'
+year: '2004'
+title: 'Wolverine (2003) #23'
+issue: 23
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13776/uncanny_x-men_1963_235?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/1419/wolverine_2003_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/59108ef6ed81c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51ed65f6c37d3
   extension: jpg
