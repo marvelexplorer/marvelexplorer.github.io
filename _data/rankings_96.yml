@@ -1,9 +1,9 @@
 ---
 - name: Thor
   score: 4
-- name: Nightcrawler
-  score: 4
 - name: Wolverine
+  score: 4
+- name: Iron Man
   score: 4
 - name: Gamora
   score: 3
