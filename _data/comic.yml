@@ -1,12 +1,12 @@
 ---
-date: '2009-02-18T00:00:00-0500'
-year: '2009'
-title: 'X-Factor (2005) #40'
-issue: 40
+date: '2000-04-01T00:00:00-0500'
+year: '2000'
+title: 'Earth X (1999) #12'
+issue: 12
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/23597/x-factor_2005_40?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8551/earth_x_1999_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/5951529d29ce9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bb7c18275802
   extension: jpg
