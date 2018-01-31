@@ -1,12 +1,12 @@
 ---
-date: '2017-10-18T00:00:00-0400'
-year: '2017'
-title: 'Mighty Thor (2015) #700'
-issue: 700
+date: '1992-01-17T00:00:00-0500'
+year: '1992'
+title: 'Thor Annual (1966) #17'
+issue: 17
 series:
-  period: '2015'
-  name: Mighty Thor
-url: http://marvel.com/comics/issue/64931/mighty_thor_2015_700?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor Annual
+url: http://marvel.com/comics/issue/16678/thor_annual_1966_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/59dfddbb049bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/5845770a2a545
   extension: jpg
