@@ -1,12 +1,12 @@
 ---
-date: '2006-04-26T00:00:00-0400'
-year: '2006'
-title: 'New Avengers Annual (2006) #1'
-issue: 1
+date: '2017-07-12T00:00:00-0400'
+year: '2017'
+title: 'Defenders (2017) #3'
+issue: 3
 series:
-  period: '2006'
-  name: New Avengers Annual
-url: http://marvel.com/comics/issue/4107/new_avengers_annual_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Defenders
+url: http://marvel.com/comics/issue/63692/defenders_2017_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/519647bac7745
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/595ea68d1ecc2
   extension: jpg
