@@ -1,12 +1,12 @@
 ---
-date: '1996-11-10T00:00:00-0500'
-year: '1996'
-title: 'X-Men: Clan Destine (1996) #2'
-issue: 2
+date: '2017-12-06T00:00:00-0500'
+year: '2017'
+title: 'X-Men: Gold (2017) #17'
+issue: 17
 series:
-  period: '1996'
-  name: 'X-Men: Clan Destine'
-url: http://marvel.com/comics/issue/21141/x-men_clan_destine_1996_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: 'X-Men: Gold'
+url: http://marvel.com/comics/issue/65317/x-men_gold_2017_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb5674ac0fb3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/5a1f356c59632
   extension: jpg
