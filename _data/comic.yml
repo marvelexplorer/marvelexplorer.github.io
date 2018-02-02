@@ -1,12 +1,12 @@
 ---
-date: '2000-12-01T00:00:00-0500'
-year: '2000'
-title: 'X-Men: The Hidden Years (1999) #13'
-issue: 13
+date: '2011-10-12T00:00:00-0400'
+year: '2011'
+title: 'X-Men Legacy (2008) #257'
+issue: 257
 series:
-  period: '1999'
-  name: 'X-Men: The Hidden Years'
-url: http://marvel.com/comics/issue/65368/x-men_the_hidden_years_1999_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/38101/x-men_legacy_2008_257?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/5a569731adced
+  path: http://i.annihil.us/u/prod/marvel/i/mg/0/03/51a4e70322683
   extension: jpg
