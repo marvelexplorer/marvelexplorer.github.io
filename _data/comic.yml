@@ -1,12 +1,12 @@
 ---
-date: '2010-05-26T00:00:00-0400'
-year: '2010'
-title: 'Wolverine Weapon X (2009) #13'
-issue: 13
+date: '1985-07-10T00:00:00-0400'
+year: '1985'
+title: 'Secret Wars II (1985) #1'
+issue: 1
 series:
-  period: '2009'
-  name: Wolverine Weapon X
-url: http://marvel.com/comics/issue/30646/wolverine_weapon_x_2009_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1985'
+  name: Secret Wars II
+url: http://marvel.com/comics/issue/18884/secret_wars_ii_1985_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/51e43e6394fcf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bb5cd6eade31
   extension: jpg
