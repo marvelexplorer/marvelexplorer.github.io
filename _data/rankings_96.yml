@@ -1,7 +1,7 @@
 ---
-- name: Runaways
-  score: 6
 - name: Wolverine
+  score: 7
+- name: Runaways
   score: 6
 - name: Victor Mancha
   score: 4
