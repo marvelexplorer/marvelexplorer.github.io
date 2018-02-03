@@ -1,12 +1,12 @@
 ---
-date: '1974-10-10T00:00:00-0400'
-year: '1974'
-title: 'Incredible Hulk (1962) #180'
-issue: 180
+date: '1990-08-01T00:00:00-0400'
+year: '1990'
+title: 'Wolverine (1988) #28'
+issue: 28
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/8991/incredible_hulk_1962_180?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14146/wolverine_1988_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f567d06a4d37
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb85a7c74c7b
   extension: jpg
