@@ -1,12 +1,12 @@
 ---
-date: '2017-03-22T00:00:00-0400'
-year: '2017'
-title: 'Rocket Raccoon (2016) #4'
+date: '2009-03-04T00:00:00-0500'
+year: '2009'
+title: 'X-Men/Spider-Man (2008) #4'
 issue: 4
 series:
-  period: '2016'
-  name: Rocket Raccoon
-url: http://marvel.com/comics/issue/62064/rocket_raccoon_2016_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Men/Spider-Man
+url: http://marvel.com/comics/issue/23623/x-menspider-man_2008_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/58cbed93493ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/58c983adbc4b2
   extension: jpg
