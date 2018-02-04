@@ -1,12 +1,12 @@
 ---
-date: '2004-01-21T00:00:00-0500'
-year: '2004'
-title: 'Uncanny X-Men (1963) #438'
-issue: 438
+date: '1976-01-10T00:00:00-0500'
+year: '1976'
+title: 'Champions (1975) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/251/uncanny_x-men_1963_438?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1975'
+  name: Champions
+url: http://marvel.com/comics/issue/8064/champions_1975_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/591c9d681dad1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb7d82fd165b
   extension: jpg
