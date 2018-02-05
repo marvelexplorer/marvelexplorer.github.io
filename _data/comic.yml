@@ -1,12 +1,12 @@
 ---
-date: '2011-01-12T00:00:00-0500'
-year: '2011'
-title: 'Black Panther: The Man Without Fear (2010) #514'
-issue: 514
+date: '1969-03-10T00:00:00-0500'
+year: '1969'
+title: 'Avengers (1963) #62'
+issue: 62
 series:
-  period: '2010'
-  name: 'Black Panther: The Man Without Fear'
-url: http://marvel.com/comics/issue/30373/black_panther_the_man_without_fear_2010_514?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7313/avengers_1963_62?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/568eaae5d9601
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4d49e24cae34d
   extension: jpg
