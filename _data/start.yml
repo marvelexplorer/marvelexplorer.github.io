@@ -1,10 +1,10 @@
 ---
-name: Avengers
-description: Earth's Mightiest Heroes joined forces to take on threats that were too
-  big for any one hero to tackle. With a roster that has included Captain America,
-  Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers
-  have come to be regarded as Earth's No. 1 team.
-url: http://marvel.com/universe/Avengers?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Iron Man
+description: Wounded, captured and forced to build a weapon by his enemies, billionaire
+  industrialist Tony Stark instead created an advanced suit of armor to save his life
+  and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence
+  to make the world a safer, better place as Iron Man.
+url: http://marvel.com/universe/Iron_Man_(Anthony_Stark)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55
   extension: jpg

@@ -1,12 +1,12 @@
 ---
-date: '1970-05-10T00:00:00-0400'
-year: '1970'
-title: 'Avengers (1963) #76'
-issue: 76
+date: '2003-07-01T00:00:00-0400'
+year: '2003'
+title: 'Wolverine (2003) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7328/avengers_1963_76?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14225/wolverine_2003_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/a0/586e8a7f9f2df
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/51ed6143240bf
   extension: jpg
