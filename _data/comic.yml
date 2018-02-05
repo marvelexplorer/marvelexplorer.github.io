@@ -1,12 +1,12 @@
 ---
-date: '1986-04-10T00:00:00-0500'
-year: '1986'
-title: 'Avengers (1963) #266'
-issue: 266
+date: '2011-08-31T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself: The Deep (2011) #3'
+issue: 3
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7137/avengers_1963_266?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Fear Itself: The Deep'
+url: http://marvel.com/comics/issue/38949/fear_itself_the_deep_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/5888dd3483167
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/4f859b7a56416
   extension: jpg
