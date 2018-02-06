@@ -2,10 +2,10 @@
 - name: Wolverine
   score: 8
 - name: X-Men
-  score: 6
+  score: 5
 - name: Iron Man
   score: 4
 - name: Havok
   score: 3
-- name: Sunspot
-  score: 2
+- name: Cyclops
+  score: 3
