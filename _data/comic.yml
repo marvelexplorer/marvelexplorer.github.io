@@ -1,12 +1,12 @@
 ---
-date: '1999-05-10T00:00:00-0400'
-year: '1999'
-title: 'Avengers Forever (1998) #6'
-issue: 6
+date: '2007-08-29T00:00:00-0400'
+year: '2007'
+title: 'World War Hulk: X-Men (2007) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Avengers Forever
-url: http://marvel.com/comics/issue/12409/avengers_forever_1998_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'World War Hulk: X-Men'
+url: http://marvel.com/comics/issue/16183/world_war_hulk_x-men_2007_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bc47c8e63dc9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/4f677947ce43f
   extension: jpg
