@@ -1,12 +1,12 @@
 ---
-date: '2001-12-01T00:00:00-0500'
-year: '2001'
-title: 'Thor (1998) #42'
-issue: 42
+date: '1995-06-10T00:00:00-0400'
+year: '1995'
+title: 'Thor (1966) #487'
+issue: 487
 series:
-  period: '1998'
+  period: '1966'
   name: Thor
-url: http://marvel.com/comics/issue/18667/thor_1998_42?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/11815/thor_1966_487?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/59c56b6bc6a69
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f1dad5d0d494
   extension: jpg
