@@ -1,12 +1,12 @@
 ---
-date: '1993-11-05T00:00:00-0500'
-year: '1993'
-title: 'Excalibur (1988) #71'
-issue: 71
+date: '2006-09-13T00:00:00-0400'
+year: '2006'
+title: 'New Excalibur (2006) #11'
+issue: 11
 series:
-  period: '1988'
-  name: Excalibur
-url: http://marvel.com/comics/issue/8656/excalibur_1988_71?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: New Excalibur
+url: http://marvel.com/comics/issue/5085/new_excalibur_2006_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/52619a2294af7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58054c9381e7a
   extension: jpg
