@@ -1,12 +1,12 @@
 ---
-date: '1996-03-10T00:00:00-0500'
-year: '1996'
-title: 'X-Men Unlimited (1993) #10'
-issue: 10
+date: '2011-08-31T00:00:00-0400'
+year: '2011'
+title: 'Uncanny X-Force (2010) #14'
+issue: 14
 series:
-  period: '1993'
-  name: X-Men Unlimited
-url: http://marvel.com/comics/issue/18111/x-men_unlimited_1993_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Uncanny X-Force
+url: http://marvel.com/comics/issue/35300/uncanny_x-force_2010_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5880ca529d562
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4e53c75ba3949
   extension: jpg
