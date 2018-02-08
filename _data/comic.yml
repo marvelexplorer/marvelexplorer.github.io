@@ -1,12 +1,12 @@
 ---
-date: '1991-10-10T00:00:00-0400'
-year: '1991'
-title: 'X-Factor (1986) #71'
-issue: 71
+date: '1996-03-10T00:00:00-0500'
+year: '1996'
+title: 'X-Men Unlimited (1993) #10'
+issue: 10
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12292/x-factor_1986_71?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1993'
+  name: X-Men Unlimited
+url: http://marvel.com/comics/issue/18111/x-men_unlimited_1993_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/30/59540593860d8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5880ca529d562
   extension: jpg
