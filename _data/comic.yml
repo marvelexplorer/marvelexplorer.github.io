@@ -1,12 +1,12 @@
 ---
-date: '2004-03-10T00:00:00-0500'
-year: '2004'
-title: 'Thor: Son of Asgard (2004) #1'
-issue: 1
+date: '2001-12-01T00:00:00-0500'
+year: '2001'
+title: 'Thor (1998) #42'
+issue: 42
 series:
-  period: '2004'
-  name: 'Thor: Son of Asgard'
-url: http://marvel.com/comics/issue/411/thor_son_of_asgard_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/18667/thor_1998_42?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4d24e8e196572
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/59c56b6bc6a69
   extension: jpg
