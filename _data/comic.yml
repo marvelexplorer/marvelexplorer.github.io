@@ -1,12 +1,12 @@
 ---
-date: '2006-08-09T00:00:00-0400'
-year: '2006'
-title: 'Annihilation (2006) #1'
+date: '1993-03-01T00:00:00-0500'
+year: '1993'
+title: 'Silver Surfer/Warlock: Resurrection (1993) #1'
 issue: 1
 series:
-  period: '2006'
-  name: Annihilation
-url: http://marvel.com/comics/issue/4788/annihilation_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1993'
+  name: 'Silver Surfer/Warlock: Resurrection'
+url: http://marvel.com/comics/issue/57827/silver_surferwarlock_resurrection_1993_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51b61283075b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/587fc560cb9c4
   extension: jpg
