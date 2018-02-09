@@ -1,12 +1,12 @@
 ---
-date: '2011-10-19T00:00:00-0400'
-year: '2011'
-title: 'Uncanny X-Men (1963) #544'
-issue: 544
+date: '2004-04-07T00:00:00-0400'
+year: '2004'
+title: 'New X-Men (2001) #155'
+issue: 155
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/37942/uncanny_x-men_1963_544?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/451/new_x-men_2001_155?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/592db67d03aae
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/577e9e9064565
   extension: jpg
