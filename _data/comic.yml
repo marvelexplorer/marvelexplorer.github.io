@@ -1,12 +1,12 @@
 ---
-date: '2012-10-17T00:00:00-0400'
-year: '2012'
-title: 'Avengers Assemble (2012) #8'
-issue: 8
+date: '1971-02-10T00:00:00-0500'
+year: '1971'
+title: 'Daredevil (1964) #73'
+issue: 73
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/41885/avengers_assemble_2012_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8424/daredevil_1964_73?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/58d522274dc9a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/55785a459a02e
   extension: jpg
