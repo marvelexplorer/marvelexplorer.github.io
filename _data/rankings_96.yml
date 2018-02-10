@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 8
-- name: Emma Frost
-  score: 4
 - name: Thor
   score: 3
 - name: Wolverine
   score: 3
 - name: Colossus
+  score: 3
+- name: Cyclops
   score: 3
