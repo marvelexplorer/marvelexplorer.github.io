@@ -1,12 +1,12 @@
 ---
-date: '2012-11-28T00:00:00-0500'
-year: '2012'
-title: 'X-Men Legacy (2012) #2'
-issue: 2
+date: '2011-11-02T00:00:00-0400'
+year: '2011'
+title: 'X-Men (2010) #20'
+issue: 20
 series:
-  period: '2012'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/44455/x-men_legacy_2012_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/38081/x-men_2010_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/f0/58c6eaf777f89
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4eb0407c8b2af
   extension: jpg
