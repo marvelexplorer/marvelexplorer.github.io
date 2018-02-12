@@ -1,12 +1,12 @@
 ---
-date: '2004-03-17T00:00:00-0500'
-year: '2004'
-title: 'New Mutants (2003) #12'
-issue: 12
+date: '2003-12-17T00:00:00-0500'
+year: '2003'
+title: 'New Mutants (2003) #9'
+issue: 9
 series:
   period: '2003'
   name: New Mutants
-url: http://marvel.com/comics/issue/419/new_mutants_2003_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/126/new_mutants_2003_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/5a0355d0d9b1b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/5a03409e8ae0f
   extension: jpg
