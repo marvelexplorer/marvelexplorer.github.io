@@ -1,12 +1,12 @@
 ---
-date: '2004-09-29T00:00:00-0400'
-year: '2004'
-title: 'X-Men (2004) #162'
-issue: 162
+date: '2001-02-01T00:00:00-0500'
+year: '2001'
+title: 'X-Men: The Hidden Years (1999) #15'
+issue: 15
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/851/x-men_2004_162?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: 'X-Men: The Hidden Years'
+url: http://marvel.com/comics/issue/65370/x-men_the_hidden_years_1999_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/58af20339b762
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/90/5a569677828b6
   extension: jpg
