@@ -1,12 +1,12 @@
 ---
-date: '1991-07-01T00:00:00-0400'
-year: '1991'
-title: 'Silver Surfer Annual (1988) #4'
-issue: 4
+date: '2014-10-29T00:00:00-0400'
+year: '2014'
+title: 'Guardians of the Galaxy (2013) #20'
+issue: 20
 series:
-  period: '1988'
-  name: Silver Surfer Annual
-url: http://marvel.com/comics/issue/50825/silver_surfer_annual_1988_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2013'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/50978/guardians_of_the_galaxy_2013_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/587fc44d2f082
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/55b242ad84037
   extension: jpg
