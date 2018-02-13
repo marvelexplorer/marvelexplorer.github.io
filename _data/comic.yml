@@ -1,12 +1,12 @@
 ---
-date: '1996-03-01T00:00:00-0500'
-year: '1996'
-title: 'X-Men (1991) #50'
-issue: 50
+date: '2000-12-10T00:00:00-0500'
+year: '2000'
+title: 'Bishop: The Last X-Man (1999) #15'
+issue: 15
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14340/x-men_1991_50?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: 'Bishop: The Last X-Man'
+url: http://marvel.com/comics/issue/20615/bishop_the_last_x-man_1999_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/58a4ae5478036
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/58b8459a49378
   extension: jpg
