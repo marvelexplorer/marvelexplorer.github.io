@@ -2,10 +2,10 @@
 - name: X-Men
   score: 8
 - name: Cyclops
-  score: 6
+  score: 7
 - name: Havok
   score: 4
-- name: Nightcrawler
-  score: 3
 - name: Iron Man
   score: 3
+- name: Exodus
+  score: 2
