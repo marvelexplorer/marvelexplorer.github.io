@@ -1,12 +1,12 @@
 ---
-date: '1982-08-10T00:00:00-0400'
-year: '1982'
-title: 'Iron Man (1968) #161'
-issue: 161
+date: '1972-09-10T00:00:00-0400'
+year: '1972'
+title: 'Avengers (1963) #103'
+issue: 103
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9396/iron_man_1968_161?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/6957/avengers_1963_103?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5a6f5c25b107c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/f0/58752280865c3
   extension: jpg
