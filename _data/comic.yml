@@ -1,12 +1,12 @@
 ---
-date: '2013-04-17T00:00:00-0400'
-year: '2013'
-title: 'X-Factor (2005) #254'
-issue: 254
+date: '1988-12-10T00:00:00-0500'
+year: '1988'
+title: 'Uncanny X-Men (1963) #239'
+issue: 239
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/46763/x-factor_2005_254?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13780/uncanny_x-men_1963_239?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5956a772e34fb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/59109ada922fe
   extension: jpg
