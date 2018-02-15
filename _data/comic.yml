@@ -1,12 +1,12 @@
 ---
-date: '1985-03-10T00:00:00-0500'
-year: '1985'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #100'
-issue: 100
+date: '2012-07-25T00:00:00-0400'
+year: '2012'
+title: 'Amazing Spider-Man (1999) #690'
+issue: 690
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14544/peter_parker_the_spectacular_spider-man_1976_100?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/40121/amazing_spider-man_1999_690?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/50/5820ac203d3e0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/57ed380f8d465
   extension: jpg
