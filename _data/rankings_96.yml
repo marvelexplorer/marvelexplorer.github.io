@@ -1,8 +1,8 @@
 ---
-- name: Cyclops
-  score: 8
 - name: X-Men
   score: 8
+- name: Cyclops
+  score: 7
 - name: Iron Man
   score: 4
 - name: Wolverine
