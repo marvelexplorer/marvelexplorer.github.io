@@ -1,12 +1,12 @@
 ---
-date: '1989-11-14T00:00:00-0500'
-year: '1989'
-title: 'Doctor Strange, Sorcerer Supreme (1988) #10'
-issue: 10
+date: '1995-04-10T00:00:00-0400'
+year: '1995'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #223'
+issue: 223
 series:
-  period: '1988'
-  name: Doctor Strange, Sorcerer Supreme
-url: http://marvel.com/comics/issue/20169/doctor_strange_sorcerer_supreme_1988_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14680/peter_parker_the_spectacular_spider-man_1976_223?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/59e79cf76f195
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5820e5192ed1e
   extension: jpg
