@@ -1,12 +1,12 @@
 ---
-date: '1992-11-10T00:00:00-0500'
-year: '1992'
-title: 'X-Men (1991) #14'
-issue: 14
+date: '2013-02-20T00:00:00-0500'
+year: '2013'
+title: 'X-Factor (2005) #252'
+issue: 252
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14300/x-men_1991_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: X-Factor
+url: http://marvel.com/comics/issue/46761/x-factor_2005_252?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/558020d485a9f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/5956a3efc567b
   extension: jpg
