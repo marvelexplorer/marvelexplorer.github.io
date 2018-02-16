@@ -1,12 +1,12 @@
 ---
-date: '2000-12-10T00:00:00-0500'
-year: '2000'
-title: 'Avengers (1998) #35'
-issue: 35
+date: '2001-07-18T00:00:00-0400'
+year: '2001'
+title: 'Avengers Annual (2001) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17518/avengers_1998_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Avengers Annual
+url: http://marvel.com/comics/issue/20628/avengers_annual_2001_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/585c2daa42560
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/5a281245c2907
   extension: jpg
