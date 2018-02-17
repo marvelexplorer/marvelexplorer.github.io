@@ -1,12 +1,12 @@
 ---
-date: '2010-08-11T00:00:00-0400'
-year: '2010'
-title: 'X-Men (2010) #2'
-issue: 2
+date: '2017-06-14T00:00:00-0400'
+year: '2017'
+title: 'Generation X (2017) #3'
+issue: 3
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/32192/x-men_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Generation X
+url: http://marvel.com/comics/issue/62932/generation_x_2017_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58d1288e571b3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/593992c881ebe
   extension: jpg
