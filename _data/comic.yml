@@ -1,12 +1,12 @@
 ---
-date: '2017-12-27T00:00:00-0500'
-year: '2017'
-title: 'Despicable Deadpool (2017) #291'
-issue: 291
+date: '2009-11-11T00:00:00-0500'
+year: '2009'
+title: 'Amazing Spider-Man (1999) #611'
+issue: 611
 series:
-  period: '2017'
-  name: Despicable Deadpool
-url: http://marvel.com/comics/issue/65277/despicable_deadpool_2017_291?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/24418/amazing_spider-man_1999_611?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/70/5a31a290a451e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/58078e371993e
   extension: jpg
