@@ -1,12 +1,12 @@
 ---
-date: '1966-02-10T00:00:00-0500'
-year: '1966'
-title: 'Journey Into Mystery (1952) #125'
-issue: 125
+date: '2001-01-01T00:00:00-0500'
+year: '2001'
+title: 'Maximum Security (2000) #3'
+issue: 3
 series:
-  period: '1952'
-  name: Journey Into Mystery
-url: http://marvel.com/comics/issue/9701/journey_into_mystery_1952_125?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Maximum Security
+url: http://marvel.com/comics/issue/10286/maximum_security_2000_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5a7dc8d7308b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/539863d922d01
   extension: jpg
