@@ -1,12 +1,12 @@
 ---
-date: '1994-05-10T00:00:00-0400'
-year: '1994'
-title: 'Cable (1993) #11'
+date: '2017-09-06T00:00:00-0400'
+year: '2017'
+title: 'X-Men: Gold (2017) #11'
 issue: 11
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7384/cable_1993_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: 'X-Men: Gold'
+url: http://marvel.com/comics/issue/64457/x-men_gold_2017_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/50b3f39031f87
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/599afe1f06e66
   extension: jpg
