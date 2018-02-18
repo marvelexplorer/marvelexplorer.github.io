@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 7
+  score: 8
 - name: X-Men
   score: 5
-- name: Iron Man
-  score: 2
 - name: Thor
   score: 2
 - name: Daredevil
+  score: 2
+- name: Kingpin
   score: 2
