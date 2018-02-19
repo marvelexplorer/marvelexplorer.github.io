@@ -1,12 +1,12 @@
 ---
-date: '1985-06-01T00:00:00-0400'
-year: '1985'
-title: 'Beauty and the Beast (1985) #4'
-issue: 4
+date: '1989-04-10T00:00:00-0400'
+year: '1989'
+title: 'Uncanny X-Men (1963) #243'
+issue: 243
 series:
-  period: '1985'
-  name: Beauty and the Beast
-url: http://marvel.com/comics/issue/62752/beauty_and_the_beast_1985_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13784/uncanny_x-men_1963_243?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/5887982e7491c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/50ad29f9569ed
   extension: jpg
