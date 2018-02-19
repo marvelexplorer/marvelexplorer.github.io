@@ -3,9 +3,9 @@
   score: 7
 - name: X-Men
   score: 5
-- name: Avengers
-  score: 4
 - name: Colossus
   score: 4
+- name: Avengers
+  score: 3
 - name: Hercules
   score: 3
