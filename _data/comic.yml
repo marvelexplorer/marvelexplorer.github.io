@@ -1,12 +1,12 @@
 ---
-date: '2000-08-01T00:00:00-0400'
-year: '2000'
-title: 'Spider-Man: Death & Destiny (2000) #1'
-issue: 1
+date: '1984-11-10T00:00:00-0500'
+year: '1984'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #96'
+issue: 96
 series:
-  period: '2000'
-  name: 'Spider-Man: Death & Destiny'
-url: http://marvel.com/comics/issue/23474/spider-man_death_destiny_2000_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14801/peter_parker_the_spectacular_spider-man_1976_96?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb5a20bea85f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/581cec3062869
   extension: jpg
