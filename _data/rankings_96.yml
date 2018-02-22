@@ -1,10 +1,10 @@
 ---
 - name: Spider-Man
-  score: 6
-- name: Colossus
-  score: 5
+  score: 7
 - name: Wolverine
   score: 5
+- name: Colossus
+  score: 4
 - name: Harry Osborn
   score: 3
 - name: Avengers
