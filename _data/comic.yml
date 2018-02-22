@@ -1,12 +1,12 @@
 ---
-date: '2012-01-04T00:00:00-0500'
-year: '2012'
-title: 'Avengers Academy (2010) #24'
-issue: 24
+date: '1994-06-10T00:00:00-0400'
+year: '1994'
+title: 'Avengers (1963) #375'
+issue: 375
 series:
-  period: '2010'
-  name: Avengers Academy
-url: http://marvel.com/comics/issue/36486/avengers_academy_2010_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7258/avengers_1963_375?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/51cca9810c290
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5991ef152d4fd
   extension: jpg
