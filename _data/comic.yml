@@ -1,12 +1,12 @@
 ---
-date: '1993-05-01T00:00:00-0400'
-year: '1993'
-title: 'X-Force (1991) #22'
-issue: 22
+date: '1991-01-07T00:00:00-0500'
+year: '1991'
+title: 'New Mutants Annual (1984) #7'
+issue: 7
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/17986/x-force_1991_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1984'
+  name: New Mutants Annual
+url: http://marvel.com/comics/issue/10341/new_mutants_annual_1984_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/5876592dd504e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/4d93972d20799
   extension: jpg
