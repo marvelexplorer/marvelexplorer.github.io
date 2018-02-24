@@ -1,12 +1,12 @@
 ---
-date: '1998-04-10T00:00:00-0400'
-year: '1998'
-title: 'The Amazing Spider-Man (1963) #433'
-issue: 433
+date: '2006-05-24T00:00:00-0400'
+year: '2006'
+title: 'Iron Man (2004) #8'
+issue: 8
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6853/the_amazing_spider-man_1963_433?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Iron Man
+url: http://marvel.com/comics/issue/4136/iron_man_2004_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/515c8e0885de4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5a5fb1b9366e7
   extension: jpg
