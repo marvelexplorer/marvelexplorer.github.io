@@ -1,12 +1,12 @@
 ---
-date: '2010-07-08T00:00:00-0400'
-year: '2010'
-title: 'Spider-Man/Fantastic Four (2010) #1'
-issue: 1
+date: '1986-07-10T00:00:00-0400'
+year: '1986'
+title: 'Avengers (1963) #269'
+issue: 269
 series:
-  period: '2010'
-  name: Spider-Man/Fantastic Four
-url: http://marvel.com/comics/issue/30529/spider-manfantastic_four_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7140/avengers_1963_269?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5cdb447b45
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/5888e3a390ff6
   extension: jpg
