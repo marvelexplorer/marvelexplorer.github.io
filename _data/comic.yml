@@ -1,12 +1,12 @@
 ---
-date: '2007-09-06T00:00:00-0400'
-year: '2007'
-title: 'Ms. Marvel (2006) #19'
-issue: 19
+date: '2016-05-11T00:00:00-0400'
+year: '2016'
+title: 'Ultimates (2015) #7'
+issue: 7
 series:
-  period: '2006'
-  name: Ms. Marvel
-url: http://marvel.com/comics/issue/16496/ms_marvel_2006_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Ultimates
+url: http://marvel.com/comics/issue/57261/ultimates_2015_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/57684c29efa09
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5727ae7b32592
   extension: jpg
