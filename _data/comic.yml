@@ -1,12 +1,12 @@
 ---
-date: '2008-09-10T00:00:00-0400'
-year: '2008'
-title: 'Amazing Spider-Man (1999) #571'
-issue: 571
+date: '2010-07-08T00:00:00-0400'
+year: '2010'
+title: 'Spider-Man/Fantastic Four (2010) #1'
+issue: 1
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/21931/amazing_spider-man_1999_571?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Spider-Man/Fantastic Four
+url: http://marvel.com/comics/issue/30529/spider-manfantastic_four_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/578e2eadc91f2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5cdb447b45
   extension: jpg
