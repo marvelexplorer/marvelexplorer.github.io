@@ -1,12 +1,12 @@
 ---
-date: '2017-01-25T00:00:00-0500'
-year: '2017'
-title: 'The Totally Awesome Hulk (2015) #15'
-issue: 15
+date: '2011-11-16T00:00:00-0500'
+year: '2011'
+title: 'Fear Itself: The Fearless (2011) #3'
+issue: 3
 series:
-  period: '2015'
-  name: The Totally Awesome Hulk
-url: http://marvel.com/comics/issue/56097/the_totally_awesome_hulk_2015_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Fear Itself: The Fearless'
+url: http://marvel.com/comics/issue/39955/fear_itself_the_fearless_2011_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/58790dc765815
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/52c5aaf7b6f66
   extension: jpg
