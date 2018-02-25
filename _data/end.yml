@@ -1,10 +1,10 @@
 ---
-name: Captain America (Sam Wilson)
-description: <p class="Body">Sam Wilson, a Harlem native, previously operated under
-  the name Falcon, fighting alongside the Avengers. When his longtime friend Steve
-  Rogers stepped down as Captain America, Wilson was hand-picked to fill the role.
-  Now the former Falcon soars through the skies wearing red, white and blue.</p>
-url: http://marvel.com/comics/characters/1017575/captain_america_sam_wilson?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: U.S. Agent
+description: With the end of the Vietnam War, John Walker thought his dreams of becoming
+  a war hero had also ended, until he learned of the Power Broker, who could give
+  anyone superhuman powers, which Walker used to first become Super-Patriot and later,
+  U.S. Agent.
+url: http://marvel.com/universe/U.S.Agent?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/545a84a75ddaf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/535febe8b095a
   extension: jpg

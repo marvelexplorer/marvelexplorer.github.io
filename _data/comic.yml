@@ -1,12 +1,12 @@
 ---
-date: '2017-09-20T00:00:00-0400'
-year: '2017'
-title: 'Avengers (2016) #11'
-issue: 11
+date: '2016-09-28T00:00:00-0400'
+year: '2016'
+title: 'Captain America: Sam Wilson (2015) #13'
+issue: 13
 series:
-  period: '2016'
-  name: Avengers
-url: http://marvel.com/comics/issue/61383/avengers_2016_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: 'Captain America: Sam Wilson'
+url: http://marvel.com/comics/issue/56567/captain_america_sam_wilson_2015_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/59b93d40222bc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/80/57dc0d9b79f87
   extension: jpg
