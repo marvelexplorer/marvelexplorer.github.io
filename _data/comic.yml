@@ -1,12 +1,12 @@
 ---
-date: '2005-10-05T00:00:00-0400'
-year: '2005'
-title: 'New Thunderbolts (2004) #13'
-issue: 13
+date: '2016-10-26T00:00:00-0400'
+year: '2016'
+title: 'New Avengers (2015) #17'
+issue: 17
 series:
-  period: '2004'
-  name: New Thunderbolts
-url: http://marvel.com/comics/issue/2516/new_thunderbolts_2004_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: New Avengers
+url: http://marvel.com/comics/issue/61035/new_avengers_2015_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc61ed50025b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/58014ed534302
   extension: jpg
