@@ -1,12 +1,12 @@
 ---
-date: '2013-03-13T00:00:00-0400'
-year: '2013'
-title: 'Avengers Assemble (2012) #13'
-issue: 13
+date: '1989-03-01T00:00:00-0500'
+year: '1989'
+title: 'Solo Avengers (1987) #16'
+issue: 16
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/45876/avengers_assemble_2012_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1987'
+  name: Solo Avengers
+url: http://marvel.com/comics/issue/51131/solo_avengers_1987_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/58d549afd8b8a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/589ce6757ad46
   extension: jpg
