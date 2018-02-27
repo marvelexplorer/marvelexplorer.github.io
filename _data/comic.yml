@@ -1,12 +1,12 @@
 ---
-date: '2005-06-05T00:00:00-0400'
-year: '2005'
-title: 'Astonishing X-Men (2004) #11'
-issue: 11
+date: '2006-09-13T00:00:00-0400'
+year: '2006'
+title: 'Civil War Files (2006) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/2842/astonishing_x-men_2004_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Civil War Files
+url: http://marvel.com/comics/issue/5131/civil_war_files_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/58f4d090a5156
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/56fd7cf2e5113
   extension: jpg
