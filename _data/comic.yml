@@ -1,12 +1,12 @@
 ---
-date: '2002-10-10T00:00:00-0400'
-year: '2002'
-title: 'Incredible Hulk (1999) #44'
-issue: 44
+date: '2011-07-13T00:00:00-0400'
+year: '2011'
+title: 'Wolverine (2010) #12'
+issue: 12
 series:
-  period: '1999'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/14444/incredible_hulk_1999_44?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Wolverine
+url: http://marvel.com/comics/issue/30227/wolverine_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc46bae0966d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/589a2b8bb00a0
   extension: jpg
