@@ -1,12 +1,12 @@
 ---
-date: '1989-03-01T00:00:00-0500'
-year: '1989'
-title: 'Solo Avengers (1987) #16'
-issue: 16
+date: '1998-03-10T00:00:00-0500'
+year: '1998'
+title: 'Avengers (1998) #2'
+issue: 2
 series:
-  period: '1987'
-  name: Solo Avengers
-url: http://marvel.com/comics/issue/51131/solo_avengers_1987_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17501/avengers_1998_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/589ce6757ad46
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/585164a2178d8
   extension: jpg
