@@ -1,12 +1,12 @@
 ---
-date: '2011-08-17T00:00:00-0400'
-year: '2011'
-title: 'Marvel Universe Vs. Wolverine (2011) #3'
-issue: 3
+date: '1976-09-10T00:00:00-0400'
+year: '1976'
+title: 'Invaders (1975) #8'
+issue: 8
 series:
-  period: '2011'
-  name: Marvel Universe Vs. Wolverine
-url: http://marvel.com/comics/issue/38116/marvel_universe_vs_wolverine_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1975'
+  name: Invaders
+url: http://marvel.com/comics/issue/20008/invaders_1975_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/576af5f94885a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c3641e6f353e
   extension: jpg
