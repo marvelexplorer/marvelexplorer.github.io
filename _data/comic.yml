@@ -1,12 +1,12 @@
 ---
-date: '1995-12-01T00:00:00-0500'
-year: '1995'
-title: 'The Last Avengers Story (1995) #2'
-issue: 2
+date: '2013-12-04T00:00:00-0500'
+year: '2013'
+title: 'Secret Avengers (2013) #12'
+issue: 12
 series:
-  period: '1995'
-  name: The Last Avengers Story
-url: http://marvel.com/comics/issue/23314/the_last_avengers_story_1995_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/46456/secret_avengers_2013_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/40/4bb516a14ace0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/529e41cc49a27
   extension: jpg
