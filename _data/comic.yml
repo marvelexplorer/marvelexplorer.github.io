@@ -1,12 +1,12 @@
 ---
-date: '2004-06-23T00:00:00-0400'
-year: '2004'
-title: 'Amazing Spider-Man (1999) #509'
-issue: 509
+date: '1992-01-21T00:00:00-0500'
+year: '1992'
+title: 'The Amazing Spider-Man (1963) #358'
+issue: 358
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/721/amazing_spider-man_1999_509?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6769/the_amazing_spider-man_1963_358?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/57fe7c6ec8503
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/57d0623ae9b93
   extension: jpg
