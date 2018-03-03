@@ -1,12 +1,12 @@
 ---
-date: '1999-02-21T00:00:00-0500'
-year: '1999'
-title: 'Wolverine (1988) #135'
-issue: 135
+date: '2004-02-18T00:00:00-0500'
+year: '2004'
+title: 'New X-Men (2001) #153'
+issue: 153
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14076/wolverine_1988_135?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/120/new_x-men_2001_153?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/59c52a9bd130d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/d0/577e91893fa78
   extension: jpg
