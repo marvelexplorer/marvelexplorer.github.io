@@ -1,12 +1,12 @@
 ---
-date: '2002-09-01T00:00:00-0400'
-year: '2002'
-title: 'New X-Men (2001) #129'
-issue: 129
+date: '2004-03-17T00:00:00-0500'
+year: '2004'
+title: 'New X-Men (2001) #154'
+issue: 154
 series:
   period: '2001'
   name: New X-Men
-url: http://marvel.com/comics/issue/14948/new_x-men_2001_129?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/420/new_x-men_2001_154?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/577d3a18aef99
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/b0/577e97dec47f5
   extension: jpg
