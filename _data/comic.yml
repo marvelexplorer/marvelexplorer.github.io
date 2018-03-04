@@ -1,12 +1,12 @@
 ---
-date: '2001-02-10T00:00:00-0500'
-year: '2001'
-title: 'X-Men: Search for Cyclops (2000) #3'
-issue: 3
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'Paradise X (2002) #10'
+issue: 10
 series:
-  period: '2000'
-  name: 'X-Men: Search for Cyclops'
-url: http://marvel.com/comics/issue/23521/x-men_search_for_cyclops_2000_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10494/paradise_x_2002_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bb5bde3a61b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c36060ccbc56
   extension: jpg
