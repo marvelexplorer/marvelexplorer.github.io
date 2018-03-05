@@ -1,12 +1,12 @@
 ---
-date: '2010-04-21T00:00:00-0400'
-year: '2010'
-title: 'X-Factor (2005) #204'
-issue: 204
+date: '1986-07-10T00:00:00-0400'
+year: '1986'
+title: 'X-Factor (1986) #6'
+issue: 6
 series:
-  period: '2005'
+  period: '1986'
   name: X-Factor
-url: http://marvel.com/comics/issue/32571/x-factor_2005_204?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/12279/x-factor_1986_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/595cfcce2a0bd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/594aa23cd6c32
   extension: jpg
