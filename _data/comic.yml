@@ -1,12 +1,12 @@
 ---
-date: '2006-07-19T00:00:00-0400'
-year: '2006'
-title: 'X-Men Fairy Tales (2006) #3'
-issue: 3
+date: '2002-03-01T00:00:00-0500'
+year: '2002'
+title: 'X-Treme X-Men (2001) #9'
+issue: 9
 series:
-  period: '2006'
-  name: X-Men Fairy Tales
-url: http://marvel.com/comics/issue/4476/x-men_fairy_tales_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: X-Treme X-Men
+url: http://marvel.com/comics/issue/15056/x-treme_x-men_2001_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/90/53767ffe19f6e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc367f256dd0
   extension: jpg
