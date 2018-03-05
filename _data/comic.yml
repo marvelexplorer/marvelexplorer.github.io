@@ -1,12 +1,12 @@
 ---
-date: '2009-08-19T00:00:00-0400'
-year: '2009'
-title: 'Daredevil (1998) #500'
-issue: 500
+date: '1988-10-20T00:00:00-0400'
+year: '1988'
+title: 'Marvel Comics Presents (1988) #5'
+issue: 5
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/24757/daredevil_1998_500?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10130/marvel_comics_presents_1988_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/574ef7ee35439
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bb691924c0d5
   extension: jpg
