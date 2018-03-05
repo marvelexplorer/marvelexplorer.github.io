@@ -1,12 +1,12 @@
 ---
-date: '2003-04-02T00:00:00-0500'
-year: '2003'
-title: 'Marvel Universe: The End (2003) #1'
-issue: 1
+date: '2011-03-02T00:00:00-0500'
+year: '2011'
+title: 'X-Factor (2005) #216'
+issue: 216
 series:
-  period: '2003'
-  name: 'Marvel Universe: The End'
-url: http://marvel.com/comics/issue/15786/marvel_universe_the_end_2003_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: X-Factor
+url: http://marvel.com/comics/issue/35282/x-factor_2005_216?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5188021fd1fc8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/595e54ea54861
   extension: jpg
