@@ -1,12 +1,12 @@
 ---
-date: '1999-11-01T00:00:00-0500'
+date: '1999-10-01T00:00:00-0400'
 year: '1999'
-title: 'Galactus the Devourer (1999) #3'
-issue: 3
+title: 'Galactus the Devourer (1999) #2'
+issue: 2
 series:
   period: '1999'
   name: Galactus the Devourer
-url: http://marvel.com/comics/issue/55275/galactus_the_devourer_1999_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/55274/galactus_the_devourer_1999_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/57e194e79e72a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/57e193bcc6cfb
   extension: jpg
