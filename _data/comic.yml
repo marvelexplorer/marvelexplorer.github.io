@@ -1,12 +1,12 @@
 ---
-date: '1984-10-10T00:00:00-0400'
-year: '1984'
-title: 'Uncanny X-Men (1963) #186'
-issue: 186
+date: '2009-11-18T00:00:00-0500'
+year: '2009'
+title: 'X-Men Legacy (2008) #229'
+issue: 229
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13727/uncanny_x-men_1963_186?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/27346/x-men_legacy_2008_229?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/5903490f60d80
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/58bec6f754999
   extension: jpg
