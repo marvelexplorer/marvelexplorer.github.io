@@ -1,12 +1,12 @@
 ---
-date: '1968-07-10T00:00:00-0400'
-year: '1968'
-title: 'Avengers (1963) #54'
-issue: 54
+date: '2016-06-22T00:00:00-0400'
+year: '2016'
+title: 'Uncanny Avengers (2015) #10'
+issue: 10
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7304/avengers_1963_54?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Uncanny Avengers
+url: http://marvel.com/comics/issue/56222/uncanny_avengers_2015_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4e96f9eba545a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/575b33ef8b444
   extension: jpg
