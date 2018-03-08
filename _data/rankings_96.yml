@@ -1,10 +1,10 @@
 ---
-- name: Storm
-  score: 4
 - name: Scarlet Witch
   score: 4
 - name: Avengers
   score: 4
+- name: Storm
+  score: 3
 - name: Cyclops
   score: 3
 - name: X-Men
