@@ -1,6 +1,4 @@
 ---
-- name: Scarlet Witch
-  score: 4
 - name: Thor
   score: 4
 - name: Invisible Woman
@@ -8,4 +6,6 @@
 - name: Storm
   score: 3
 - name: Cyclops
+  score: 3
+- name: X-Men
   score: 3
