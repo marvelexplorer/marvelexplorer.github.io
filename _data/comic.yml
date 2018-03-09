@@ -1,12 +1,12 @@
 ---
-date: '2006-11-29T00:00:00-0500'
-year: '2006'
-title: 'Sensational Spider-Man (2006) #32'
-issue: 32
+date: '2000-12-01T00:00:00-0500'
+year: '2000'
+title: 'Maximum Security (2000) #1'
+issue: 1
 series:
-  period: '2006'
-  name: Sensational Spider-Man
-url: http://marvel.com/comics/issue/5393/sensational_spider-man_2006_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Maximum Security
+url: http://marvel.com/comics/issue/10284/maximum_security_2000_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/58a32ad87ec07
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/00/539863578d212
   extension: jpg
