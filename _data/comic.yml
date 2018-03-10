@@ -1,12 +1,12 @@
 ---
-date: '1981-09-10T00:00:00-0400'
-year: '1981'
-title: 'Incredible Hulk Annual (1968) #10'
-issue: 10
+date: '1997-03-10T00:00:00-0500'
+year: '1997'
+title: 'Avengers (1996) #5'
+issue: 5
 series:
-  period: '1968'
-  name: Incredible Hulk Annual
-url: http://marvel.com/comics/issue/16867/incredible_hulk_annual_1968_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1996'
+  name: Avengers
+url: http://marvel.com/comics/issue/17759/avengers_1996_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb6de5f0f3f0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/58765f271f371
   extension: jpg
