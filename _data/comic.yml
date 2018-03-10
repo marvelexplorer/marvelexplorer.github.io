@@ -1,12 +1,12 @@
 ---
-date: '2008-12-03T00:00:00-0500'
-year: '2008'
-title: 'Secret Invasion: Front Line (2008) #5'
-issue: 5
+date: '2010-01-06T00:00:00-0500'
+year: '2010'
+title: 'Siege (2009) #1'
+issue: 1
 series:
-  period: '2008'
-  name: 'Secret Invasion: Front Line'
-url: http://marvel.com/comics/issue/22555/secret_invasion_front_line_2008_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Siege
+url: http://marvel.com/comics/issue/30468/siege_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5151f526b4d7b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/59c2d0c4a857a
   extension: jpg
