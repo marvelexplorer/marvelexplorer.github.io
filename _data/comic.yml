@@ -1,12 +1,12 @@
 ---
-date: '2010-01-06T00:00:00-0500'
-year: '2010'
-title: 'Siege (2009) #1'
-issue: 1
+date: '1976-07-10T00:00:00-0400'
+year: '1976'
+title: 'Avengers (1963) #149'
+issue: 149
 series:
-  period: '2009'
-  name: Siege
-url: http://marvel.com/comics/issue/30468/siege_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7007/avengers_1963_149?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/59c2d0c4a857a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/587fbe30e5ec1
   extension: jpg
