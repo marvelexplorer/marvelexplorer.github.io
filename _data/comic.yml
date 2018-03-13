@@ -1,12 +1,12 @@
 ---
-date: '1985-04-10T00:00:00-0500'
-year: '1985'
-title: 'Kitty Pryde and Wolverine (1984) #6'
-issue: 6
+date: '1989-10-29T00:00:00-0400'
+year: '1989'
+title: 'Wolverine (1988) #14'
+issue: 14
 series:
-  period: '1984'
-  name: Kitty Pryde and Wolverine
-url: http://marvel.com/comics/issue/21650/kitty_pryde_and_wolverine_1984_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14081/wolverine_1988_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bb5d061cdabe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4bb7d2cebbe5c
   extension: jpg
