@@ -1,12 +1,12 @@
 ---
-date: '2017-05-24T00:00:00-0400'
+date: '2017-07-12T00:00:00-0400'
 year: '2017'
-title: 'The Totally Awesome Hulk (2015) #19'
-issue: 19
+title: 'Weapon X (2017) #5'
+issue: 5
 series:
-  period: '2015'
-  name: The Totally Awesome Hulk
-url: http://marvel.com/comics/issue/60849/the_totally_awesome_hulk_2015_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: Weapon X
+url: http://marvel.com/comics/issue/63797/weapon_x_2017_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/591c9c13230b5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/595ea95f27c1d
   extension: jpg
