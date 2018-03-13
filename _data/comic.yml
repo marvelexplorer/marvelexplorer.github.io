@@ -1,12 +1,12 @@
 ---
-date: '1992-02-01T00:00:00-0500'
-year: '1992'
-title: 'Wolverine (1988) #51'
-issue: 51
+date: '2008-09-10T00:00:00-0400'
+year: '2008'
+title: 'Wolverine: Saudade (2008) #1'
+issue: 1
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14172/wolverine_1988_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'Wolverine: Saudade'
+url: http://marvel.com/comics/issue/22056/wolverine_saudade_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/59a481c76882b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/4bb715c0b00c1
   extension: jpg
