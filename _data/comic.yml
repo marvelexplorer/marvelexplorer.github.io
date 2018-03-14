@@ -1,12 +1,12 @@
 ---
-date: '2010-02-10T00:00:00-0500'
-year: '2010'
-title: 'Ultimate Comics Spider-Man (2009) #7'
-issue: 7
+date: '2006-01-25T00:00:00-0500'
+year: '2006'
+title: 'Ultimate Spider-Man (2000) #89'
+issue: 89
 series:
-  period: '2009'
-  name: Ultimate Comics Spider-Man
-url: http://marvel.com/comics/issue/27955/ultimate_comics_spider-man_2009_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate Spider-Man
+url: http://marvel.com/comics/issue/3399/ultimate_spider-man_2000_89?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/58f0d644bc768
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/80/58eb87265688a
   extension: jpg
