@@ -1,12 +1,12 @@
 ---
-date: '2009-03-04T00:00:00-0500'
-year: '2009'
-title: 'X-Men/Spider-Man (2008) #4'
-issue: 4
+date: '1993-12-01T00:00:00-0500'
+year: '1993'
+title: 'X-Men (1991) #27'
+issue: 27
 series:
-  period: '2008'
-  name: X-Men/Spider-Man
-url: http://marvel.com/comics/issue/23623/x-menspider-man_2008_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14314/x-men_1991_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/58c983adbc4b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/558045b61111f
   extension: jpg
