@@ -1,12 +1,12 @@
 ---
-date: '2011-06-01T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself (2010) #3'
-issue: 3
+date: '1978-05-10T00:00:00-0400'
+year: '1978'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #18'
+issue: 18
 series:
-  period: '2010'
-  name: Fear Itself
-url: http://marvel.com/comics/issue/38043/fear_itself_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14631/peter_parker_the_spectacular_spider-man_1976_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4d88b77ee640f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5a06269b2e9cc
   extension: jpg
