@@ -1,12 +1,12 @@
 ---
-date: '1991-05-10T00:00:00-0400'
-year: '1991'
-title: 'Spider-Man (1990) #10'
-issue: 10
+date: '2001-08-01T00:00:00-0400'
+year: '2001'
+title: 'Wolverine (1988) #165'
+issue: 165
 series:
-  period: '1990'
-  name: Spider-Man
-url: http://marvel.com/comics/issue/10768/spider-man_1990_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14109/wolverine_1988_165?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/583355824ee82
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/5849b7fb95592
   extension: jpg
