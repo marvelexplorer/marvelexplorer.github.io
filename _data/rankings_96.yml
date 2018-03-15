@@ -3,9 +3,9 @@
   score: 6
 - name: X-Men
   score: 5
-- name: Storm
-  score: 4
 - name: Rogue
   score: 4
+- name: Storm
+  score: 3
 - name: Colossus
   score: 3
