@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
-  score: 6
+  score: 7
 - name: X-Men
   score: 6
-- name: Rogue
-  score: 5
 - name: Storm
+  score: 4
+- name: Rogue
   score: 4
 - name: Colossus
   score: 3
