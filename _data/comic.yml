@@ -1,12 +1,12 @@
 ---
-date: '2006-06-28T00:00:00-0400'
-year: '2006'
-title: 'Young Avengers (2005) #12'
-issue: 12
+date: '2016-10-26T00:00:00-0400'
+year: '2016'
+title: 'New Avengers (2015) #17'
+issue: 17
 series:
-  period: '2005'
-  name: Young Avengers
-url: http://marvel.com/comics/issue/4252/young_avengers_2005_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: New Avengers
+url: http://marvel.com/comics/issue/61035/new_avengers_2015_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4d251d30321ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/58014ed534302
   extension: jpg
