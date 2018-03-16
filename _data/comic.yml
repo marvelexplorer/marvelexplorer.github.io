@@ -1,12 +1,12 @@
 ---
-date: '2006-12-27T00:00:00-0500'
-year: '2006'
-title: 'Ultimate Power (2006) #3'
-issue: 3
+date: '2009-05-28T00:00:00-0400'
+year: '2009'
+title: 'Ultimate Wolverine Vs. Hulk (2005) #6'
+issue: 6
 series:
-  period: '2006'
-  name: Ultimate Power
-url: http://marvel.com/comics/issue/5714/ultimate_power_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Ultimate Wolverine Vs. Hulk
+url: http://marvel.com/comics/issue/24155/ultimate_wolverine_vs_hulk_2005_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/570bf3b7554b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/5aa6e6c26260d
   extension: jpg
