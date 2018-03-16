@@ -1,12 +1,12 @@
 ---
-date: '2016-10-26T00:00:00-0400'
-year: '2016'
-title: 'New Avengers (2015) #17'
-issue: 17
+date: '1992-11-10T00:00:00-0500'
+year: '1992'
+title: 'X-Factor (1986) #84'
+issue: 84
 series:
-  period: '2015'
-  name: New Avengers
-url: http://marvel.com/comics/issue/61035/new_avengers_2015_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12306/x-factor_1986_84?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/58014ed534302
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bb58216dcf87
   extension: jpg
