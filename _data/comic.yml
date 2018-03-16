@@ -1,12 +1,12 @@
 ---
-date: '2005-07-13T00:00:00-0400'
-year: '2005'
-title: 'Ultimate Fantastic Four (2003) #21'
-issue: 21
+date: '2007-02-07T00:00:00-0500'
+year: '2007'
+title: 'Ultimate Spider-Man (2000) #105'
+issue: 105
 series:
-  period: '2003'
-  name: Ultimate Fantastic Four
-url: http://marvel.com/comics/issue/2183/ultimate_fantastic_four_2003_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate Spider-Man
+url: http://marvel.com/comics/issue/5951/ultimate_spider-man_2000_105?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/5a946be953667
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/58f1255e3fffd
   extension: jpg
