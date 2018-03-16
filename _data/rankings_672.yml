@@ -3,9 +3,9 @@
   score: 33
 - name: X-Men
   score: 29
-- name: Avengers
-  score: 21
 - name: Wolverine
+  score: 22
+- name: Avengers
   score: 21
 - name: Thor
   score: 16
