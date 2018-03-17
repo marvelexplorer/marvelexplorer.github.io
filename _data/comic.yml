@@ -1,12 +1,12 @@
 ---
-date: '2006-12-20T00:00:00-0500'
-year: '2006'
-title: 'Marvel Adventures the Avengers (2006) #8'
-issue: 8
+date: '1974-11-10T00:00:00-0500'
+year: '1974'
+title: 'Captain America (1968) #179'
+issue: 179
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/5691/marvel_adventures_the_avengers_2006_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7560/captain_america_1968_179?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/4f638ec9cd457
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/59b95b1071936
   extension: jpg
