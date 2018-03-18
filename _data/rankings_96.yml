@@ -1,6 +1,4 @@
 ---
-- name: Bishop
-  score: 3
 - name: Wong
   score: 3
 - name: Captain America
@@ -9,3 +7,5 @@
   score: 3
 - name: Wolverine
   score: 3
+- name: Nightmare
+  score: 2
