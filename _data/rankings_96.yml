@@ -1,6 +1,4 @@
 ---
-- name: X-Men
-  score: 3
 - name: Bishop
   score: 3
 - name: Wong
@@ -8,4 +6,6 @@
 - name: Captain America
   score: 3
 - name: Cyclops
+  score: 3
+- name: Wolverine
   score: 3
