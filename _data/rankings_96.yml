@@ -1,8 +1,8 @@
 ---
-- name: X-Men
-  score: 4
 - name: Captain America
   score: 4
+- name: X-Men
+  score: 3
 - name: Bishop
   score: 3
 - name: Luke Cage
