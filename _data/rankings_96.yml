@@ -1,7 +1,7 @@
 ---
-- name: Wong
-  score: 3
 - name: Captain America
+  score: 4
+- name: Wong
   score: 3
 - name: Cyclops
   score: 3
