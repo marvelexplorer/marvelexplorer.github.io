@@ -1,12 +1,12 @@
 ---
-date: '1998-03-01T00:00:00-0500'
-year: '1998'
-title: 'Elektra (1996) #16'
-issue: 16
+date: '2010-12-15T00:00:00-0500'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #650'
+issue: 650
 series:
-  period: '1996'
-  name: Elektra
-url: http://marvel.com/comics/issue/62745/elektra_1996_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30325/amazing_spider-man_1999_650?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/5a8f547517357
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/5817407379f4e
   extension: jpg
