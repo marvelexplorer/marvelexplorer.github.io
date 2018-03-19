@@ -3,9 +3,9 @@
   score: 4
 - name: Cyclops
   score: 3
-- name: Nightmare
-  score: 2
 - name: Thor
   score: 2
 - name: X-Men
+  score: 2
+- name: Bishop
   score: 2

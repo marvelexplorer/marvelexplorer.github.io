@@ -1,12 +1,12 @@
 ---
-date: '2001-08-10T00:00:00-0400'
-year: '2001'
-title: 'Avengers (1998) #43'
-issue: 43
+date: '2000-08-01T00:00:00-0400'
+year: '2000'
+title: 'Avengers (1998) #31'
+issue: 31
 series:
   period: '1998'
   name: Avengers
-url: http://marvel.com/comics/issue/17527/avengers_1998_43?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/17514/avengers_1998_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/58627d7db5a1f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/585c2953b6a65
   extension: jpg
