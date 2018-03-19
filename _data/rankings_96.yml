@@ -1,9 +1,9 @@
 ---
-- name: Captain America
-  score: 4
 - name: Hulk
   score: 4
 - name: Cyclops
+  score: 3
+- name: Captain America
   score: 3
 - name: Hawkeye
   score: 3
