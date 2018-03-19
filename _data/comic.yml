@@ -1,12 +1,12 @@
 ---
-date: '1987-12-10T00:00:00-0500'
-year: '1987'
-title: 'Classic X-Men (1986) #16'
-issue: 16
+date: '2012-03-28T00:00:00-0400'
+year: '2012'
+title: Avengers Vs. X-Men (2012)
+issue: 0
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20570/classic_x-men_1986_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/42332/avengers_vs_x-men_2012?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb6830df4142
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/4f74807d9748d
   extension: jpg
