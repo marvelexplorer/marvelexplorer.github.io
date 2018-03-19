@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 4
-- name: Wong
-  score: 3
 - name: Cyclops
   score: 3
 - name: Nightmare
   score: 2
 - name: Thor
+  score: 2
+- name: X-Men
   score: 2
