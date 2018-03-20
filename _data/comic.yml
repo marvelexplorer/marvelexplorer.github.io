@@ -1,12 +1,12 @@
 ---
-date: '2009-10-28T00:00:00-0400'
-year: '2009'
-title: 'Wolverine Weapon X (2009) #6'
-issue: 6
+date: '2006-05-24T00:00:00-0400'
+year: '2006'
+title: 'Wolverine (2003) #42'
+issue: 42
 series:
-  period: '2009'
-  name: Wolverine Weapon X
-url: http://marvel.com/comics/issue/27228/wolverine_weapon_x_2009_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/4178/wolverine_2003_42?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/51e43c404cd8a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/589357844495c
   extension: jpg
