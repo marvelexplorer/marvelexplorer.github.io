@@ -1,12 +1,12 @@
 ---
-date: '2013-04-24T00:00:00-0400'
-year: '2013'
-title: 'New Avengers (2013) #5'
-issue: 5
+date: '1983-11-10T00:00:00-0500'
+year: '1983'
+title: 'Iron Man Annual (1970) #6'
+issue: 6
 series:
-  period: '2013'
-  name: New Avengers
-url: http://marvel.com/comics/issue/43519/new_avengers_2013_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1970'
+  name: Iron Man Annual
+url: http://marvel.com/comics/issue/19870/iron_man_annual_1970_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/577538c2cc58e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/59cbf9c8570b7
   extension: jpg
