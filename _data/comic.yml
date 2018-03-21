@@ -1,12 +1,12 @@
 ---
-date: '1992-09-10T00:00:00-0400'
-year: '1992'
-title: 'X-Men (1991) #12'
-issue: 12
+date: '2012-03-07T00:00:00-0500'
+year: '2012'
+title: 'X-Men (2010) #26'
+issue: 26
 series:
-  period: '1991'
+  period: '2010'
   name: X-Men
-url: http://marvel.com/comics/issue/14298/x-men_1991_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/40872/x-men_2010_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/557f34fab3a50
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/58b5c79408c83
   extension: jpg
