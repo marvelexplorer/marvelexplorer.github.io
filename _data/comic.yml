@@ -1,12 +1,12 @@
 ---
-date: '1983-08-10T00:00:00-0400'
-year: '1983'
-title: 'Defenders (1972) #122'
-issue: 122
+date: '2013-04-24T00:00:00-0400'
+year: '2013'
+title: 'New Avengers (2013) #5'
+issue: 5
 series:
-  period: '1972'
-  name: Defenders
-url: http://marvel.com/comics/issue/20288/defenders_1972_122?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: New Avengers
+url: http://marvel.com/comics/issue/43519/new_avengers_2013_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/598b2b4ce8499
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/577538c2cc58e
   extension: jpg
