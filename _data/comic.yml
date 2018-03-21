@@ -1,12 +1,12 @@
 ---
-date: '1989-10-20T00:00:00-0400'
+date: '1989-11-30T00:00:00-0500'
 year: '1989'
-title: 'The Amazing Spider-Man (1963) #322'
-issue: 322
+title: 'The Amazing Spider-Man (1963) #325'
+issue: 325
 series:
   period: '1963'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6730/the_amazing_spider-man_1963_322?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6733/the_amazing_spider-man_1963_325?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/57f52232429ef
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/57f5258908979
   extension: jpg
