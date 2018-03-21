@@ -1,12 +1,12 @@
 ---
-date: '2011-06-15T00:00:00-0400'
-year: '2011'
-title: 'Hulk (2008) #35'
-issue: 35
+date: '1976-03-10T00:00:00-0500'
+year: '1976'
+title: 'Defenders (1972) #33'
+issue: 33
 series:
-  period: '2008'
-  name: Hulk
-url: http://marvel.com/comics/issue/37049/hulk_2008_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1972'
+  name: Defenders
+url: http://marvel.com/comics/issue/20341/defenders_1972_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f577a62b815c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/57d94e066575c
   extension: jpg
