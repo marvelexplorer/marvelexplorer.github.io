@@ -1,12 +1,12 @@
 ---
-date: '2008-03-12T00:00:00-0400'
-year: '2008'
-title: 'Wolverine (2003) #63'
-issue: 63
+date: '1990-08-20T00:00:00-0400'
+year: '1990'
+title: 'Uncanny X-Men (1963) #266'
+issue: 266
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/20833/wolverine_2003_63?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13807/uncanny_x-men_1963_266?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/58939aff8d264
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/590cad0a92714
   extension: jpg
