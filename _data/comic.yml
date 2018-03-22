@@ -1,12 +1,12 @@
 ---
-date: '2009-02-18T00:00:00-0500'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #587'
-issue: 587
+date: '1999-07-01T00:00:00-0400'
+year: '1999'
+title: 'Spider-Man: Chapter One (1998) #9'
+issue: 9
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/23567/amazing_spider-man_1999_587?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: 'Spider-Man: Chapter One'
+url: http://marvel.com/comics/issue/43231/spider-man_chapter_one_1998_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/57ffa519e49a5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/583d9cee8b183
   extension: jpg
