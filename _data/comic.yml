@@ -1,12 +1,12 @@
 ---
-date: '2010-03-03T00:00:00-0500'
-year: '2010'
-title: 'X-Men Noir: Mark of Cain (2009) #4'
-issue: 4
+date: '2013-06-19T00:00:00-0400'
+year: '2013'
+title: 'X-Men Legacy (2012) #12'
+issue: 12
 series:
-  period: '2009'
-  name: 'X-Men Noir: Mark of Cain'
-url: http://marvel.com/comics/issue/30712/x-men_noir_mark_of_cain_2009_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/46809/x-men_legacy_2012_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/59651e9aea729
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/40/58c704b868538
   extension: jpg
