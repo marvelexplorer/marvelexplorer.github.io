@@ -1,12 +1,12 @@
 ---
-date: '2013-06-19T00:00:00-0400'
-year: '2013'
-title: 'X-Men Legacy (2012) #12'
-issue: 12
+date: '1993-10-01T00:00:00-0400'
+year: '1993'
+title: 'X-Men Annual (1991) #2'
+issue: 2
 series:
-  period: '2012'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/46809/x-men_legacy_2012_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/53532/x-men_annual_1991_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/40/58c704b868538
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/58da874d468d2
   extension: jpg
