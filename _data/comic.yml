@@ -1,12 +1,12 @@
 ---
-date: '1991-05-10T00:00:00-0400'
-year: '1991'
-title: 'X-Factor (1986) #66'
-issue: 66
+date: '2017-06-21T00:00:00-0400'
+year: '2017'
+title: 'Captain America: Steve Rogers (2016) #18'
+issue: 18
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12286/x-factor_1986_66?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: 'Captain America: Steve Rogers'
+url: http://marvel.com/comics/issue/60955/captain_america_steve_rogers_2016_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/573608ab3416f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5941a86165fa4
   extension: jpg
