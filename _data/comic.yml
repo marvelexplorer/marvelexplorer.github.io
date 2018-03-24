@@ -1,12 +1,12 @@
 ---
-date: '1969-08-10T00:00:00-0400'
-year: '1969'
-title: 'The Amazing Spider-Man (1963) #75'
-issue: 75
+date: '2011-02-23T00:00:00-0500'
+year: '2011'
+title: 'Marvel Adventures Spider-Man (2010) #11'
+issue: 11
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6896/the_amazing_spider-man_1963_75?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Marvel Adventures Spider-Man
+url: http://marvel.com/comics/issue/30133/marvel_adventures_spider-man_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/57ae25b71abdc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/56c61d83cbfe6
   extension: jpg
