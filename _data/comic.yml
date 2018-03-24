@@ -1,12 +1,12 @@
 ---
-date: '2011-02-23T00:00:00-0500'
-year: '2011'
-title: 'Marvel Adventures Spider-Man (2010) #11'
-issue: 11
+date: '2007-10-10T00:00:00-0400'
+year: '2007'
+title: 'Friendly Neighborhood Spider-Man (2005) #24'
+issue: 24
 series:
-  period: '2010'
-  name: Marvel Adventures Spider-Man
-url: http://marvel.com/comics/issue/30133/marvel_adventures_spider-man_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Friendly Neighborhood Spider-Man
+url: http://marvel.com/comics/issue/16485/friendly_neighborhood_spider-man_2005_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/56c61d83cbfe6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/56a8f52ce4e85
   extension: jpg
