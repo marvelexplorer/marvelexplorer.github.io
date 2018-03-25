@@ -1,12 +1,12 @@
 ---
-date: '2001-05-02T00:00:00-0400'
-year: '2001'
-title: 'X-Men: The Hidden Years (1999) #20'
-issue: 20
+date: '2010-07-08T00:00:00-0400'
+year: '2010'
+title: 'X-Men (2010) #1'
+issue: 1
 series:
-  period: '1999'
-  name: 'X-Men: The Hidden Years'
-url: http://marvel.com/comics/issue/65375/x-men_the_hidden_years_1999_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/34249/x-men_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5a58c833a8db7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/58d12610ef57d
   extension: jpg
