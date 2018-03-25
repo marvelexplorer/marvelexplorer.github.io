@@ -1,12 +1,12 @@
 ---
-date: '1976-10-10T00:00:00-0400'
-year: '1976'
-title: 'Incredible Hulk (1962) #204'
-issue: 204
+date: '1993-02-10T00:00:00-0500'
+year: '1993'
+title: 'Warlock and the Infinity Watch (1992) #13'
+issue: 13
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9015/incredible_hulk_1962_204?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1992'
+  name: Warlock and the Infinity Watch
+url: http://marvel.com/comics/issue/18417/warlock_and_the_infinity_watch_1992_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/5277d645e0721
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/584ad1240c3fe
   extension: jpg
