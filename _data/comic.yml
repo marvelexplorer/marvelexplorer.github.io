@@ -1,12 +1,12 @@
 ---
-date: '2012-02-22T00:00:00-0500'
-year: '2012'
-title: 'Avengers: Solo (2011) #5'
-issue: 5
+date: '2011-03-09T00:00:00-0500'
+year: '2011'
+title: 'Hawkeye: Blind Spot (2011) #2'
+issue: 2
 series:
   period: '2011'
-  name: 'Avengers: Solo'
-url: http://marvel.com/comics/issue/40417/avengers_solo_2011_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: 'Hawkeye: Blind Spot'
+url: http://marvel.com/comics/issue/38153/hawkeye_blind_spot_2011_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/56bb9f38c1197
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/4d541049462b3
   extension: jpg
