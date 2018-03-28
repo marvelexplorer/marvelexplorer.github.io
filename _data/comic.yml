@@ -1,12 +1,12 @@
 ---
-date: '2002-05-10T00:00:00-0400'
-year: '2002'
-title: 'Ultimate Spider-Man (2000) #19'
-issue: 19
+date: '2010-07-28T00:00:00-0400'
+year: '2010'
+title: 'Ultimate Comics Mystery (2010) #1'
+issue: 1
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/14845/ultimate_spider-man_2000_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Ultimate Comics Mystery
+url: http://marvel.com/comics/issue/30210/ultimate_comics_mystery_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/58e2a9d2ec0cb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/5a8f1a2cf23ec
   extension: jpg
