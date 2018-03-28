@@ -1,12 +1,12 @@
 ---
-date: '2010-07-28T00:00:00-0400'
-year: '2010'
-title: 'Ultimate Comics Mystery (2010) #1'
-issue: 1
+date: '2006-09-20T00:00:00-0400'
+year: '2006'
+title: 'Ultimate Fantastic Four (2003) #34'
+issue: 34
 series:
-  period: '2010'
-  name: Ultimate Comics Mystery
-url: http://marvel.com/comics/issue/30210/ultimate_comics_mystery_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Ultimate Fantastic Four
+url: http://marvel.com/comics/issue/5072/ultimate_fantastic_four_2003_34?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/5a8f1a2cf23ec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5a95d002775f8
   extension: jpg
