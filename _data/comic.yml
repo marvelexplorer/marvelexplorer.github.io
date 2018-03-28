@@ -1,12 +1,12 @@
 ---
-date: '2001-12-01T00:00:00-0500'
-year: '2001'
-title: 'Ultimate Marvel Team-Up (2001) #9'
-issue: 9
+date: '2011-10-12T00:00:00-0400'
+year: '2011'
+title: 'Ultimate Comics X-Men (2010) #2'
+issue: 2
 series:
-  period: '2001'
-  name: Ultimate Marvel Team-Up
-url: http://marvel.com/comics/issue/15783/ultimate_marvel_team-up_2001_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Ultimate Comics X-Men
+url: http://marvel.com/comics/issue/36831/ultimate_comics_x-men_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5aa67d27d57e2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/56b3747d6666d
   extension: jpg
