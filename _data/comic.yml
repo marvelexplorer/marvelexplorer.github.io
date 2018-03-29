@@ -1,12 +1,12 @@
 ---
-date: '2008-01-23T00:00:00-0500'
-year: '2008'
-title: 'Ultimates 3 (2007) #2'
-issue: 2
+date: '2009-11-25T00:00:00-0500'
+year: '2009'
+title: 'Ultimate Comics Avengers (2009) #4'
+issue: 4
 series:
-  period: '2007'
-  name: Ultimates 3
-url: http://marvel.com/comics/issue/17618/ultimates_3_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Ultimate Comics Avengers
+url: http://marvel.com/comics/issue/26843/ultimate_comics_avengers_2009_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/5aa6a627cd5e6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/515f0cae4224e
   extension: jpg
