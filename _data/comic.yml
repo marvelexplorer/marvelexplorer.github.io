@@ -1,12 +1,12 @@
 ---
-date: '2010-03-03T00:00:00-0500'
-year: '2010'
-title: 'Amazing Spider-Man (1999) #623'
-issue: 623
+date: '1993-06-10T00:00:00-0400'
+year: '1993'
+title: 'Spider-Man 2099 (1992) #8'
+issue: 8
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/30298/amazing_spider-man_1999_623?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1992'
+  name: Spider-Man 2099
+url: http://marvel.com/comics/issue/10909/spider-man_2099_1992_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/5808d834bd9e9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/50b522fd0a195
   extension: jpg
