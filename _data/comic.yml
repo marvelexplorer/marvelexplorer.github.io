@@ -1,12 +1,12 @@
 ---
-date: '1992-06-01T00:00:00-0400'
-year: '1992'
-title: 'Guardians of the Galaxy (1990) #25'
-issue: 25
+date: '1974-09-10T00:00:00-0400'
+year: '1974'
+title: 'Marvel Two-in-One (1974) #5'
+issue: 5
 series:
-  period: '1990'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/58023/guardians_of_the_galaxy_1990_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1974'
+  name: Marvel Two-in-One
+url: http://marvel.com/comics/issue/19520/marvel_two-in-one_1974_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/f0/58052c701923a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/50b4324d0544f
   extension: jpg
