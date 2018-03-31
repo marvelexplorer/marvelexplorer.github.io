@@ -1,12 +1,12 @@
 ---
-date: '1976-09-10T00:00:00-0400'
-year: '1976'
-title: 'Fantastic Four (1961) #174'
-issue: 174
+date: '2007-02-14T00:00:00-0500'
+year: '2007'
+title: 'Marvel Adventures Fantastic Four (2005) #21'
+issue: 21
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/12977/fantastic_four_1961_174?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Marvel Adventures Fantastic Four
+url: http://marvel.com/comics/issue/6003/marvel_adventures_fantastic_four_2005_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5abaa407ecd72
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc5a712ad349
   extension: jpg
