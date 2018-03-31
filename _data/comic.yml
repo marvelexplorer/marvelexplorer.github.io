@@ -1,12 +1,12 @@
 ---
-date: '2007-02-14T00:00:00-0500'
-year: '2007'
-title: 'Marvel Adventures Fantastic Four (2005) #21'
-issue: 21
+date: '1999-09-01T00:00:00-0400'
+year: '1999'
+title: 'Galactus the Devourer (1999) #1'
+issue: 1
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/6003/marvel_adventures_fantastic_four_2005_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Galactus the Devourer
+url: http://marvel.com/comics/issue/55273/galactus_the_devourer_1999_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc5a712ad349
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/57e1925ec6ec7
   extension: jpg
