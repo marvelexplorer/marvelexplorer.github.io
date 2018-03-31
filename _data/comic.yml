@@ -1,12 +1,12 @@
 ---
-date: '1984-03-10T00:00:00-0500'
-year: '1984'
-title: 'Thor (1966) #341'
-issue: 341
+date: '2008-12-03T00:00:00-0500'
+year: '2008'
+title: 'Secret Invasion: Front Line (2008) #5'
+issue: 5
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11669/thor_1966_341?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'Secret Invasion: Front Line'
+url: http://marvel.com/comics/issue/22555/secret_invasion_front_line_2008_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb4fef0b526c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5151f526b4d7b
   extension: jpg
