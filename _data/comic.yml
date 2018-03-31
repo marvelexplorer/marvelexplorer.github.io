@@ -1,12 +1,12 @@
 ---
-date: '2009-01-07T00:00:00-0500'
-year: '2009'
-title: 'Wolverine: Switchback (2009) #1'
-issue: 1
+date: '2001-11-01T00:00:00-0500'
+year: '2001'
+title: 'Iron Man (1998) #46'
+issue: 46
 series:
-  period: '2009'
-  name: 'Wolverine: Switchback'
-url: http://marvel.com/comics/issue/23150/wolverine_switchback_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19920/iron_man_1998_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bb6049f87338
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5967f2a0cc2b0
   extension: jpg
