@@ -1,12 +1,12 @@
 ---
-date: '2008-12-03T00:00:00-0500'
-year: '2008'
-title: 'Secret Invasion: Front Line (2008) #5'
-issue: 5
+date: '1976-09-10T00:00:00-0400'
+year: '1976'
+title: 'Fantastic Four (1961) #174'
+issue: 174
 series:
-  period: '2008'
-  name: 'Secret Invasion: Front Line'
-url: http://marvel.com/comics/issue/22555/secret_invasion_front_line_2008_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/12977/fantastic_four_1961_174?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5151f526b4d7b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5abaa407ecd72
   extension: jpg
