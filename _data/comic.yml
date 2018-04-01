@@ -1,12 +1,12 @@
 ---
-date: '1977-01-01T00:00:00-0500'
-year: '1977'
-title: 'Invaders Annual (1977) #1'
-issue: 1
+date: '1989-03-01T00:00:00-0500'
+year: '1989'
+title: 'Saga of the Sub-Mariner (1988) #5'
+issue: 5
 series:
-  period: '1977'
-  name: Invaders Annual
-url: http://marvel.com/comics/issue/9326/invaders_annual_1977_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Saga of the Sub-Mariner
+url: http://marvel.com/comics/issue/62670/saga_of_the_sub-mariner_1988_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/53519b232be49
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5893c0901ad6b
   extension: jpg
