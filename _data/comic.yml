@@ -1,12 +1,12 @@
 ---
-date: '2017-11-22T00:00:00-0500'
-year: '2017'
-title: 'Invincible Iron Man (2016) #594'
-issue: 594
+date: '2005-12-28T00:00:00-0500'
+year: '2005'
+title: 'Ultimate Spider-Man (2000) #88'
+issue: 88
 series:
-  period: '2016'
-  name: Invincible Iron Man
-url: http://marvel.com/comics/issue/65080/invincible_iron_man_2016_594?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Ultimate Spider-Man
+url: http://marvel.com/comics/issue/3194/ultimate_spider-man_2000_88?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5a0c6b948f843
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/58e7f63f5aa1c
   extension: jpg
