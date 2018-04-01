@@ -1,12 +1,12 @@
 ---
-date: '2005-12-28T00:00:00-0500'
-year: '2005'
-title: 'Ultimate Spider-Man (2000) #88'
-issue: 88
+date: '2011-05-18T00:00:00-0400'
+year: '2011'
+title: 'Ultimate Avengers Vs. New Ultimates (2011) #4'
+issue: 4
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/3194/ultimate_spider-man_2000_88?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Ultimate Avengers Vs. New Ultimates
+url: http://marvel.com/comics/issue/36127/ultimate_avengers_vs_new_ultimates_2011_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/58e7f63f5aa1c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4f6216223e61d
   extension: jpg
