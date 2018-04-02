@@ -1,12 +1,12 @@
 ---
-date: '1989-12-01T00:00:00-0500'
+date: '1989-11-30T00:00:00-0500'
 year: '1989'
-title: 'Marvel Comics Presents (1988) #34'
-issue: 34
+title: 'Marvel Comics Presents (1988) #33'
+issue: 33
 series:
   period: '1988'
   name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10113/marvel_comics_presents_1988_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/10112/marvel_comics_presents_1988_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5aa162297e687
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/5aa1625498ddb
   extension: jpg
