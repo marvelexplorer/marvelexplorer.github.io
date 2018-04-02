@@ -1,12 +1,12 @@
 ---
-date: '1997-02-10T00:00:00-0500'
-year: '1997'
-title: 'Avengers (1996) #4'
-issue: 4
+date: '1989-12-01T00:00:00-0500'
+year: '1989'
+title: 'Marvel Comics Presents (1988) #34'
+issue: 34
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17758/avengers_1996_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10113/marvel_comics_presents_1988_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/58765ddd3b89d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5aa162297e687
   extension: jpg
