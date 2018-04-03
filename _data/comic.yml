@@ -1,12 +1,12 @@
 ---
-date: '2002-06-01T00:00:00-0400'
-year: '2002'
-title: 'Wolverine (1988) #175'
-issue: 175
+date: '2012-05-02T00:00:00-0400'
+year: '2012'
+title: 'Avengers Vs. X-Men (2012) #3'
+issue: 3
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14120/wolverine_1988_175?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Avengers Vs. X-Men
+url: http://marvel.com/comics/issue/41187/avengers_vs_x-men_2012_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5453d513d2ad6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4fa4390203731
   extension: jpg
