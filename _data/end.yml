@@ -1,9 +1,10 @@
 ---
-name: Vision
-description: The metal monstrosity called Ultron created the synthetic humanoid known
-  as the Vision from the remains of the original android Human Torch of the 1940s
-  to serve as a vehicle of vengeance against the Avengers.
-url: http://marvel.com/universe/Vision_(Victor_Shade)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Wolverine
+description: Born with super-human senses and the power to heal from almost any wound,
+  Wolverine was captured by a secret Canadian organization and given an unbreakable
+  skeleton and claws. Treated like an animal, it took years for him to control himself.
+  Now, he's a premiere member of both the X-Men and the Avengers.
+url: http://marvel.com/universe/Wolverine_(James_Howlett)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf
   extension: jpg
