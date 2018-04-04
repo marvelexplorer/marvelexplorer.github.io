@@ -1,12 +1,12 @@
 ---
-date: '2011-05-25T00:00:00-0400'
-year: '2011'
-title: 'Daken: Dark Wolverine (2010) #9.1'
-issue: 9.1
+date: '2017-11-22T00:00:00-0500'
+year: '2017'
+title: 'All-New Wolverine (2015) #27'
+issue: 27
 series:
-  period: '2010'
-  name: 'Daken: Dark Wolverine'
-url: http://marvel.com/comics/issue/39854/daken_dark_wolverine_2010_9.1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: All-New Wolverine
+url: http://marvel.com/comics/issue/60517/all-new_wolverine_2015_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/4dd6866264146
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/5a0c690d868f0
   extension: jpg
