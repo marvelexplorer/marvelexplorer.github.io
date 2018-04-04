@@ -1,12 +1,12 @@
 ---
-date: '1964-02-10T00:00:00-0500'
-year: '1964'
-title: 'Fantastic Four (1961) #23'
-issue: 23
+date: '2002-08-01T00:00:00-0400'
+year: '2002'
+title: 'Daredevil (1998) #34'
+issue: 34
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13039/fantastic_four_1961_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15636/daredevil_1998_34?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/5aaa8ddd7b52f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/514ca5a023952
   extension: jpg
