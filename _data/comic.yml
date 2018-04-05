@@ -1,12 +1,12 @@
 ---
-date: '2014-10-29T00:00:00-0400'
-year: '2014'
-title: 'Guardians of the Galaxy (2013) #20'
-issue: 20
+date: '2017-05-24T00:00:00-0400'
+year: '2017'
+title: 'Guardians of the Galaxy: Mother Entropy (2017) #4'
+issue: 4
 series:
-  period: '2013'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/50978/guardians_of_the_galaxy_2013_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: 'Guardians of the Galaxy: Mother Entropy'
+url: http://marvel.com/comics/issue/62825/guardians_of_the_galaxy_mother_entropy_2017_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/55b242ad84037
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/591c9c8f12aae
   extension: jpg
