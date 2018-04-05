@@ -1,12 +1,12 @@
 ---
-date: '2010-05-12T00:00:00-0400'
-year: '2010'
-title: 'Black Widow (2010) #2'
-issue: 2
+date: '2011-05-25T00:00:00-0400'
+year: '2011'
+title: 'Captain America (2004) #618'
+issue: 618
 series:
-  period: '2010'
-  name: Black Widow
-url: http://marvel.com/comics/issue/29749/black_widow_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/35774/captain_america_2004_618?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5a2844bf44738
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/59c3c3915bafa
   extension: jpg
