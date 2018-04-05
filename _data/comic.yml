@@ -1,12 +1,12 @@
 ---
-date: '1991-03-01T00:00:00-0500'
-year: '1991'
-title: 'Namor: The Sub-Mariner (1990) #12'
-issue: 12
+date: '1984-10-10T00:00:00-0400'
+year: '1984'
+title: 'Thor (1966) #348'
+issue: 348
 series:
-  period: '1990'
-  name: 'Namor: The Sub-Mariner'
-url: http://marvel.com/comics/issue/66016/namor_the_sub-mariner_1990_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11676/thor_1966_348?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/5a612f1df0bed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/4bb4fd503e3aa
   extension: jpg
