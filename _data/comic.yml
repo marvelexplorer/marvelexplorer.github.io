@@ -1,12 +1,12 @@
 ---
-date: '2009-08-05T00:00:00-0400'
-year: '2009'
-title: 'Captain America: Reborn (2009) #2'
-issue: 2
+date: '2006-07-26T00:00:00-0400'
+year: '2006'
+title: 'Captain America (2004) #20'
+issue: 20
 series:
-  period: '2009'
-  name: 'Captain America: Reborn'
-url: http://marvel.com/comics/issue/26196/captain_america_reborn_2009_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/4482/captain_america_2004_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/5a2aa6f9da76d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/570bcbf76d9b1
   extension: jpg
