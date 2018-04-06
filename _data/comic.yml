@@ -1,12 +1,12 @@
 ---
-date: '2004-11-24T00:00:00-0500'
-year: '2004'
-title: 'Ultimate Elektra (2004) #4'
-issue: 4
+date: '1981-07-10T00:00:00-0400'
+year: '1981'
+title: 'Daredevil (1964) #172'
+issue: 172
 series:
-  period: '2004'
-  name: Ultimate Elektra
-url: http://marvel.com/comics/issue/43/ultimate_elektra_2004_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8154/daredevil_1964_172?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/70/5a957b95a7e9e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bb676626755c
   extension: jpg
