@@ -1,12 +1,12 @@
 ---
-date: '1981-07-10T00:00:00-0400'
-year: '1981'
-title: 'Daredevil (1964) #172'
-issue: 172
+date: '2012-02-08T00:00:00-0500'
+year: '2012'
+title: 'Deadpool (2008) #50'
+issue: 50
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8154/daredevil_1964_172?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Deadpool
+url: http://marvel.com/comics/issue/40209/deadpool_2008_50?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bb676626755c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51a501be2e6c5
   extension: jpg
