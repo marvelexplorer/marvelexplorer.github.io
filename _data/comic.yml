@@ -1,12 +1,12 @@
 ---
-date: '2011-01-12T00:00:00-0500'
-year: '2011'
-title: 'Heroes for Hire (2010) #2'
-issue: 2
+date: '2005-11-16T00:00:00-0500'
+year: '2005'
+title: 'Ultimate Spider-Man (2000) #86'
+issue: 86
 series:
-  period: '2010'
-  name: Heroes for Hire
-url: http://marvel.com/comics/issue/37196/heroes_for_hire_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate Spider-Man
+url: http://marvel.com/comics/issue/3003/ultimate_spider-man_2000_86?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56438da1df862
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/58e7d06a10a7a
   extension: jpg
