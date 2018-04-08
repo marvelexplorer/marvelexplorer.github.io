@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 7
-- name: Archangel
-  score: 4
 - name: Thor
   score: 3
 - name: Cyclops
   score: 3
 - name: Daredevil
+  score: 3
+- name: Archangel
   score: 3
