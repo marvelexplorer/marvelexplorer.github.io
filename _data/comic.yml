@@ -1,12 +1,12 @@
 ---
-date: '1989-04-01T00:00:00-0500'
-year: '1989'
-title: 'Marvel Comics Presents (1988) #16'
-issue: 16
+date: '1969-11-10T00:00:00-0500'
+year: '1969'
+title: 'Uncanny X-Men (1963) #62'
+issue: 62
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10077/marvel_comics_presents_1988_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12513/uncanny_x-men_1963_62?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/5aa160b6c74a1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/58a493069ae5e
   extension: jpg
