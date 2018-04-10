@@ -1,12 +1,12 @@
 ---
-date: '2000-09-01T00:00:00-0400'
-year: '2000'
-title: 'Thor (1998) #27'
-issue: 27
+date: '1965-03-10T00:00:00-0500'
+year: '1965'
+title: 'Journey Into Mystery (1952) #114'
+issue: 114
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18650/thor_1998_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1952'
+  name: Journey Into Mystery
+url: http://marvel.com/comics/issue/9689/journey_into_mystery_1952_114?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/59cab087d1d55
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/5a7c6dc559fc6
   extension: jpg
