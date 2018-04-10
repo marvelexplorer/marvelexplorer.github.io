@@ -1,9 +1,9 @@
 ---
 - name: X-Men
   score: 10
-- name: Captain America
-  score: 4
 - name: Daredevil
+  score: 3
+- name: Captain America
   score: 3
 - name: Iron Man
   score: 3
