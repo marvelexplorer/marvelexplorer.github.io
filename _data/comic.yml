@@ -1,12 +1,12 @@
 ---
-date: '1983-10-10T00:00:00-0400'
-year: '1983'
-title: 'Avengers (1963) #236'
-issue: 236
+date: '2013-02-20T00:00:00-0500'
+year: '2013'
+title: 'Avengers (2012) #6'
+issue: 6
 series:
-  period: '1963'
+  period: '2012'
   name: Avengers
-url: http://marvel.com/comics/issue/7104/avengers_1963_236?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/43536/avengers_2012_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/e0/5873e13844562
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/5743669df137c
   extension: jpg
