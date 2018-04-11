@@ -1,12 +1,12 @@
 ---
-date: '2010-11-10T00:00:00-0500'
+date: '2010-10-06T00:00:00-0400'
 year: '2010'
-title: 'Ultimate Comics Thor (2010) #2'
-issue: 2
+title: 'Ultimate Comics Thor (2010) #1'
+issue: 1
 series:
   period: '2010'
   name: Ultimate Comics Thor
-url: http://marvel.com/comics/issue/33576/ultimate_comics_thor_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/33579/ultimate_comics_thor_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5a8eeb1362f11
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/90/5a8edf15a012a
   extension: jpg
