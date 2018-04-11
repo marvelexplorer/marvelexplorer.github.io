@@ -1,12 +1,12 @@
 ---
-date: '1991-01-01T00:00:00-0500'
-year: '1991'
-title: 'Avengers Annual (1967) #20'
-issue: 20
+date: '2005-04-27T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #5'
+issue: 5
 series:
-  period: '1967'
-  name: Avengers Annual
-url: http://marvel.com/comics/issue/17776/avengers_annual_1967_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/1720/new_avengers_2004_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5ab3f810be2b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f7dad200e939
   extension: jpg
