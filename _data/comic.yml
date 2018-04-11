@@ -1,12 +1,12 @@
 ---
-date: '1990-12-10T00:00:00-0500'
-year: '1990'
-title: 'Captain America (1968) #380'
-issue: 380
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #57'
+issue: 57
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7761/captain_america_1968_380?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17542/avengers_1998_57?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5214ed9723ab6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5863dd6a70a67
   extension: jpg
