@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
-year: '2006'
-title: 'X-Men and Power Pack (2005) #4'
-issue: 4
+date: '1999-04-01T00:00:00-0500'
+year: '1999'
+title: 'Cable Annual (1999) #1'
+issue: 1
 series:
-  period: '2005'
-  name: X-Men and Power Pack
-url: http://marvel.com/comics/issue/3416/x-men_and_power_pack_2005_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Cable Annual
+url: http://marvel.com/comics/issue/66468/cable_annual_1999_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5970afe36b47f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/5a4fbb3123e77
   extension: jpg
