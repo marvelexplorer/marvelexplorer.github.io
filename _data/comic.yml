@@ -1,12 +1,12 @@
 ---
-date: '2000-03-10T00:00:00-0500'
-year: '2000'
-title: 'X-51 (1999) #8'
-issue: 8
+date: '1987-04-01T00:00:00-0500'
+year: '1987'
+title: 'X-Men Vs. Avengers (1987) #1'
+issue: 1
 series:
-  period: '1999'
-  name: X-51
-url: http://marvel.com/comics/issue/23507/x-51_1999_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1987'
+  name: X-Men Vs. Avengers
+url: http://marvel.com/comics/issue/42807/x-men_vs_avengers_1987_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb5821c3fc99
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5887bc847640a
   extension: jpg
