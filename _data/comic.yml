@@ -1,12 +1,12 @@
 ---
-date: '2003-04-20T00:00:00-0400'
-year: '2003'
-title: 'Thor (1998) #60'
-issue: 60
+date: '1966-01-10T00:00:00-0500'
+year: '1966'
+title: 'Journey Into Mystery (1952) #124'
+issue: 124
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18687/thor_1998_60?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1952'
+  name: Journey Into Mystery
+url: http://marvel.com/comics/issue/9700/journey_into_mystery_1952_124?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/59d63cf92daec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5a7dc17609364
   extension: jpg
