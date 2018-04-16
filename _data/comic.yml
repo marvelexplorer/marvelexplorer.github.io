@@ -1,12 +1,12 @@
 ---
-date: '2003-04-02T00:00:00-0500'
-year: '2003'
-title: 'Marvel Universe: The End (2003) #1'
+date: '2001-02-28T00:00:00-0500'
+year: '2001'
+title: 'Sentry: The Void (2001) #1'
 issue: 1
 series:
-  period: '2003'
-  name: 'Marvel Universe: The End'
-url: http://marvel.com/comics/issue/15786/marvel_universe_the_end_2003_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: 'Sentry: The Void'
+url: http://marvel.com/comics/issue/22445/sentry_the_void_2001_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5188021fd1fc8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/5975ebf74cb9a
   extension: jpg
