@@ -1,12 +1,12 @@
 ---
-date: '2002-12-10T00:00:00-0500'
-year: '2002'
-title: 'Alias (2001) #15'
+date: '1990-02-10T00:00:00-0500'
+year: '1990'
+title: 'Punisher War Journal (1988) #15'
 issue: 15
 series:
-  period: '2001'
-  name: Alias
-url: http://marvel.com/comics/issue/37262/alias_2001_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Punisher War Journal
+url: http://marvel.com/comics/issue/22168/punisher_war_journal_1988_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/569670f76b086
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/5a0caae8d7b90
   extension: jpg
