@@ -1,12 +1,12 @@
 ---
-date: '2008-02-13T00:00:00-0500'
-year: '2008'
-title: 'Iron Man: Enter the Mandarin (2007) #5'
-issue: 5
+date: '1967-01-10T00:00:00-0500'
+year: '1967'
+title: 'Tales of Suspense (1959) #85'
+issue: 85
 series:
-  period: '2007'
-  name: 'Iron Man: Enter the Mandarin'
-url: http://marvel.com/comics/issue/17641/iron_man_enter_the_mandarin_2007_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11331/tales_of_suspense_1959_85?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5a7a232f0590c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/40/536d47e8853fc
   extension: jpg
