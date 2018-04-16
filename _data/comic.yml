@@ -1,12 +1,12 @@
 ---
-date: '2001-02-28T00:00:00-0500'
-year: '2001'
-title: 'Sentry: The Void (2001) #1'
-issue: 1
+date: '2002-12-10T00:00:00-0500'
+year: '2002'
+title: 'Alias (2001) #15'
+issue: 15
 series:
   period: '2001'
-  name: 'Sentry: The Void'
-url: http://marvel.com/comics/issue/22445/sentry_the_void_2001_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Alias
+url: http://marvel.com/comics/issue/37262/alias_2001_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/5975ebf74cb9a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/569670f76b086
   extension: jpg
