@@ -1,12 +1,12 @@
 ---
-date: '2004-05-05T00:00:00-0400'
-year: '2004'
-title: 'Thanos (2003) #10'
-issue: 10
+date: '2003-04-02T00:00:00-0500'
+year: '2003'
+title: 'Marvel Universe: The End (2003) #1'
+issue: 1
 series:
   period: '2003'
-  name: Thanos
-url: http://marvel.com/comics/issue/625/thanos_2003_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: 'Marvel Universe: The End'
+url: http://marvel.com/comics/issue/15786/marvel_universe_the_end_2003_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/577fc808dd6fc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5188021fd1fc8
   extension: jpg
