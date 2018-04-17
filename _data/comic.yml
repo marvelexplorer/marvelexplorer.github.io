@@ -1,12 +1,12 @@
 ---
-date: '1998-09-01T00:00:00-0400'
-year: '1998'
-title: 'Quicksilver (1997) #11'
-issue: 11
+date: '2008-01-04T00:00:00-0500'
+year: '2008'
+title: 'Annihilation: Conquest (2007) #3'
+issue: 3
 series:
-  period: '1997'
-  name: Quicksilver
-url: http://marvel.com/comics/issue/53687/quicksilver_1997_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Annihilation: Conquest'
+url: http://marvel.com/comics/issue/17645/annihilation_conquest_2007_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5835b245a8dcf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e83867ba1c87
   extension: jpg
