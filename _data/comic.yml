@@ -1,12 +1,12 @@
 ---
-date: '1978-04-10T00:00:00-0500'
-year: '1978'
-title: 'Howard the Duck (1976) #23'
-issue: 23
+date: '2017-02-22T00:00:00-0500'
+year: '2017'
+title: 'Deadpool the Duck (2017) #4'
+issue: 4
 series:
-  period: '1976'
-  name: Howard the Duck
-url: http://marvel.com/comics/issue/21111/howard_the_duck_1976_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Deadpool the Duck
+url: http://marvel.com/comics/issue/60620/deadpool_the_duck_2017_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb5e67c81c7e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/58a20fbca086a
   extension: jpg
