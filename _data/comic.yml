@@ -1,12 +1,12 @@
 ---
-date: '1983-12-10T00:00:00-0500'
-year: '1983'
-title: 'Fantastic Four (1961) #261'
-issue: 261
+date: '2008-07-09T00:00:00-0400'
+year: '2008'
+title: 'Nova (2007) #15'
+issue: 15
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13074/fantastic_four_1961_261?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Nova
+url: http://marvel.com/comics/issue/21541/nova_2007_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/5abd3f4d57275
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/5151f26664772
   extension: jpg
