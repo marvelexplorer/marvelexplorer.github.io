@@ -1,12 +1,12 @@
 ---
-date: '1982-11-10T00:00:00-0500'
-year: '1982'
-title: 'Marvel Fanfare (1982) #5'
-issue: 5
+date: '1984-12-10T00:00:00-0500'
+year: '1984'
+title: 'Captain America (1968) #300'
+issue: 300
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19826/marvel_fanfare_1982_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7681/captain_america_1968_300?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb5c6c541254
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/56e6cf023450c
   extension: jpg
