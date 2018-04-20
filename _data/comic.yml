@@ -1,12 +1,12 @@
 ---
-date: '1984-12-15T00:00:00-0500'
-year: '1984'
-title: 'Beauty and the Beast (1985) #1'
+date: '2007-10-17T00:00:00-0400'
+year: '2007'
+title: 'X-Men: Die by the Sword (2007) #1'
 issue: 1
 series:
-  period: '1985'
-  name: Beauty and the Beast
-url: http://marvel.com/comics/issue/62749/beauty_and_the_beast_1985_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'X-Men: Die by the Sword'
+url: http://marvel.com/comics/issue/16590/x-men_die_by_the_sword_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/70/588791e692aa8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/58d14ebc35cd6
   extension: jpg
