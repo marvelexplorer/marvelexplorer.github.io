@@ -1,12 +1,12 @@
 ---
-date: '1998-02-01T00:00:00-0500'
-year: '1998'
-title: 'Elektra (1996) #15'
-issue: 15
+date: '2017-11-15T00:00:00-0500'
+year: '2017'
+title: 'Defenders (2017) #7'
+issue: 7
 series:
-  period: '1996'
-  name: Elektra
-url: http://marvel.com/comics/issue/62744/elektra_1996_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Defenders
+url: http://marvel.com/comics/issue/65068/defenders_2017_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5a8f54622f6a3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/f0/5a03492328b07
   extension: jpg
