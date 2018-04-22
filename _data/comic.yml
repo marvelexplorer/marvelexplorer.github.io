@@ -1,12 +1,12 @@
 ---
-date: '2012-06-13T00:00:00-0400'
-year: '2012'
-title: 'Avengers Assemble (2012) #4'
-issue: 4
+date: '1989-05-01T00:00:00-0400'
+year: '1989'
+title: 'Wolverine (1988) #7'
+issue: 7
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/41356/avengers_assemble_2012_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14192/wolverine_1988_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/04/58d41f8d8dbfd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc33c2e076bd
   extension: jpg
