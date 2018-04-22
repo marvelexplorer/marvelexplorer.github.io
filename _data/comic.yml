@@ -1,12 +1,12 @@
 ---
-date: '1978-05-10T00:00:00-0400'
-year: '1978'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #18'
-issue: 18
+date: '2012-09-12T00:00:00-0400'
+year: '2012'
+title: 'Avengers Assemble (2012) #7'
+issue: 7
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14631/peter_parker_the_spectacular_spider-man_1976_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Avengers Assemble
+url: http://marvel.com/comics/issue/41881/avengers_assemble_2012_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5a06269b2e9cc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/58d4366f8cede
   extension: jpg
