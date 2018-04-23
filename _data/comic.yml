@@ -1,12 +1,12 @@
 ---
-date: '2002-01-01T00:00:00-0500'
-year: '2002'
-title: 'Avengers (1998) #48'
-issue: 48
+date: '2000-09-01T00:00:00-0400'
+year: '2000'
+title: 'X-Men: The Hidden Years (1999) #10'
+issue: 10
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17532/avengers_1998_48?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: 'X-Men: The Hidden Years'
+url: http://marvel.com/comics/issue/65872/x-men_the_hidden_years_1999_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/586281e4db05c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/5a569612902d1
   extension: jpg
