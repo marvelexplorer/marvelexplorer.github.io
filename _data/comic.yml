@@ -1,12 +1,12 @@
 ---
-date: '2000-09-01T00:00:00-0400'
-year: '2000'
-title: 'X-Men: The Hidden Years (1999) #10'
-issue: 10
+date: '2001-01-01T00:00:00-0500'
+year: '2001'
+title: 'X-Men (1991) #108'
+issue: 108
 series:
-  period: '1999'
-  name: 'X-Men: The Hidden Years'
-url: http://marvel.com/comics/issue/65872/x-men_the_hidden_years_1999_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14291/x-men_1991_108?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/5a569612902d1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb7baa43858a
   extension: jpg
