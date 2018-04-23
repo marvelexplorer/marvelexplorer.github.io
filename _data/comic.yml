@@ -1,12 +1,12 @@
 ---
-date: '2012-02-01T00:00:00-0500'
-year: '2012'
-title: 'X-Factor (2005) #231'
-issue: 231
+date: '1999-08-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers Forever (1998) #9'
+issue: 9
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/40178/x-factor_2005_231?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers Forever
+url: http://marvel.com/comics/issue/12412/avengers_forever_1998_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4f26f2be0c6df
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc47c7f39fd7
   extension: jpg
