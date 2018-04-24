@@ -1,12 +1,12 @@
 ---
-date: '1991-07-01T00:00:00-0400'
-year: '1991'
-title: 'Wolverine (1988) #41'
-issue: 41
+date: '2016-11-16T00:00:00-0500'
+year: '2016'
+title: 'Uncanny X-Men Annual (2016) #1'
+issue: 1
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14161/wolverine_1988_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Uncanny X-Men Annual
+url: http://marvel.com/comics/issue/60051/uncanny_x-men_annual_2016_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/5846fccde7a0d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/582388c33ebb1
   extension: jpg
