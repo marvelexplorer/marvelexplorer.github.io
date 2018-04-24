@@ -1,12 +1,12 @@
 ---
-date: '2012-03-21T00:00:00-0400'
-year: '2012'
-title: 'Wolverine (2010) #303'
-issue: 303
+date: '2007-02-14T00:00:00-0500'
+year: '2007'
+title: 'Exiles (2001) #91'
+issue: 91
 series:
-  period: '2010'
-  name: Wolverine
-url: http://marvel.com/comics/issue/41259/wolverine_2010_303?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Exiles
+url: http://marvel.com/comics/issue/6005/exiles_2001_91?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/56bcc201e4e31
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/57ead77016929
   extension: jpg
