@@ -1,12 +1,12 @@
 ---
-date: '2016-11-16T00:00:00-0500'
-year: '2016'
-title: 'Uncanny X-Men Annual (2016) #1'
-issue: 1
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'Uncanny X-Men (1963) #421'
+issue: 421
 series:
-  period: '2016'
-  name: Uncanny X-Men Annual
-url: http://marvel.com/comics/issue/60051/uncanny_x-men_annual_2016_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13962/uncanny_x-men_1963_421?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/582388c33ebb1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb65a4091cce
   extension: jpg
