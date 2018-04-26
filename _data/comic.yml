@@ -1,12 +1,12 @@
 ---
-date: '2000-03-01T00:00:00-0500'
-year: '2000'
-title: 'Thor (1998) #21'
+date: '2017-09-06T00:00:00-0400'
+year: '2017'
+title: 'Spider-Man/Deadpool (2016) #21'
 issue: 21
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18644/thor_1998_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Spider-Man/Deadpool
+url: http://marvel.com/comics/issue/64576/spider-mandeadpool_2016_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4e8211d09a322
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/04/599afda49bce6
   extension: jpg
