@@ -1,12 +1,12 @@
 ---
-date: '1972-11-01T00:00:00-0500'
+date: '1972-12-01T00:00:00-0500'
 year: '1972'
-title: 'The Amazing Spider-Man (1963) #114'
-issue: 114
+title: 'The Amazing Spider-Man (1963) #115'
+issue: 115
 series:
   period: '1963'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6499/the_amazing_spider-man_1963_114?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6500/the_amazing_spider-man_1963_115?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/57b4c62ee4b6b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/57b604b08f4a1
   extension: jpg
