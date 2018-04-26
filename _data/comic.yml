@@ -1,12 +1,12 @@
 ---
-date: '2009-11-25T00:00:00-0500'
-year: '2009'
-title: 'Ms. Marvel (2006) #47'
-issue: 47
+date: '1972-11-01T00:00:00-0500'
+year: '1972'
+title: 'The Amazing Spider-Man (1963) #114'
+issue: 114
 series:
-  period: '2006'
-  name: Ms. Marvel
-url: http://marvel.com/comics/issue/26011/ms_marvel_2006_47?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6499/the_amazing_spider-man_1963_114?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/5769653156ef0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/57b4c62ee4b6b
   extension: jpg
