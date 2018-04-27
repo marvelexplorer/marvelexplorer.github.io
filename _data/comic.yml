@@ -1,12 +1,12 @@
 ---
-date: '2009-07-01T00:00:00-0400'
-year: '2009'
-title: 'War of Kings (2009) #5'
-issue: 5
+date: '1979-09-10T00:00:00-0400'
+year: '1979'
+title: 'Uncanny X-Men (1963) #125'
+issue: 125
 series:
-  period: '2009'
-  name: War of Kings
-url: http://marvel.com/comics/issue/27061/war_of_kings_2009_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12442/uncanny_x-men_1963_125?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5935be2ac0771
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5372ab5647c56
   extension: jpg
