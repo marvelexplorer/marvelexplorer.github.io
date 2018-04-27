@@ -1,12 +1,12 @@
 ---
-date: '2009-12-16T00:00:00-0500'
-year: '2009'
-title: 'Spider-Man: The Clone Saga (2009) #4'
-issue: 4
+date: '2004-05-19T00:00:00-0400'
+year: '2004'
+title: 'Fantastic Four (1998) #513'
+issue: 513
 series:
-  period: '2009'
-  name: 'Spider-Man: The Clone Saga'
-url: http://marvel.com/comics/issue/27786/spider-man_the_clone_saga_2009_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/650/fantastic_four_1998_513?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/5783b629353c2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/5ad609035218f
   extension: jpg
