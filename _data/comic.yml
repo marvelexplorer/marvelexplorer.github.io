@@ -1,12 +1,12 @@
 ---
-date: '1990-03-10T00:00:00-0500'
-year: '1990'
-title: 'Fantastic Four (1961) #336'
-issue: 336
+date: '2011-04-27T00:00:00-0400'
+year: '2011'
+title: 'FF (2010) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13157/fantastic_four_1961_336?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: FF
+url: http://marvel.com/comics/issue/37400/ff_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5ac62f819cca5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/51f68be0b365a
   extension: jpg
