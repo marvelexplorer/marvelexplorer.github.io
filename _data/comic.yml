@@ -1,12 +1,12 @@
 ---
-date: '1984-09-10T00:00:00-0400'
-year: '1984'
-title: 'Thor (1966) #347'
-issue: 347
+date: '2017-08-02T00:00:00-0400'
+year: '2017'
+title: 'Avengers (2016) #10'
+issue: 10
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11675/thor_1966_347?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Avengers
+url: http://marvel.com/comics/issue/61382/avengers_2016_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4bb4fd55eec9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/596d0842797a7
   extension: jpg
