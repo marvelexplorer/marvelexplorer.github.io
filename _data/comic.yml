@@ -1,12 +1,12 @@
 ---
-date: '1999-02-10T00:00:00-0500'
-year: '1999'
-title: 'Avengers (1998) #13'
-issue: 13
+date: '1984-12-10T00:00:00-0500'
+year: '1984'
+title: 'Avengers (1963) #250'
+issue: 250
 series:
-  period: '1998'
+  period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/17494/avengers_1998_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7120/avengers_1963_250?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/5854082d3f36a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5877e26007cfe
   extension: jpg
