@@ -1,12 +1,12 @@
 ---
-date: '2002-01-01T00:00:00-0500'
-year: '2002'
-title: 'Iron Man (1998) #48'
-issue: 48
+date: '2013-04-03T00:00:00-0400'
+year: '2013'
+title: 'Age of Ultron (2013) #4'
+issue: 4
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/19922/iron_man_1998_48?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2013'
+  name: Age of Ultron
+url: http://marvel.com/comics/issue/37406/age_of_ultron_2013_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/5967f28259dc0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51ed8c042b354
   extension: jpg
