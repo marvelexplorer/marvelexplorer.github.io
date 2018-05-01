@@ -1,11 +1,11 @@
 ---
 - name: Invisible Woman
   score: 4
-- name: Spider-Man
-  score: 4
 - name: Thing
   score: 3
 - name: Fantastic Four
+  score: 3
+- name: Spider-Man
   score: 3
 - name: Warpath
   score: 3
