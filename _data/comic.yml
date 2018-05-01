@@ -1,12 +1,12 @@
 ---
-date: '2007-05-23T00:00:00-0400'
-year: '2007'
-title: 'Captain America (2004) #26'
-issue: 26
+date: '2002-09-01T00:00:00-0400'
+year: '2002'
+title: 'Spider-Man: Quality of Life (2002) #3'
+issue: 3
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/6152/captain_america_2004_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: 'Spider-Man: Quality of Life'
+url: http://marvel.com/comics/issue/18813/spider-man_quality_of_life_2002_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f75ae9b534a4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bb6f63022627
   extension: jpg
