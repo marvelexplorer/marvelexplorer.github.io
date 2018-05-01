@@ -1,11 +1,11 @@
 ---
 - name: Fantastic Four
   score: 4
-- name: Invisible Woman
-  score: 3
 - name: Warpath
   score: 3
 - name: Captain America
   score: 3
 - name: Quicksilver
+  score: 3
+- name: Beast
   score: 3
