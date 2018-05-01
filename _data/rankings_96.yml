@@ -1,9 +1,9 @@
 ---
-- name: Fantastic Four
+- name: Captain America
   score: 4
 - name: Warpath
   score: 3
-- name: Captain America
+- name: Fantastic Four
   score: 3
 - name: Quicksilver
   score: 3
