@@ -1,12 +1,12 @@
 ---
-date: '1979-10-10T00:00:00-0400'
-year: '1979'
-title: 'Marvel Team-Up (1972) #86'
-issue: 86
+date: '1996-01-01T00:00:00-0500'
+year: '1996'
+title: 'Spider-Man: The Final Adventure (1995) #2'
+issue: 2
 series:
-  period: '1972'
-  name: Marvel Team-Up
-url: http://marvel.com/comics/issue/19710/marvel_team-up_1972_86?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: 'Spider-Man: The Final Adventure'
+url: http://marvel.com/comics/issue/62269/spider-man_the_final_adventure_1995_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/57f557846b08f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5a6a1d92157fe
   extension: jpg
