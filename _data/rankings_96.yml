@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 4
+- name: Spider-Man
+  score: 4
 - name: Warpath
   score: 3
 - name: Fantastic Four
   score: 3
 - name: Quicksilver
-  score: 3
-- name: Beast
   score: 3

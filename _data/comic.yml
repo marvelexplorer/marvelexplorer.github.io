@@ -1,12 +1,12 @@
 ---
-date: '2002-09-01T00:00:00-0400'
-year: '2002'
-title: 'Spider-Man: Quality of Life (2002) #3'
-issue: 3
+date: '1977-03-10T00:00:00-0500'
+year: '1977'
+title: 'The Amazing Spider-Man (1963) #166'
+issue: 166
 series:
-  period: '2002'
-  name: 'Spider-Man: Quality of Life'
-url: http://marvel.com/comics/issue/18813/spider-man_quality_of_life_2002_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6556/the_amazing_spider-man_1963_166?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bb6f63022627
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/5137a43d30031
   extension: jpg
