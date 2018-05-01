@@ -1,12 +1,12 @@
 ---
-date: '1996-01-01T00:00:00-0500'
-year: '1996'
-title: 'Spider-Man: The Final Adventure (1995) #2'
-issue: 2
+date: '2005-09-14T00:00:00-0400'
+year: '2005'
+title: 'The Pulse (2004) #11'
+issue: 11
 series:
-  period: '1995'
-  name: 'Spider-Man: The Final Adventure'
-url: http://marvel.com/comics/issue/62269/spider-man_the_final_adventure_1995_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: The Pulse
+url: http://marvel.com/comics/issue/2386/the_pulse_2004_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5a6a1d92157fe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/5653546c4c5b2
   extension: jpg
