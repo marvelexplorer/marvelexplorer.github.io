@@ -1,12 +1,12 @@
 ---
-date: '1989-07-15T00:00:00-0400'
-year: '1989'
-title: 'Marvel Comics Presents (1988) #24'
-issue: 24
+date: '2003-10-22T00:00:00-0400'
+year: '2003'
+title: 'Weapon X (2002) #15'
+issue: 15
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10102/marvel_comics_presents_1988_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Weapon X
+url: http://marvel.com/comics/issue/244/weapon_x_2002_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/5aa163e8efa73
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5944049d1edfb
   extension: jpg
