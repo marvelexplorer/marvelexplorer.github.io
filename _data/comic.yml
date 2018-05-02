@@ -1,12 +1,12 @@
 ---
-date: '1993-07-10T00:00:00-0400'
-year: '1993'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #202'
-issue: 202
+date: '2011-09-28T00:00:00-0400'
+year: '2011'
+title: 'Venom (2011) #7'
+issue: 7
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14657/peter_parker_the_spectacular_spider-man_1976_202?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Venom
+url: http://marvel.com/comics/issue/38592/venom_2011_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bb68296a6c96
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/4e7ced78b836b
   extension: jpg
