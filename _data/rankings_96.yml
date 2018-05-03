@@ -1,9 +1,9 @@
 ---
 - name: Spider-Man
   score: 6
-- name: Captain America
-  score: 4
 - name: Warpath
+  score: 3
+- name: Captain America
   score: 3
 - name: She-Hulk (Jennifer Walters)
   score: 2
