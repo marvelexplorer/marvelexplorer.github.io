@@ -1,12 +1,12 @@
 ---
-date: '2009-07-29T00:00:00-0400'
-year: '2009'
-title: 'X-Men Forever (2009) #4'
-issue: 4
+date: '2006-09-27T00:00:00-0400'
+year: '2006'
+title: 'Ultimates 2 (2004) #12'
+issue: 12
 series:
-  period: '2009'
-  name: X-Men Forever
-url: http://marvel.com/comics/issue/27308/x-men_forever_2009_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Ultimates 2
+url: http://marvel.com/comics/issue/4244/ultimates_2_2004_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/58c69b7f4c178
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/515f086337fb3
   extension: jpg
