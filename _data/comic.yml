@@ -1,12 +1,12 @@
 ---
-date: '2006-03-22T00:00:00-0500'
-year: '2006'
-title: 'X-Men (2004) #184'
-issue: 184
+date: '2009-11-18T00:00:00-0500'
+year: '2009'
+title: 'X-Men Legacy (2008) #229'
+issue: 229
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/3945/x-men_2004_184?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/27346/x-men_legacy_2008_229?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/58b43d4b2c2ec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/58bec6f754999
   extension: jpg
