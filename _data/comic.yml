@@ -1,12 +1,12 @@
 ---
-date: '1980-03-10T00:00:00-0500'
-year: '1980'
-title: 'Marvel Two-in-One (1974) #61'
-issue: 61
+date: '2003-12-10T00:00:00-0500'
+year: '2003'
+title: 'Iron Man (1998) #75'
+issue: 75
 series:
-  period: '1974'
-  name: Marvel Two-in-One
-url: http://marvel.com/comics/issue/19533/marvel_two-in-one_1974_61?utm_campaign=apiRef&utm_source=08b2622d41b93a9b1c8fbc9cca82ee6c
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/337/iron_man_1998_75?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5804f45cd7e4a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5a69ef2176180
   extension: jpg
