@@ -1,12 +1,12 @@
 ---
-date: '2017-02-15T00:00:00-0500'
-year: '2017'
-title: 'Ultimates 2 (2016) #4'
-issue: 4
+date: '1971-02-10T00:00:00-0500'
+year: '1971'
+title: 'Avengers (1963) #85'
+issue: 85
 series:
-  period: '2016'
-  name: Ultimates 2
-url: http://marvel.com/comics/issue/62588/ultimates_2_2016_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7338/avengers_1963_85?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/589dec4ee61ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/586fd920aa277
   extension: jpg
