@@ -1,12 +1,12 @@
 ---
-date: '2013-08-28T00:00:00-0400'
-year: '2013'
-title: 'Deadpool (2012) #15'
-issue: 15
+date: '2016-10-19T00:00:00-0400'
+year: '2016'
+title: 'Deadpool: Back in Black (2016) #2'
+issue: 2
 series:
-  period: '2012'
-  name: Deadpool
-url: http://marvel.com/comics/issue/46051/deadpool_2012_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: 'Deadpool: Back in Black'
+url: http://marvel.com/comics/issue/58991/deadpool_back_in_black_2016_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5212669b4d5d7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/57fe4c38a7dd1
   extension: jpg
