@@ -1,12 +1,12 @@
 ---
-date: '2009-09-10T00:00:00-0400'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #604'
-issue: 604
+date: '2011-02-02T00:00:00-0500'
+year: '2011'
+title: 'Amazing Spider-Man (1999) #653'
+issue: 653
 series:
   period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/24411/amazing_spider-man_1999_604?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/32217/amazing_spider-man_1999_653?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/80/580629930b137
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4e9833f4aee81
   extension: jpg
