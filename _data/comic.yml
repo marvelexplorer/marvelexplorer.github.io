@@ -1,12 +1,12 @@
 ---
-date: '1971-02-10T00:00:00-0500'
-year: '1971'
-title: 'Avengers (1963) #85'
-issue: 85
+date: '2007-12-28T00:00:00-0500'
+year: '2007'
+title: 'Ultimate Power (2006) #9'
+issue: 9
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7338/avengers_1963_85?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Ultimate Power
+url: http://marvel.com/comics/issue/16518/ultimate_power_2006_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/586fd920aa277
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5aa699f2dad74
   extension: jpg
