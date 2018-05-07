@@ -1,12 +1,12 @@
 ---
-date: '2000-02-16T00:00:00-0500'
-year: '2000'
-title: 'Captain Marvel (2000) #4'
-issue: 4
+date: '1982-12-10T00:00:00-0500'
+year: '1982'
+title: 'Uncanny X-Men (1963) #164'
+issue: 164
 series:
-  period: '2000'
-  name: Captain Marvel
-url: http://marvel.com/comics/issue/20557/captain_marvel_2000_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13705/uncanny_x-men_1963_164?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/56aa1e8d0b287
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/575af25b236f1
   extension: jpg
