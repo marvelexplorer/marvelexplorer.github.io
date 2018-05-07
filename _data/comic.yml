@@ -1,12 +1,12 @@
 ---
-date: '2002-06-01T00:00:00-0400'
-year: '2002'
-title: 'Avengers (1998) #53'
-issue: 53
+date: '1994-03-01T00:00:00-0500'
+year: '1994'
+title: 'Fantastic Four (1961) #386'
+issue: 386
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17538/avengers_1998_53?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13212/fantastic_four_1961_386?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5863d8a11fea0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/5ac7c09472073
   extension: jpg
