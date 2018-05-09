@@ -1,12 +1,12 @@
 ---
-date: '2005-04-13T00:00:00-0400'
-year: '2005'
-title: 'Ultimates 2 (2004) #5'
-issue: 5
+date: '2013-02-13T00:00:00-0500'
+year: '2013'
+title: 'Secret Avengers (2013) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Ultimates 2
-url: http://marvel.com/comics/issue/1824/ultimates_2_2004_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/46434/secret_avengers_2013_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/515f06c136e52
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/579b5ef1d4dbf
   extension: jpg
