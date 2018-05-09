@@ -1,12 +1,12 @@
 ---
-date: '2013-02-13T00:00:00-0500'
-year: '2013'
-title: 'Secret Avengers (2013) #1'
-issue: 1
+date: '2012-04-11T00:00:00-0400'
+year: '2012'
+title: 'Avengers Assemble (2012) #2'
+issue: 2
 series:
-  period: '2013'
-  name: Secret Avengers
-url: http://marvel.com/comics/issue/46434/secret_avengers_2013_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Avengers Assemble
+url: http://marvel.com/comics/issue/41357/avengers_assemble_2012_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/579b5ef1d4dbf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/58d40e7e2bc94
   extension: jpg
