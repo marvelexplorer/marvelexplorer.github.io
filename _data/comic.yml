@@ -1,12 +1,12 @@
 ---
-date: '1983-05-10T00:00:00-0400'
-year: '1983'
-title: 'The Amazing Spider-Man (1963) #240'
-issue: 240
+date: '2009-03-04T00:00:00-0500'
+year: '2009'
+title: 'X-Men/Spider-Man (2008) #4'
+issue: 4
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6639/the_amazing_spider-man_1963_240?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Men/Spider-Man
+url: http://marvel.com/comics/issue/23623/x-menspider-man_2008_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/536bbc6788a2a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/58c983adbc4b2
   extension: jpg
