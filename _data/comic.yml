@@ -1,12 +1,12 @@
 ---
-date: '1978-12-10T00:00:00-0500'
-year: '1978'
-title: 'Incredible Hulk Annual (1968) #7'
-issue: 7
+date: '2000-01-01T00:00:00-0500'
+year: '2000'
+title: 'X-Men: The Hidden Years (1999) #2'
+issue: 2
 series:
-  period: '1968'
-  name: Incredible Hulk Annual
-url: http://marvel.com/comics/issue/16880/incredible_hulk_annual_1968_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: 'X-Men: The Hidden Years'
+url: http://marvel.com/comics/issue/65864/x-men_the_hidden_years_1999_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/59cbf5a2cc878
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/5a5695f7e77f1
   extension: jpg
