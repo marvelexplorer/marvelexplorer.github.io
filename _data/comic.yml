@@ -1,12 +1,12 @@
 ---
-date: '2003-02-15T00:00:00-0500'
-year: '2003'
-title: 'Iron Man (1998) #63'
-issue: 63
+date: '2005-11-30T00:00:00-0500'
+year: '2005'
+title: 'Wolverine (2003) #36'
+issue: 36
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/19939/iron_man_1998_63?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/3060/wolverine_2003_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/59bfe76c7c3bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d24edc54a507
   extension: jpg
