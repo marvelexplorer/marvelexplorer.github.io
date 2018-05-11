@@ -1,10 +1,10 @@
 ---
 - name: X-Men
-  score: 7
+  score: 6
 - name: Spider-Man
   score: 4
 - name: Wolverine
-  score: 3
+  score: 4
 - name: Nightcrawler
   score: 3
 - name: Thing
