@@ -1,12 +1,12 @@
 ---
-date: '2002-04-10T00:00:00-0400'
-year: '2002'
-title: 'Ultimate Spider-Man (2000) #18'
-issue: 18
+date: '2007-02-07T00:00:00-0500'
+year: '2007'
+title: 'Spider-Man: Reign (2006) #3'
+issue: 3
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/14844/ultimate_spider-man_2000_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: 'Spider-Man: Reign'
+url: http://marvel.com/comics/issue/5934/spider-man_reign_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/58e2a01ceffd8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc5c66a2cf4f
   extension: jpg
