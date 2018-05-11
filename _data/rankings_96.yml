@@ -4,8 +4,8 @@
 - name: Spider-Man
   score: 4
 - name: Wolverine
-  score: 4
+  score: 3
+- name: Nightcrawler
+  score: 3
 - name: Thing
-  score: 2
-- name: Captain America
   score: 2
