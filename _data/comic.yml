@@ -1,12 +1,12 @@
 ---
-date: '1984-07-10T00:00:00-0400'
-year: '1984'
-title: 'Fantastic Four (1961) #268'
-issue: 268
+date: '2003-02-15T00:00:00-0500'
+year: '2003'
+title: 'Iron Man (1998) #63'
+issue: 63
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13081/fantastic_four_1961_268?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19939/iron_man_1998_63?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/58939823c1a71
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/59bfe76c7c3bb
   extension: jpg
