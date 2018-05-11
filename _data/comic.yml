@@ -1,12 +1,12 @@
 ---
-date: '1968-08-10T00:00:00-0400'
-year: '1968'
-title: 'Daredevil (1964) #43'
-issue: 43
+date: '2010-09-29T00:00:00-0400'
+year: '2010'
+title: 'Avengers: Prime (2010) #3'
+issue: 3
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8391/daredevil_1964_43?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Avengers: Prime'
+url: http://marvel.com/comics/issue/30096/avengers_prime_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/57222aebbc8c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/5a2045e143b45
   extension: jpg
