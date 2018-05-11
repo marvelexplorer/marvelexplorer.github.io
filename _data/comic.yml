@@ -1,12 +1,12 @@
 ---
-date: '2017-05-10T00:00:00-0400'
-year: '2017'
-title: 'The Amazing Spider-Man (2017) #27'
-issue: 27
+date: '2008-09-03T00:00:00-0400'
+year: '2008'
+title: 'Punisher War Journal (2006) #23'
+issue: 23
 series:
-  period: '2017'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/60535/the_amazing_spider-man_2017_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Punisher War Journal
+url: http://marvel.com/comics/issue/21966/punisher_war_journal_2006_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/5908c86b26d6d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/5835df48d6725
   extension: jpg
