@@ -1,12 +1,12 @@
 ---
-date: '2013-03-13T00:00:00-0400'
-year: '2013'
-title: 'Age of Ultron (2013) #2'
-issue: 2
+date: '2011-03-30T00:00:00-0400'
+year: '2011'
+title: 'Secret Avengers (2010) #11'
+issue: 11
 series:
-  period: '2013'
-  name: Age of Ultron
-url: http://marvel.com/comics/issue/47003/age_of_ultron_2013_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/29091/secret_avengers_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/5140f09c2c7fe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/03/51897326f40b0
   extension: jpg
