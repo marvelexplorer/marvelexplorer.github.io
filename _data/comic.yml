@@ -1,12 +1,12 @@
 ---
-date: '2011-03-30T00:00:00-0400'
-year: '2011'
-title: 'Secret Avengers (2010) #11'
-issue: 11
+date: '1989-05-10T00:00:00-0400'
+year: '1989'
+title: 'Doctor Strange, Sorcerer Supreme (1988) #4'
+issue: 4
 series:
-  period: '2010'
-  name: Secret Avengers
-url: http://marvel.com/comics/issue/29091/secret_avengers_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Doctor Strange, Sorcerer Supreme
+url: http://marvel.com/comics/issue/20201/doctor_strange_sorcerer_supreme_1988_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/03/51897326f40b0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/f0/59d7c85e09968
   extension: jpg
