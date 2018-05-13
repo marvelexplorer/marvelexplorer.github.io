@@ -1,12 +1,12 @@
 ---
-date: '2011-08-17T00:00:00-0400'
-year: '2011'
-title: 'Daredevil (2011) #2'
-issue: 2
+date: '1982-05-10T00:00:00-0400'
+year: '1982'
+title: 'Defenders (1972) #107'
+issue: 107
 series:
-  period: '2011'
-  name: Daredevil
-url: http://marvel.com/comics/issue/36507/daredevil_2011_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1972'
+  name: Defenders
+url: http://marvel.com/comics/issue/20271/defenders_1972_107?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f7df9b03d61a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5ad8f59313ba6
   extension: jpg
