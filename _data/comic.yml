@@ -1,12 +1,12 @@
 ---
-date: '1995-06-10T00:00:00-0400'
-year: '1995'
-title: 'Fantastic Four (1961) #401'
-issue: 401
+date: '2017-08-09T00:00:00-0400'
+year: '2017'
+title: 'Inhumans: Once and Future Kings (2017) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13230/fantastic_four_1961_401?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: 'Inhumans: Once and Future Kings'
+url: http://marvel.com/comics/issue/63973/inhumans_once_and_future_kings_2017_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/537a5e622f7a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/a0/59779631a5211
   extension: jpg
