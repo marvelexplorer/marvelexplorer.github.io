@@ -1,12 +1,12 @@
 ---
-date: '1998-10-10T00:00:00-0400'
-year: '1998'
-title: 'Uncanny X-Men (1963) #360'
-issue: 360
+date: '2010-08-11T00:00:00-0400'
+year: '2010'
+title: 'X-Force: Sex and Violence (2010) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13901/uncanny_x-men_1963_360?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'X-Force: Sex and Violence'
+url: http://marvel.com/comics/issue/33740/x-force_sex_and_violence_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/51eda0fc1caca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/59637d8398719
   extension: jpg
