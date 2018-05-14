@@ -1,12 +1,12 @@
 ---
-date: '1965-01-10T00:00:00-0500'
-year: '1965'
-title: 'Avengers (1963) #12'
-issue: 12
+date: '2011-04-13T00:00:00-0400'
+year: '2011'
+title: 'New Avengers (2010) #11'
+issue: 11
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/6975/avengers_1963_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/32706/new_avengers_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/5852b38bb0761
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/57742a4ad3af9
   extension: jpg
