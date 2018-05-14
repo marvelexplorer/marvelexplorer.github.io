@@ -1,12 +1,12 @@
 ---
-date: '2011-05-25T00:00:00-0400'
-year: '2011'
-title: 'Uncanny X-Men (1963) #537'
-issue: 537
+date: '2002-08-15T00:00:00-0400'
+year: '2002'
+title: 'New X-Men (2001) #128'
+issue: 128
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/36328/uncanny_x-men_1963_537?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14947/new_x-men_2001_128?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/592d94a0cc2c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/577d25a808cf7
   extension: jpg
