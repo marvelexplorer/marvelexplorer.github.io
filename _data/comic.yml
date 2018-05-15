@@ -1,12 +1,12 @@
 ---
-date: '2008-07-02T00:00:00-0400'
-year: '2008'
-title: 'Secret Invasion: Front Line (2008) #1'
-issue: 1
+date: '2003-08-01T00:00:00-0400'
+year: '2003'
+title: 'Iron Man (1998) #69'
+issue: 69
 series:
-  period: '2008'
-  name: 'Secret Invasion: Front Line'
-url: http://marvel.com/comics/issue/21596/secret_invasion_front_line_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19945/iron_man_1998_69?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f571134de
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5a68b4d229595
   extension: jpg
