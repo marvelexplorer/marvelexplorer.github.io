@@ -1,12 +1,12 @@
 ---
-date: '1967-11-05T00:00:00-0500'
-year: '1967'
-title: 'Fantastic Four Annual (1963) #5'
-issue: 5
+date: '2004-10-13T00:00:00-0400'
+year: '2004'
+title: '4 (2004) #11'
+issue: 11
 series:
-  period: '1963'
-  name: Fantastic Four Annual
-url: http://marvel.com/comics/issue/8709/fantastic_four_annual_1963_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: '4'
+url: http://marvel.com/comics/issue/892/4_2004_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5ad8a893a57af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5841bf75ebb69
   extension: jpg
