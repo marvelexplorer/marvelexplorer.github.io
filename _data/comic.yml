@@ -1,12 +1,12 @@
 ---
-date: '1997-08-10T00:00:00-0400'
-year: '1997'
-title: 'Avengers (1996) #10'
-issue: 10
+date: '2011-06-08T00:00:00-0400'
+year: '2011'
+title: 'Journey Into Mystery (2011) #624'
+issue: 624
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17752/avengers_1996_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Journey Into Mystery
+url: http://marvel.com/comics/issue/39878/journey_into_mystery_2011_624?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/40/587666d6c2293
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5a8451cc49c5b
   extension: jpg
