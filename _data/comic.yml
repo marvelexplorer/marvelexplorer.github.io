@@ -1,12 +1,12 @@
 ---
-date: '1970-11-10T00:00:00-0500'
-year: '1970'
-title: 'Captain America (1968) #131'
-issue: 131
+date: '2007-11-21T00:00:00-0500'
+year: '2007'
+title: 'Wolverine Origins (2006) #19'
+issue: 19
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7512/captain_america_1968_131?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/17243/wolverine_origins_2006_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/5995e96191d76
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/51e07c8a92d2e
   extension: jpg
