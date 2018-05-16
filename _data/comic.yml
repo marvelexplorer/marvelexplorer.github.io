@@ -1,12 +1,12 @@
 ---
-date: '2009-08-19T00:00:00-0400'
-year: '2009'
-title: 'Punisher (2008) #8'
-issue: 8
+date: '2007-10-17T00:00:00-0400'
+year: '2007'
+title: 'Marvel Adventures the Avengers (2006) #17'
+issue: 17
 series:
-  period: '2008'
-  name: Punisher
-url: http://marvel.com/comics/issue/27469/punisher_2008_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/16512/marvel_adventures_the_avengers_2006_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/582c87fd55239
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f63934c46d3e
   extension: jpg
