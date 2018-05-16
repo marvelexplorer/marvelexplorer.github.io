@@ -1,12 +1,12 @@
 ---
-date: '1987-01-16T00:00:00-0500'
-year: '1987'
-title: 'Avengers Annual (1967) #16'
-issue: 16
+date: '2008-09-24T00:00:00-0400'
+year: '2008'
+title: 'Black Panther (2005) #41'
+issue: 41
 series:
-  period: '1967'
-  name: Avengers Annual
-url: http://marvel.com/comics/issue/6930/avengers_annual_1967_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Black Panther
+url: http://marvel.com/comics/issue/21943/black_panther_2005_41?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/5a294cc49f30b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/57470f17923c2
   extension: jpg
