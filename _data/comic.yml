@@ -1,12 +1,12 @@
 ---
-date: '2018-04-18T00:00:00-0400'
+date: '2018-02-07T00:00:00-0500'
 year: '2018'
-title: 'Marvel Super Hero Adventures: Spider-Man and the Stolen Vibranium (2018) #1'
-issue: 1
+title: 'Avengers (2016) #679'
+issue: 679
 series:
-  period: '2018'
-  name: 'Marvel Super Hero Adventures: Spider-Man and the Stolen Vibranium'
-url: http://marvel.com/comics/issue/66691/marvel_super_hero_adventures_spider-man_and_the_stolen_vibranium_2018_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Avengers
+url: http://marvel.com/comics/issue/66086/avengers_2016_679?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/5ace6a20e27c3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/5a72431073fb7
   extension: jpg
