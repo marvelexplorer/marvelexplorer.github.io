@@ -1,12 +1,12 @@
 ---
-date: '2012-12-19T00:00:00-0500'
-year: '2012'
-title: 'A+X (2012) #3'
-issue: 3
+date: '1999-12-01T00:00:00-0500'
+year: '1999'
+title: 'X-Men (1991) #95'
+issue: 95
 series:
-  period: '2012'
-  name: A+X
-url: http://marvel.com/comics/issue/43498/ax_2012_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14389/x-men_1991_95?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/584f0de558b75
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/50b3b096916d5
   extension: jpg
