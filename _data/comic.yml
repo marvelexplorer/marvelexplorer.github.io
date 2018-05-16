@@ -1,12 +1,12 @@
 ---
-date: '2008-09-24T00:00:00-0400'
-year: '2008'
-title: 'Black Panther (2005) #41'
-issue: 41
+date: '2012-12-19T00:00:00-0500'
+year: '2012'
+title: 'A+X (2012) #3'
+issue: 3
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/21943/black_panther_2005_41?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: A+X
+url: http://marvel.com/comics/issue/43498/ax_2012_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/57470f17923c2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/584f0de558b75
   extension: jpg
