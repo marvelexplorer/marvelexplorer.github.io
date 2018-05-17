@@ -1,12 +1,12 @@
 ---
-date: '2016-07-13T00:00:00-0400'
-year: '2016'
-title: 'Rocket Raccoon & Groot (2016) #7'
-issue: 7
+date: '2009-11-25T00:00:00-0500'
+year: '2009'
+title: 'Guardians of the Galaxy (2008) #20'
+issue: 20
 series:
-  period: '2016'
-  name: Rocket Raccoon & Groot
-url: http://marvel.com/comics/issue/55605/rocket_raccoon_groot_2016_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/25308/guardians_of_the_galaxy_2008_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/577fc03c49a78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/517ad68878d23
   extension: jpg
