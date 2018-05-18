@@ -1,12 +1,12 @@
 ---
-date: '1999-01-01T00:00:00-0500'
-year: '1999'
-title: 'Cable (1993) #63'
-issue: 63
+date: '2017-10-18T00:00:00-0400'
+year: '2017'
+title: 'All-New Guardians of the Galaxy (2017) #12'
+issue: 12
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7441/cable_1993_63?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: All-New Guardians of the Galaxy
+url: http://marvel.com/comics/issue/61524/all-new_guardians_of_the_galaxy_2017_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/80/5a4fbbb05c180
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/59dfd8c01866c
   extension: jpg
