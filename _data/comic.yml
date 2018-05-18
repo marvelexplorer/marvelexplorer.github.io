@@ -1,12 +1,12 @@
 ---
-date: '2017-10-18T00:00:00-0400'
+date: '2017-03-15T00:00:00-0400'
 year: '2017'
-title: 'All-New Guardians of the Galaxy (2017) #12'
-issue: 12
+title: 'Guardians of the Galaxy (2015) #18'
+issue: 18
 series:
-  period: '2017'
-  name: All-New Guardians of the Galaxy
-url: http://marvel.com/comics/issue/61524/all-new_guardians_of_the_galaxy_2017_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/60980/guardians_of_the_galaxy_2015_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/59dfd8c01866c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/58b71cad923cf
   extension: jpg
