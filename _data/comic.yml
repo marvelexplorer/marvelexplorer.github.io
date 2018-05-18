@@ -1,12 +1,12 @@
 ---
-date: '1993-04-10T00:00:00-0400'
-year: '1993'
-title: 'X-Force (1991) #21'
-issue: 21
+date: '2002-11-06T00:00:00-0500'
+year: '2002'
+title: 'Ultimates (2002) #8'
+issue: 8
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/17985/x-force_1991_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Ultimates
+url: http://marvel.com/comics/issue/15303/ultimates_2002_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/587658bac0e5b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/80/5a9d6c76758df
   extension: jpg
