@@ -1,12 +1,12 @@
 ---
-date: '2009-12-03T00:00:00-0500'
-year: '2009'
-title: 'X-Babies (2009) #3'
-issue: 3
+date: '1982-01-06T00:00:00-0500'
+year: '1982'
+title: 'X-Men Annual (1970) #6'
+issue: 6
 series:
-  period: '2009'
-  name: X-Babies
-url: http://marvel.com/comics/issue/27976/x-babies_2009_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12366/x-men_annual_1970_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/573a0f4e8b9c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/e0/5849bb87b969f
   extension: jpg
