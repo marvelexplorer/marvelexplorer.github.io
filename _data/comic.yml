@@ -1,12 +1,12 @@
 ---
-date: '2010-09-01T00:00:00-0400'
-year: '2010'
-title: 'Shadowland (2010) #3'
-issue: 3
+date: '2005-12-28T00:00:00-0500'
+year: '2005'
+title: 'Black Panther (2005) #11'
+issue: 11
 series:
-  period: '2010'
-  name: Shadowland
-url: http://marvel.com/comics/issue/29705/shadowland_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Black Panther
+url: http://marvel.com/comics/issue/3130/black_panther_2005_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/5971feddc010e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/56deeb2ba4c29
   extension: jpg
