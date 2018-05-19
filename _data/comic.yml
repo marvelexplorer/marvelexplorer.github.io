@@ -1,12 +1,12 @@
 ---
-date: '1974-11-10T00:00:00-0500'
-year: '1974'
-title: 'Marvel Premiere (1972) #19'
-issue: 19
+date: '2008-09-24T00:00:00-0400'
+year: '2008'
+title: 'Daredevil (1998) #111'
+issue: 111
 series:
-  period: '1972'
-  name: Marvel Premiere
-url: http://marvel.com/comics/issue/10205/marvel_premiere_1972_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/21929/daredevil_1998_111?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/57c761864d515
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/572d13efaf36d
   extension: jpg
