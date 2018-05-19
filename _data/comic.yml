@@ -1,12 +1,12 @@
 ---
-date: '1994-09-01T00:00:00-0400'
+date: '1994-11-01T00:00:00-0500'
 year: '1994'
-title: 'Venom: Nights Of Vengeance (1994) #2'
-issue: 2
+title: 'Venom: Nights Of Vengeance (1994) #4'
+issue: 4
 series:
   period: '1994'
   name: 'Venom: Nights Of Vengeance'
-url: http://marvel.com/comics/issue/62582/venom_nights_of_vengeance_1994_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/62584/venom_nights_of_vengeance_1994_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5893bfbf6bb6b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/90/5893bf7666c7d
   extension: jpg
