@@ -1,12 +1,12 @@
 ---
-date: '1992-01-11T00:00:00-0500'
-year: '1992'
-title: 'Captain America Annual (1971) #11'
-issue: 11
+date: '1999-11-10T00:00:00-0500'
+year: '1999'
+title: 'Avengers Forever (1998) #12'
+issue: 12
 series:
-  period: '1971'
-  name: Captain America Annual
-url: http://marvel.com/comics/issue/17876/captain_america_annual_1971_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers Forever
+url: http://marvel.com/comics/issue/12404/avengers_forever_1998_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5810e9a4980fa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc47ca2af45b
   extension: jpg
