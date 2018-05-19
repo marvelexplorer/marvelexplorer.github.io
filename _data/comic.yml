@@ -1,12 +1,12 @@
 ---
-date: '2005-12-28T00:00:00-0500'
-year: '2005'
-title: 'Black Panther (2005) #11'
+date: '1992-01-11T00:00:00-0500'
+year: '1992'
+title: 'Captain America Annual (1971) #11'
 issue: 11
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/3130/black_panther_2005_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1971'
+  name: Captain America Annual
+url: http://marvel.com/comics/issue/17876/captain_america_annual_1971_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/56deeb2ba4c29
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5810e9a4980fa
   extension: jpg
