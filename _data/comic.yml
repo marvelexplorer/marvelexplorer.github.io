@@ -1,12 +1,12 @@
 ---
-date: '2009-09-30T00:00:00-0400'
+date: '2009-12-16T00:00:00-0500'
 year: '2009'
-title: 'Secret Warriors (2008) #8'
-issue: 8
+title: 'Mighty Avengers (2007) #32'
+issue: 32
 series:
-  period: '2008'
-  name: Secret Warriors
-url: http://marvel.com/comics/issue/26290/secret_warriors_2008_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/25976/mighty_avengers_2007_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/4f677cf58d50c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f7c9504222ba
   extension: jpg
