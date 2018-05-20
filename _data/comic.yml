@@ -1,12 +1,12 @@
 ---
-date: '1984-02-10T00:00:00-0500'
-year: '1984'
-title: 'Avengers (1963) #240'
-issue: 240
+date: '1986-08-10T00:00:00-0400'
+year: '1986'
+title: 'Fantastic Four (1961) #293'
+issue: 293
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7109/avengers_1963_240?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13109/fantastic_four_1961_293?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/10/5873e42481476
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/f0/4bb84fae6d95f
   extension: jpg
