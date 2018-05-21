@@ -1,9 +1,9 @@
 ---
 - name: X-Men
   score: 5
-- name: Daredevil
-  score: 4
 - name: Eddie Brock
+  score: 3
+- name: Daredevil
   score: 3
 - name: Deadpool
   score: 3
