@@ -1,12 +1,12 @@
 ---
-date: '1979-06-01T00:00:00-0400'
-year: '1979'
-title: 'Power Man and Iron Fist (1978) #57'
-issue: 57
+date: '1990-01-14T00:00:00-0500'
+year: '1990'
+title: 'X-Men Annual (1970) #14'
+issue: 14
 series:
-  period: '1978'
-  name: Power Man and Iron Fist
-url: http://marvel.com/comics/issue/56364/power_man_and_iron_fist_1978_57?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12360/x-men_annual_1970_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/57d043e6112d2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/f0/52618b9433199
   extension: jpg
