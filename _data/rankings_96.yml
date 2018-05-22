@@ -1,11 +1,11 @@
 ---
 - name: Eddie Brock
   score: 3
-- name: Deadpool
-  score: 3
 - name: Fantastic Four
   score: 3
 - name: Thing
   score: 3
 - name: Beast
+  score: 3
+- name: Cable
   score: 3
