@@ -1,12 +1,12 @@
 ---
-date: '1984-11-10T00:00:00-0500'
-year: '1984'
-title: 'Fantastic Four (1961) #272'
-issue: 272
+date: '2009-06-10T00:00:00-0400'
+year: '2009'
+title: 'Fantastic Four (1998) #567'
+issue: 567
 series:
-  period: '1961'
+  period: '1998'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13086/fantastic_four_1961_272?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/24132/fantastic_four_1998_567?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb78fba43196
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/57e9761af3075
   extension: jpg
