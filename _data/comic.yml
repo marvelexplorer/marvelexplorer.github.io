@@ -1,12 +1,12 @@
 ---
-date: '1999-03-01T00:00:00-0500'
-year: '1999'
-title: 'X-MEN: THE MAGNETO WAR 1 (1999) #1'
-issue: 1
+date: '2002-08-10T00:00:00-0400'
+year: '2002'
+title: 'Exiles (2001) #14'
+issue: 14
 series:
-  period: '1999'
-  name: 'X-MEN: THE MAGNETO WAR 1'
-url: http://marvel.com/comics/issue/12393/x-men_the_magneto_war_1_1999_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Exiles
+url: http://marvel.com/comics/issue/16254/exiles_2001_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/51e6fd026d691
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc36be382777
   extension: jpg
