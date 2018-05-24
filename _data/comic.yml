@@ -1,12 +1,12 @@
 ---
-date: '2009-04-08T00:00:00-0400'
-year: '2009'
-title: 'All-New Savage She-Hulk (2009) #1'
-issue: 1
+date: '1999-07-01T00:00:00-0400'
+year: '1999'
+title: 'Avengers (1998) #18'
+issue: 18
 series:
-  period: '2009'
-  name: All-New Savage She-Hulk
-url: http://marvel.com/comics/issue/24053/all-new_savage_she-hulk_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17499/avengers_1998_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/56b220d027351
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/58540c0d30e50
   extension: jpg
