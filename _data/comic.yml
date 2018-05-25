@@ -1,12 +1,12 @@
 ---
-date: '2010-01-20T00:00:00-0500'
-year: '2010'
-title: 'Uncanny X-Men (1963) #520'
-issue: 520
+date: '2013-07-10T00:00:00-0400'
+year: '2013'
+title: 'Uncanny X-Men (2013) #8'
+issue: 8
 series:
-  period: '1963'
+  period: '2013'
   name: Uncanny X-Men
-url: http://marvel.com/comics/issue/26973/uncanny_x-men_1963_520?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/46673/uncanny_x-men_2013_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/5927307cc022d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/593019c56dd37
   extension: jpg
