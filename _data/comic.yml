@@ -1,12 +1,12 @@
 ---
-date: '2006-09-20T00:00:00-0400'
-year: '2006'
-title: 'Wolverine (2003) #46'
-issue: 46
+date: '2011-06-15T00:00:00-0400'
+year: '2011'
+title: 'Avengers (2010) #14'
+issue: 14
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/5048/wolverine_2003_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Avengers
+url: http://marvel.com/comics/issue/29200/avengers_2010_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/58937acc55092
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/c0/5a26dee2baa54
   extension: jpg
