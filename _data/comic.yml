@@ -1,12 +1,12 @@
 ---
-date: '1988-06-10T00:00:00-0400'
-year: '1988'
-title: 'Daredevil (1964) #255'
-issue: 255
+date: '1997-08-10T00:00:00-0400'
+year: '1997'
+title: 'Deadpool (1997) #7'
+issue: 7
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8246/daredevil_1964_255?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1997'
+  name: Deadpool
+url: http://marvel.com/comics/issue/8528/deadpool_1997_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bc4799e932bd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/4f20139366e82
   extension: jpg
