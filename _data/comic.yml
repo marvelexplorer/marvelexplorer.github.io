@@ -1,12 +1,12 @@
 ---
-date: '2013-07-10T00:00:00-0400'
-year: '2013'
-title: 'Uncanny X-Men (2013) #8'
-issue: 8
+date: '1995-02-01T00:00:00-0500'
+year: '1995'
+title: 'X-Men (1991) #41'
+issue: 41
 series:
-  period: '2013'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/46673/uncanny_x-men_2013_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14330/x-men_1991_41?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/593019c56dd37
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5580484ebd331
   extension: jpg
