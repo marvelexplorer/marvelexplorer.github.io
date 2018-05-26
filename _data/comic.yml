@@ -1,12 +1,12 @@
 ---
-date: '1990-01-20T00:00:00-0500'
-year: '1990'
-title: 'Marvel Comics Presents (1988) #39'
-issue: 39
+date: '1989-01-10T00:00:00-0500'
+year: '1989'
+title: 'The Amazing Spider-Man (1963) #311'
+issue: 311
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10118/marvel_comics_presents_1988_39?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6718/the_amazing_spider-man_1963_311?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4c7d5186f05b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/57f3d5d939372
   extension: jpg
