@@ -1,12 +1,12 @@
 ---
-date: '1976-01-10T00:00:00-0500'
-year: '1976'
-title: 'Champions (1975) #2'
-issue: 2
+date: '1990-01-20T00:00:00-0500'
+year: '1990'
+title: 'Marvel Comics Presents (1988) #39'
+issue: 39
 series:
-  period: '1975'
-  name: Champions
-url: http://marvel.com/comics/issue/8064/champions_1975_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10118/marvel_comics_presents_1988_39?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb7d82fd165b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4c7d5186f05b9
   extension: jpg
