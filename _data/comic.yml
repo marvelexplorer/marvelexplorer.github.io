@@ -1,12 +1,12 @@
 ---
-date: '1997-02-01T00:00:00-0500'
-year: '1997'
-title: 'Daily Bugle (1996) #3'
-issue: 3
+date: '1995-03-01T00:00:00-0500'
+year: '1995'
+title: 'Venom: Separation Anxiety (1994) #4'
+issue: 4
 series:
-  period: '1996'
-  name: Daily Bugle
-url: http://marvel.com/comics/issue/65142/daily_bugle_1996_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1994'
+  name: 'Venom: Separation Anxiety'
+url: http://marvel.com/comics/issue/62597/venom_separation_anxiety_1994_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/59c2d77898719
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5893bff41fab2
   extension: jpg
