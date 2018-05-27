@@ -1,12 +1,12 @@
 ---
-date: '2004-09-15T00:00:00-0400'
-year: '2004'
-title: 'X-Men (2004) #161'
-issue: 161
+date: '2006-09-20T00:00:00-0400'
+year: '2006'
+title: 'Wolverine (2003) #46'
+issue: 46
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/835/x-men_2004_161?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/5048/wolverine_2003_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/58af1669d5311
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/58937acc55092
   extension: jpg
