@@ -1,12 +1,12 @@
 ---
-date: '1971-04-10T00:00:00-0500'
-year: '1971'
-title: 'Avengers (1963) #87'
-issue: 87
+date: '1999-02-10T00:00:00-0500'
+year: '1999'
+title: 'Avengers (1998) #13'
+issue: 13
 series:
-  period: '1963'
+  period: '1998'
   name: Avengers
-url: http://marvel.com/comics/issue/7340/avengers_1963_87?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/17494/avengers_1998_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/586fe6e372758
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/5854082d3f36a
   extension: jpg
