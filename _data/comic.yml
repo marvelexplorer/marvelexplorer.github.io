@@ -1,12 +1,12 @@
 ---
-date: '2000-04-01T00:00:00-0500'
-year: '2000'
-title: 'Earth X (1999) #12'
-issue: 12
+date: '2001-04-10T00:00:00-0400'
+year: '2001'
+title: 'Avengers (1998) #39'
+issue: 39
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8551/earth_x_1999_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17522/avengers_1998_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/f0/5a95b25314090
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/585c312c2c343
   extension: jpg
