@@ -1,12 +1,12 @@
 ---
-date: '1985-01-10T00:00:00-0500'
-year: '1985'
-title: 'Marvel Team-Up (1972) #149'
-issue: 149
+date: '1986-01-10T00:00:00-0500'
+year: '1986'
+title: 'X-Men Annual (1970) #10'
+issue: 10
 series:
-  period: '1972'
-  name: Marvel Team-Up
-url: http://marvel.com/comics/issue/19630/marvel_team-up_1972_149?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12356/x-men_annual_1970_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/57f55ca0c3037
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/59661c427e01b
   extension: jpg
