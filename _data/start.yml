@@ -1,12 +1,9 @@
 ---
-name: Tiger Shark
-description: A champion Olympic swimmer, Todd Arliss earned nearly half million dollars
-  in advances for public exhibitions, but his dreams came crashing down around him
-  when he injured his back and legs while rescuing a man who had fallen overboard
-  from a private craft, sending Arliss into the arms of Dr. Lemuel Dorcas, who used
-  his "morphotron," which could imprint the genetic pattern of an animal onto a human,
-  turning Arliss into a superhuman, amphibious creature.
-url: http://marvel.com/universe/Tiger_Shark?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Spider-Woman (Jessica Drew)
+description: When young Jessica Drew suffered uranium poisoning in 1931, her father
+  was forced to inject her with his untested spider serum and seal her in a genetic
+  accelerator.
+url: http://marvel.com/universe/Spider-Woman_%28Jessica_Drew%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c003a9db2f77
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/50/5265479097743
   extension: jpg
