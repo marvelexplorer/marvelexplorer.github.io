@@ -1,12 +1,12 @@
 ---
-date: '1943-07-10T00:00:00-0400'
-year: '1943'
-title: 'Human Torch (1940) #12'
-issue: 12
+date: '1964-06-10T00:00:00-0400'
+year: '1964'
+title: 'Fantastic Four (1961) #27'
+issue: 27
 series:
-  period: '1940'
-  name: Human Torch
-url: http://marvel.com/comics/issue/8832/human_torch_1940_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13083/fantastic_four_1961_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/50ae19ac09810
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/5aaab48a32435
   extension: jpg
