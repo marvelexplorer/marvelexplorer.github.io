@@ -1,12 +1,12 @@
 ---
-date: '2001-07-01T00:00:00-0400'
-year: '2001'
-title: 'New X-Men (2001) #114'
-issue: 114
+date: '2018-05-09T00:00:00-0400'
+year: '2018'
+title: 'True Believers: Wolverine Vs. Sabretooth (2018) #1'
+issue: 1
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/14933/new_x-men_2001_114?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2018'
+  name: 'True Believers: Wolverine Vs. Sabretooth'
+url: http://marvel.com/comics/issue/67575/true_believers_wolverine_vs_sabretooth_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/5140cda8ce9af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/20/5aea30b25b322
   extension: jpg
