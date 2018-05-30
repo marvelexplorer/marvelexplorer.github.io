@@ -1,12 +1,12 @@
 ---
-date: '2013-08-28T00:00:00-0400'
-year: '2013'
-title: 'Uncanny X-Men (2013) #11'
-issue: 11
+date: '2018-05-09T00:00:00-0400'
+year: '2018'
+title: 'X-Men: Blue (2017) #27'
+issue: 27
 series:
-  period: '2013'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/46676/uncanny_x-men_2013_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: 'X-Men: Blue'
+url: http://marvel.com/comics/issue/67586/x-men_blue_2017_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/59317b0c4af10
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/5aea30982edf7
   extension: jpg
