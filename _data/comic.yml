@@ -1,12 +1,12 @@
 ---
-date: '2006-06-21T00:00:00-0400'
-year: '2006'
-title: 'Uncanny X-Men Annual (2006) #1'
-issue: 1
+date: '2009-07-15T00:00:00-0400'
+year: '2009'
+title: 'New Mutants (2009) #3'
+issue: 3
 series:
-  period: '2006'
-  name: Uncanny X-Men Annual
-url: http://marvel.com/comics/issue/4343/uncanny_x-men_annual_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: New Mutants
+url: http://marvel.com/comics/issue/26052/new_mutants_2009_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4c364fd1937b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5a0603f33b6c6
   extension: jpg
