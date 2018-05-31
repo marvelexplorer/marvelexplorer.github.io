@@ -1,12 +1,12 @@
 ---
-date: '1994-10-10T00:00:00-0400'
-year: '1994'
-title: 'Fantastic Four (1961) #393'
-issue: 393
+date: '1966-04-10T00:00:00-0500'
+year: '1966'
+title: 'Tales to Astonish (1959) #78'
+issue: 78
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13220/fantastic_four_1961_393?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11424/tales_to_astonish_1959_78?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5acb96dedad68
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/594add3ad3643
   extension: jpg
