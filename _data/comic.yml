@@ -1,12 +1,12 @@
 ---
-date: '2017-07-26T00:00:00-0400'
-year: '2017'
-title: 'Captain America: Sam Wilson (2015) #24'
-issue: 24
+date: '1988-10-10T00:00:00-0400'
+year: '1988'
+title: 'West Coast Avengers Annual (1986) #3'
+issue: 3
 series:
-  period: '2015'
-  name: 'Captain America: Sam Wilson'
-url: http://marvel.com/comics/issue/60945/captain_america_sam_wilson_2015_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: West Coast Avengers Annual
+url: http://marvel.com/comics/issue/17940/west_coast_avengers_annual_1986_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/596d087adf7e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/5a8ef0572bae5
   extension: jpg
