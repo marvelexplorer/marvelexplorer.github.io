@@ -1,12 +1,12 @@
 ---
-date: '2006-05-10T00:00:00-0400'
-year: '2006'
-title: 'Fantastic Four: First Family (2006) #3'
-issue: 3
+date: '2011-07-13T00:00:00-0400'
+year: '2011'
+title: 'FF (2010) #6'
+issue: 6
 series:
-  period: '2006'
-  name: 'Fantastic Four: First Family'
-url: http://marvel.com/comics/issue/4138/fantastic_four_first_family_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: FF
+url: http://marvel.com/comics/issue/37395/ff_2010_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/5addec68d7592
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/5ad1051a44986
   extension: jpg
