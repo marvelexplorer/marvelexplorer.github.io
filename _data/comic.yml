@@ -1,12 +1,12 @@
 ---
-date: '2015-05-06T00:00:00-0400'
-year: '2015'
-title: 'Captain America Special (2015) #1'
-issue: 1
+date: '2017-07-26T00:00:00-0400'
+year: '2017'
+title: 'Captain America: Sam Wilson (2015) #24'
+issue: 24
 series:
   period: '2015'
-  name: Captain America Special
-url: http://marvel.com/comics/issue/51563/captain_america_special_2015_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: 'Captain America: Sam Wilson'
+url: http://marvel.com/comics/issue/60945/captain_america_sam_wilson_2015_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5862e2bf7343d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/596d087adf7e1
   extension: jpg
