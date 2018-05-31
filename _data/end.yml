@@ -1,10 +1,10 @@
 ---
-name: Spider-Man
-description: Bitten by a radioactive spider, high school student Peter Parker gained
-  the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter
-  hoped to start a career using his new abilities. Taught that with great power comes
-  great responsibility, Spidey has vowed to use his powers to help people.
-url: http://marvel.com/universe/Spider-Man_(Peter_Parker)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Captain America (Sam Wilson)
+description: <p class="Body">Sam Wilson, a Harlem native, previously operated under
+  the name Falcon, fighting alongside the Avengers. When his longtime friend Steve
+  Rogers stepped down as Captain America, Wilson was hand-picked to fill the role.
+  Now the former Falcon soars through the skies wearing red, white and blue.</p>
+url: http://marvel.com/comics/characters/1017575/captain_america_sam_wilson?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/545a84a75ddaf
   extension: jpg
