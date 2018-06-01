@@ -1,12 +1,12 @@
 ---
-date: '2002-02-01T00:00:00-0500'
-year: '2002'
-title: 'X-Force (1991) #123'
-issue: 123
+date: '2009-08-26T00:00:00-0400'
+year: '2009'
+title: 'X-Force (2008) #18'
+issue: 18
 series:
-  period: '1991'
+  period: '2008'
   name: X-Force
-url: http://marvel.com/comics/issue/17969/x-force_1991_123?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/27256/x-force_2008_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/596381beaee3f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/80/5768492e6fc37
   extension: jpg
