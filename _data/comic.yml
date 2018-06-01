@@ -1,12 +1,12 @@
 ---
-date: '1982-09-10T00:00:00-0400'
-year: '1982'
-title: 'Wolverine (1982) #1'
+date: '1991-08-01T00:00:00-0400'
+year: '1991'
+title: 'Wolverine: Rahne of Terra (1991) #1'
 issue: 1
 series:
-  period: '1982'
-  name: Wolverine
-url: http://marvel.com/comics/issue/12168/wolverine_1982_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: 'Wolverine: Rahne of Terra'
+url: http://marvel.com/comics/issue/65024/wolverine_rahne_of_terra_1991_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5854497f12e1f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5a21b7cf2c5ad
   extension: jpg
