@@ -1,12 +1,12 @@
 ---
-date: '2011-05-25T00:00:00-0400'
-year: '2011'
-title: 'Daken: Dark Wolverine (2010) #9.1'
-issue: 9.1
+date: '1967-11-10T00:00:00-0500'
+year: '1967'
+title: 'Avengers (1963) #46'
+issue: 46
 series:
-  period: '2010'
-  name: 'Daken: Dark Wolverine'
-url: http://marvel.com/comics/issue/39854/daken_dark_wolverine_2010_9.1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7295/avengers_1963_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/4dd6866264146
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/4e8f622485a68
   extension: jpg
