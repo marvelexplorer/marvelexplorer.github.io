@@ -1,12 +1,12 @@
 ---
-date: '1993-12-01T00:00:00-0500'
-year: '1993'
-title: 'Fantastic Four (1961) #383'
-issue: 383
+date: '1965-04-10T00:00:00-0500'
+year: '1965'
+title: 'Fantastic Four (1961) #37'
+issue: 37
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13209/fantastic_four_1961_383?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13194/fantastic_four_1961_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5ac790b047b75
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/20/5aabe3df6b8ae
   extension: jpg
