@@ -1,12 +1,12 @@
 ---
-date: '2006-05-17T00:00:00-0400'
+date: '2006-10-11T00:00:00-0400'
 year: '2006'
-title: 'Annihilation: Nova (2006) #2'
-issue: 2
+title: 'Annihilation (2006) #3'
+issue: 3
 series:
   period: '2006'
-  name: 'Annihilation: Nova'
-url: http://marvel.com/comics/issue/4221/annihilation_nova_2006_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Annihilation
+url: http://marvel.com/comics/issue/5230/annihilation_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/c0/578557a046083
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/51b612534e2e6
   extension: jpg
