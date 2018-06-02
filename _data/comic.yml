@@ -1,12 +1,12 @@
 ---
-date: '2010-02-17T00:00:00-0500'
-year: '2010'
-title: 'Uncanny X-Men (1963) #521'
-issue: 521
+date: '2011-05-25T00:00:00-0400'
+year: '2011'
+title: 'Daken: Dark Wolverine (2010) #9.1'
+issue: 9.1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/26974/uncanny_x-men_1963_521?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Daken: Dark Wolverine'
+url: http://marvel.com/comics/issue/39854/daken_dark_wolverine_2010_9.1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/513f533916b22
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/4dd6866264146
   extension: jpg
