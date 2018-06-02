@@ -1,12 +1,12 @@
 ---
-date: '1965-04-10T00:00:00-0500'
-year: '1965'
-title: 'Fantastic Four (1961) #37'
-issue: 37
+date: '2005-02-02T00:00:00-0500'
+year: '2005'
+title: 'X-Men/Fantastic Four (2004) #3'
+issue: 3
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13194/fantastic_four_1961_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men/Fantastic Four
+url: http://marvel.com/comics/issue/1632/x-menfantastic_four_2004_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/20/5aabe3df6b8ae
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/53518cb06e01f
   extension: jpg
