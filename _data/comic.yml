@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
-year: '2006'
-title: 'Ultimate Spider-Man (2000) #89'
-issue: 89
+date: '2004-08-04T00:00:00-0400'
+year: '2004'
+title: 'Ultimate Spider-Man (2000) #63'
+issue: 63
 series:
   period: '2000'
   name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/3399/ultimate_spider-man_2000_89?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/538/ultimate_spider-man_2000_63?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/80/58eb87265688a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/70/58e6970585ee2
   extension: jpg
