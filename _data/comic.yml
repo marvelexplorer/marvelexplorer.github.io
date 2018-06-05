@@ -1,12 +1,12 @@
 ---
-date: '1969-01-10T00:00:00-0500'
-year: '1969'
-title: 'The Amazing Spider-Man (1963) #68'
-issue: 68
+date: '1968-09-10T00:00:00-0400'
+year: '1968'
+title: 'The Amazing Spider-Man (1963) #64'
+issue: 64
 series:
   period: '1963'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6888/the_amazing_spider-man_1963_68?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6884/the_amazing_spider-man_1963_64?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/57addd680690c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/57acd66ff0719
   extension: jpg
