@@ -1,7 +1,7 @@
 ---
-- name: Human Torch
-  score: 6
 - name: X-Men
+  score: 7
+- name: Human Torch
   score: 6
 - name: X-Force
   score: 4
