@@ -1,12 +1,12 @@
 ---
-date: '1969-08-10T00:00:00-0400'
-year: '1969'
-title: 'The Amazing Spider-Man (1963) #75'
-issue: 75
+date: '1984-10-10T00:00:00-0400'
+year: '1984'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #95'
+issue: 95
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6896/the_amazing_spider-man_1963_75?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14800/peter_parker_the_spectacular_spider-man_1976_95?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/57ae25b71abdc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/5825f67e9a1e9
   extension: jpg
