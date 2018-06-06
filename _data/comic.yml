@@ -1,12 +1,12 @@
 ---
-date: '2000-08-01T00:00:00-0400'
-year: '2000'
-title: 'Avengers (1998) #31'
-issue: 31
+date: '1969-08-10T00:00:00-0400'
+year: '1969'
+title: 'The Amazing Spider-Man (1963) #75'
+issue: 75
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17514/avengers_1998_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6896/the_amazing_spider-man_1963_75?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/585c2953b6a65
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/57ae25b71abdc
   extension: jpg

@@ -1,11 +1,11 @@
 ---
-- name: Human Torch
-  score: 4
 - name: X-Men
   score: 4
 - name: Captain America
   score: 4
 - name: Wolverine
   score: 4
+- name: Human Torch
+  score: 3
 - name: Nick Fury
   score: 3
