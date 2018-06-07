@@ -1,12 +1,12 @@
 ---
-date: '1989-07-01T00:00:00-0400'
-year: '1989'
-title: 'Saga of the Sub-Mariner (1988) #9'
-issue: 9
+date: '2013-01-23T00:00:00-0500'
+year: '2013'
+title: 'Uncanny Avengers (2012) #3'
+issue: 3
 series:
-  period: '1988'
-  name: Saga of the Sub-Mariner
-url: http://marvel.com/comics/issue/62674/saga_of_the_sub-mariner_1988_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Uncanny Avengers
+url: http://marvel.com/comics/issue/43337/uncanny_avengers_2012_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/5893c12d09073
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/5a58f2b319204
   extension: jpg
