@@ -1,12 +1,12 @@
 ---
-date: '1989-05-10T00:00:00-0400'
+date: '1989-04-10T00:00:00-0400'
 year: '1989'
-title: 'Avengers (1963) #303'
-issue: 303
+title: 'Avengers (1963) #302'
+issue: 302
 series:
   period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/7179/avengers_1963_303?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7178/avengers_1963_302?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/588a62023458c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/588a60be15aac
   extension: jpg
