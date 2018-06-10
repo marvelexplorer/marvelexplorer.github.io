@@ -1,12 +1,12 @@
 ---
-date: '1989-05-10T00:00:00-0400'
-year: '1989'
-title: 'Avengers (1963) #303'
-issue: 303
+date: '2011-01-05T00:00:00-0500'
+year: '2011'
+title: 'The Thanos Imperative: Devastation (2010) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7179/avengers_1963_303?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'The Thanos Imperative: Devastation'
+url: http://marvel.com/comics/issue/37979/the_thanos_imperative_devastation_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/588a62023458c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51f6a004dc19c
   extension: jpg
