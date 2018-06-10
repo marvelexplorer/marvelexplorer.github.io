@@ -1,12 +1,12 @@
 ---
-date: '2011-01-05T00:00:00-0500'
-year: '2011'
-title: 'The Thanos Imperative: Devastation (2010) #1'
+date: '2006-04-05T00:00:00-0400'
+year: '2006'
+title: 'Annihilation: Silver Surfer (2006) #1'
 issue: 1
 series:
-  period: '2010'
-  name: 'The Thanos Imperative: Devastation'
-url: http://marvel.com/comics/issue/37979/the_thanos_imperative_devastation_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'Annihilation: Silver Surfer'
+url: http://marvel.com/comics/issue/4108/annihilation_silver_surfer_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51f6a004dc19c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/578671f120fd2
   extension: jpg
