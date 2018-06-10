@@ -1,12 +1,12 @@
 ---
-date: '2006-08-09T00:00:00-0400'
-year: '2006'
-title: 'Annihilation (2006) #1'
-issue: 1
+date: '1995-04-01T00:00:00-0500'
+year: '1995'
+title: 'Guardians of the Galaxy (1990) #59'
+issue: 59
 series:
-  period: '2006'
-  name: Annihilation
-url: http://marvel.com/comics/issue/4788/annihilation_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1990'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/62876/guardians_of_the_galaxy_1990_59?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51b61283075b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/594c3b58dca83
   extension: jpg
