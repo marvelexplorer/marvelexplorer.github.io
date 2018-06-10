@@ -1,12 +1,12 @@
 ---
-date: '2016-10-26T00:00:00-0400'
-year: '2016'
-title: 'The Totally Awesome Hulk (2015) #11'
-issue: 11
+date: '2008-12-31T00:00:00-0500'
+year: '2008'
+title: 'X-Men: Worlds Apart (2008) #3'
+issue: 3
 series:
-  period: '2015'
-  name: The Totally Awesome Hulk
-url: http://marvel.com/comics/issue/56093/the_totally_awesome_hulk_2015_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'X-Men: Worlds Apart'
+url: http://marvel.com/comics/issue/22995/x-men_worlds_apart_2008_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/a0/580a471477445
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/59666a50a9432
   extension: jpg
