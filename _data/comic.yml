@@ -1,12 +1,12 @@
 ---
-date: '2000-09-01T00:00:00-0400'
-year: '2000'
-title: 'Avengers: Infinity (2000) #1'
-issue: 1
+date: '2017-06-14T00:00:00-0400'
+year: '2017'
+title: 'Thanos (2016) #8'
+issue: 8
 series:
-  period: '2000'
-  name: 'Avengers: Infinity'
-url: http://marvel.com/comics/issue/64198/avengers_infinity_2000_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Thanos
+url: http://marvel.com/comics/issue/61704/thanos_2016_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/5925cf9c5e481
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/593993f7f063b
   extension: jpg
