@@ -1,12 +1,12 @@
 ---
-date: '1985-12-10T00:00:00-0500'
-year: '1985'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #109'
-issue: 109
+date: '2017-08-09T00:00:00-0400'
+year: '2017'
+title: 'Defenders (2017) #4'
+issue: 4
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14553/peter_parker_the_spectacular_spider-man_1976_109?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Defenders
+url: http://marvel.com/comics/issue/64138/defenders_2017_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/5903c9dc39a43
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/597794d2914ac
   extension: jpg
