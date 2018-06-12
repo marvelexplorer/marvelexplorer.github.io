@@ -1,12 +1,12 @@
 ---
-date: '1996-12-10T00:00:00-0500'
-year: '1996'
-title: 'Avengers (1996) #2'
-issue: 2
+date: '2008-09-17T00:00:00-0400'
+year: '2008'
+title: 'Moon Knight (2006) #22'
+issue: 22
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17756/avengers_1996_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Moon Knight
+url: http://marvel.com/comics/issue/21951/moon_knight_2006_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/58765a4b98e5d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/f0/5a8700188c203
   extension: jpg
