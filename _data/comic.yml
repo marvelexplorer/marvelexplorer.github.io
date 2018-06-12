@@ -1,12 +1,12 @@
 ---
-date: '2010-12-29T00:00:00-0500'
+date: '2010-03-17T00:00:00-0400'
 year: '2010'
-title: 'Avengers (2010) #8'
-issue: 8
+title: 'Siege (2009) #3'
+issue: 3
 series:
-  period: '2010'
-  name: Avengers
-url: http://marvel.com/comics/issue/29211/avengers_2010_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Siege
+url: http://marvel.com/comics/issue/30470/siege_2009_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5a26c659b6af9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/517ea96b73710
   extension: jpg
