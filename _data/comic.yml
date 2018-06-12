@@ -1,12 +1,12 @@
 ---
-date: '2008-01-30T00:00:00-0500'
-year: '2008'
-title: 'Mighty Avengers (2007) #8'
-issue: 8
+date: '2013-02-13T00:00:00-0500'
+year: '2013'
+title: 'Uncanny X-Men (2013) #1'
+issue: 1
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/17627/mighty_avengers_2007_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/46653/uncanny_x-men_2013_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/4d24eb0d3a729
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/592f24cc5de85
   extension: jpg
