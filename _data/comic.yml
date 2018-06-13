@@ -1,12 +1,12 @@
 ---
-date: '1993-06-10T00:00:00-0400'
-year: '1993'
-title: 'Spider-Man 2099 (1992) #8'
-issue: 8
+date: '1994-03-10T00:00:00-0500'
+year: '1994'
+title: 'Spider-Man 2099 (1992) #17'
+issue: 17
 series:
   period: '1992'
   name: Spider-Man 2099
-url: http://marvel.com/comics/issue/10909/spider-man_2099_1992_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/10873/spider-man_2099_1992_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/50b522fd0a195
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/583455106384f
   extension: jpg
