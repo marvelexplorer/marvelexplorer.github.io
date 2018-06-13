@@ -1,12 +1,12 @@
 ---
-date: '2004-08-04T00:00:00-0400'
-year: '2004'
-title: 'X-Force (2004) #1'
-issue: 1
+date: '2012-04-18T00:00:00-0400'
+year: '2012'
+title: 'Wolverine & the X-Men (2011) #9'
+issue: 9
 series:
-  period: '2004'
-  name: X-Force
-url: http://marvel.com/comics/issue/541/x-force_2004_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Wolverine & the X-Men
+url: http://marvel.com/comics/issue/38585/wolverine_the_x-men_2011_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/595d1038230d1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51e44be3004a8
   extension: jpg
