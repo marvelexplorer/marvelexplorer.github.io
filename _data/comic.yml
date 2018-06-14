@@ -1,12 +1,12 @@
 ---
-date: '2011-08-10T00:00:00-0400'
-year: '2011'
-title: 'X-Men (2010) #15.1'
-issue: 15.1
+date: '1992-03-10T00:00:00-0500'
+year: '1992'
+title: 'X-Men (1991) #6'
+issue: 6
 series:
-  period: '2010'
+  period: '1991'
   name: X-Men
-url: http://marvel.com/comics/issue/40665/x-men_2010_15.1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/14350/x-men_1991_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/58c1b24422c59
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/589ce157b0df4
   extension: jpg
