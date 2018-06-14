@@ -3,9 +3,9 @@
   score: 5
 - name: Spider-Man
   score: 5
-- name: Magneto
-  score: 3
 - name: Wolverine
   score: 3
 - name: Maria Hill
+  score: 3
+- name: Thor
   score: 3
