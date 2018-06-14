@@ -1,12 +1,12 @@
 ---
-date: '2008-11-19T00:00:00-0500'
-year: '2008'
-title: 'Ghost Rider (2006) #29'
-issue: 29
+date: '2012-01-11T00:00:00-0500'
+year: '2012'
+title: 'Ghost Rider: Cycle of Vengeance (2011) #1'
+issue: 1
 series:
-  period: '2006'
-  name: Ghost Rider
-url: http://marvel.com/comics/issue/22493/ghost_rider_2006_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Ghost Rider: Cycle of Vengeance'
+url: http://marvel.com/comics/issue/41576/ghost_rider_cycle_of_vengeance_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/596d1d51678d8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/56bb563c4cad9
   extension: jpg
