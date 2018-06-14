@@ -2,10 +2,10 @@
 - name: X-Men
   score: 5
 - name: Spider-Man
-  score: 4
-- name: Professor X
-  score: 3
+  score: 5
 - name: Magneto
   score: 3
 - name: Wolverine
+  score: 3
+- name: Maria Hill
   score: 3
