@@ -1,12 +1,12 @@
 ---
-date: '2018-04-25T00:00:00-0400'
-year: '2018'
-title: 'X-Men: Blue (2017) #26'
-issue: 26
+date: '2004-04-07T00:00:00-0400'
+year: '2004'
+title: 'New X-Men (2001) #155'
+issue: 155
 series:
-  period: '2017'
-  name: 'X-Men: Blue'
-url: http://marvel.com/comics/issue/66925/x-men_blue_2017_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/451/new_x-men_2001_155?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/5ad7b053badda
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/577e9e9064565
   extension: jpg
