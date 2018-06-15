@@ -1,12 +1,12 @@
 ---
-date: '2002-03-01T00:00:00-0500'
-year: '2002'
-title: 'Spider-Man''s Tangled Web (2001) #10'
-issue: 10
+date: '1992-11-21T00:00:00-0500'
+year: '1992'
+title: 'The Amazing Spider-Man (1963) #369'
+issue: 369
 series:
-  period: '2001'
-  name: Spider-Man's Tangled Web
-url: http://marvel.com/comics/issue/10911/spider-mans_tangled_web_2001_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6781/the_amazing_spider-man_1963_369?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc3352d55e52
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/52014bfc288a2
   extension: jpg
