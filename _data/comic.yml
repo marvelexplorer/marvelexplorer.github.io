@@ -1,12 +1,12 @@
 ---
-date: '2009-11-04T00:00:00-0500'
-year: '2009'
-title: 'Nova (2007) #31'
-issue: 31
+date: '1998-03-10T00:00:00-0500'
+year: '1998'
+title: 'Avengers (1998) #2'
+issue: 2
 series:
-  period: '2007'
-  name: Nova
-url: http://marvel.com/comics/issue/26096/nova_2007_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17501/avengers_1998_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5669fc7db03d3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/585164a2178d8
   extension: jpg
