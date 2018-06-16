@@ -1,8 +1,8 @@
 ---
 - name: X-Men
-  score: 7
+  score: 8
 - name: Spider-Man
-  score: 7
+  score: 6
 - name: Maria Hill
   score: 3
 - name: Captain Britain
