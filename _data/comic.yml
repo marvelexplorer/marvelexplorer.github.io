@@ -1,12 +1,12 @@
 ---
-date: '2006-03-01T00:00:00-0500'
-year: '2006'
-title: 'X-Men: The End - Men and X-Men (2006) #3'
-issue: 3
+date: '2018-03-07T00:00:00-0500'
+year: '2018'
+title: 'X-Men: Gold (2017) #23'
+issue: 23
 series:
-  period: '2006'
-  name: 'X-Men: The End - Men and X-Men'
-url: http://marvel.com/comics/issue/3879/x-men_the_end_-_men_and_x-men_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: 'X-Men: Gold'
+url: http://marvel.com/comics/issue/66463/x-men_gold_2017_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/535184d1753af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5a972b74c5313
   extension: jpg
