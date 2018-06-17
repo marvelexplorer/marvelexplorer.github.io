@@ -1,12 +1,12 @@
 ---
-date: '1993-11-01T00:00:00-0500'
-year: '1993'
-title: 'Guardians of the Galaxy (1990) #42'
-issue: 42
+date: '1975-02-10T00:00:00-0500'
+year: '1975'
+title: 'Thor (1966) #232'
+issue: 232
 series:
-  period: '1990'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/62287/guardians_of_the_galaxy_1990_42?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11560/thor_1966_232?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/58d04f47e0b61
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4f202665a8c93
   extension: jpg
