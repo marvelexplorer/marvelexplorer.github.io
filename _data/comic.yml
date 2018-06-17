@@ -1,12 +1,12 @@
 ---
-date: '1976-08-10T00:00:00-0400'
-year: '1976'
-title: 'Fantastic Four (1961) #173'
-issue: 173
+date: '1988-06-10T00:00:00-0400'
+year: '1988'
+title: 'Silver Surfer (1987) #12'
+issue: 12
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/12976/fantastic_four_1961_173?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1987'
+  name: Silver Surfer
+url: http://marvel.com/comics/issue/15118/silver_surfer_1987_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5aba9a21475d3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5b0716eb2e77e
   extension: jpg
