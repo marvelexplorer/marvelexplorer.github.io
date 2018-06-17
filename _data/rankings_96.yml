@@ -1,11 +1,11 @@
 ---
-- name: X-Men
-  score: 6
 - name: Spider-Man
   score: 6
+- name: X-Men
+  score: 5
 - name: Ghost Rider (Johnny Blaze)
   score: 3
 - name: Captain America
   score: 3
-- name: Thor
-  score: 2
+- name: Mary Jane Watson
+  score: 3
