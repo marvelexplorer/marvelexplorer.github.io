@@ -1,12 +1,12 @@
 ---
-date: '1969-01-10T00:00:00-0500'
-year: '1969'
-title: 'Marvel Super-Heroes (1967) #18'
-issue: 18
+date: '1993-11-01T00:00:00-0500'
+year: '1993'
+title: 'Guardians of the Galaxy (1990) #42'
+issue: 42
 series:
-  period: '1967'
-  name: Marvel Super-Heroes
-url: http://marvel.com/comics/issue/15429/marvel_super-heroes_1967_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1990'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/62287/guardians_of_the_galaxy_1990_42?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/50b43bbceeb39
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/58d04f47e0b61
   extension: jpg
