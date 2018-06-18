@@ -1,12 +1,12 @@
 ---
-date: '2018-05-23T00:00:00-0400'
+date: '2018-02-21T00:00:00-0500'
 year: '2018'
-title: 'Champions (2016) #20'
-issue: 20
+title: 'Incredible Hulk (2017) #713'
+issue: 713
 series:
-  period: '2016'
-  name: Champions
-url: http://marvel.com/comics/issue/67014/champions_2016_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/66282/incredible_hulk_2017_713?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/5afc7f7a427cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/5a8484e193317
   extension: jpg
