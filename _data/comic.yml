@@ -1,12 +1,12 @@
 ---
-date: '1997-07-10T00:00:00-0400'
-year: '1997'
-title: 'Avengers (1996) #9'
-issue: 9
+date: '2006-01-25T00:00:00-0500'
+year: '2006'
+title: 'The Pulse (2004) #13'
+issue: 13
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17763/avengers_1996_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: The Pulse
+url: http://marvel.com/comics/issue/3414/the_pulse_2004_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/587665587cbcc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/56425a7007be0
   extension: jpg
