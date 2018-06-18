@@ -1,12 +1,12 @@
 ---
-date: '1976-11-10T00:00:00-0500'
-year: '1976'
-title: 'Eternals (1976) #5'
-issue: 5
+date: '1997-12-10T00:00:00-0500'
+year: '1997'
+title: 'The Amazing Spider-Man (1963) #429'
+issue: 429
 series:
-  period: '1976'
-  name: Eternals
-url: http://marvel.com/comics/issue/8813/eternals_1976_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6848/the_amazing_spider-man_1963_429?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bb7afc98a5f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/51ed4dd4f1acf
   extension: jpg
