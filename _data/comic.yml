@@ -1,12 +1,12 @@
 ---
-date: '2013-01-02T00:00:00-0500'
-year: '2013'
-title: 'Ultimate Comics Spider-Man (2011) #19'
-issue: 19
+date: '2018-05-23T00:00:00-0400'
+year: '2018'
+title: 'Champions (2016) #20'
+issue: 20
 series:
-  period: '2011'
-  name: Ultimate Comics Spider-Man
-url: http://marvel.com/comics/issue/41138/ultimate_comics_spider-man_2011_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Champions
+url: http://marvel.com/comics/issue/67014/champions_2016_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/58f0fd7c48d12
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/5afc7f7a427cf
   extension: jpg
