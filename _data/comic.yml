@@ -1,13 +1,12 @@
 ---
-date: '2017-09-27T00:00:00-0400'
+date: '2017-07-26T00:00:00-0400'
 year: '2017'
-title: 'GENERATIONS: SAM WILSON CAPTAIN AMERICA & STEVE ROGERS CAPTAIN AMERICA 1 (2017)
-  #1'
-issue: 1
+title: 'Captain America: Sam Wilson (2015) #24'
+issue: 24
 series:
-  period: '2017'
-  name: 'GENERATIONS: SAM WILSON CAPTAIN AMERICA & STEVE ROGERS CAPTAIN AMERICA 1'
-url: http://marvel.com/comics/issue/64383/generations_sam_wilson_captain_america_steve_rogers_captain_america_1_2017_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: 'Captain America: Sam Wilson'
+url: http://marvel.com/comics/issue/60945/captain_america_sam_wilson_2015_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/59c2881e99369
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/596d087adf7e1
   extension: jpg
