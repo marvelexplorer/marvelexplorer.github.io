@@ -1,12 +1,12 @@
 ---
-date: '2016-12-14T00:00:00-0500'
-year: '2016'
-title: 'Inhumans vs. X-Men (2016) #1'
-issue: 1
+date: '2002-11-10T00:00:00-0500'
+year: '2002'
+title: 'X-Statix (2002) #3'
+issue: 3
 series:
-  period: '2016'
-  name: Inhumans vs. X-Men
-url: http://marvel.com/comics/issue/61594/inhumans_vs_x-men_2016_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: X-Statix
+url: http://marvel.com/comics/issue/13415/x-statix_2002_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/5846e31c21619
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/4c7d61a5ced7b
   extension: jpg
