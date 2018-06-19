@@ -1,12 +1,12 @@
 ---
-date: '1988-12-10T00:00:00-0500'
-year: '1988'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #145'
-issue: 145
+date: '2013-06-19T00:00:00-0400'
+year: '2013'
+title: 'Superior Spider-Man (2013) #12'
+issue: 12
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14593/peter_parker_the_spectacular_spider-man_1976_145?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Superior Spider-Man
+url: http://marvel.com/comics/issue/46484/superior_spider-man_2013_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/5abd49de44da8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/51b7947af20c8
   extension: jpg
