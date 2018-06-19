@@ -1,11 +1,11 @@
 ---
-- name: Spider-Man
-  score: 4
 - name: Nova
+  score: 3
+- name: Spider-Man
   score: 3
 - name: Captain America
   score: 3
 - name: Avengers
   score: 3
-- name: Betty Brant
-  score: 2
+- name: Black Widow
+  score: 3
