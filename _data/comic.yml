@@ -1,12 +1,12 @@
 ---
-date: '1976-10-10T00:00:00-0400'
-year: '1976'
-title: 'Defenders (1972) #40'
-issue: 40
+date: '2016-10-19T00:00:00-0400'
+year: '2016'
+title: 'Doctor Strange (2015) #13'
+issue: 13
 series:
-  period: '1972'
-  name: Defenders
-url: http://marvel.com/comics/issue/20349/defenders_1972_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: Doctor Strange
+url: http://marvel.com/comics/issue/55427/doctor_strange_2015_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/57d95a4c67662
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/57fe4d2c69285
   extension: jpg
