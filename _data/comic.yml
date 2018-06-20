@@ -1,12 +1,12 @@
 ---
-date: '1987-01-11T00:00:00-0500'
-year: '1987'
-title: 'X-Men Annual (1970) #11'
-issue: 11
+date: '2014-07-30T00:00:00-0400'
+year: '2014'
+title: 'Cyclops (2014) #3'
+issue: 3
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12357/x-men_annual_1970_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2014'
+  name: Cyclops
+url: http://marvel.com/comics/issue/50454/cyclops_2014_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/5964e6625a2e8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/53cd5ad1addd8
   extension: jpg
