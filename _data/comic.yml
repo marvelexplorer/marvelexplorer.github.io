@@ -1,12 +1,12 @@
 ---
-date: '2014-07-30T00:00:00-0400'
-year: '2014'
-title: 'Cyclops (2014) #3'
-issue: 3
+date: '1999-04-10T00:00:00-0400'
+year: '1999'
+title: 'Wolverine (1988) #137'
+issue: 137
 series:
-  period: '2014'
-  name: Cyclops
-url: http://marvel.com/comics/issue/50454/cyclops_2014_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14078/wolverine_1988_137?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/53cd5ad1addd8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/59c52a3784a79
   extension: jpg
