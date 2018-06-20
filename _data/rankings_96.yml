@@ -3,9 +3,9 @@
   score: 4
 - name: Captain America
   score: 3
-- name: Black Widow
-  score: 3
 - name: Iron Man
   score: 3
 - name: Nova
+  score: 2
+- name: Gamora
   score: 2
