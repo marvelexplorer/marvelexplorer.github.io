@@ -1,12 +1,12 @@
 ---
-date: '1992-04-10T00:00:00-0400'
-year: '1992'
-title: 'Wonder Man (1991) #8'
-issue: 8
+date: '1982-04-10T00:00:00-0500'
+year: '1982'
+title: 'Uncanny X-Men (1963) #156'
+issue: 156
 series:
-  period: '1991'
-  name: Wonder Man
-url: http://marvel.com/comics/issue/18284/wonder_man_1991_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13697/uncanny_x-men_1963_156?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bb7a1ea681ec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/575aecb9d1608
   extension: jpg
