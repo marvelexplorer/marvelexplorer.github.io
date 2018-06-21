@@ -1,12 +1,12 @@
 ---
-date: '2001-09-26T00:00:00-0400'
-year: '2001'
-title: 'Fantastic Four: 1234 (2001) #3'
-issue: 3
+date: '2000-08-10T00:00:00-0400'
+year: '2000'
+title: 'Fantastic Four (1998) #32'
+issue: 32
 series:
-  period: '2001'
-  name: 'Fantastic Four: 1234'
-url: http://marvel.com/comics/issue/16083/fantastic_four_1234_2001_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15552/fantastic_four_1998_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5ab51b1c28789
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5acf78022fa8f
   extension: jpg
