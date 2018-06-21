@@ -1,12 +1,12 @@
 ---
-date: '2004-11-10T00:00:00-0500'
-year: '2004'
-title: '4 (2004) #12'
-issue: 12
+date: '1971-12-10T00:00:00-0500'
+year: '1971'
+title: 'Fantastic Four (1961) #117'
+issue: 117
 series:
-  period: '2004'
-  name: '4'
-url: http://marvel.com/comics/issue/52/4_2004_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/12914/fantastic_four_1961_117?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5841c31f01da8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/5ab90cc03f082
   extension: jpg
