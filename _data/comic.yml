@@ -1,12 +1,12 @@
 ---
-date: '1971-03-10T00:00:00-0500'
-year: '1971'
-title: 'Avengers (1963) #86'
-issue: 86
+date: '2012-11-28T00:00:00-0500'
+year: '2012'
+title: 'Secret Avengers (2010) #34'
+issue: 34
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7339/avengers_1963_86?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/40707/secret_avengers_2010_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/586fe01ac0671
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/518d1896404ab
   extension: jpg
