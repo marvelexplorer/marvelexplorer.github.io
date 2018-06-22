@@ -1,12 +1,12 @@
 ---
-date: '2012-07-11T00:00:00-0400'
-year: '2012'
-title: 'Defenders (2011) #8'
-issue: 8
+date: '2011-05-18T00:00:00-0400'
+year: '2011'
+title: 'X-Factor (2005) #219'
+issue: 219
 series:
-  period: '2011'
-  name: Defenders
-url: http://marvel.com/comics/issue/39767/defenders_2011_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: X-Factor
+url: http://marvel.com/comics/issue/35277/x-factor_2005_219?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/40/51a51848d7869
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/595e69a649d63
   extension: jpg
