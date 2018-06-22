@@ -1,12 +1,12 @@
 ---
-date: '2012-05-16T00:00:00-0400'
-year: '2012'
-title: 'Avengers Vs. X-Men: Versus (2011) #2'
-issue: 2
+date: '2002-12-10T00:00:00-0500'
+year: '2002'
+title: 'Captain America (2002) #6'
+issue: 6
 series:
-  period: '2011'
-  name: 'Avengers Vs. X-Men: Versus'
-url: http://marvel.com/comics/issue/42491/avengers_vs_x-men_versus_2011_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Captain America
+url: http://marvel.com/comics/issue/12845/captain_america_2002_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5a7dde3074b96
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc35d58dd4aa
   extension: jpg
