@@ -1,12 +1,12 @@
 ---
-date: '2005-04-27T00:00:00-0400'
-year: '2005'
-title: 'New Avengers (2004) #5'
-issue: 5
+date: '1999-12-10T00:00:00-0500'
+year: '1999'
+title: 'Wolverine (1988) #145'
+issue: 145
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/1720/new_avengers_2004_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14087/wolverine_1988_145?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f7dad200e939
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/4bb58795c5df5
   extension: jpg
