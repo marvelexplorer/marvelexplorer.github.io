@@ -1,12 +1,12 @@
 ---
-date: '1990-09-10T00:00:00-0400'
-year: '1990'
-title: 'New Mutants (1983) #93'
-issue: 93
+date: '1999-08-01T00:00:00-0400'
+year: '1999'
+title: 'Wolverine/Punisher: Revelation (1999) #3'
+issue: 3
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10436/new_mutants_1983_93?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: 'Wolverine/Punisher: Revelation'
+url: http://marvel.com/comics/issue/62810/wolverinepunisher_revelation_1999_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5806306115da4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/5a0ca841215d4
   extension: jpg
