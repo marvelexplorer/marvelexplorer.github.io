@@ -1,12 +1,12 @@
 ---
-date: '1999-08-01T00:00:00-0400'
-year: '1999'
-title: 'Wolverine/Punisher: Revelation (1999) #3'
-issue: 3
+date: '1996-02-10T00:00:00-0500'
+year: '1996'
+title: 'Punisher (1995) #4'
+issue: 4
 series:
-  period: '1999'
-  name: 'Wolverine/Punisher: Revelation'
-url: http://marvel.com/comics/issue/62810/wolverinepunisher_revelation_1999_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: Punisher
+url: http://marvel.com/comics/issue/23401/punisher_1995_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/5a0ca841215d4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d1fe374152f7
   extension: jpg
