@@ -1,12 +1,12 @@
 ---
-date: '1996-02-10T00:00:00-0500'
-year: '1996'
-title: 'Punisher (1995) #4'
-issue: 4
+date: '2009-09-16T00:00:00-0400'
+year: '2009'
+title: 'Punisher Noir (2009) #2'
+issue: 2
 series:
-  period: '1995'
-  name: Punisher
-url: http://marvel.com/comics/issue/23401/punisher_1995_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Punisher Noir
+url: http://marvel.com/comics/issue/26165/punisher_noir_2009_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4d1fe374152f7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/583c432bc5026
   extension: jpg
