@@ -1,12 +1,12 @@
 ---
-date: '2016-09-28T00:00:00-0400'
-year: '2016'
-title: 'Civil War II: Kingpin (2016) #3'
-issue: 3
+date: '2007-06-20T00:00:00-0400'
+year: '2007'
+title: 'Amazing Spider-Man (1999) #541'
+issue: 541
 series:
-  period: '2016'
-  name: 'Civil War II: Kingpin'
-url: http://marvel.com/comics/issue/59623/civil_war_ii_kingpin_2016_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/6323/amazing_spider-man_1999_541?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/57dc0e7e252fb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/56cded30402ce
   extension: jpg
