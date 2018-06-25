@@ -1,12 +1,12 @@
 ---
-date: '1996-08-01T00:00:00-0400'
-year: '1996'
-title: 'X-Men (1991) #55'
-issue: 55
+date: '2004-10-01T00:00:00-0400'
+year: '2004'
+title: 'Fantastic Four (1998) #517'
+issue: 517
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14345/x-men_1991_55?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/748/fantastic_four_1998_517?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bb57a282e1f0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/5ad6402e54f24
   extension: jpg
