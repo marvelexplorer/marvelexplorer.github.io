@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 6
-- name: Invisible Woman
-  score: 4
 - name: Thing
   score: 4
 - name: Daredevil
   score: 4
 - name: X-Men
+  score: 4
+- name: Wolverine
   score: 4

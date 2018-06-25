@@ -1,12 +1,12 @@
 ---
-date: '2017-09-13T00:00:00-0400'
-year: '2017'
-title: 'Weapon X (2017) #8'
-issue: 8
+date: '1994-09-01T00:00:00-0400'
+year: '1994'
+title: 'X-Factor (1986) #106'
+issue: 106
 series:
-  period: '2017'
-  name: Weapon X
-url: http://marvel.com/comics/issue/64550/weapon_x_2017_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12182/x-factor_1986_106?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/59b04fb119263
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/5ab3f7b3b647d
   extension: jpg
