@@ -1,12 +1,12 @@
 ---
-date: '2006-09-06T00:00:00-0400'
-year: '2006'
-title: 'X-Men: Phoenix - Warsong (2006) #1'
-issue: 1
+date: '2013-08-28T00:00:00-0400'
+year: '2013'
+title: 'Deadpool (2012) #15'
+issue: 15
 series:
-  period: '2006'
-  name: 'X-Men: Phoenix - Warsong'
-url: http://marvel.com/comics/issue/5043/x-men_phoenix_-_warsong_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Deadpool
+url: http://marvel.com/comics/issue/46051/deadpool_2012_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/596782f82d9ba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5212669b4d5d7
   extension: jpg
