@@ -1,12 +1,12 @@
 ---
-date: '1993-05-10T00:00:00-0400'
-year: '1993'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #200'
-issue: 200
+date: '2000-02-10T00:00:00-0500'
+year: '2000'
+title: 'Spider-Girl (1998) #17'
+issue: 17
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14655/peter_parker_the_spectacular_spider-man_1976_200?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Spider-Girl
+url: http://marvel.com/comics/issue/13334/spider-girl_1998_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/4bc46b18a24a2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc47220b90e6
   extension: jpg
