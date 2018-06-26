@@ -1,12 +1,12 @@
 ---
-date: '1988-11-10T00:00:00-0500'
-year: '1988'
-title: 'The Amazing Spider-Man (1963) #308'
-issue: 308
+date: '2018-05-23T00:00:00-0400'
+year: '2018'
+title: 'Doctor Strange (2015) #390'
+issue: 390
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6714/the_amazing_spider-man_1963_308?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: Doctor Strange
+url: http://marvel.com/comics/issue/67330/doctor_strange_2015_390?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/57f3f56b415e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5afc7f9ff1edd
   extension: jpg
