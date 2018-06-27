@@ -1,12 +1,12 @@
 ---
-date: '1977-06-10T00:00:00-0400'
-year: '1977'
-title: 'Marvel Two-in-One (1974) #28'
-issue: 28
+date: '1983-07-10T00:00:00-0400'
+year: '1983'
+title: 'Fantastic Four (1961) #256'
+issue: 256
 series:
-  period: '1974'
-  name: Marvel Two-in-One
-url: http://marvel.com/comics/issue/19496/marvel_two-in-one_1974_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13068/fantastic_four_1961_256?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5a7e0b37942a4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5ac2541a529bf
   extension: jpg
