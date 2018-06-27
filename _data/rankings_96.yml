@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
-  score: 7
+  score: 8
 - name: Wolverine
   score: 4
-- name: Beast
-  score: 3
 - name: Mary Jane Watson
   score: 3
 - name: Punisher
   score: 3
+- name: Beast
+  score: 2
