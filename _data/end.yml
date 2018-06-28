@@ -1,7 +1,9 @@
 ---
-name: Deadpool
-description: ''
-url: http://marvel.com/universe/Deadpool_(Wade_Wilson)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Banshee (Theresa Rourke)
+description: The daughter of former X-Men member Sean Cassidy, a.k.a. Banshee, and
+  Maeve Rourke, Theresa Rourke was raised by her first cousin once removed, mutant
+  terrorist Thomas Cassidy, a.k.a. Black Tom.
+url: http://marvel.com/universe/Siryn?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ce5a1a50e56b
   extension: jpg
