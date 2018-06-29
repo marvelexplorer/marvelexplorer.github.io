@@ -1,12 +1,12 @@
 ---
-date: '2018-01-17T00:00:00-0500'
+date: '2018-04-25T00:00:00-0400'
 year: '2018'
-title: 'All-New Wolverine (2015) #29'
-issue: 29
+title: 'X-Men: Blue (2017) #26'
+issue: 26
 series:
-  period: '2015'
-  name: All-New Wolverine
-url: http://marvel.com/comics/issue/65892/all-new_wolverine_2015_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: 'X-Men: Blue'
+url: http://marvel.com/comics/issue/66925/x-men_blue_2017_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/70/5a5667fd776fd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/5ad7b053badda
   extension: jpg
