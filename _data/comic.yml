@@ -1,12 +1,12 @@
 ---
-date: '2001-03-10T00:00:00-0500'
-year: '2001'
-title: 'Black Widow (2001) #3'
-issue: 3
+date: '1970-08-10T00:00:00-0400'
+year: '1970'
+title: 'Amazing Adventures (1970) #1'
+issue: 1
 series:
-  period: '2001'
-  name: Black Widow
-url: http://marvel.com/comics/issue/14811/black_widow_2001_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: Amazing Adventures
+url: http://marvel.com/comics/issue/23245/amazing_adventures_1970_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc46cb71098f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/59933ee477db8
   extension: jpg
