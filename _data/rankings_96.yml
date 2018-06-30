@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 5
-- name: Doctor Strange
-  score: 3
 - name: Wasp
   score: 3
 - name: Psylocke
   score: 3
 - name: Spider-Man
   score: 3
+- name: Quicksilver
+  score: 2
