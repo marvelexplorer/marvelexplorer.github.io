@@ -1,12 +1,12 @@
 ---
-date: '2002-11-01T00:00:00-0500'
-year: '2002'
-title: 'Avengers (1998) #58'
-issue: 58
+date: '1991-01-10T00:00:00-0500'
+year: '1991'
+title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #19'
+issue: 19
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17543/avengers_1998_58?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1989'
+  name: Nick Fury, Agent of S.H.I.E.L.D.
+url: http://marvel.com/comics/issue/27720/nick_fury_agent_of_shield_1989_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/5863de5d71f36
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/5834b9b033036
   extension: jpg
