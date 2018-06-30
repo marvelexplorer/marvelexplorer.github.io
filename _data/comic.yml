@@ -1,12 +1,12 @@
 ---
-date: '1991-01-10T00:00:00-0500'
-year: '1991'
-title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #19'
-issue: 19
+date: '2011-01-05T00:00:00-0500'
+year: '2011'
+title: Essential Iron Man Vol. 2 (2010)
+issue: 0
 series:
-  period: '1989'
-  name: Nick Fury, Agent of S.H.I.E.L.D.
-url: http://marvel.com/comics/issue/27720/nick_fury_agent_of_shield_1989_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/38012/essential_iron_man_vol_2_2010?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/5834b9b033036
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/80/4cbda7be1018a
   extension: jpg
