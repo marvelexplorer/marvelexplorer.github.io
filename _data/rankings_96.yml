@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 6
-- name: Nick Fury
-  score: 4
 - name: Spider-Man
   score: 3
 - name: Wasp
+  score: 3
+- name: Nick Fury
   score: 3
 - name: Colossus
   score: 2
