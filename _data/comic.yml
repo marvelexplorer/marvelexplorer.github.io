@@ -1,12 +1,12 @@
 ---
-date: '1997-09-10T00:00:00-0400'
-year: '1997'
-title: 'Avengers (1996) #11'
-issue: 11
+date: '1982-07-10T00:00:00-0400'
+year: '1982'
+title: 'Defenders (1972) #109'
+issue: 109
 series:
-  period: '1996'
-  name: Avengers
-url: http://marvel.com/comics/issue/17753/avengers_1996_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1972'
+  name: Defenders
+url: http://marvel.com/comics/issue/20273/defenders_1972_109?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/30/587668a731590
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/5ad8f5a53eeb3
   extension: jpg
