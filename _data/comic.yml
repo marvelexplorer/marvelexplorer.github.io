@@ -1,12 +1,12 @@
 ---
-date: '2007-12-12T00:00:00-0500'
-year: '2007'
-title: 'Wolverine (2003) #60'
-issue: 60
+date: '2008-09-10T00:00:00-0400'
+year: '2008'
+title: 'Wolverine: Saudade (2008) #1'
+issue: 1
 series:
-  period: '2003'
-  name: Wolverine
-url: http://marvel.com/comics/issue/17349/wolverine_2003_60?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: 'Wolverine: Saudade'
+url: http://marvel.com/comics/issue/22056/wolverine_saudade_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/51ed6b1b17613
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/4bb715c0b00c1
   extension: jpg
