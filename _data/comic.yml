@@ -1,12 +1,12 @@
 ---
-date: '1994-07-16T00:00:00-0400'
-year: '1994'
-title: 'Uncanny X-Men Annual (1992) #18'
-issue: 18
+date: '2010-04-21T00:00:00-0400'
+year: '2010'
+title: 'X-Men Forever Annual (2010) #1'
+issue: 1
 series:
-  period: '1992'
-  name: Uncanny X-Men Annual
-url: http://marvel.com/comics/issue/53531/uncanny_x-men_annual_1992_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: X-Men Forever Annual
+url: http://marvel.com/comics/issue/30272/x-men_forever_annual_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/58da8574c05ee
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4f4fea6531a08
   extension: jpg
