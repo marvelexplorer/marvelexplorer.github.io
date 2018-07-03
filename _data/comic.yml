@@ -1,12 +1,12 @@
 ---
-date: '2010-06-23T00:00:00-0400'
-year: '2010'
-title: 'Fantastic Four (1998) #580'
-issue: 580
+date: '1992-01-18T00:00:00-0500'
+year: '1992'
+title: 'Incredible Hulk Annual (1968) #18'
+issue: 18
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/29600/fantastic_four_1998_580?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Incredible Hulk Annual
+url: http://marvel.com/comics/issue/16875/incredible_hulk_annual_1968_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/51db31d705491
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/580685dfda2ab
   extension: jpg
