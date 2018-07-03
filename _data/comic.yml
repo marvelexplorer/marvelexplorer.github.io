@@ -1,12 +1,12 @@
 ---
-date: '1981-03-10T00:00:00-0500'
-year: '1981'
-title: 'Defenders (1972) #93'
-issue: 93
+date: '1995-05-10T00:00:00-0400'
+year: '1995'
+title: 'Fantastic Four (1961) #400'
+issue: 400
 series:
-  period: '1972'
-  name: Defenders
-url: http://marvel.com/comics/issue/20407/defenders_1972_93?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13229/fantastic_four_1961_400?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5acf86bbd6762
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/5acce54c6cd76
   extension: jpg
