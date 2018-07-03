@@ -1,12 +1,12 @@
 ---
-date: '1985-04-10T00:00:00-0500'
-year: '1985'
-title: 'Daredevil (1964) #217'
-issue: 217
+date: '1991-08-10T00:00:00-0400'
+year: '1991'
+title: 'Avengers (1963) #335'
+issue: 335
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8204/daredevil_1964_217?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7214/avengers_1963_335?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bc335f32b106
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/51f946fc7319a
   extension: jpg
