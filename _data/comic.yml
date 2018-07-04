@@ -1,12 +1,12 @@
 ---
-date: '2016-11-09T00:00:00-0500'
-year: '2016'
-title: 'Deadpool: Back in Black (2016) #3'
-issue: 3
+date: '2010-02-24T00:00:00-0500'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #622'
+issue: 622
 series:
-  period: '2016'
-  name: 'Deadpool: Back in Black'
-url: http://marvel.com/comics/issue/58992/deadpool_back_in_black_2016_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/28227/amazing_spider-man_1999_622?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/580e57a1da77a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5808d7103abc8
   extension: jpg
