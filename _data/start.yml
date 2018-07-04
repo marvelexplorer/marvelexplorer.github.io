@@ -1,10 +1,8 @@
 ---
-name: Wolverine
-description: Born with super-human senses and the power to heal from almost any wound,
-  Wolverine was captured by a secret Canadian organization and given an unbreakable
-  skeleton and claws. Treated like an animal, it took years for him to control himself.
-  Now, he's a premiere member of both the X-Men and the Avengers.
-url: http://marvel.com/universe/Wolverine_(James_Howlett)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Sebastian Shaw
+description: Sebastian Shaw was invited to join the elite Hellfire Club and quickly
+  worked his way into a position within the Inner Circle.
+url: http://marvel.com/universe/Shaw%2C_Sebastian?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003c1e9a90e
   extension: jpg
