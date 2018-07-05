@@ -1,12 +1,12 @@
 ---
-date: '1996-05-10T00:00:00-0400'
-year: '1996'
-title: 'Wolverine (1988) #101'
-issue: 101
+date: '1973-07-10T00:00:00-0400'
+year: '1973'
+title: 'Avengers (1963) #113'
+issue: 113
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14039/wolverine_1988_101?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/6968/avengers_1963_113?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/585a9e9aba85e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c1295117ac46
   extension: jpg
