@@ -1,12 +1,12 @@
 ---
-date: '2016-07-27T00:00:00-0400'
-year: '2016'
-title: 'X-Men ''92 (2016) #5'
-issue: 5
+date: '2006-11-15T00:00:00-0500'
+year: '2006'
+title: 'Astonishing X-Men (2004) #18'
+issue: 18
 series:
-  period: '2016'
-  name: X-Men '92
-url: http://marvel.com/comics/issue/57366/x-men_92_2016_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/5188/astonishing_x-men_2004_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/10/57927045875b3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/4bb6938f3c848
   extension: jpg
