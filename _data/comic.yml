@@ -1,12 +1,12 @@
 ---
-date: '1983-10-10T00:00:00-0400'
-year: '1983'
-title: 'Captain America (1968) #286'
-issue: 286
+date: '2011-04-20T00:00:00-0400'
+year: '2011'
+title: 'Uncanny X-Force (2010) #8'
+issue: 8
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7667/captain_america_1968_286?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Uncanny X-Force
+url: http://marvel.com/comics/issue/32595/uncanny_x-force_2010_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/50ad71950aef8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/58bdf9d817c43
   extension: jpg
