@@ -1,12 +1,12 @@
 ---
-date: '2004-05-26T00:00:00-0400'
-year: '2004'
-title: 'Wolverine/Punisher (2004) #3'
-issue: 3
+date: '2006-05-01T00:00:00-0400'
+year: '2006'
+title: 'Civil War: Opening Shot (2006)'
+issue: 0
 series:
-  period: '2004'
-  name: Wolverine/Punisher
-url: http://marvel.com/comics/issue/675/wolverinepunisher_2004_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/4664/civil_war_opening_shot_2006?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/58a325fcdf8db
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/572a184d97b49
   extension: jpg
