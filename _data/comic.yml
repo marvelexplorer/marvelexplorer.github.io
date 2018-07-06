@@ -1,12 +1,12 @@
 ---
-date: '2008-12-31T00:00:00-0500'
-year: '2008'
-title: 'X-Force (2008) #10'
-issue: 10
+date: '2012-06-27T00:00:00-0400'
+year: '2012'
+title: 'X-Men (2010) #31'
+issue: 31
 series:
-  period: '2008'
-  name: X-Force
-url: http://marvel.com/comics/issue/22929/x-force_2008_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/40867/x-men_2010_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/595e540217d26
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/58b87f5031405
   extension: jpg
