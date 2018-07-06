@@ -1,12 +1,12 @@
 ---
-date: '1999-10-10T00:00:00-0400'
-year: '1999'
-title: 'Deadpool (1997) #33'
-issue: 33
+date: '2016-07-20T00:00:00-0400'
+year: '2016'
+title: 'Spider-Man/Deadpool (2016) #7'
+issue: 7
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8488/deadpool_1997_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Spider-Man/Deadpool
+url: http://marvel.com/comics/issue/52565/spider-mandeadpool_2016_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f18497f5a4c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/578948a60404c
   extension: jpg
