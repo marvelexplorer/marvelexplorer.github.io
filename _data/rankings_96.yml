@@ -2,10 +2,10 @@
 - name: X-Men
   score: 8
 - name: Wolverine
-  score: 6
+  score: 5
+- name: Captain America
+  score: 4
 - name: Thing
   score: 3
 - name: Storm
-  score: 3
-- name: Deadpool
   score: 3
