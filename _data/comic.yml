@@ -1,12 +1,12 @@
 ---
-date: '2006-05-01T00:00:00-0400'
-year: '2006'
-title: 'Civil War: Opening Shot (2006)'
-issue: 0
+date: '2018-05-16T00:00:00-0400'
+year: '2018'
+title: 'Quicksilver: No Surrender (2018) #1'
+issue: 1
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/4664/civil_war_opening_shot_2006?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2018'
+  name: 'Quicksilver: No Surrender'
+url: http://marvel.com/comics/issue/67028/quicksilver_no_surrender_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/572a184d97b49
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/5af36a77368f7
   extension: jpg
