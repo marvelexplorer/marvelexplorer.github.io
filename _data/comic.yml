@@ -1,12 +1,12 @@
 ---
-date: '1984-08-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #4'
-issue: 4
+date: '2004-02-01T00:00:00-0500'
+year: '2004'
+title: 'Fantastic Four (1998) #508'
+issue: 508
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10586/secret_wars_1984_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/314/fantastic_four_1998_508?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/5756ec889543f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/5ad4ef8f88045
   extension: jpg
