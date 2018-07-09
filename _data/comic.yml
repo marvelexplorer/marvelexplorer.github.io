@@ -1,12 +1,12 @@
 ---
-date: '1993-12-01T00:00:00-0500'
+date: '1993-08-01T00:00:00-0400'
 year: '1993'
-title: 'Guardians of the Galaxy (1990) #43'
-issue: 43
+title: 'Guardians of the Galaxy (1990) #39'
+issue: 39
 series:
   period: '1990'
   name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/62288/guardians_of_the_galaxy_1990_43?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/61806/guardians_of_the_galaxy_1990_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/58d050145285a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/58d04f7ea78d7
   extension: jpg
