@@ -1,12 +1,12 @@
 ---
-date: '1993-08-01T00:00:00-0400'
-year: '1993'
-title: 'Guardians of the Galaxy (1990) #39'
-issue: 39
+date: '2011-12-28T00:00:00-0500'
+year: '2011'
+title: 'FF (2010) #13'
+issue: 13
 series:
-  period: '1990'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/61806/guardians_of_the_galaxy_1990_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: FF
+url: http://marvel.com/comics/issue/41207/ff_2010_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/58d04f7ea78d7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/51f68ced1e4ab
   extension: jpg
