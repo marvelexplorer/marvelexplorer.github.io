@@ -1,12 +1,12 @@
 ---
-date: '1993-01-10T00:00:00-0500'
-year: '1993'
-title: 'Avengers West Coast (1985) #90'
-issue: 90
+date: '1988-04-01T00:00:00-0500'
+year: '1988'
+title: 'Solo Avengers (1987) #5'
+issue: 5
 series:
-  period: '1985'
-  name: Avengers West Coast
-url: http://marvel.com/comics/issue/17832/avengers_west_coast_1985_90?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1987'
+  name: Solo Avengers
+url: http://marvel.com/comics/issue/54968/solo_avengers_1987_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/80/57d2fefff2a1d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/589ce3915741c
   extension: jpg
