@@ -1,12 +1,12 @@
 ---
-date: '1998-05-10T00:00:00-0400'
-year: '1998'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #257'
-issue: 257
+date: '2013-09-25T00:00:00-0400'
+year: '2013'
+title: 'Young Avengers (2013) #10'
+issue: 10
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14717/peter_parker_the_spectacular_spider-man_1976_257?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Young Avengers
+url: http://marvel.com/comics/issue/46842/young_avengers_2013_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5a21bb51d8097
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/c0/5238763299221
   extension: jpg
