@@ -1,12 +1,12 @@
 ---
-date: '1973-10-10T00:00:00-0400'
-year: '1973'
-title: 'Uncanny X-Men (1963) #84'
-issue: 84
+date: '1941-10-10T00:00:00-0500'
+year: '1941'
+title: 'Marvel Mystery Comics (1939) #24'
+issue: 24
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12537/uncanny_x-men_1963_84?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16730/marvel_mystery_comics_1939_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/4f67b6488558c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/598cae1046cce
   extension: jpg
