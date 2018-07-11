@@ -1,12 +1,12 @@
 ---
-date: '2001-04-11T00:00:00-0400'
-year: '2001'
-title: 'X-Men: The Hidden Years (1999) #19'
-issue: 19
+date: '2004-04-07T00:00:00-0400'
+year: '2004'
+title: 'New X-Men (2001) #155'
+issue: 155
 series:
-  period: '1999'
-  name: 'X-Men: The Hidden Years'
-url: http://marvel.com/comics/issue/65374/x-men_the_hidden_years_1999_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/451/new_x-men_2001_155?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/5a56977a6c7c9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/577e9e9064565
   extension: jpg
