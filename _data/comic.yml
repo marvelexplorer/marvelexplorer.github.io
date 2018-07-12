@@ -1,12 +1,12 @@
 ---
-date: '2007-12-19T00:00:00-0500'
-year: '2007'
-title: 'The Order (2007) #6'
-issue: 6
+date: '1991-08-01T00:00:00-0400'
+year: '1991'
+title: 'Namor: The Sub-Mariner (1990) #17'
+issue: 17
 series:
-  period: '2007'
-  name: The Order
-url: http://marvel.com/comics/issue/17416/the_order_2007_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1990'
+  name: 'Namor: The Sub-Mariner'
+url: http://marvel.com/comics/issue/66021/namor_the_sub-mariner_1990_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/51b75301783dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/5a6227cc0e239
   extension: jpg
