@@ -1,12 +1,12 @@
 ---
-date: '2009-06-03T00:00:00-0400'
-year: '2009'
-title: 'Deadpool: Suicide Kings (2009) #3'
-issue: 3
+date: '2014-04-09T00:00:00-0400'
+year: '2014'
+title: 'Deadpool (2012) #27'
+issue: 27
 series:
-  period: '2009'
-  name: 'Deadpool: Suicide Kings'
-url: http://marvel.com/comics/issue/24963/deadpool_suicide_kings_2009_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Deadpool
+url: http://marvel.com/comics/issue/48615/deadpool_2012_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/56aa8dd71066d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/5761bb6d8d7c0
   extension: jpg
