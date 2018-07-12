@@ -1,12 +1,12 @@
 ---
-date: '1994-05-10T00:00:00-0400'
-year: '1994'
-title: 'Spider-Man 2099 (1992) #19'
-issue: 19
+date: '1999-06-01T00:00:00-0400'
+year: '1999'
+title: 'Earth X (1999) #3'
+issue: 3
 series:
-  period: '1992'
-  name: Spider-Man 2099
-url: http://marvel.com/comics/issue/10875/spider-man_2099_1992_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8553/earth_x_1999_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/583456c68c762
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/5a95b398588c7
   extension: jpg
