@@ -1,12 +1,12 @@
 ---
-date: '2003-03-01T00:00:00-0500'
-year: '2003'
-title: 'Iron Man (1998) #64'
-issue: 64
+date: '1991-07-10T00:00:00-0400'
+year: '1991'
+title: 'Doctor Strange, Sorcerer Supreme (1988) #31'
+issue: 31
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/19940/iron_man_1998_64?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Doctor Strange, Sorcerer Supreme
+url: http://marvel.com/comics/issue/20192/doctor_strange_sorcerer_supreme_1988_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5a67a1a43564f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/f0/59f0fbc3c6fd9
   extension: jpg
