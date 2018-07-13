@@ -1,12 +1,12 @@
 ---
-date: '2012-03-28T00:00:00-0400'
-year: '2012'
-title: 'Moon Knight (2010) #11'
-issue: 11
+date: '1991-11-10T00:00:00-0500'
+year: '1991'
+title: 'Captain America (1968) #394'
+issue: 394
 series:
-  period: '2010'
-  name: Moon Knight
-url: http://marvel.com/comics/issue/34038/moon_knight_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7775/captain_america_1968_394?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/a0/5a85edd49f769
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5294f4dc725a2
   extension: jpg
