@@ -1,12 +1,12 @@
 ---
-date: '1993-08-10T00:00:00-0400'
-year: '1993'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #203'
-issue: 203
+date: '2010-12-29T00:00:00-0500'
+year: '2010'
+title: 'Carnage (2010) #2'
+issue: 2
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14658/peter_parker_the_spectacular_spider-man_1976_203?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Carnage
+url: http://marvel.com/comics/issue/36271/carnage_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/f0/4bb6845900213
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/50b38a2de74ae
   extension: jpg
