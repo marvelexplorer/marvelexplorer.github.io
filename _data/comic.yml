@@ -1,12 +1,12 @@
 ---
-date: '1987-06-01T00:00:00-0400'
-year: '1987'
-title: 'Fantastic Four vs. the X-Men (1987) #4'
-issue: 4
+date: '1992-06-01T00:00:00-0400'
+year: '1992'
+title: 'Fantastic Four (1961) #365'
+issue: 365
 series:
-  period: '1987'
-  name: Fantastic Four vs. the X-Men
-url: http://marvel.com/comics/issue/43039/fantastic_four_vs_the_x-men_1987_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13189/fantastic_four_1961_365?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/50b45dae2997c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/5294f3cc88a94
   extension: jpg
