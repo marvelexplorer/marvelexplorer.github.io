@@ -1,12 +1,12 @@
 ---
-date: '2005-09-07T00:00:00-0400'
-year: '2005'
-title: 'Uncanny X-Men (1963) #464'
-issue: 464
+date: '1985-02-10T00:00:00-0500'
+year: '1985'
+title: 'Marvel Team-Up (1972) #150'
+issue: 150
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/2815/uncanny_x-men_1963_464?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1972'
+  name: Marvel Team-Up
+url: http://marvel.com/comics/issue/19632/marvel_team-up_1972_150?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/59231937972f7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/57f55e92a8fb7
   extension: jpg
