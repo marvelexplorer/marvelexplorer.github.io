@@ -1,12 +1,12 @@
 ---
-date: '1993-12-10T00:00:00-0500'
-year: '1993'
-title: 'X-Men Unlimited (1993) #3'
-issue: 3
+date: '1995-11-01T00:00:00-0500'
+year: '1995'
+title: 'X-Men (1991) #46'
+issue: 46
 series:
-  period: '1993'
-  name: X-Men Unlimited
-url: http://marvel.com/comics/issue/18132/x-men_unlimited_1993_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14335/x-men_1991_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/5880c667afae8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/a0/58a4aaeaa614c
   extension: jpg
