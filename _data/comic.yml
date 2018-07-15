@@ -1,12 +1,12 @@
 ---
-date: '2010-10-27T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man (1999) #646'
-issue: 646
+date: '2006-05-17T00:00:00-0400'
+year: '2006'
+title: 'New Avengers (2004) #19'
+issue: 19
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/30321/amazing_spider-man_1999_646?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/4182/new_avengers_2004_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/5813b0335c1ab
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4f7f0476036a8
   extension: jpg
