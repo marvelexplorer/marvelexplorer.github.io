@@ -1,12 +1,12 @@
 ---
-date: '1966-04-10T00:00:00-0500'
-year: '1966'
-title: 'The Amazing Spider-Man (1963) #35'
-issue: 35
+date: '1996-06-10T00:00:00-0400'
+year: '1996'
+title: 'The Amazing Spider-Man (1963) #412'
+issue: 412
 series:
   period: '1963'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6760/the_amazing_spider-man_1963_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6830/the_amazing_spider-man_1963_412?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/57a0ee0df15f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/f0/57e0156533859
   extension: jpg
