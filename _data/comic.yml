@@ -1,12 +1,12 @@
 ---
-date: '1987-12-10T00:00:00-0500'
-year: '1987'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #133'
-issue: 133
+date: '2007-02-14T00:00:00-0500'
+year: '2007'
+title: 'Amazing Spider-Girl (2006) #5'
+issue: 5
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14580/peter_parker_the_spectacular_spider-man_1976_133?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Amazing Spider-Girl
+url: http://marvel.com/comics/issue/5997/amazing_spider-girl_2006_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/f0/5a21bc0a54ada
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/56d7064ea9df4
   extension: jpg
