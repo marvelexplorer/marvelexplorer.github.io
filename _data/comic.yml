@@ -1,12 +1,12 @@
 ---
-date: '2002-01-01T00:00:00-0500'
-year: '2002'
-title: 'Thor: Godstorm (2001) #3'
-issue: 3
+date: '1999-05-01T00:00:00-0400'
+year: '1999'
+title: 'Thor (1998) #11'
+issue: 11
 series:
-  period: '2001'
-  name: 'Thor: Godstorm'
-url: http://marvel.com/comics/issue/71618/thor_godstorm_2001_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Thor
+url: http://marvel.com/comics/issue/18633/thor_1998_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5af4942651bfb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/59c55c53f18e8
   extension: jpg
