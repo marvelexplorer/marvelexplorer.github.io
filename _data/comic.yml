@@ -1,12 +1,12 @@
 ---
-date: '2017-01-25T00:00:00-0500'
-year: '2017'
-title: 'Spider-Woman (2015) #15'
-issue: 15
+date: '1996-01-01T00:00:00-0500'
+year: '1996'
+title: 'War Machine (1994) #22'
+issue: 22
 series:
-  period: '2015'
-  name: Spider-Woman
-url: http://marvel.com/comics/issue/56178/spider-woman_2015_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1994'
+  name: War Machine
+url: http://marvel.com/comics/issue/70072/war_machine_1994_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/5880e46da4f78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5b33e9852ad28
   extension: jpg
