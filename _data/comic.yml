@@ -1,12 +1,12 @@
 ---
-date: '1989-11-21T00:00:00-0500'
-year: '1989'
-title: 'Wolverine (1988) #17'
-issue: 17
+date: '1999-09-10T00:00:00-0400'
+year: '1999'
+title: 'Iron Man (1998) #20'
+issue: 20
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14114/wolverine_1988_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Iron Man
+url: http://marvel.com/comics/issue/19892/iron_man_1998_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc37b2da27d6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/c0/5a5e59797dd59
   extension: jpg
