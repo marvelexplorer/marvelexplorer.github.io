@@ -1,12 +1,12 @@
 ---
-date: '2010-05-26T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man Annual (2010) #37'
-issue: 37
+date: '2016-08-17T00:00:00-0400'
+year: '2016'
+title: 'All-New Wolverine (2015) #11'
+issue: 11
 series:
-  period: '2010'
-  name: Amazing Spider-Man Annual
-url: http://marvel.com/comics/issue/30196/amazing_spider-man_annual_2010_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: All-New Wolverine
+url: http://marvel.com/comics/issue/56442/all-new_wolverine_2015_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/56d724791075e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/57a8b4f6af78a
   extension: jpg
