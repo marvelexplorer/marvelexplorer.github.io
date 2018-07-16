@@ -1,12 +1,12 @@
 ---
-date: '1999-11-10T00:00:00-0500'
-year: '1999'
-title: 'Peter Parker: Spider-Man (1999) #11'
-issue: 11
+date: '1964-10-01T00:00:00-0400'
+year: '1964'
+title: 'Amazing Spider-Man Annual (1964) #1'
+issue: 1
 series:
-  period: '1999'
-  name: 'Peter Parker: Spider-Man'
-url: http://marvel.com/comics/issue/10519/peter_parker_spider-man_1999_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Amazing Spider-Man Annual
+url: http://marvel.com/comics/issue/16883/amazing_spider-man_annual_1964_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/58239464b1ebe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/580e72b3258a0
   extension: jpg
