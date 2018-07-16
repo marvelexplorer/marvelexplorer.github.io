@@ -1,12 +1,12 @@
 ---
-date: '2016-08-17T00:00:00-0400'
+date: '2016-11-09T00:00:00-0500'
 year: '2016'
-title: 'All-New Wolverine (2015) #11'
-issue: 11
+title: 'All-New X-Men (2015) #15'
+issue: 15
 series:
   period: '2015'
-  name: All-New Wolverine
-url: http://marvel.com/comics/issue/56442/all-new_wolverine_2015_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: All-New X-Men
+url: http://marvel.com/comics/issue/56244/all-new_x-men_2015_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/57a8b4f6af78a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/5817629fd6401
   extension: jpg
