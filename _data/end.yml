@@ -1,7 +1,10 @@
 ---
-name: J. Jonah Jameson
-description: ''
-url: http://marvel.com/universe/Jameson%2C_J._Jonah?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Spider-Man (Ultimate)
+description: Peter’s relatively normal life changed abruptly during a school trip
+  to Osborn Industries, Inc, where the company had been working on a super soldier
+  serum, the Oz Compound; a spider exposed to it escaped and bit Peter before it was
+  destroyed.
+url: http://marvel.com/universe/Spider-Man_(Ultimate)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5269582835689
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/531771b4e8c60
   extension: jpg
