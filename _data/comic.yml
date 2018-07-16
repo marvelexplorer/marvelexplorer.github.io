@@ -1,12 +1,12 @@
 ---
-date: '2006-05-31T00:00:00-0400'
-year: '2006'
-title: 'Ultimate Spider-Man (2000) #95'
-issue: 95
+date: '2001-11-01T00:00:00-0500'
+year: '2001'
+title: 'Ultimate Spider-Man (2000) #13'
+issue: 13
 series:
   period: '2000'
   name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/4159/ultimate_spider-man_2000_95?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/14839/ultimate_spider-man_2000_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/58ebce6666373
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/f0/5907864504d82
   extension: jpg
