@@ -1,12 +1,12 @@
 ---
-date: '2009-03-04T00:00:00-0500'
-year: '2009'
-title: 'Wolverine and the X-Men Magazine (2009) #2'
-issue: 2
+date: '2000-03-10T00:00:00-0500'
+year: '2000'
+title: 'Fantastic Four (1998) #27'
+issue: 27
 series:
-  period: '2009'
-  name: Wolverine and the X-Men Magazine
-url: http://marvel.com/comics/issue/23731/wolverine_and_the_x-men_magazine_2009_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15546/fantastic_four_1998_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bb59b0d0b46d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5ace5b77316b9
   extension: jpg
