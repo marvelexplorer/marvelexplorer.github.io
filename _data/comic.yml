@@ -1,12 +1,12 @@
 ---
-date: '2007-01-17T00:00:00-0500'
-year: '2007'
-title: 'Ultimate Spider-Man (2000) #104'
-issue: 104
+date: '2002-05-10T00:00:00-0400'
+year: '2002'
+title: 'Ultimate Spider-Man (2000) #19'
+issue: 19
 series:
   period: '2000'
   name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/5788/ultimate_spider-man_2000_104?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/14845/ultimate_spider-man_2000_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/58f126f00e567
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/58e2a9d2ec0cb
   extension: jpg
