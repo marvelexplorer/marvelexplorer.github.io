@@ -1,12 +1,12 @@
 ---
-date: '1989-12-20T00:00:00-0500'
-year: '1989'
-title: 'The Amazing Spider-Man (1963) #327'
-issue: 327
+date: '2009-12-16T00:00:00-0500'
+year: '2009'
+title: 'Daredevil (1998) #503'
+issue: 503
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6735/the_amazing_spider-man_1963_327?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/24760/daredevil_1998_503?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/57c74ebfbb94e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/574f45015f8e1
   extension: jpg
