@@ -1,12 +1,12 @@
 ---
-date: '2004-01-21T00:00:00-0500'
-year: '2004'
-title: 'X-Statix (2002) #17'
-issue: 17
+date: '2000-12-01T00:00:00-0500'
+year: '2000'
+title: 'X-Men: The Hidden Years (1999) #13'
+issue: 13
 series:
-  period: '2002'
-  name: X-Statix
-url: http://marvel.com/comics/issue/218/x-statix_2002_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: 'X-Men: The Hidden Years'
+url: http://marvel.com/comics/issue/65368/x-men_the_hidden_years_1999_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/5aa0511e8e450
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/5a569731adced
   extension: jpg
