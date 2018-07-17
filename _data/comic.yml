@@ -1,12 +1,12 @@
 ---
-date: '2008-01-04T00:00:00-0500'
-year: '2008'
-title: 'Annihilation: Conquest (2007) #3'
-issue: 3
+date: '1976-08-10T00:00:00-0400'
+year: '1976'
+title: 'Fantastic Four (1961) #173'
+issue: 173
 series:
-  period: '2007'
-  name: 'Annihilation: Conquest'
-url: http://marvel.com/comics/issue/17645/annihilation_conquest_2007_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/12976/fantastic_four_1961_173?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e83867ba1c87
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5aba9a21475d3
   extension: jpg
