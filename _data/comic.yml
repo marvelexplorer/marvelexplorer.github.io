@@ -1,12 +1,12 @@
 ---
-date: '2000-08-01T00:00:00-0400'
-year: '2000'
-title: 'X-Men: The Hidden Years (1999) #9'
-issue: 9
+date: '2010-10-27T00:00:00-0400'
+year: '2010'
+title: 'Fantastic Four (1998) #584'
+issue: 584
 series:
-  period: '1999'
-  name: 'X-Men: The Hidden Years'
-url: http://marvel.com/comics/issue/65871/x-men_the_hidden_years_1999_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/29604/fantastic_four_1998_584?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5a569718ca494
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/5ad8f25f0f6c0
   extension: jpg
