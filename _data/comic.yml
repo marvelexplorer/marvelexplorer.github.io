@@ -1,12 +1,12 @@
 ---
-date: '2017-09-06T00:00:00-0400'
-year: '2017'
-title: 'Iceman (2017) #5'
-issue: 5
+date: '2004-01-21T00:00:00-0500'
+year: '2004'
+title: 'X-Statix (2002) #17'
+issue: 17
 series:
-  period: '2017'
-  name: Iceman
-url: http://marvel.com/comics/issue/64400/iceman_2017_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: X-Statix
+url: http://marvel.com/comics/issue/218/x-statix_2002_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/599afbc9a46a1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/5aa0511e8e450
   extension: jpg
