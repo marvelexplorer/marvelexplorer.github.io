@@ -1,12 +1,12 @@
 ---
-date: '1982-11-10T00:00:00-0500'
-year: '1982'
-title: 'Fantastic Four (1961) #248'
-issue: 248
+date: '2002-03-10T00:00:00-0500'
+year: '2002'
+title: 'Fantastic Four (1998) #51'
+issue: 51
 series:
-  period: '1961'
+  period: '1998'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13059/fantastic_four_1961_248?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/15573/fantastic_four_1998_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/5abe6b889f43f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5aafd72930563
   extension: jpg
