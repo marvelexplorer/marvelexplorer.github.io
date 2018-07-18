@@ -1,12 +1,12 @@
 ---
-date: '2000-05-10T00:00:00-0400'
-year: '2000'
-title: 'Avengers (1998) #28'
-issue: 28
+date: '1980-11-10T00:00:00-0500'
+year: '1980'
+title: 'Avengers (1963) #201'
+issue: 201
 series:
-  period: '1998'
+  period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/17510/avengers_1998_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7066/avengers_1963_201?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/58595f13059bf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/587fa4df16d03
   extension: jpg
