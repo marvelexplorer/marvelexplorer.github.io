@@ -1,12 +1,12 @@
 ---
-date: '1992-01-10T00:00:00-0500'
-year: '1992'
-title: 'X-Men (1991) #4'
-issue: 4
+date: '2012-11-28T00:00:00-0500'
+year: '2012'
+title: 'Uncanny Avengers (2012) #2'
+issue: 2
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14328/x-men_1991_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Uncanny Avengers
+url: http://marvel.com/comics/issue/43338/uncanny_avengers_2012_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/589ccd90ea77b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/5a58f14796cef
   extension: jpg
