@@ -1,12 +1,12 @@
 ---
-date: '1984-09-10T00:00:00-0400'
-year: '1984'
-title: 'Fantastic Four (1961) #270'
-issue: 270
+date: '1965-07-10T00:00:00-0400'
+year: '1965'
+title: 'Fantastic Four (1961) #40'
+issue: 40
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13084/fantastic_four_1961_270?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13228/fantastic_four_1961_40?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb78fd45a043
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/5aabfe93c80b1
   extension: jpg
