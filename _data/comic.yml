@@ -1,12 +1,12 @@
 ---
-date: '2006-05-17T00:00:00-0400'
-year: '2006'
-title: 'Marvel Adventures the Avengers (2006) #1'
-issue: 1
+date: '1988-12-10T00:00:00-0500'
+year: '1988'
+title: 'Incredible Hulk (1962) #350'
+issue: 350
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/4236/marvel_adventures_the_avengers_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9161/incredible_hulk_1962_350?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f62512656cdb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb6e1c862c2a
   extension: jpg
