@@ -1,12 +1,12 @@
 ---
-date: '2011-06-01T00:00:00-0400'
-year: '2011'
-title: 'X-Men (2010) #12'
-issue: 12
+date: '2012-03-28T00:00:00-0400'
+year: '2012'
+title: Avengers Vs. X-Men (2012)
+issue: 0
 series:
-  period: '2010'
-  name: X-Men
-url: http://marvel.com/comics/issue/32188/x-men_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/42332/avengers_vs_x-men_2012?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/58d13465b5c13
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/4f74807d9748d
   extension: jpg
