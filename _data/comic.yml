@@ -1,12 +1,12 @@
 ---
-date: '1980-07-10T00:00:00-0400'
-year: '1980'
-title: 'Uncanny X-Men (1963) #135'
-issue: 135
+date: '1999-06-01T00:00:00-0400'
+year: '1999'
+title: 'Wolverine/Punisher: Revelation (1999) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12453/uncanny_x-men_1963_135?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: 'Wolverine/Punisher: Revelation'
+url: http://marvel.com/comics/issue/62808/wolverinepunisher_revelation_1999_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/5372a938d5eff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/5a0ca838bf2a8
   extension: jpg
