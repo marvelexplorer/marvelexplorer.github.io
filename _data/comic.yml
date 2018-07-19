@@ -1,12 +1,12 @@
 ---
-date: '2004-05-05T00:00:00-0400'
-year: '2004'
-title: 'Thanos (2003) #10'
-issue: 10
+date: '2010-03-17T00:00:00-0400'
+year: '2010'
+title: 'Guardians of the Galaxy (2008) #24'
+issue: 24
 series:
-  period: '2003'
-  name: Thanos
-url: http://marvel.com/comics/issue/625/thanos_2003_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/29010/guardians_of_the_galaxy_2008_24?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/577fc808dd6fc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/517ad7cb98978
   extension: jpg
