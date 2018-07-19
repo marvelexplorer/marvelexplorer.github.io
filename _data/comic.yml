@@ -1,12 +1,12 @@
 ---
-date: '2001-10-10T00:00:00-0400'
-year: '2001'
-title: 'Avengers (1998) #45'
-issue: 45
+date: '2008-12-17T00:00:00-0500'
+year: '2008'
+title: 'Mighty Avengers (2007) #20'
+issue: 20
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17529/avengers_1998_45?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/22500/mighty_avengers_2007_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/58627f58a5aa0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4d24f2ecc818d
   extension: jpg
