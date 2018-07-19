@@ -1,12 +1,12 @@
 ---
-date: '2017-12-20T00:00:00-0500'
-year: '2017'
-title: 'Marvel 2-in-One (2017) #1'
-issue: 1
+date: '1982-02-10T00:00:00-0500'
+year: '1982'
+title: 'Fantastic Four (1961) #239'
+issue: 239
 series:
-  period: '2017'
-  name: Marvel 2-in-One
-url: http://marvel.com/comics/issue/65292/marvel_2-in-one_2017_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13049/fantastic_four_1961_239?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/5a31724fe300b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/50ad77cf03da6
   extension: jpg
