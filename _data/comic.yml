@@ -1,12 +1,12 @@
 ---
-date: '2018-01-31T00:00:00-0500'
-year: '2018'
-title: 'The Mighty Captain Marvel (2017) #128'
-issue: 128
+date: '2004-05-05T00:00:00-0400'
+year: '2004'
+title: 'Thanos (2003) #10'
+issue: 10
 series:
-  period: '2017'
-  name: The Mighty Captain Marvel
-url: http://marvel.com/comics/issue/65902/the_mighty_captain_marvel_2017_128?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Thanos
+url: http://marvel.com/comics/issue/625/thanos_2003_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5a68ec5cdd8bf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/577fc808dd6fc
   extension: jpg
