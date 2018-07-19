@@ -1,12 +1,12 @@
 ---
-date: '1982-02-10T00:00:00-0500'
-year: '1982'
-title: 'Fantastic Four (1961) #239'
-issue: 239
+date: '2006-07-05T00:00:00-0400'
+year: '2006'
+title: 'Fantastic Four: First Family (2006) #5'
+issue: 5
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13049/fantastic_four_1961_239?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: 'Fantastic Four: First Family'
+url: http://marvel.com/comics/issue/4413/fantastic_four_first_family_2006_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/50ad77cf03da6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/00/5addfaf4d70cb
   extension: jpg
