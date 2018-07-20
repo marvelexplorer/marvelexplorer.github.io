@@ -1,12 +1,12 @@
 ---
-date: '2018-06-27T00:00:00-0400'
-year: '2018'
-title: 'Marvel 2-in-One (2017) #7'
-issue: 7
+date: '2011-11-30T00:00:00-0500'
+year: '2011'
+title: 'FF (2010) #12'
+issue: 12
 series:
-  period: '2017'
-  name: Marvel 2-in-One
-url: http://marvel.com/comics/issue/67172/marvel_2-in-one_2017_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: FF
+url: http://marvel.com/comics/issue/41197/ff_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5b2c11de5e475
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/51f68cfb59341
   extension: jpg
