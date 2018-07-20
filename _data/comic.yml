@@ -1,12 +1,12 @@
 ---
-date: '2000-05-01T00:00:00-0400'
-year: '2000'
-title: 'Daredevil (1998) #11'
-issue: 11
+date: '2017-06-07T00:00:00-0400'
+year: '2017'
+title: 'Daredevil (2015) #21'
+issue: 21
 series:
-  period: '1998'
+  period: '2015'
   name: Daredevil
-url: http://marvel.com/comics/issue/15611/daredevil_1998_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/60585/daredevil_2015_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/572273ac7df95
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/59306220686f5
   extension: jpg
