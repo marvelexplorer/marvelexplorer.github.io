@@ -1,12 +1,12 @@
 ---
-date: '2006-09-13T00:00:00-0400'
-year: '2006'
-title: 'New Excalibur (2005) #11'
-issue: 11
+date: '1993-12-01T00:00:00-0500'
+year: '1993'
+title: 'Venom: The Madness (1993) #2'
+issue: 2
 series:
-  period: '2005'
-  name: New Excalibur
-url: http://marvel.com/comics/issue/5085/new_excalibur_2005_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: 'Venom: The Madness'
+url: http://marvel.com/comics/issue/65021/venom_the_madness_1993_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58054c9381e7a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/f0/5a2af4fd4cdbd
   extension: jpg
