@@ -1,12 +1,12 @@
 ---
-date: '2016-11-09T00:00:00-0500'
-year: '2016'
-title: 'Captain America: Steve Rogers (2016) #7'
-issue: 7
+date: '2005-10-26T00:00:00-0400'
+year: '2005'
+title: 'Daredevil (1998) #78'
+issue: 78
 series:
-  period: '2016'
-  name: 'Captain America: Steve Rogers'
-url: http://marvel.com/comics/issue/57872/captain_america_steve_rogers_2016_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/2484/daredevil_1998_78?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/58068970ca20c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/572d0d466f69f
   extension: jpg
