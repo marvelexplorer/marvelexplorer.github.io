@@ -1,12 +1,12 @@
 ---
-date: '2016-08-10T00:00:00-0400'
+date: '2016-11-02T00:00:00-0400'
 year: '2016'
-title: 'All-New, All-Different Avengers Annual (2016) #1'
-issue: 1
+title: 'Champions (2016) #2'
+issue: 2
 series:
   period: '2016'
-  name: All-New, All-Different Avengers Annual
-url: http://marvel.com/comics/issue/60276/all-new_all-different_avengers_annual_2016_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Champions
+url: http://marvel.com/comics/issue/61443/champions_2016_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/57a4ec1674511
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/50/58064833c7311
   extension: jpg
