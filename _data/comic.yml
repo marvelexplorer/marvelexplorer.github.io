@@ -1,12 +1,12 @@
 ---
-date: '2011-11-30T00:00:00-0500'
-year: '2011'
-title: 'FF (2010) #12'
-issue: 12
+date: '2000-02-10T00:00:00-0500'
+year: '2000'
+title: 'Avengers (1998) #25'
+issue: 25
 series:
-  period: '2010'
-  name: FF
-url: http://marvel.com/comics/issue/41197/ff_2010_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17507/avengers_1998_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/51f68cfb59341
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/58595d3b3ddfc
   extension: jpg
