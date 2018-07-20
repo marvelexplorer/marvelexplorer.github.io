@@ -1,12 +1,12 @@
 ---
-date: '2018-01-10T00:00:00-0500'
-year: '2018'
-title: 'Secret Warriors  (2017) #12'
-issue: 12
+date: '2013-09-18T00:00:00-0400'
+year: '2013'
+title: 'Secret Avengers (2013) #9'
+issue: 9
 series:
-  period: '2017'
-  name: 'Secret Warriors '
-url: http://marvel.com/comics/issue/65716/secret_warriors_2017_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2013'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/46453/secret_avengers_2013_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/5a4fbdb84bc19
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/522f398b48bf7
   extension: jpg
