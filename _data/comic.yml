@@ -1,12 +1,12 @@
 ---
-date: '1987-11-10T00:00:00-0500'
-year: '1987'
-title: 'The Amazing Spider-Man (1963) #294'
-issue: 294
+date: '2018-07-11T00:00:00-0400'
+year: '2018'
+title: 'The Unbeatable Squirrel Girl (2015) #34'
+issue: 34
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6698/the_amazing_spider-man_1963_294?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: The Unbeatable Squirrel Girl
+url: http://marvel.com/comics/issue/69902/the_unbeatable_squirrel_girl_2015_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/70/57f2600726067
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5b3fea6d8f54b
   extension: jpg
