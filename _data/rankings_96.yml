@@ -1,11 +1,11 @@
 ---
 - name: Avengers
   score: 6
-- name: X-Men
-  score: 5
 - name: Thing
   score: 4
 - name: Spider-Man
+  score: 4
+- name: X-Men
   score: 4
 - name: She-Hulk (Jennifer Walters)
   score: 3
