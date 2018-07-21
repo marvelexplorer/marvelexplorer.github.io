@@ -1,12 +1,12 @@
 ---
-date: '1964-10-01T00:00:00-0400'
-year: '1964'
-title: 'Amazing Spider-Man Annual (1964) #1'
-issue: 1
+date: '1999-05-01T00:00:00-0400'
+year: '1999'
+title: 'Daredevil (1998) #7'
+issue: 7
 series:
-  period: '1964'
-  name: Amazing Spider-Man Annual
-url: http://marvel.com/comics/issue/16883/amazing_spider-man_annual_1964_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15675/daredevil_1998_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/580e72b3258a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/563271b9b470c
   extension: jpg
