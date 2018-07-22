@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
-year: '2011'
-title: 'Avengers 1959 (2011) #3'
-issue: 3
+date: '1967-06-10T00:00:00-0400'
+year: '1967'
+title: 'The Amazing Spider-Man (1963) #49'
+issue: 49
 series:
-  period: '2011'
-  name: Avengers 1959
-url: http://marvel.com/comics/issue/40357/avengers_1959_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6867/the_amazing_spider-man_1963_49?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4ea9574feb2fa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/57a369ae9e543
   extension: jpg
