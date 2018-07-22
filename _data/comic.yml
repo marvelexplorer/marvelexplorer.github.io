@@ -1,12 +1,12 @@
 ---
-date: '2012-09-26T00:00:00-0400'
+date: '2012-12-12T00:00:00-0500'
 year: '2012'
-title: 'FF (2010) #22'
-issue: 22
+title: 'Fantastic Four (2012) #2'
+issue: 2
 series:
-  period: '2010'
-  name: FF
-url: http://marvel.com/comics/issue/41208/ff_2010_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/44927/fantastic_four_2012_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/51f68db70d1b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/5b2cf366f380e
   extension: jpg
