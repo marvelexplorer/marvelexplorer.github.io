@@ -1,12 +1,12 @@
 ---
-date: '2000-03-10T00:00:00-0500'
-year: '2000'
-title: 'Fantastic Four (1998) #27'
-issue: 27
+date: '2018-04-18T00:00:00-0400'
+year: '2018'
+title: 'Marvel Super Hero Adventures: Spider-Man and the Stolen Vibranium (2018) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/15546/fantastic_four_1998_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2018'
+  name: 'Marvel Super Hero Adventures: Spider-Man and the Stolen Vibranium'
+url: http://marvel.com/comics/issue/66691/marvel_super_hero_adventures_spider-man_and_the_stolen_vibranium_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5ace5b77316b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5b0ee55a8f8f5
   extension: jpg
