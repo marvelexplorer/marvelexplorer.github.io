@@ -1,12 +1,12 @@
 ---
-date: '2001-11-01T00:00:00-0500'
-year: '2001'
-title: 'Thor: Godstorm (2001) #1'
-issue: 1
+date: '1970-02-10T00:00:00-0500'
+year: '1970'
+title: 'Thor (1966) #173'
+issue: 173
 series:
-  period: '2001'
-  name: 'Thor: Godstorm'
-url: http://marvel.com/comics/issue/71616/thor_godstorm_2001_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11501/thor_1966_173?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/5af48b836f610
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/4f635643192d7
   extension: jpg
