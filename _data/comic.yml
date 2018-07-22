@@ -1,12 +1,12 @@
 ---
-date: '2009-11-25T00:00:00-0500'
-year: '2009'
-title: 'Ms. Marvel (2006) #47'
-issue: 47
+date: '2001-02-10T00:00:00-0500'
+year: '2001'
+title: 'Avengers (1998) #37'
+issue: 37
 series:
-  period: '2006'
-  name: Ms. Marvel
-url: http://marvel.com/comics/issue/26011/ms_marvel_2006_47?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17520/avengers_1998_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/10/5769653156ef0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/585c2f83a501a
   extension: jpg

@@ -1,11 +1,11 @@
 ---
-- name: Avengers
-  score: 5
 - name: Spider-Man
+  score: 6
+- name: Avengers
   score: 5
 - name: Thing
   score: 4
 - name: She-Hulk (Jennifer Walters)
   score: 3
-- name: Hulk
+- name: Captain Marvel (Carol Danvers)
   score: 3
