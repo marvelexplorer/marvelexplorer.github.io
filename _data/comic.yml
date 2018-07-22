@@ -1,12 +1,12 @@
 ---
-date: '1970-02-10T00:00:00-0500'
+date: '1970-05-10T00:00:00-0400'
 year: '1970'
-title: 'Thor (1966) #173'
-issue: 173
+title: 'Avengers (1963) #76'
+issue: 76
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11501/thor_1966_173?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7328/avengers_1963_76?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/4f635643192d7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/a0/586e8a7f9f2df
   extension: jpg
