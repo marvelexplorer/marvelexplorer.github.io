@@ -1,12 +1,12 @@
 ---
-date: '2017-10-11T00:00:00-0400'
-year: '2017'
-title: 'Defenders (2017) #6'
-issue: 6
+date: '2000-03-01T00:00:00-0500'
+year: '2000'
+title: 'Daredevil (1998) #10'
+issue: 10
 series:
-  period: '2017'
-  name: Defenders
-url: http://marvel.com/comics/issue/64794/defenders_2017_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15610/daredevil_1998_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/59d53db490158
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/57226e635cd2d
   extension: jpg
