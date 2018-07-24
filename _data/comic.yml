@@ -1,12 +1,12 @@
 ---
-date: '2013-02-06T00:00:00-0500'
-year: '2013'
-title: 'X-Factor (2005) #251'
-issue: 251
+date: '1992-08-10T00:00:00-0400'
+year: '1992'
+title: 'X-Force (1991) #13'
+issue: 13
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/46760/x-factor_2005_251?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/17976/x-force_1991_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/5956a2223973b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/586d47309e1d0
   extension: jpg

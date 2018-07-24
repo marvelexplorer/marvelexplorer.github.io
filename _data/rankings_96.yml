@@ -3,9 +3,9 @@
   score: 6
 - name: Avengers
   score: 5
-- name: Captain America
-  score: 4
 - name: Human Torch
+  score: 3
+- name: Captain America
   score: 3
 - name: Luke Cage
   score: 3
