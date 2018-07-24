@@ -1,12 +1,12 @@
 ---
-date: '2013-12-11T00:00:00-0500'
-year: '2013'
-title: 'Uncanny X-Men (2013) #15'
-issue: 15
+date: '2016-09-28T00:00:00-0400'
+year: '2016'
+title: 'Extraordinary X-Men (2015) #14'
+issue: 14
 series:
-  period: '2013'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/48673/uncanny_x-men_2013_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Extraordinary X-Men
+url: http://marvel.com/comics/issue/55446/extraordinary_x-men_2015_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/59318405ac6a2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/57dc3491629d9
   extension: jpg
