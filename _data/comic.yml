@@ -1,12 +1,12 @@
 ---
-date: '2016-09-28T00:00:00-0400'
-year: '2016'
-title: 'Extraordinary X-Men (2015) #14'
-issue: 14
+date: '2000-03-01T00:00:00-0500'
+year: '2000'
+title: 'X-Men: The Hidden Years (1999) #4'
+issue: 4
 series:
-  period: '2015'
-  name: Extraordinary X-Men
-url: http://marvel.com/comics/issue/55446/extraordinary_x-men_2015_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: 'X-Men: The Hidden Years'
+url: http://marvel.com/comics/issue/65866/x-men_the_hidden_years_1999_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/57dc3491629d9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5a569649acb22
   extension: jpg
