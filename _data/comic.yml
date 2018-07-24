@@ -1,12 +1,12 @@
 ---
-date: '2000-04-01T00:00:00-0500'
-year: '2000'
-title: 'Captain Marvel (2000) #4'
-issue: 4
+date: '1975-12-30T00:00:00-0500'
+year: '1975'
+title: 'Avengers (1963) #142'
+issue: 142
 series:
-  period: '2000'
-  name: Captain Marvel
-url: http://marvel.com/comics/issue/20557/captain_marvel_2000_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7000/avengers_1963_142?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/5b159b38c8689
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6deade8315
   extension: jpg
