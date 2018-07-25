@@ -1,12 +1,12 @@
 ---
-date: '2004-03-17T00:00:00-0500'
-year: '2004'
-title: 'Fantastic Four (1998) #511'
-issue: 511
+date: '1968-11-06T00:00:00-0500'
+year: '1968'
+title: 'Fantastic Four Annual (1963) #6'
+issue: 6
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/417/fantastic_four_1998_511?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Fantastic Four Annual
+url: http://marvel.com/comics/issue/8710/fantastic_four_annual_1963_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5ad5ee5c0761f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5ad8b737724b5
   extension: jpg
