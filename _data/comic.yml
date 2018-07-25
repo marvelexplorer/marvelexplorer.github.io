@@ -1,12 +1,12 @@
 ---
-date: '2005-03-30T00:00:00-0500'
-year: '2005'
-title: 'X-23 (2005) #4'
-issue: 4
+date: '2011-04-13T00:00:00-0400'
+year: '2011'
+title: 'Daken: Dark Wolverine (2010) #8'
+issue: 8
 series:
-  period: '2005'
-  name: X-23
-url: http://marvel.com/comics/issue/1733/x-23_2005_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Daken: Dark Wolverine'
+url: http://marvel.com/comics/issue/30064/daken_dark_wolverine_2010_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/574889e3122a5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4d35ada325bee
   extension: jpg
