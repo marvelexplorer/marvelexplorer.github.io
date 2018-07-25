@@ -1,12 +1,12 @@
 ---
-date: '1999-12-10T00:00:00-0500'
-year: '1999'
-title: 'Deadpool (1997) #35'
-issue: 35
+date: '2013-08-28T00:00:00-0400'
+year: '2013'
+title: 'Thanos Rising (2013) #5'
+issue: 5
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8490/deadpool_1997_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Thanos Rising
+url: http://marvel.com/comics/issue/46884/thanos_rising_2013_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/4f2055775674a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/52138acc613d2
   extension: jpg
