@@ -1,7 +1,7 @@
 ---
-- name: Avengers
-  score: 5
 - name: Spider-Man
+  score: 4
+- name: Avengers
   score: 4
 - name: Human Torch
   score: 4
