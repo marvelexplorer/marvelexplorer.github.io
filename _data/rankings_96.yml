@@ -1,6 +1,4 @@
 ---
-- name: Avengers
-  score: 4
 - name: Human Torch
   score: 4
 - name: Spider-Man
@@ -8,4 +6,6 @@
 - name: X-Men
   score: 3
 - name: Wolverine
+  score: 3
+- name: Thor
   score: 3
