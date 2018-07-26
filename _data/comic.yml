@@ -1,12 +1,12 @@
 ---
-date: '2011-03-23T00:00:00-0400'
-year: '2011'
-title: 'FF (2010) #1'
-issue: 1
+date: '2007-07-25T00:00:00-0400'
+year: '2007'
+title: 'Fantastic Five (2007) #2'
+issue: 2
 series:
-  period: '2010'
-  name: FF
-url: http://marvel.com/comics/issue/37398/ff_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Fantastic Five
+url: http://marvel.com/comics/issue/16004/fantastic_five_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5ad0de1a029f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/e0/5adf5f85998d7
   extension: jpg
