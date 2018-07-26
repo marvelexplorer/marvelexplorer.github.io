@@ -1,12 +1,12 @@
 ---
-date: '2011-04-13T00:00:00-0400'
-year: '2011'
-title: 'Daken: Dark Wolverine (2010) #8'
-issue: 8
+date: '2012-02-08T00:00:00-0500'
+year: '2012'
+title: 'Deadpool (2008) #50'
+issue: 50
 series:
-  period: '2010'
-  name: 'Daken: Dark Wolverine'
-url: http://marvel.com/comics/issue/30064/daken_dark_wolverine_2010_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Deadpool
+url: http://marvel.com/comics/issue/40209/deadpool_2008_50?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4d35ada325bee
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51a501be2e6c5
   extension: jpg
