@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 4
+- name: X-Men
+  score: 4
 - name: Thor
   score: 3
 - name: Thing
   score: 3
 - name: Iceman
-  score: 3
-- name: Avengers
   score: 3
