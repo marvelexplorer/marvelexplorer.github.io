@@ -1,12 +1,12 @@
 ---
-date: '2017-10-11T00:00:00-0400'
-year: '2017'
-title: 'Marvel Universe Guardians of the Galaxy (2015) #23'
-issue: 23
+date: '2018-07-18T00:00:00-0400'
+year: '2018'
+title: 'Infinity Countdown (2018) #5'
+issue: 5
 series:
-  period: '2015'
-  name: Marvel Universe Guardians of the Galaxy
-url: http://marvel.com/comics/issue/61298/marvel_universe_guardians_of_the_galaxy_2015_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2018'
+  name: Infinity Countdown
+url: http://marvel.com/comics/issue/68656/infinity_countdown_2018_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/04/59d53df9c8fbc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5b4673ec0e10c
   extension: jpg
