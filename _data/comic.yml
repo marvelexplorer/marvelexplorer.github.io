@@ -1,12 +1,12 @@
 ---
-date: '1991-11-10T00:00:00-0500'
-year: '1991'
-title: 'Silver Surfer (1987) #58'
-issue: 58
+date: '1973-11-20T00:00:00-0500'
+year: '1973'
+title: 'Avengers (1963) #117'
+issue: 117
 series:
-  period: '1987'
-  name: Silver Surfer
-url: http://marvel.com/comics/issue/15195/silver_surfer_1987_58?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/6972/avengers_1963_117?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/5b2d6462b92cc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/b0/58768bf834737
   extension: jpg
