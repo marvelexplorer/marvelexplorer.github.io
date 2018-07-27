@@ -1,12 +1,12 @@
 ---
-date: '2016-05-18T00:00:00-0400'
-year: '2016'
-title: 'Star-Lord (2015) #7'
-issue: 7
+date: '2017-10-11T00:00:00-0400'
+year: '2017'
+title: 'Marvel Universe Guardians of the Galaxy (2015) #23'
+issue: 23
 series:
   period: '2015'
-  name: Star-Lord
-url: http://marvel.com/comics/issue/56186/star-lord_2015_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Marvel Universe Guardians of the Galaxy
+url: http://marvel.com/comics/issue/61298/marvel_universe_guardians_of_the_galaxy_2015_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/572ba7c2a0045
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/04/59d53df9c8fbc
   extension: jpg
