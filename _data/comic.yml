@@ -1,12 +1,12 @@
 ---
-date: '1973-11-10T00:00:00-0500'
-year: '1973'
-title: 'Iron Man (1968) #64'
-issue: 64
+date: '1971-03-10T00:00:00-0500'
+year: '1971'
+title: 'Avengers (1963) #86'
+issue: 86
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9620/iron_man_1968_64?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7339/avengers_1963_86?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/5a66526badfe3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/586fe01ac0671
   extension: jpg
