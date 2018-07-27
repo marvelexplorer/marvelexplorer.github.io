@@ -1,12 +1,12 @@
 ---
-date: '2002-09-01T00:00:00-0400'
-year: '2002'
-title: 'Deadpool (1997) #69'
-issue: 69
+date: '2017-08-02T00:00:00-0400'
+year: '2017'
+title: 'Avengers (2016) #10'
+issue: 10
 series:
-  period: '1997'
-  name: Deadpool
-url: http://marvel.com/comics/issue/8527/deadpool_1997_69?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Avengers
+url: http://marvel.com/comics/issue/61382/avengers_2016_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5a15a1449c4b4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/596d0842797a7
   extension: jpg
