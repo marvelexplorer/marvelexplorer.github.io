@@ -1,12 +1,12 @@
 ---
-date: '1998-06-01T00:00:00-0400'
-year: '1998'
-title: 'Ka-Zar (1997) #14'
-issue: 14
+date: '2000-06-01T00:00:00-0400'
+year: '2000'
+title: 'X-Men: The Hidden Years (1999) #7'
+issue: 7
 series:
-  period: '1997'
-  name: Ka-Zar
-url: http://marvel.com/comics/issue/66241/ka-zar_1997_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: 'X-Men: The Hidden Years'
+url: http://marvel.com/comics/issue/65869/x-men_the_hidden_years_1999_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5b4e526b15a53
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/5a56960f24383
   extension: jpg
