@@ -1,12 +1,12 @@
 ---
-date: '2006-01-11T00:00:00-0500'
-year: '2006'
-title: 'Marvel Adventures Fantastic Four (2005) #8'
-issue: 8
+date: '2005-02-09T00:00:00-0500'
+year: '2005'
+title: 'Marvel Age Fantastic Four Tales (2005) #1'
+issue: 1
 series:
   period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/3381/marvel_adventures_fantastic_four_2005_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Marvel Age Fantastic Four Tales
+url: http://marvel.com/comics/issue/1684/marvel_age_fantastic_four_tales_2005_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc6097b0d1ff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/57194f8190b51
   extension: jpg
