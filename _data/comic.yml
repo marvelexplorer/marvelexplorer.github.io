@@ -1,12 +1,12 @@
 ---
-date: '1998-09-10T00:00:00-0400'
-year: '1998'
-title: 'Fantastic Four (1998) #9'
-issue: 9
+date: '1976-07-10T00:00:00-0400'
+year: '1976'
+title: 'Fantastic Four (1961) #172'
+issue: 172
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/15596/fantastic_four_1998_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/12975/fantastic_four_1961_172?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/519e70af1c86c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/5aba9107492ea
   extension: jpg
