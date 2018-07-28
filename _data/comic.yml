@@ -1,12 +1,12 @@
 ---
-date: '1983-11-10T00:00:00-0500'
-year: '1983'
-title: 'Fantastic Four (1961) #260'
-issue: 260
+date: '1991-01-10T00:00:00-0500'
+year: '1991'
+title: 'Marvel Comics Presents (1988) #67'
+issue: 67
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13073/fantastic_four_1961_260?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10149/marvel_comics_presents_1988_67?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/5ac28b2aabdb0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/4c7d50c006134
   extension: jpg
