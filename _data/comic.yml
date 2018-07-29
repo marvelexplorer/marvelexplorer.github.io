@@ -1,12 +1,12 @@
 ---
-date: '1986-09-01T00:00:00-0400'
-year: '1986'
-title: 'Power Pack (1984) #26'
-issue: 26
+date: '2016-10-19T00:00:00-0400'
+year: '2016'
+title: 'Deadpool: Back in Black (2016) #2'
+issue: 2
 series:
-  period: '1984'
-  name: Power Pack
-url: http://marvel.com/comics/issue/62493/power_pack_1984_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: 'Deadpool: Back in Black'
+url: http://marvel.com/comics/issue/58991/deadpool_back_in_black_2016_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/5903dab02044c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/57fe4c38a7dd1
   extension: jpg
