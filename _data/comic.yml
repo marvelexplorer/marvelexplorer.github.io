@@ -1,12 +1,12 @@
 ---
-date: '1970-08-10T00:00:00-0400'
-year: '1970'
-title: 'Amazing Adventures (1970) #1'
-issue: 1
+date: '2017-03-22T00:00:00-0400'
+year: '2017'
+title: 'Uncanny Inhumans (2015) #20'
+issue: 20
 series:
-  period: '1970'
-  name: Amazing Adventures
-url: http://marvel.com/comics/issue/23245/amazing_adventures_1970_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Uncanny Inhumans
+url: http://marvel.com/comics/issue/61110/uncanny_inhumans_2015_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/59933ee477db8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/58cc008a8a12d
   extension: jpg
