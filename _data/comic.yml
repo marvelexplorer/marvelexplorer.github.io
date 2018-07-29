@@ -1,12 +1,12 @@
 ---
-date: '2013-03-27T00:00:00-0400'
-year: '2013'
-title: 'Young Avengers (2013) #3'
-issue: 3
+date: '2006-06-28T00:00:00-0400'
+year: '2006'
+title: 'Young Avengers (2005) #12'
+issue: 12
 series:
-  period: '2013'
+  period: '2005'
   name: Young Avengers
-url: http://marvel.com/comics/issue/46832/young_avengers_2013_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/4252/young_avengers_2005_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/5b16f06244535
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4d251d30321ea
   extension: jpg
