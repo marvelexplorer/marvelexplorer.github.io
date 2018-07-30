@@ -1,12 +1,12 @@
 ---
-date: '2007-10-17T00:00:00-0400'
-year: '2007'
-title: 'X-Men: Die by the Sword (2007) #1'
-issue: 1
+date: '2005-09-14T00:00:00-0400'
+year: '2005'
+title: 'X-Men (2004) #175'
+issue: 175
 series:
-  period: '2007'
-  name: 'X-Men: Die by the Sword'
-url: http://marvel.com/comics/issue/16590/x-men_die_by_the_sword_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/2410/x-men_2004_175?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/58d14ebc35cd6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4d24f195c0ea1
   extension: jpg
