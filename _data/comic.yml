@@ -1,12 +1,12 @@
 ---
-date: '2013-01-30T00:00:00-0500'
-year: '2013'
-title: 'X-Men Legacy (2012) #5'
-issue: 5
+date: '2018-07-04T00:00:00-0400'
+year: '2018'
+title: 'X-Men: Gold (2017) #31'
+issue: 31
 series:
-  period: '2012'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/46801/x-men_legacy_2012_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: 'X-Men: Gold'
+url: http://marvel.com/comics/issue/70234/x-men_gold_2017_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/d0/58c6f892cf89c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/5b3407b1540bd
   extension: jpg
