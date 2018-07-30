@@ -1,12 +1,12 @@
 ---
-date: '1977-01-01T00:00:00-0500'
-year: '1977'
-title: 'Deadly Hands of Kung Fu (1974) #32'
-issue: 32
+date: '1975-03-10T00:00:00-0400'
+year: '1975'
+title: 'Marvel Premiere (1972) #21'
+issue: 21
 series:
-  period: '1974'
-  name: Deadly Hands of Kung Fu
-url: http://marvel.com/comics/issue/51037/deadly_hands_of_kung_fu_1974_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1972'
+  name: Marvel Premiere
+url: http://marvel.com/comics/issue/10208/marvel_premiere_1972_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/57ea70aee0d7b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/57c761d8668b9
   extension: jpg
