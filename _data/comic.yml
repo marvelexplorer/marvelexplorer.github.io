@@ -1,12 +1,12 @@
 ---
-date: '1994-09-01T00:00:00-0400'
-year: '1994'
-title: 'X-Men Unlimited (1993) #6'
-issue: 6
+date: '1989-03-10T00:00:00-0500'
+year: '1989'
+title: 'Uncanny X-Men (1963) #242'
+issue: 242
 series:
-  period: '1993'
-  name: X-Men Unlimited
-url: http://marvel.com/comics/issue/18156/x-men_unlimited_1993_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13783/uncanny_x-men_1963_242?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/5aeb5c67ec3f4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/60/50ad2b139f1b1
   extension: jpg
