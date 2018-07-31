@@ -1,12 +1,12 @@
 ---
-date: '2006-06-07T00:00:00-0400'
-year: '2006'
-title: 'X-Men: The End - Men and X-Men (2006) #6'
-issue: 6
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'New X-Men (2001) #139'
+issue: 139
 series:
-  period: '2006'
-  name: 'X-Men: The End - Men and X-Men'
-url: http://marvel.com/comics/issue/4245/x-men_the_end_-_men_and_x-men_2006_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: New X-Men
+url: http://marvel.com/comics/issue/14958/new_x-men_2001_139?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/594a907ef3852
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/577d723e96f94
   extension: jpg
