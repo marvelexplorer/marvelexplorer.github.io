@@ -1,12 +1,12 @@
 ---
-date: '1983-10-10T00:00:00-0400'
-year: '1983'
-title: 'Uncanny X-Men (1963) #174'
-issue: 174
+date: '2006-06-07T00:00:00-0400'
+year: '2006'
+title: 'X-Men: The End - Men and X-Men (2006) #6'
+issue: 6
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13715/uncanny_x-men_1963_174?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: 'X-Men: The End - Men and X-Men'
+url: http://marvel.com/comics/issue/4245/x-men_the_end_-_men_and_x-men_2006_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/51117ae8c15dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/594a907ef3852
   extension: jpg
