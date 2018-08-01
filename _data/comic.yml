@@ -1,12 +1,12 @@
 ---
-date: '1996-03-10T00:00:00-0500'
-year: '1996'
-title: 'Iron Man (1968) #326'
-issue: 326
+date: '2001-02-01T00:00:00-0500'
+year: '2001'
+title: 'THE SENTRY/HULK 1 (2001) #1'
+issue: 1
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9579/iron_man_1968_326?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: THE SENTRY/HULK 1
+url: http://marvel.com/comics/issue/22443/the_sentryhulk_1_2001_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/51438fc3cbb93
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/59723014d3d06
   extension: jpg
