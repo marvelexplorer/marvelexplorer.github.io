@@ -1,12 +1,12 @@
 ---
-date: '2017-12-20T00:00:00-0500'
-year: '2017'
-title: 'Tales of Suspense (2017) #100'
-issue: 100
+date: '2002-04-01T00:00:00-0500'
+year: '2002'
+title: Paradise X (2002)
+issue: 0
 series:
-  period: '2017'
-  name: Tales of Suspense
-url: http://marvel.com/comics/issue/65310/tales_of_suspense_2017_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/10492/paradise_x_2002?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/5a317280a332d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc36c3c99a66
   extension: jpg
