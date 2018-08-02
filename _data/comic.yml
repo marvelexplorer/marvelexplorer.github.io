@@ -1,12 +1,12 @@
 ---
-date: '2012-07-25T00:00:00-0400'
-year: '2012'
-title: 'Secret Avengers (2010) #29'
-issue: 29
+date: '2017-12-20T00:00:00-0500'
+year: '2017'
+title: 'Tales of Suspense (2017) #100'
+issue: 100
 series:
-  period: '2010'
-  name: Secret Avengers
-url: http://marvel.com/comics/issue/40704/secret_avengers_2010_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/65310/tales_of_suspense_2017_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/518d17a57b47e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/5a317280a332d
   extension: jpg
