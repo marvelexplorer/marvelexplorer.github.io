@@ -1,12 +1,12 @@
 ---
-date: '2001-11-01T00:00:00-0500'
-year: '2001'
-title: 'Thor (1998) #41'
-issue: 41
+date: '2013-01-23T00:00:00-0500'
+year: '2013'
+title: 'Uncanny Avengers (2012) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18666/thor_1998_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Uncanny Avengers
+url: http://marvel.com/comics/issue/43337/uncanny_avengers_2012_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bb8467d373e4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/5a58f2b319204
   extension: jpg
