@@ -1,12 +1,12 @@
 ---
-date: '2005-03-23T00:00:00-0500'
-year: '2005'
-title: 'X-Men: Age of Apocalypse (2005) #4'
-issue: 4
+date: '1991-11-10T00:00:00-0500'
+year: '1991'
+title: 'Uncanny X-Men (1963) #282'
+issue: 282
 series:
-  period: '2005'
-  name: 'X-Men: Age of Apocalypse'
-url: http://marvel.com/comics/issue/1744/x-men_age_of_apocalypse_2005_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13823/uncanny_x-men_1963_282?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/596384c109bd5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/511421dc09eab
   extension: jpg
