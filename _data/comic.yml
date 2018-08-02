@@ -1,12 +1,12 @@
 ---
-date: '2003-02-01T00:00:00-0500'
-year: '2003'
-title: 'Weapon X (2002) #4'
-issue: 4
+date: '1995-06-01T00:00:00-0400'
+year: '1995'
+title: 'X-Men Chronicles (1995) #2'
+issue: 2
 series:
-  period: '2002'
-  name: Weapon X
-url: http://marvel.com/comics/issue/18093/weapon_x_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: X-Men Chronicles
+url: http://marvel.com/comics/issue/18173/x-men_chronicles_1995_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/59512f0ed53cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/51e708e26075e
   extension: jpg
