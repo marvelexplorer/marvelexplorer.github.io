@@ -1,12 +1,12 @@
 ---
-date: '2002-06-01T00:00:00-0400'
-year: '2002'
-title: 'Avengers: Celestial Quest (2001) #8'
+date: '1997-06-10T00:00:00-0400'
+year: '1997'
+title: 'Avengers (1996) #8'
 issue: 8
 series:
-  period: '2001'
-  name: 'Avengers: Celestial Quest'
-url: http://marvel.com/comics/issue/55879/avengers_celestial_quest_2001_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1996'
+  name: Avengers
+url: http://marvel.com/comics/issue/17762/avengers_1996_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/55e75cc752e1a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/10/5876639330c92
   extension: jpg
