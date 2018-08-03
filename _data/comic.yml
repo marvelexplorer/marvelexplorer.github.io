@@ -1,12 +1,12 @@
 ---
-date: '2017-05-17T00:00:00-0400'
+date: '2017-11-15T00:00:00-0500'
 year: '2017'
-title: 'Secret Empire (2017) #2'
-issue: 2
+title: 'Doctor Strange (2015) #381'
+issue: 381
 series:
-  period: '2017'
-  name: Secret Empire
-url: http://marvel.com/comics/issue/62835/secret_empire_2017_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Doctor Strange
+url: http://marvel.com/comics/issue/65070/doctor_strange_2015_381?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/591220405f502
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5a0348d6c4bad
   extension: jpg
