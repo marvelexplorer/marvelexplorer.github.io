@@ -1,12 +1,12 @@
 ---
-date: '2000-04-01T00:00:00-0500'
-year: '2000'
-title: 'Captain Marvel (2000) #4'
-issue: 4
+date: '1991-02-10T00:00:00-0500'
+year: '1991'
+title: 'Silver Surfer (1987) #46'
+issue: 46
 series:
-  period: '2000'
-  name: Captain Marvel
-url: http://marvel.com/comics/issue/20557/captain_marvel_2000_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1987'
+  name: Silver Surfer
+url: http://marvel.com/comics/issue/15182/silver_surfer_1987_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/5b159b38c8689
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5b2d5ed587d4f
   extension: jpg
