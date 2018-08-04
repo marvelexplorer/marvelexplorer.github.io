@@ -1,12 +1,12 @@
 ---
-date: '2008-06-25T00:00:00-0400'
-year: '2008'
-title: 'Mighty Avengers (2007) #15'
-issue: 15
+date: '2013-04-24T00:00:00-0400'
+year: '2013'
+title: 'Uncanny Avengers (2012) #7'
+issue: 7
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/21355/mighty_avengers_2007_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Uncanny Avengers
+url: http://marvel.com/comics/issue/43333/uncanny_avengers_2012_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4d24fbde85c51
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/5a5e348765007
   extension: jpg
