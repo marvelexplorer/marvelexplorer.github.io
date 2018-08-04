@@ -1,12 +1,12 @@
 ---
-date: '2007-02-14T00:00:00-0500'
-year: '2007'
-title: 'Marvel Adventures Fantastic Four (2005) #21'
-issue: 21
+date: '2008-12-03T00:00:00-0500'
+year: '2008'
+title: 'Marvels: Eye of the Camera (2008) #1'
+issue: 1
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/6003/marvel_adventures_fantastic_four_2005_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: 'Marvels: Eye of the Camera'
+url: http://marvel.com/comics/issue/22874/marvels_eye_of_the_camera_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc5a712ad349
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5ae0df122d81f
   extension: jpg
