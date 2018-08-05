@@ -1,9 +1,7 @@
 ---
-name: Shang-Chi
-description: Shang-Chi is the son of an internationally-renowned and powerful criminal
-  mastermind whose childhood was a lonely one, full of constant training in rigorous
-  mental and martial arts, with only limited contact with his parents.
-url: http://marvel.com/universe/Shang-Chi?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Cannonball
+description: ''
+url: http://marvel.com/universe/Cannonball_(Sam_Guthrie)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/535ff3b116209
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c00407fb91b5
   extension: jpg
