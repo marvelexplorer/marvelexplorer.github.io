@@ -1,12 +1,12 @@
 ---
-date: '1977-03-10T00:00:00-0500'
-year: '1977'
-title: 'Avengers (1963) #157'
-issue: 157
+date: '2011-10-26T00:00:00-0400'
+year: '2011'
+title: 'Secret Avengers (2010) #18'
+issue: 18
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7016/avengers_1963_157?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Secret Avengers
+url: http://marvel.com/comics/issue/35140/secret_avengers_2010_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/58810d7ad5a8a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5189758c86a0b
   extension: jpg
