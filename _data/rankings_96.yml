@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 4
-- name: Thor
-  score: 4
 - name: Nightcrawler
   score: 3
 - name: Loki
   score: 3
 - name: Fantastic Four
+  score: 3
+- name: Human Torch
   score: 3
