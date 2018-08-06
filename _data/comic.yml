@@ -1,12 +1,12 @@
 ---
-date: '2005-05-11T00:00:00-0400'
-year: '2005'
-title: 'Gambit (2004) #10'
-issue: 10
+date: '1999-03-01T00:00:00-0500'
+year: '1999'
+title: 'X-MEN: THE MAGNETO WAR 1 (1999) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Gambit
-url: http://marvel.com/comics/issue/1991/gambit_2004_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: 'X-MEN: THE MAGNETO WAR 1'
+url: http://marvel.com/comics/issue/12393/x-men_the_magneto_war_1_1999_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/56b10078cebaa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/51e6fd026d691
   extension: jpg
