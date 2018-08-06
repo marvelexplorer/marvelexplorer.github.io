@@ -1,12 +1,12 @@
 ---
-date: '1989-04-15T00:00:00-0400'
-year: '1989'
-title: 'Marvel Comics Presents (1988) #17'
-issue: 17
+date: '2009-05-20T00:00:00-0400'
+year: '2009'
+title: 'X-Men Forever Alpha (2009) #1'
+issue: 1
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10088/marvel_comics_presents_1988_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: X-Men Forever Alpha
+url: http://marvel.com/comics/issue/24260/x-men_forever_alpha_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/70/5aa163efb30bc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/58c2fea7b9a1c
   extension: jpg
