@@ -2,10 +2,10 @@
 - name: Wolverine
   score: 4
 - name: Nightcrawler
-  score: 3
-- name: Loki
-  score: 3
+  score: 4
 - name: Fantastic Four
   score: 3
 - name: Human Torch
+  score: 3
+- name: Invisible Woman
   score: 3
