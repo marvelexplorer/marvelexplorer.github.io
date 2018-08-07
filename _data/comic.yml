@@ -1,12 +1,12 @@
 ---
-date: '1997-02-01T00:00:00-0500'
-year: '1997'
-title: 'Domino (1997) #2'
-issue: 2
+date: '2005-05-18T00:00:00-0400'
+year: '2005'
+title: 'Rogue (2004) #11'
+issue: 11
 series:
-  period: '1997'
-  name: Domino
-url: http://marvel.com/comics/issue/68328/domino_1997_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Rogue
+url: http://marvel.com/comics/issue/1988/rogue_2004_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5aeb5c0a23b78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5a302a4e628f1
   extension: jpg
