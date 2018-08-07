@@ -1,6 +1,4 @@
 ---
-- name: Wolverine
-  score: 4
 - name: Avengers
   score: 4
 - name: Cannonball
@@ -8,4 +6,6 @@
 - name: Thing
   score: 3
 - name: Iron Man
+  score: 3
+- name: Wolverine
   score: 3
