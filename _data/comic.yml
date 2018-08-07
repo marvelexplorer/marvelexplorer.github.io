@@ -1,12 +1,12 @@
 ---
-date: '2012-06-06T00:00:00-0400'
-year: '2012'
-title: 'X-Factor (2005) #237'
-issue: 237
+date: '1986-10-10T00:00:00-0400'
+year: '1986'
+title: 'Iron Man Annual (1970) #8'
+issue: 8
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/40182/x-factor_2005_237?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: Iron Man Annual
+url: http://marvel.com/comics/issue/19872/iron_man_annual_1970_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/595412671657b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/59cbf9f1cb995
   extension: jpg
