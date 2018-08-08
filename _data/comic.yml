@@ -1,12 +1,12 @@
 ---
-date: '2004-05-26T00:00:00-0400'
-year: '2004'
-title: 'Astonishing X-Men (2004) #1'
-issue: 1
+date: '2006-01-25T00:00:00-0500'
+year: '2006'
+title: 'New Avengers Vol.2: Sentry (2006)'
+issue: 0
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/660/astonishing_x-men_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/4004/new_avengers_vol.2_sentry_2006?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/58f6636798c27
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f7db39021b77
   extension: jpg
