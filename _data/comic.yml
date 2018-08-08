@@ -1,12 +1,12 @@
 ---
-date: '1967-10-10T00:00:00-0400'
-year: '1967'
-title: 'The Amazing Spider-Man (1963) #53'
-issue: 53
+date: '1999-10-10T00:00:00-0400'
+year: '1999'
+title: 'Webspinners: Tales of Spider-Man (1999) #10'
+issue: 10
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6872/the_amazing_spider-man_1963_53?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: 'Webspinners: Tales of Spider-Man'
+url: http://marvel.com/comics/issue/12103/webspinners_tales_of_spider-man_1999_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/57a3446fcfb43
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc46a4994cac
   extension: jpg
