@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
-year: '2006'
-title: 'New Avengers Vol.2: Sentry (2006)'
-issue: 0
+date: '2009-07-22T00:00:00-0400'
+year: '2009'
+title: 'All-New Savage She-Hulk (2009) #4'
+issue: 4
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/4004/new_avengers_vol.2_sentry_2006?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: All-New Savage She-Hulk
+url: http://marvel.com/comics/issue/26243/all-new_savage_she-hulk_2009_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f7db39021b77
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/56b2231891109
   extension: jpg
