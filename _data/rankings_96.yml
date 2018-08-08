@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
-  score: 6
+  score: 5
 - name: Avengers
   score: 4
 - name: Thing
   score: 3
 - name: Cannonball
   score: 3
-- name: Silver Surfer
-  score: 2
+- name: Domino
+  score: 3
