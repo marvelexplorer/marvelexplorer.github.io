@@ -1,12 +1,12 @@
 ---
-date: '2012-11-05T00:00:00-0500'
-year: '2012'
-title: 'Amazing Spider-Man (1999) #699'
-issue: 699
+date: '1967-10-10T00:00:00-0400'
+year: '1967'
+title: 'The Amazing Spider-Man (1963) #53'
+issue: 53
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/40118/amazing_spider-man_1999_699?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6872/the_amazing_spider-man_1963_53?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/57ed544b2ddca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/57a3446fcfb43
   extension: jpg
