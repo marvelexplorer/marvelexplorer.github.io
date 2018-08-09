@@ -1,12 +1,12 @@
 ---
-date: '2004-10-20T00:00:00-0400'
-year: '2004'
-title: 'Cable & Deadpool (2004) #8'
-issue: 8
+date: '1993-07-10T00:00:00-0400'
+year: '1993'
+title: 'X-Men (1991) #22'
+issue: 22
 series:
-  period: '2004'
-  name: Cable & Deadpool
-url: http://marvel.com/comics/issue/903/cable_deadpool_2004_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14309/x-men_1991_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/597f8e45e0edb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/60/5b0f04127ba4c
   extension: jpg
