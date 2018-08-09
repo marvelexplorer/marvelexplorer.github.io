@@ -1,12 +1,12 @@
 ---
-date: '1990-05-10T00:00:00-0400'
-year: '1990'
-title: 'Fantastic Four (1961) #338'
-issue: 338
+date: '2004-02-25T00:00:00-0500'
+year: '2004'
+title: '4 (2004) #2'
+issue: 2
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13159/fantastic_four_1961_338?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: '4'
+url: http://marvel.com/comics/issue/388/4_2004_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5ac646713130d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5841c1ff8563c
   extension: jpg
