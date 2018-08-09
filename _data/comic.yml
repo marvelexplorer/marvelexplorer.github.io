@@ -1,12 +1,12 @@
 ---
-date: '2009-10-28T00:00:00-0400'
-year: '2009'
-title: 'X-Force (2008) #20'
-issue: 20
+date: '2016-11-23T00:00:00-0500'
+year: '2016'
+title: 'X-Men ''92 (2016) #9'
+issue: 9
 series:
-  period: '2008'
-  name: X-Force
-url: http://marvel.com/comics/issue/27258/x-force_2008_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: X-Men '92
+url: http://marvel.com/comics/issue/57370/x-men_92_2016_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/576848ffb8418
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/582cb383ba1d0
   extension: jpg
