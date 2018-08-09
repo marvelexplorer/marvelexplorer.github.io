@@ -1,12 +1,12 @@
 ---
-date: '2004-02-18T00:00:00-0500'
-year: '2004'
-title: 'New X-Men (2001) #153'
-issue: 153
+date: '2009-07-22T00:00:00-0400'
+year: '2009'
+title: 'X-Force (2008) #17'
+issue: 17
 series:
-  period: '2001'
-  name: New X-Men
-url: http://marvel.com/comics/issue/120/new_x-men_2001_153?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Force
+url: http://marvel.com/comics/issue/27255/x-force_2008_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/d0/577e91893fa78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/55ccc09d5ba8f
   extension: jpg
