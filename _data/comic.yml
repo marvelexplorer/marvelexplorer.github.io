@@ -1,12 +1,12 @@
 ---
-date: '2009-09-10T00:00:00-0400'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #604'
-issue: 604
+date: '2017-03-08T00:00:00-0500'
+year: '2017'
+title: 'Spider-Man/Deadpool (2016) #15'
+issue: 15
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/24411/amazing_spider-man_1999_604?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Spider-Man/Deadpool
+url: http://marvel.com/comics/issue/55733/spider-mandeadpool_2016_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/80/580629930b137
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/58b878b1d614a
   extension: jpg
