@@ -1,12 +1,12 @@
 ---
-date: '2007-12-28T00:00:00-0500'
-year: '2007'
-title: 'House of M: Avengers (2007) #3'
-issue: 3
+date: '1977-01-07T00:00:00-0500'
+year: '1977'
+title: 'Avengers Annual (1967) #7'
+issue: 7
 series:
-  period: '2007'
-  name: 'House of M: Avengers'
-url: http://marvel.com/comics/issue/17409/house_of_m_avengers_2007_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1967'
+  name: Avengers Annual
+url: http://marvel.com/comics/issue/6943/avengers_annual_1967_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5b324d5e5d5fc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/5a218838a8075
   extension: jpg
