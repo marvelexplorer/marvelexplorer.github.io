@@ -1,12 +1,12 @@
 ---
-date: '1971-04-10T00:00:00-0500'
-year: '1971'
-title: 'Iron Man (1968) #36'
-issue: 36
+date: '2001-02-10T00:00:00-0500'
+year: '2001'
+title: 'Black Widow (2001) #2'
+issue: 2
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9589/iron_man_1968_36?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: Black Widow
+url: http://marvel.com/comics/issue/14810/black_widow_2001_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/5a621b0a05629
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc467340a6aa
   extension: jpg
