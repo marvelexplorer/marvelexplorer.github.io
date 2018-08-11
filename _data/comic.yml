@@ -1,12 +1,12 @@
 ---
-date: '2002-05-01T00:00:00-0400'
-year: '2002'
-title: 'Black Panther (1998) #42'
-issue: 42
+date: '1993-08-01T00:00:00-0400'
+year: '1993'
+title: 'Fantastic Four (1961) #379'
+issue: 379
 series:
-  period: '1998'
-  name: Black Panther
-url: http://marvel.com/comics/issue/12611/black_panther_1998_42?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13204/fantastic_four_1961_379?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/03/5978e905324b0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/52669c7a1e003
   extension: jpg
