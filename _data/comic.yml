@@ -1,12 +1,12 @@
 ---
-date: '2009-12-03T00:00:00-0500'
-year: '2009'
-title: 'X-Babies (2009) #3'
-issue: 3
+date: '1987-03-01T00:00:00-0500'
+year: '1987'
+title: 'Fantastic Four vs. the X-Men (1987) #2'
+issue: 2
 series:
-  period: '2009'
-  name: X-Babies
-url: http://marvel.com/comics/issue/27976/x-babies_2009_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1987'
+  name: Fantastic Four vs. the X-Men
+url: http://marvel.com/comics/issue/42864/fantastic_four_vs_the_x-men_1987_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/573a0f4e8b9c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/50b455ad6e8e0
   extension: jpg
