@@ -1,12 +1,12 @@
 ---
-date: '1984-12-10T00:00:00-0500'
-year: '1984'
-title: 'Secret Wars (1984) #8'
-issue: 8
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #57'
+issue: 57
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10590/secret_wars_1984_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17542/avengers_1998_57?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/5757174e3255d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5863dd6a70a67
   extension: jpg
