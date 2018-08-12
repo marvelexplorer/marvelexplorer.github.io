@@ -1,12 +1,12 @@
 ---
-date: '2002-10-01T00:00:00-0400'
-year: '2002'
-title: 'Avengers (1998) #57'
-issue: 57
+date: '2006-04-26T00:00:00-0400'
+year: '2006'
+title: 'Black Panther (2005) #15'
+issue: 15
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17542/avengers_1998_57?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Black Panther
+url: http://marvel.com/comics/issue/4044/black_panther_2005_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5863dd6a70a67
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/50/5747199a37285
   extension: jpg
