@@ -1,12 +1,12 @@
 ---
-date: '2016-06-15T00:00:00-0400'
-year: '2016'
-title: 'Civil War II (2016) #2'
-issue: 2
+date: '2001-09-10T00:00:00-0400'
+year: '2001'
+title: 'Avengers (1998) #44'
+issue: 44
 series:
-  period: '2016'
-  name: Civil War II
-url: http://marvel.com/comics/issue/58679/civil_war_ii_2016_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17528/avengers_1998_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/5751a649498cb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/58627e3380ab5
   extension: jpg
