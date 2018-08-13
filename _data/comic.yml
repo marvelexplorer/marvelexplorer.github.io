@@ -1,12 +1,12 @@
 ---
-date: '2002-05-01T00:00:00-0400'
-year: '2002'
-title: 'Avengers (1998) #52'
-issue: 52
+date: '1968-07-01T00:00:00-0400'
+year: '1968'
+title: 'Marvel Super-Heroes (1967) #15'
+issue: 15
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17537/avengers_1998_52?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Marvel Super-Heroes
+url: http://marvel.com/comics/issue/15426/marvel_super-heroes_1967_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/5863d74a354f9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/50adfc6667994
   extension: jpg
