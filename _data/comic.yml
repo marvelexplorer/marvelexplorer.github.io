@@ -1,12 +1,12 @@
 ---
-date: '1988-03-10T00:00:00-0500'
-year: '1988'
-title: 'Uncanny X-Men (1963) #227'
-issue: 227
+date: '2011-08-10T00:00:00-0400'
+year: '2011'
+title: 'The Iron Age (2010) #3'
+issue: 3
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13768/uncanny_x-men_1963_227?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: The Iron Age
+url: http://marvel.com/comics/issue/39682/the_iron_age_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/590a20b6371b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5900cb56c9d67
   extension: jpg
