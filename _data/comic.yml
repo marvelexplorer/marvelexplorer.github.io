@@ -1,12 +1,12 @@
 ---
-date: '2010-11-24T00:00:00-0500'
-year: '2010'
-title: 'Avengers & the Infinity Gauntlet (2010) #4'
-issue: 4
+date: '2007-10-17T00:00:00-0400'
+year: '2007'
+title: 'Mighty Avengers (2007) #5'
+issue: 5
 series:
-  period: '2010'
-  name: Avengers & the Infinity Gauntlet
-url: http://marvel.com/comics/issue/32483/avengers_the_infinity_gauntlet_2010_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/15965/mighty_avengers_2007_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/56e95a420ac3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4d2510c2c44fd
   extension: jpg
