@@ -1,12 +1,12 @@
 ---
-date: '2011-08-10T00:00:00-0400'
-year: '2011'
-title: 'The Iron Age (2010) #3'
-issue: 3
+date: '2007-07-01T00:00:00-0400'
+year: '2007'
+title: 'Nova (2007) #2'
+issue: 2
 series:
-  period: '2010'
-  name: The Iron Age
-url: http://marvel.com/comics/issue/39682/the_iron_age_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Nova
+url: http://marvel.com/comics/issue/20775/nova_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5900cb56c9d67
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/a0/578e54898bedc
   extension: jpg
