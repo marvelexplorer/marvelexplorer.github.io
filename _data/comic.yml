@@ -1,12 +1,12 @@
 ---
-date: '2007-10-17T00:00:00-0400'
+date: '2007-05-16T00:00:00-0400'
 year: '2007'
-title: 'X-Men: Emperor Vulcan (2007) #2'
-issue: 2
+title: 'Uncanny X-Men (1963) #486'
+issue: 486
 series:
-  period: '2007'
-  name: 'X-Men: Emperor Vulcan'
-url: http://marvel.com/comics/issue/16541/x-men_emperor_vulcan_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13423/uncanny_x-men_1963_486?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/59652a653e7bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/59243d1e1c437
   extension: jpg
