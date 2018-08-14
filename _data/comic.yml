@@ -1,12 +1,12 @@
 ---
-date: '2001-03-10T00:00:00-0500'
-year: '2001'
-title: 'Avengers (1998) #38'
-issue: 38
+date: '2006-10-18T00:00:00-0400'
+year: '2006'
+title: 'Marvel Adventures the Avengers (2006) #6'
+issue: 6
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17521/avengers_1998_38?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/5262/marvel_adventures_the_avengers_2006_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/585c3030c3f96
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f638b904cb00
   extension: jpg
