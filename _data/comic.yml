@@ -1,12 +1,12 @@
 ---
-date: '2009-10-21T00:00:00-0400'
-year: '2009'
-title: 'Mighty Avengers (2007) #30'
-issue: 30
+date: '1971-04-10T00:00:00-0500'
+year: '1971'
+title: 'Avengers (1963) #87'
+issue: 87
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/25974/mighty_avengers_2007_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7340/avengers_1963_87?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f7c943b0e7a8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/586fe6e372758
   extension: jpg
