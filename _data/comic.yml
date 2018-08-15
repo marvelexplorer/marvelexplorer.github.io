@@ -1,12 +1,12 @@
 ---
-date: '2000-02-01T00:00:00-0500'
-year: '2000'
-title: 'X-Men (1991) #97'
-issue: 97
+date: '2007-05-30T00:00:00-0400'
+year: '2007'
+title: 'New Avengers: Illuminati (2006) #3'
+issue: 3
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14391/x-men_1991_97?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'New Avengers: Illuminati'
+url: http://marvel.com/comics/issue/13481/new_avengers_illuminati_2006_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/58a48aef1cff4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/570e66638cb8d
   extension: jpg
