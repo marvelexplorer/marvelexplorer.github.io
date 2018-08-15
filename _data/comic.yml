@@ -1,12 +1,12 @@
 ---
-date: '2009-05-06T00:00:00-0400'
-year: '2009'
-title: 'New Mutants (2009) #1'
-issue: 1
+date: '2011-11-16T00:00:00-0500'
+year: '2011'
+title: 'Wolverine: The Best There Is (2010) #11'
+issue: 11
 series:
-  period: '2009'
-  name: New Mutants
-url: http://marvel.com/comics/issue/24262/new_mutants_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'Wolverine: The Best There Is'
+url: http://marvel.com/comics/issue/30236/wolverine_the_best_there_is_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5a5e79453da7e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5aaa9384e9921
   extension: jpg
