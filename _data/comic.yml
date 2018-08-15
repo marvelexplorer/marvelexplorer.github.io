@@ -1,12 +1,12 @@
 ---
-date: '2007-07-25T00:00:00-0400'
-year: '2007'
-title: 'Incredible Hulk (1999) #108'
-issue: 108
+date: '2011-04-06T00:00:00-0400'
+year: '2011'
+title: 'Wolverine/Hercules: Myths, Monsters & Mutants (2010) #2'
+issue: 2
 series:
-  period: '1999'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/15925/incredible_hulk_1999_108?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Wolverine/Hercules: Myths, Monsters & Mutants'
+url: http://marvel.com/comics/issue/39016/wolverinehercules_myths_monsters_mutants_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51632057add32
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/4d9626fe46f76
   extension: jpg
