@@ -1,12 +1,12 @@
 ---
-date: '2011-11-16T00:00:00-0500'
-year: '2011'
-title: 'Wolverine: The Best There Is (2010) #11'
-issue: 11
+date: '2010-06-09T00:00:00-0400'
+year: '2010'
+title: 'Uncanny X-Men (1963) #525'
+issue: 525
 series:
-  period: '2010'
-  name: 'Wolverine: The Best There Is'
-url: http://marvel.com/comics/issue/30236/wolverine_the_best_there_is_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/30622/uncanny_x-men_1963_525?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5aaa9384e9921
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/513a787314f79
   extension: jpg
