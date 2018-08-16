@@ -1,12 +1,12 @@
 ---
-date: '1989-09-10T00:00:00-0400'
-year: '1989'
-title: 'Fantastic Four (1961) #330'
-issue: 330
+date: '2008-10-15T00:00:00-0400'
+year: '2008'
+title: 'Ultimate Origins (2008) #5'
+issue: 5
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13151/fantastic_four_1961_330?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Ultimate Origins
+url: http://marvel.com/comics/issue/22320/ultimate_origins_2008_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5ac3c7884fa9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5aa2e982c9a44
   extension: jpg
