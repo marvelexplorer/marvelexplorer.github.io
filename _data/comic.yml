@@ -1,12 +1,12 @@
 ---
-date: '1986-07-10T00:00:00-0400'
-year: '1986'
-title: 'Fantastic Four (1961) #292'
-issue: 292
+date: '2009-11-04T00:00:00-0500'
+year: '2009'
+title: 'Captain America: Reborn (2009) #4'
+issue: 4
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13108/fantastic_four_1961_292?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: 'Captain America: Reborn'
+url: http://marvel.com/comics/issue/26198/captain_america_reborn_2009_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb84fb30ee58
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/20/5a2aacee09ce9
   extension: jpg
