@@ -1,12 +1,12 @@
 ---
-date: '2001-03-10T00:00:00-0500'
-year: '2001'
-title: 'Avengers (1998) #38'
-issue: 38
+date: '1969-09-10T00:00:00-0400'
+year: '1969'
+title: 'Avengers (1963) #68'
+issue: 68
 series:
-  period: '1998'
+  period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/17521/avengers_1998_38?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7319/avengers_1963_68?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/585c3030c3f96
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bb8552a427d7
   extension: jpg
