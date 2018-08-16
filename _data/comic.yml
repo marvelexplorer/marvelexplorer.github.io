@@ -1,12 +1,12 @@
 ---
-date: '2009-11-04T00:00:00-0500'
-year: '2009'
-title: 'Captain America: Reborn (2009) #4'
-issue: 4
+date: '2017-06-07T00:00:00-0400'
+year: '2017'
+title: 'Avengers (2016) #8'
+issue: 8
 series:
-  period: '2009'
-  name: 'Captain America: Reborn'
-url: http://marvel.com/comics/issue/26198/captain_america_reborn_2009_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Avengers
+url: http://marvel.com/comics/issue/61380/avengers_2016_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/20/5a2aacee09ce9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/593061a9a0521
   extension: jpg
