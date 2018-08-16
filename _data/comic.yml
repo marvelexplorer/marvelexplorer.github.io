@@ -1,12 +1,12 @@
 ---
-date: '2008-05-29T00:00:00-0400'
-year: '2008'
-title: 'Ms. Marvel (2006) #27'
-issue: 27
+date: '1990-09-10T00:00:00-0400'
+year: '1990'
+title: 'Fantastic Four (1961) #342'
+issue: 342
 series:
-  period: '2006'
-  name: Ms. Marvel
-url: http://marvel.com/comics/issue/21199/ms_marvel_2006_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13164/fantastic_four_1961_342?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/0/03/515205a815e09
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bb5efcc348a2
   extension: jpg
