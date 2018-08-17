@@ -1,12 +1,12 @@
 ---
-date: '2006-06-28T00:00:00-0400'
-year: '2006'
-title: 'Young Avengers (2005) #12'
+date: '2009-06-10T00:00:00-0400'
+year: '2009'
+title: 'Marvel Adventures Super Heroes (2008) #12'
 issue: 12
 series:
-  period: '2005'
-  name: Young Avengers
-url: http://marvel.com/comics/issue/4252/young_avengers_2005_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Marvel Adventures Super Heroes
+url: http://marvel.com/comics/issue/25697/marvel_adventures_super_heroes_2008_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4d251d30321ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/59723b0e9bd61
   extension: jpg
