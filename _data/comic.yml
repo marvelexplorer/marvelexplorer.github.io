@@ -1,12 +1,12 @@
 ---
-date: '2009-06-10T00:00:00-0400'
-year: '2009'
-title: 'Marvel Adventures Super Heroes (2008) #12'
-issue: 12
+date: '2002-09-01T00:00:00-0400'
+year: '2002'
+title: 'Black Panther (1998) #46'
+issue: 46
 series:
-  period: '2008'
-  name: Marvel Adventures Super Heroes
-url: http://marvel.com/comics/issue/25697/marvel_adventures_super_heroes_2008_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Black Panther
+url: http://marvel.com/comics/issue/12615/black_panther_1998_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/59723b0e9bd61
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/5979fcf22bac8
   extension: jpg
