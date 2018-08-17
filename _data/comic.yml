@@ -1,12 +1,12 @@
 ---
-date: '2002-09-01T00:00:00-0400'
-year: '2002'
-title: 'Black Panther (1998) #46'
-issue: 46
+date: '2017-07-05T00:00:00-0400'
+year: '2017'
+title: 'Marvel''s Thor: Ragnarok Prelude (2017) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Black Panther
-url: http://marvel.com/comics/issue/12615/black_panther_1998_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: 'Marvel''s Thor: Ragnarok Prelude'
+url: http://marvel.com/comics/issue/63378/marvels_thor_ragnarok_prelude_2017_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/5979fcf22bac8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/595539e78128b
   extension: jpg
