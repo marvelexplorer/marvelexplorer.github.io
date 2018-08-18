@@ -1,12 +1,12 @@
 ---
-date: '2017-11-08T00:00:00-0500'
-year: '2017'
-title: 'X-Men: Gold (2017) #15'
-issue: 15
+date: '1982-01-06T00:00:00-0500'
+year: '1982'
+title: 'X-Men Annual (1970) #6'
+issue: 6
 series:
-  period: '2017'
-  name: 'X-Men: Gold'
-url: http://marvel.com/comics/issue/65116/x-men_gold_2017_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12366/x-men_annual_1970_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/59fa1413d2d9c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/e0/5849bb87b969f
   extension: jpg
