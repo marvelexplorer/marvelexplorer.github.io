@@ -1,12 +1,12 @@
 ---
-date: '2013-09-18T00:00:00-0400'
-year: '2013'
-title: 'Uncanny X-Men (2013) #12'
-issue: 12
+date: '2018-03-07T00:00:00-0500'
+year: '2018'
+title: 'X-Men: Gold (2017) #23'
+issue: 23
 series:
-  period: '2013'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/46677/uncanny_x-men_2013_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: 'X-Men: Gold'
+url: http://marvel.com/comics/issue/66463/x-men_gold_2017_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/59317bb7ab921
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5a972b74c5313
   extension: jpg
