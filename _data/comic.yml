@@ -1,12 +1,12 @@
 ---
-date: '1996-01-01T00:00:00-0500'
-year: '1996'
-title: 'Excalibur (1988) #93'
-issue: 93
+date: '2017-11-08T00:00:00-0500'
+year: '2017'
+title: 'X-Men: Gold (2017) #15'
+issue: 15
 series:
-  period: '1988'
-  name: Excalibur
-url: http://marvel.com/comics/issue/8680/excalibur_1988_93?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: 'X-Men: Gold'
+url: http://marvel.com/comics/issue/65116/x-men_gold_2017_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/50b3dd1783150
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/59fa1413d2d9c
   extension: jpg
