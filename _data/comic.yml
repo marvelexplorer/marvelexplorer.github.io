@@ -1,12 +1,12 @@
 ---
-date: '1990-09-10T00:00:00-0400'
-year: '1990'
-title: 'Doctor Strange, Sorcerer Supreme (1988) #21'
-issue: 21
+date: '2018-03-21T00:00:00-0400'
+year: '2018'
+title: 'Iron Fist (2017) #78'
+issue: 78
 series:
-  period: '1988'
-  name: Doctor Strange, Sorcerer Supreme
-url: http://marvel.com/comics/issue/20181/doctor_strange_sorcerer_supreme_1988_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Iron Fist
+url: http://marvel.com/comics/issue/66543/iron_fist_2017_78?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/59e79c49133dc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/5aa95ea5f355e
   extension: jpg
