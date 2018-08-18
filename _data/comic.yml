@@ -1,12 +1,12 @@
 ---
-date: '2013-04-10T00:00:00-0400'
-year: '2013'
-title: 'Uncanny X-Men (2013) #4'
-issue: 4
+date: '1995-08-10T00:00:00-0400'
+year: '1995'
+title: 'Uncanny X-Men (1963) #323'
+issue: 323
 series:
-  period: '2013'
+  period: '1963'
   name: Uncanny X-Men
-url: http://marvel.com/comics/issue/46667/uncanny_x-men_2013_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13864/uncanny_x-men_1963_323?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/593012b56cec5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5111523725c11
   extension: jpg
