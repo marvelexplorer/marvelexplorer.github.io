@@ -1,12 +1,12 @@
 ---
-date: '2005-08-10T00:00:00-0400'
-year: '2005'
-title: 'Ultimates Annual (2005) #1'
-issue: 1
+date: '2011-02-09T00:00:00-0500'
+year: '2011'
+title: 'Ultimate Comics Spider-Man (2009) #153'
+issue: 153
 series:
-  period: '2005'
-  name: Ultimates Annual
-url: http://marvel.com/comics/issue/2374/ultimates_annual_2005_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: Ultimate Comics Spider-Man
+url: http://marvel.com/comics/issue/37459/ultimate_comics_spider-man_2009_153?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/5aa14ffecc099
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/514ca8a38b7bc
   extension: jpg
