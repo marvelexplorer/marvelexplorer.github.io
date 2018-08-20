@@ -1,12 +1,12 @@
 ---
-date: '2009-07-01T00:00:00-0400'
-year: '2009'
-title: 'Uncanny X-Men (1963) #513'
-issue: 513
+date: '2011-07-27T00:00:00-0400'
+year: '2011'
+title: 'Amazing Spider-Man (1999) #666'
+issue: 666
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/26966/uncanny_x-men_1963_513?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/35513/amazing_spider-man_1999_666?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/59271fc24f6e9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/57eaa30fd170e
   extension: jpg
