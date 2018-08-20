@@ -1,12 +1,12 @@
 ---
-date: '1964-09-10T00:00:00-0400'
-year: '1964'
-title: 'Journey Into Mystery (1952) #108'
-issue: 108
+date: '1965-01-10T00:00:00-0500'
+year: '1965'
+title: 'Avengers (1963) #12'
+issue: 12
 series:
-  period: '1952'
-  name: Journey Into Mystery
-url: http://marvel.com/comics/issue/9682/journey_into_mystery_1952_108?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/6975/avengers_1963_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/5a81a9549285f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/5852b38bb0761
   extension: jpg
