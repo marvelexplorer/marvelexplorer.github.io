@@ -1,12 +1,12 @@
 ---
-date: '1991-02-10T00:00:00-0500'
-year: '1991'
-title: 'Thor (1966) #429'
-issue: 429
+date: '1978-05-10T00:00:00-0400'
+year: '1978'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #18'
+issue: 18
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11757/thor_1966_429?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14631/peter_parker_the_spectacular_spider-man_1976_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/51f9555bc66e3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5a06269b2e9cc
   extension: jpg
