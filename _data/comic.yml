@@ -1,12 +1,12 @@
 ---
-date: '1978-05-10T00:00:00-0400'
-year: '1978'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #18'
-issue: 18
+date: '1968-04-10T00:00:00-0500'
+year: '1968'
+title: 'Fantastic Four (1961) #73'
+issue: 73
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14631/peter_parker_the_spectacular_spider-man_1976_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13281/fantastic_four_1961_73?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5a06269b2e9cc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5372ca2a9ec0c
   extension: jpg
