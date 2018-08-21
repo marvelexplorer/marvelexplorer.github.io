@@ -1,8 +1,7 @@
 ---
-name: Mary Jane Watson
-description: Mary Jane Watson was the guiding light in Peter Parker's life, and their
-  love had overcome countless obstacles.
-url: http://marvel.com/universe/Watson,_Mary_Jane?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: J. Jonah Jameson
+description: ''
+url: http://marvel.com/universe/Jameson%2C_J._Jonah?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/528d33d000749
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5269582835689
   extension: jpg
