@@ -1,12 +1,12 @@
 ---
-date: '2012-11-21T00:00:00-0500'
-year: '2012'
-title: 'Amazing Spider-Man (1999) #698'
-issue: 698
+date: '1994-02-10T00:00:00-0500'
+year: '1994'
+title: 'Avengers (1963) #371'
+issue: 371
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/40120/amazing_spider-man_1999_698?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7254/avengers_1963_371?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/57ed3544796b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5209484cc91fd
   extension: jpg
