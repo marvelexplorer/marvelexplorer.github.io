@@ -1,12 +1,12 @@
 ---
-date: '1981-07-10T00:00:00-0400'
-year: '1981'
-title: 'Uncanny X-Men (1963) #147'
-issue: 147
+date: '1994-02-01T00:00:00-0500'
+year: '1994'
+title: 'Spider-Man: The Mutant Agenda (1994)'
+issue: 0
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13688/uncanny_x-men_1963_147?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/65254/spider-man_the_mutant_agenda_1994?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4c7cdb6ad9760
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5a304a907bae7
   extension: jpg
