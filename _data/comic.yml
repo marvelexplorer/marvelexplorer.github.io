@@ -1,12 +1,12 @@
 ---
-date: '1974-09-10T00:00:00-0400'
-year: '1974'
-title: 'Defenders (1972) #15'
-issue: 15
+date: '1964-09-10T00:00:00-0400'
+year: '1964'
+title: 'Uncanny X-Men (1963) #7'
+issue: 7
 series:
-  period: '1972'
-  name: Defenders
-url: http://marvel.com/comics/issue/20318/defenders_1972_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12521/uncanny_x-men_1963_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/50adc680d463d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/589de7d53f750
   extension: jpg
