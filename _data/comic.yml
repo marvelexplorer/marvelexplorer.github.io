@@ -1,12 +1,12 @@
 ---
-date: '1993-12-10T00:00:00-0500'
-year: '1993'
-title: 'Warlock Chronicles (1993) #6'
-issue: 6
+date: '1986-01-10T00:00:00-0500'
+year: '1986'
+title: 'Uncanny X-Men (1963) #201'
+issue: 201
 series:
-  period: '1993'
-  name: Warlock Chronicles
-url: http://marvel.com/comics/issue/23488/warlock_chronicles_1993_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13742/uncanny_x-men_1963_201?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/5769976dd11f9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4d94d71508ae7
   extension: jpg
