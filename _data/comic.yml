@@ -1,12 +1,12 @@
 ---
-date: '1998-09-11T00:00:00-0400'
-year: '1998'
-title: 'The Amazing Spider-Man (1963) #439'
-issue: 439
+date: '1977-06-10T00:00:00-0400'
+year: '1977'
+title: 'Avengers (1963) #160'
+issue: 160
 series:
   period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6859/the_amazing_spider-man_1963_439?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Avengers
+url: http://marvel.com/comics/issue/7020/avengers_1963_160?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/57d85a0591e19
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/5881252a130c9
   extension: jpg
