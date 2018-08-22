@@ -1,12 +1,12 @@
 ---
-date: '1998-06-10T00:00:00-0400'
+date: '1998-09-11T00:00:00-0400'
 year: '1998'
-title: 'The Amazing Spider-Man (1963) #435'
-issue: 435
+title: 'The Amazing Spider-Man (1963) #439'
+issue: 439
 series:
   period: '1963'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6855/the_amazing_spider-man_1963_435?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6859/the_amazing_spider-man_1963_439?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/515d90fbdb2eb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/57d85a0591e19
   extension: jpg
