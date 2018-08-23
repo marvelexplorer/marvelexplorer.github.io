@@ -2,10 +2,10 @@
 - name: X-Men
   score: 30
 - name: Iron Man
-  score: 21
-- name: Fantastic Four
-  score: 19
+  score: 22
 - name: Wolverine
   score: 19
+- name: Fantastic Four
+  score: 18
 - name: Avengers
   score: 14
