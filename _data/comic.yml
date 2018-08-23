@@ -1,12 +1,12 @@
 ---
-date: '1981-06-10T00:00:00-0400'
-year: '1981'
-title: 'Thor (1966) #308'
-issue: 308
+date: '1970-10-10T00:00:00-0400'
+year: '1970'
+title: 'Avengers (1963) #81'
+issue: 81
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11636/thor_1966_308?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7334/avengers_1963_81?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/59dbcc08dff21
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e930d958d1d7
   extension: jpg
