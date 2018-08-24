@@ -1,12 +1,12 @@
 ---
-date: '2010-03-24T00:00:00-0400'
-year: '2010'
-title: 'Free Comic Book Day (2010) #1'
-issue: 1
+date: '2014-03-19T00:00:00-0400'
+year: '2014'
+title: 'New Avengers (2013) #15'
+issue: 15
 series:
-  period: '2010'
-  name: Free Comic Book Day
-url: http://marvel.com/comics/issue/30077/free_comic_book_day_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2013'
+  name: New Avengers
+url: http://marvel.com/comics/issue/48785/new_avengers_2013_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/5afdd8a572889
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/577580a3bd921
   extension: jpg
