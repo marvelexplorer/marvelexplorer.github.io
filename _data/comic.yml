@@ -1,12 +1,12 @@
 ---
-date: '1963-04-10T00:00:00-0500'
-year: '1963'
-title: 'Fantastic Four (1961) #13'
-issue: 13
+date: '2010-03-24T00:00:00-0400'
+year: '2010'
+title: 'Free Comic Book Day (2010) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/12928/fantastic_four_1961_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Free Comic Book Day
+url: http://marvel.com/comics/issue/30077/free_comic_book_day_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5aa96523e19d7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/5afdd8a572889
   extension: jpg
