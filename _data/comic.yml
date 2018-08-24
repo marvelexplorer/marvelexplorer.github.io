@@ -1,12 +1,12 @@
 ---
-date: '2017-08-09T00:00:00-0400'
-year: '2017'
-title: 'Captain America (2017) #25'
-issue: 25
+date: '1968-09-10T00:00:00-0400'
+year: '1968'
+title: 'Captain America (1968) #105'
+issue: 105
 series:
-  period: '2017'
+  period: '1968'
   name: Captain America
-url: http://marvel.com/comics/issue/64178/captain_america_2017_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7486/captain_america_1968_105?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/597793a2a2137
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/70/5994695dbc662
   extension: jpg
