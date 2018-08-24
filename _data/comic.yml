@@ -1,12 +1,12 @@
 ---
-date: '1992-01-21T00:00:00-0500'
-year: '1992'
-title: 'The Amazing Spider-Man (1963) #358'
-issue: 358
+date: '2002-04-01T00:00:00-0500'
+year: '2002'
+title: 'Avengers (1998) #51'
+issue: 51
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6769/the_amazing_spider-man_1963_358?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17536/avengers_1998_51?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/57d0623ae9b93
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/5863d5acd9997
   extension: jpg
