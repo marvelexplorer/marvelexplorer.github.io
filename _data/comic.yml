@@ -1,12 +1,12 @@
 ---
-date: '2002-04-01T00:00:00-0500'
-year: '2002'
-title: 'Avengers (1998) #51'
-issue: 51
+date: '1990-07-01T00:00:00-0400'
+year: '1990'
+title: 'Sensational She-Hulk (1989) #17'
+issue: 17
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17536/avengers_1998_51?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1989'
+  name: Sensational She-Hulk
+url: http://marvel.com/comics/issue/65052/sensational_she-hulk_1989_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/5863d5acd9997
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/59bc1a9be6ee7
   extension: jpg
