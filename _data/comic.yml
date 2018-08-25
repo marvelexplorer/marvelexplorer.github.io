@@ -1,12 +1,12 @@
 ---
-date: '2018-06-06T00:00:00-0400'
-year: '2018'
-title: 'Infinity Countdown (2018) #4'
-issue: 4
+date: '1999-09-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers Forever (1998) #10'
+issue: 10
 series:
-  period: '2018'
-  name: Infinity Countdown
-url: http://marvel.com/comics/issue/68653/infinity_countdown_2018_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers Forever
+url: http://marvel.com/comics/issue/12402/avengers_forever_1998_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/5b0f179d866cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/60/4bc47cad1b1cb
   extension: jpg
