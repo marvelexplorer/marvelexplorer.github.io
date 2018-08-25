@@ -1,12 +1,12 @@
 ---
-date: '1984-01-10T00:00:00-0500'
-year: '1984'
-title: 'Uncanny X-Men (1963) #177'
-issue: 177
+date: '2009-11-11T00:00:00-0500'
+year: '2009'
+title: 'X-Force (2008) #21'
+issue: 21
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13718/uncanny_x-men_1963_177?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Force
+url: http://marvel.com/comics/issue/27259/x-force_2008_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/51117c362418f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5768031f8e2a8
   extension: jpg
