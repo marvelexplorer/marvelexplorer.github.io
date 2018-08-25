@@ -1,12 +1,12 @@
 ---
-date: '2006-06-21T00:00:00-0400'
-year: '2006'
-title: 'Uncanny X-Men Annual (2006) #1'
-issue: 1
+date: '1992-09-10T00:00:00-0400'
+year: '1992'
+title: 'X-Men (1991) #12'
+issue: 12
 series:
-  period: '2006'
-  name: Uncanny X-Men Annual
-url: http://marvel.com/comics/issue/4343/uncanny_x-men_annual_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14298/x-men_1991_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4c364fd1937b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/5b0ebf227d5c8
   extension: jpg
