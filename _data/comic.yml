@@ -1,12 +1,12 @@
 ---
-date: '2011-03-16T00:00:00-0400'
-year: '2011'
-title: 'X-Factor (2005) #217'
-issue: 217
+date: '2009-03-25T00:00:00-0400'
+year: '2009'
+title: 'New Avengers (2004) #51'
+issue: 51
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/35288/x-factor_2005_217?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/23747/new_avengers_2004_51?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/595e5c2ad879d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/5773ea00cea12
   extension: jpg
