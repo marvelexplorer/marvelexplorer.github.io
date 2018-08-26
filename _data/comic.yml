@@ -1,12 +1,12 @@
 ---
-date: '2017-10-18T00:00:00-0400'
-year: '2017'
-title: 'Cable (2017) #150'
-issue: 150
+date: '2001-02-01T00:00:00-0500'
+year: '2001'
+title: 'Cable (1993) #88'
+issue: 88
 series:
-  period: '2017'
+  period: '1993'
   name: Cable
-url: http://marvel.com/comics/issue/64886/cable_2017_150?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/7468/cable_1993_88?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/59dfd904d1f90
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/5af49109ef3da
   extension: jpg
