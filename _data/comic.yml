@@ -1,12 +1,12 @@
 ---
-date: '2013-01-16T00:00:00-0500'
-year: '2013'
-title: 'New Avengers (2013) #2'
-issue: 2
+date: '1968-12-10T00:00:00-0500'
+year: '1968'
+title: 'Avengers (1963) #59'
+issue: 59
 series:
-  period: '2013'
-  name: New Avengers
-url: http://marvel.com/comics/issue/43516/new_avengers_2013_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7309/avengers_1963_59?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/510dc11490922
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc3277204f7f
   extension: jpg
