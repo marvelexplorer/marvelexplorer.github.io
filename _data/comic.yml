@@ -1,12 +1,12 @@
 ---
-date: '2013-05-08T00:00:00-0400'
-year: '2013'
-title: 'Astonishing X-Men (2004) #62'
-issue: 62
+date: '2004-01-21T00:00:00-0500'
+year: '2004'
+title: 'New Mutants (2003) #10'
+issue: 10
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/45823/astonishing_x-men_2004_62?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: New Mutants
+url: http://marvel.com/comics/issue/132/new_mutants_2003_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/58f8fa2c30771
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5a034283596ea
   extension: jpg
