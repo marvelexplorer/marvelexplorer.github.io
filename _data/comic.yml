@@ -1,12 +1,12 @@
 ---
-date: '2018-03-14T00:00:00-0400'
-year: '2018'
-title: 'New Mutants: Dead Souls (2018) #1'
-issue: 1
+date: '1988-01-01T00:00:00-0500'
+year: '1988'
+title: 'X-Factor Annual (1986) #3'
+issue: 3
 series:
-  period: '2018'
-  name: 'New Mutants: Dead Souls'
-url: http://marvel.com/comics/issue/66500/new_mutants_dead_souls_2018_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor Annual
+url: http://marvel.com/comics/issue/23511/x-factor_annual_1986_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5aa063e3a4746
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/5736189a408e4
   extension: jpg
