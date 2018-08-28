@@ -1,12 +1,12 @@
 ---
-date: '2011-07-27T00:00:00-0400'
-year: '2011'
-title: 'New Mutants (2009) #28'
-issue: 28
+date: '2000-12-01T00:00:00-0500'
+year: '2000'
+title: 'Maximum Security (2000) #1'
+issue: 1
 series:
-  period: '2009'
-  name: New Mutants
-url: http://marvel.com/comics/issue/36505/new_mutants_2009_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Maximum Security
+url: http://marvel.com/comics/issue/10284/maximum_security_2000_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/5155d11d80909
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/00/539863578d212
   extension: jpg

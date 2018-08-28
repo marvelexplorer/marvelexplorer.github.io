@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 7
-- name: Wolverine
-  score: 4
 - name: Cable
   score: 4
 - name: Deadpool
+  score: 3
+- name: Wolverine
   score: 3
 - name: Spider-Man
   score: 3
