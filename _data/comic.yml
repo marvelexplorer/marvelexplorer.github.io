@@ -1,12 +1,12 @@
 ---
-date: '2012-09-26T00:00:00-0400'
-year: '2012'
-title: 'Wolverine & the X-Men (2011) #17'
-issue: 17
+date: '2005-07-06T00:00:00-0400'
+year: '2005'
+title: 'Uncanny X-Men (1963) #462'
+issue: 462
 series:
-  period: '2011'
-  name: Wolverine & the X-Men
-url: http://marvel.com/comics/issue/40086/wolverine_the_x-men_2011_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/2181/uncanny_x-men_1963_462?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/593eaaacea7fd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/592313a10df7e
   extension: jpg
