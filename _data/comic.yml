@@ -1,12 +1,12 @@
 ---
-date: '2001-10-01T00:00:00-0400'
+date: '2001-12-01T00:00:00-0500'
 year: '2001'
-title: 'X-Force (1991) #119'
-issue: 119
+title: 'X-Force (1991) #121'
+issue: 121
 series:
   period: '1991'
   name: X-Force
-url: http://marvel.com/comics/issue/17964/x-force_1991_119?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/17967/x-force_1991_121?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/595fe1a596aab
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/595fdacc9415e
   extension: jpg
