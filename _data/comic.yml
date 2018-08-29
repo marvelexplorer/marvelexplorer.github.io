@@ -1,12 +1,12 @@
 ---
-date: '2011-01-26T00:00:00-0500'
-year: '2011'
-title: 'Fantastic Four (1998) #587'
-issue: 587
+date: '2013-10-16T00:00:00-0400'
+year: '2013'
+title: 'Fantastic Four (2012) #13'
+issue: 13
 series:
-  period: '1998'
+  period: '2012'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/36060/fantastic_four_1998_587?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/46105/fantastic_four_2012_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5ada1371ca196
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/524f053b7d25e
   extension: jpg
