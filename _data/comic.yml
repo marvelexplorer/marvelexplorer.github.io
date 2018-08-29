@@ -1,12 +1,12 @@
 ---
-date: '2013-10-16T00:00:00-0400'
-year: '2013'
-title: 'Fantastic Four (2012) #13'
-issue: 13
+date: '1982-02-10T00:00:00-0500'
+year: '1982'
+title: 'What If? (1977) #31'
+issue: 31
 series:
-  period: '2012'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/46105/fantastic_four_2012_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1977'
+  name: What If?
+url: http://marvel.com/comics/issue/12145/what_if_1977_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/524f053b7d25e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4bb50896311aa
   extension: jpg
