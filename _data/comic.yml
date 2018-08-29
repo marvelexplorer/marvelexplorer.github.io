@@ -1,12 +1,12 @@
 ---
-date: '1942-06-01T00:00:00-0400'
-year: '1942'
-title: 'Captain America Comics (1941) #15'
-issue: 15
+date: '2013-04-24T00:00:00-0400'
+year: '2013'
+title: 'Uncanny Avengers (2012) #7'
+issue: 7
 series:
-  period: '1941'
-  name: Captain America Comics
-url: http://marvel.com/comics/issue/7855/captain_america_comics_1941_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Uncanny Avengers
+url: http://marvel.com/comics/issue/43333/uncanny_avengers_2012_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5994ac73239af
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/5a5e348765007
   extension: jpg
