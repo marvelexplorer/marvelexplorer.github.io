@@ -1,11 +1,11 @@
 ---
 - name: X-Men
   score: 6
-- name: Wolverine
-  score: 4
 - name: Spider-Man
   score: 4
 - name: Cannonball
   score: 3
 - name: Beast
+  score: 3
+- name: Cable
   score: 3
