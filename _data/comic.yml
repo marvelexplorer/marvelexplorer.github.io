@@ -1,12 +1,12 @@
 ---
-date: '2012-01-04T00:00:00-0500'
-year: '2012'
-title: 'Avengers Annual (2012) #1'
-issue: 1
+date: '1975-11-10T00:00:00-0500'
+year: '1975'
+title: 'Fantastic Four (1961) #164'
+issue: 164
 series:
-  period: '2012'
-  name: Avengers Annual
-url: http://marvel.com/comics/issue/37174/avengers_annual_2012_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/12966/fantastic_four_1961_164?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/5a1eba1836e9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/5ab94235e300a
   extension: jpg
