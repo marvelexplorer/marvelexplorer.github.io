@@ -1,12 +1,12 @@
 ---
-date: '2007-12-28T00:00:00-0500'
-year: '2007'
-title: 'Fantastic Four: Isla De La Muerte (Spanish Language Edition) (2008) #1'
-issue: 1
+date: '1991-02-28T00:00:00-0500'
+year: '1991'
+title: 'Fantastic Four (1961) #348'
+issue: 348
 series:
-  period: '2008'
-  name: 'Fantastic Four: Isla De La Muerte (Spanish Language Edition)'
-url: http://marvel.com/comics/issue/21855/fantastic_four_isla_de_la_muerte_spanish_language_edition_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13170/fantastic_four_1961_348?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/5ade0e00dcc8c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5ac62c27b7a13
   extension: jpg
