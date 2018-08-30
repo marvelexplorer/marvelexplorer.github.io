@@ -1,12 +1,12 @@
 ---
-date: '2013-01-09T00:00:00-0500'
+date: '2013-10-16T00:00:00-0400'
 year: '2013'
-title: 'Fantastic Four (2012) #3'
-issue: 3
+title: 'Fantastic Four (2012) #13'
+issue: 13
 series:
   period: '2012'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/46092/fantastic_four_2012_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/46105/fantastic_four_2012_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5b2cfee8f1f29
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/524f053b7d25e
   extension: jpg
