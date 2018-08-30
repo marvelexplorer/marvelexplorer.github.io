@@ -1,12 +1,12 @@
 ---
-date: '1976-04-10T00:00:00-0500'
-year: '1976'
-title: 'Incredible Hulk (1962) #198'
-issue: 198
+date: '1975-08-10T00:00:00-0400'
+year: '1975'
+title: 'Incredible Hulk (1962) #190'
+issue: 190
 series:
   period: '1962'
   name: Incredible Hulk
-url: http://marvel.com/comics/issue/9009/incredible_hulk_1962_198?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/9001/incredible_hulk_1962_190?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/04/5b7ea94e9cd6e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/5b7d7a5abd6cf
   extension: jpg
