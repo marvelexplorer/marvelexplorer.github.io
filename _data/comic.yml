@@ -1,12 +1,12 @@
 ---
-date: '2017-01-04T00:00:00-0500'
+date: '2017-11-08T00:00:00-0500'
 year: '2017'
-title: 'Deadpool the Duck (2017) #1'
-issue: 1
+title: 'The Unbeatable Squirrel Girl (2015) #26'
+issue: 26
 series:
-  period: '2017'
-  name: Deadpool the Duck
-url: http://marvel.com/comics/issue/60617/deadpool_the_duck_2017_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: The Unbeatable Squirrel Girl
+url: http://marvel.com/comics/issue/61092/the_unbeatable_squirrel_girl_2015_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/585c07fcccfd8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/59fa139c11ed1
   extension: jpg
