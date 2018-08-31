@@ -1,12 +1,12 @@
 ---
-date: '1992-02-10T00:00:00-0500'
-year: '1992'
-title: 'X-Force (1991) #7'
-issue: 7
+date: '1995-05-10T00:00:00-0400'
+year: '1995'
+title: 'X-Man (1995) #3'
+issue: 3
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/18038/x-force_1991_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: X-Man
+url: http://marvel.com/comics/issue/18199/x-man_1995_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/f0/586d4373ac200
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/5966408423a2f
   extension: jpg
