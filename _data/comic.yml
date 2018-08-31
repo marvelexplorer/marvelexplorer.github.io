@@ -1,12 +1,12 @@
 ---
-date: '1963-04-10T00:00:00-0500'
-year: '1963'
-title: 'Journey Into Mystery (1952) #91'
-issue: 91
+date: '2008-02-27T00:00:00-0500'
+year: '2008'
+title: 'Thor (2007) #6'
+issue: 6
 series:
-  period: '1952'
-  name: Journey Into Mystery
-url: http://marvel.com/comics/issue/9788/journey_into_mystery_1952_91?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Thor
+url: http://marvel.com/comics/issue/17363/thor_2007_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5a7b677f3b23c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/5140b4ef31738
   extension: jpg
