@@ -1,12 +1,12 @@
 ---
-date: '2009-11-11T00:00:00-0500'
-year: '2009'
-title: 'Marvel Adventures Super Heroes (2008) #17'
-issue: 17
+date: '1965-04-10T00:00:00-0500'
+year: '1965'
+title: 'Tales of Suspense (1959) #64'
+issue: 64
 series:
-  period: '2008'
-  name: Marvel Adventures Super Heroes
-url: http://marvel.com/comics/issue/25702/marvel_adventures_super_heroes_2008_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11308/tales_of_suspense_1959_64?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5a2af4e950e5e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/536d53880f072
   extension: jpg
