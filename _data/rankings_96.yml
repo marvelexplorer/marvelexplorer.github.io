@@ -1,8 +1,8 @@
 ---
 - name: X-Men
   score: 5
-- name: Cannonball
-  score: 3
+- name: Fantastic Four
+  score: 4
 - name: Beast
   score: 3
 - name: Avengers
