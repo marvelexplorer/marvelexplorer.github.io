@@ -1,12 +1,12 @@
 ---
-date: '2009-12-16T00:00:00-0500'
-year: '2009'
-title: 'Captain America: Reborn (2009) #5'
-issue: 5
+date: '2011-04-27T00:00:00-0400'
+year: '2011'
+title: 'Captain America (2004) #617'
+issue: 617
 series:
-  period: '2009'
-  name: 'Captain America: Reborn'
-url: http://marvel.com/comics/issue/26199/captain_america_reborn_2009_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/39017/captain_america_2004_617?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5a2aae9962032
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/59c3c1c58a7a1
   extension: jpg
