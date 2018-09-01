@@ -1,12 +1,12 @@
 ---
-date: '1977-01-10T00:00:00-0500'
-year: '1977'
-title: 'Ms. Marvel (1977) #1'
-issue: 1
+date: '1989-01-10T00:00:00-0500'
+year: '1989'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #146'
+issue: 146
 series:
-  period: '1977'
-  name: Ms. Marvel
-url: http://marvel.com/comics/issue/10287/ms_marvel_1977_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14594/peter_parker_the_spectacular_spider-man_1976_146?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/5b2a9bf8acd74
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/5825f7d30e8ee
   extension: jpg
