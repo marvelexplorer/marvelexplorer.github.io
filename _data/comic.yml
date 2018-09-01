@@ -1,12 +1,12 @@
 ---
-date: '2010-12-02T00:00:00-0500'
-year: '2010'
-title: 'Shadowland (2010) #5'
-issue: 5
+date: '1977-01-10T00:00:00-0500'
+year: '1977'
+title: 'Ms. Marvel (1977) #1'
+issue: 1
 series:
-  period: '2010'
-  name: Shadowland
-url: http://marvel.com/comics/issue/33700/shadowland_2010_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/10287/ms_marvel_1977_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/59720a6d0175e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/5b2a9bf8acd74
   extension: jpg
