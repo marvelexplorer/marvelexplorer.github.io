@@ -1,12 +1,12 @@
 ---
-date: '2011-12-14T00:00:00-0500'
-year: '2011'
-title: 'Avengers 1959 (2011) #4'
-issue: 4
+date: '2009-08-05T00:00:00-0400'
+year: '2009'
+title: 'Captain America: Reborn (2009) #2'
+issue: 2
 series:
-  period: '2011'
-  name: Avengers 1959
-url: http://marvel.com/comics/issue/40358/avengers_1959_2011_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: 'Captain America: Reborn'
+url: http://marvel.com/comics/issue/26196/captain_america_reborn_2009_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/56b8e5a0e4cc2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/5a2aa6f9da76d
   extension: jpg
