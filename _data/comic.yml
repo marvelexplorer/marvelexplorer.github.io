@@ -1,12 +1,12 @@
 ---
-date: '2013-09-25T00:00:00-0400'
-year: '2013'
-title: 'Deadpool (2012) #17'
-issue: 17
+date: '2007-11-21T00:00:00-0500'
+year: '2007'
+title: 'Penance: Relentless (2007) #3'
+issue: 3
 series:
-  period: '2012'
-  name: Deadpool
-url: http://marvel.com/comics/issue/46053/deadpool_2012_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Penance: Relentless'
+url: http://marvel.com/comics/issue/17289/penance_relentless_2007_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5232159b5c2ff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/58866c1f1563d
   extension: jpg
