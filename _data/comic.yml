@@ -1,12 +1,12 @@
 ---
-date: '2018-04-18T00:00:00-0400'
-year: '2018'
-title: 'Marvel Super Hero Adventures: Spider-Man and the Stolen Vibranium (2018) #1'
-issue: 1
+date: '1993-01-05T00:00:00-0500'
+year: '1993'
+title: 'Excalibur (1988) #60'
+issue: 60
 series:
-  period: '2018'
-  name: 'Marvel Super Hero Adventures: Spider-Man and the Stolen Vibranium'
-url: http://marvel.com/comics/issue/66691/marvel_super_hero_adventures_spider-man_and_the_stolen_vibranium_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Excalibur
+url: http://marvel.com/comics/issue/8644/excalibur_1988_60?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5b0ee55a8f8f5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/55c4fb934732f
   extension: jpg
