@@ -1,12 +1,12 @@
 ---
-date: '1988-10-10T00:00:00-0400'
-year: '1988'
-title: 'Daredevil (1964) #259'
-issue: 259
+date: '2017-06-14T00:00:00-0400'
+year: '2017'
+title: 'Defenders (2017) #1'
+issue: 1
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8250/daredevil_1964_259?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: Defenders
+url: http://marvel.com/comics/issue/62923/defenders_2017_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5b51e7730d62d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/593992be172f7
   extension: jpg
