@@ -1,12 +1,12 @@
 ---
-date: '2007-06-13T00:00:00-0400'
-year: '2007'
-title: 'Avengers Classic (2007) #1'
-issue: 1
+date: '1973-05-10T00:00:00-0400'
+year: '1973'
+title: 'Captain America (1968) #161'
+issue: 161
 series:
-  period: '2007'
-  name: Avengers Classic
-url: http://marvel.com/comics/issue/15858/avengers_classic_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7542/captain_america_1968_161?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc49543209ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/56e336c453cbd
   extension: jpg
