@@ -1,12 +1,12 @@
 ---
-date: '1991-06-10T00:00:00-0400'
-year: '1991'
-title: 'X-Factor (1986) #67'
-issue: 67
+date: '1972-10-10T00:00:00-0400'
+year: '1972'
+title: 'Fantastic Four (1961) #127'
+issue: 127
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12287/x-factor_1986_67?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/12925/fantastic_four_1961_127?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5736137faa295
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5ab94d4d62010
   extension: jpg
