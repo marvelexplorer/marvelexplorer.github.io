@@ -1,12 +1,12 @@
 ---
-date: '1993-01-05T00:00:00-0500'
-year: '1993'
-title: 'Excalibur (1988) #60'
-issue: 60
+date: '1966-03-10T00:00:00-0500'
+year: '1966'
+title: 'Tales of Suspense (1959) #75'
+issue: 75
 series:
-  period: '1988'
-  name: Excalibur
-url: http://marvel.com/comics/issue/8644/excalibur_1988_60?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11320/tales_of_suspense_1959_75?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/55c4fb934732f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/560c4c9cebfae
   extension: jpg
