@@ -1,12 +1,12 @@
 ---
-date: '2003-10-29T00:00:00-0500'
-year: '2003'
-title: 'Ultimates (2002) #12'
-issue: 12
+date: '2005-03-16T00:00:00-0500'
+year: '2005'
+title: 'Ultimates 2 (2004) #4'
+issue: 4
 series:
-  period: '2002'
-  name: Ultimates
-url: http://marvel.com/comics/issue/255/ultimates_2002_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Ultimates 2
+url: http://marvel.com/comics/issue/1713/ultimates_2_2004_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/515f05c5906cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/515f06b856ca2
   extension: jpg
