@@ -1,12 +1,12 @@
 ---
-date: '2018-01-10T00:00:00-0500'
-year: '2018'
-title: 'X-Men Gold Annual (2018) #1'
-issue: 1
+date: '1996-02-10T00:00:00-0500'
+year: '1996'
+title: 'X-Man (1995) #12'
+issue: 12
 series:
-  period: '2018'
-  name: X-Men Gold Annual
-url: http://marvel.com/comics/issue/65845/x-men_gold_annual_2018_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1995'
+  name: X-Man
+url: http://marvel.com/comics/issue/18180/x-man_1995_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/0/04/5a4fbe949b9be
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/e0/5966445471073
   extension: jpg
