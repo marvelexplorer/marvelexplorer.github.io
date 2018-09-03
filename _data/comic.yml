@@ -1,12 +1,12 @@
 ---
-date: '2011-08-24T00:00:00-0400'
-year: '2011'
-title: 'FF (2010) #8'
-issue: 8
+date: '2003-11-23T00:00:00-0500'
+year: '2003'
+title: 'Fantastic Four (1998) #504'
+issue: 504
 series:
-  period: '2010'
-  name: FF
-url: http://marvel.com/comics/issue/37397/ff_2010_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/12858/fantastic_four_1998_504?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/5ad10fead7ff8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5ad4bdf54040f
   extension: jpg
