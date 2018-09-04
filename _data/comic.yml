@@ -1,12 +1,12 @@
 ---
-date: '1985-01-14T00:00:00-0500'
-year: '1985'
-title: 'Avengers Annual (1967) #14'
-issue: 14
+date: '1983-06-10T00:00:00-0400'
+year: '1983'
+title: 'Avengers (1963) #232'
+issue: 232
 series:
-  period: '1967'
-  name: Avengers Annual
-url: http://marvel.com/comics/issue/6928/avengers_annual_1967_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7100/avengers_1963_232?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5a294b89d476a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/5873cdc4c6758
   extension: jpg
