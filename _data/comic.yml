@@ -1,12 +1,12 @@
 ---
-date: '2017-06-14T00:00:00-0400'
-year: '2017'
-title: 'Uncanny Avengers (2015) #24'
-issue: 24
+date: '1977-02-10T00:00:00-0500'
+year: '1977'
+title: 'Avengers (1963) #156'
+issue: 156
 series:
-  period: '2015'
-  name: Uncanny Avengers
-url: http://marvel.com/comics/issue/61101/uncanny_avengers_2015_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7015/avengers_1963_156?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/593994c0ecbe8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4e95f30dcb739
   extension: jpg
