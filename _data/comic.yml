@@ -1,12 +1,12 @@
 ---
-date: '2006-12-06T00:00:00-0500'
-year: '2006'
-title: 'Incredible Hulk (1999) #101'
-issue: 101
+date: '2009-02-04T00:00:00-0500'
+year: '2009'
+title: 'Mighty Avengers (2007) #21'
+issue: 21
 series:
-  period: '1999'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/5671/incredible_hulk_1999_101?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/23106/mighty_avengers_2007_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5b3faaae437c1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/04/4f7c8e76e8feb
   extension: jpg
