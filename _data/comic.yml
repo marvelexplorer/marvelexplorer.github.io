@@ -1,12 +1,12 @@
 ---
-date: '2011-06-01T00:00:00-0400'
-year: '2011'
-title: 'X-23 (2010) #11'
-issue: 11
+date: '2008-05-07T00:00:00-0400'
+year: '2008'
+title: 'Avengers/Invaders (2008) #1'
+issue: 1
 series:
-  period: '2010'
-  name: X-23
-url: http://marvel.com/comics/issue/30257/x-23_2010_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Avengers/Invaders
+url: http://marvel.com/comics/issue/21247/avengersinvaders_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/51eeb231757dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f71b93bc1f6c
   extension: jpg
