@@ -1,12 +1,12 @@
 ---
-date: '2008-11-19T00:00:00-0500'
-year: '2008'
-title: 'X-Men Legacy (2008) #218'
-issue: 218
+date: '2006-01-04T00:00:00-0500'
+year: '2006'
+title: 'MYTHOS: X-MEN 1 (2006) #1'
+issue: 1
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/22462/x-men_legacy_2008_218?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'MYTHOS: X-MEN 1'
+url: http://marvel.com/comics/issue/3355/mythos_x-men_1_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/f0/51a4debaefbc7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/70/564b91031dab0
   extension: jpg
