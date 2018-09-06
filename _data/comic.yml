@@ -1,12 +1,12 @@
 ---
-date: '1995-06-10T00:00:00-0400'
-year: '1995'
-title: 'Weapon X (1995) #4'
-issue: 4
+date: '2008-11-19T00:00:00-0500'
+year: '2008'
+title: 'X-Men Legacy (2008) #218'
+issue: 218
 series:
-  period: '1995'
-  name: Weapon X
-url: http://marvel.com/comics/issue/18102/weapon_x_1995_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/22462/x-men_legacy_2008_218?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/594424ce19e9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/f0/51a4debaefbc7
   extension: jpg
