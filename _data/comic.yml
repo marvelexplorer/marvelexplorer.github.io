@@ -1,12 +1,12 @@
 ---
-date: '2000-12-01T00:00:00-0500'
-year: '2000'
-title: 'Uncanny X-Men (1963) #387'
-issue: 387
+date: '1993-06-01T00:00:00-0400'
+year: '1993'
+title: 'Cable (1993) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13928/uncanny_x-men_1963_387?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7393/cable_1993_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/591a158b037ea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4bb5903d81429
   extension: jpg
