@@ -1,10 +1,7 @@
 ---
-name: Spider-Man (Miles Morales)
-description: Teenager Miles Morales grew up in Brooklyn, New York. Recently, Miles
-  took on the controversial and pressured role of Spider-Man shortly after the death
-  of the original. Morales made his debut against The Kangaroo, much to the surprise
-  and disapproval of many present at the confrontation.
-url: http://marvel.com/universe/Morales,_Miles?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Annihilus
+description: ''
+url: http://marvel.com/universe/Annihilus?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/537bcfa1eed73
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/528d31f20a2f6
   extension: jpg
