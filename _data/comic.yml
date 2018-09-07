@@ -1,12 +1,12 @@
 ---
-date: '1988-03-10T00:00:00-0500'
-year: '1988'
-title: 'Iron Man (1968) #228'
-issue: 228
+date: '1999-05-10T00:00:00-0400'
+year: '1999'
+title: 'Avengers Forever (1998) #6'
+issue: 6
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9470/iron_man_1968_228?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers Forever
+url: http://marvel.com/comics/issue/12409/avengers_forever_1998_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/52c5a3ac4aff7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bc47c8e63dc9
   extension: jpg
