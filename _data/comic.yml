@@ -1,12 +1,12 @@
 ---
-date: '1978-03-01T00:00:00-0500'
-year: '1978'
-title: 'Defenders (1972) #57'
-issue: 57
+date: '1989-06-01T00:00:00-0400'
+year: '1989'
+title: 'Saga of the Sub-Mariner (1988) #8'
+issue: 8
 series:
-  period: '1972'
-  name: Defenders
-url: http://marvel.com/comics/issue/20367/defenders_1972_57?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Saga of the Sub-Mariner
+url: http://marvel.com/comics/issue/62673/saga_of_the_sub-mariner_1988_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5aeb57b655334
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5893c0d3f37b7
   extension: jpg
