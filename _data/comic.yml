@@ -1,12 +1,12 @@
 ---
-date: '1989-06-01T00:00:00-0400'
+date: '1989-11-10T00:00:00-0500'
 year: '1989'
-title: 'Saga of the Sub-Mariner (1988) #8'
-issue: 8
+title: 'Avengers (1963) #309'
+issue: 309
 series:
-  period: '1988'
-  name: Saga of the Sub-Mariner
-url: http://marvel.com/comics/issue/62673/saga_of_the_sub-mariner_1988_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7185/avengers_1963_309?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5893c0d3f37b7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/588a68a2920b2
   extension: jpg
