@@ -1,12 +1,12 @@
 ---
-date: '2013-10-16T00:00:00-0400'
-year: '2013'
-title: 'Avengers Assemble (2012) #20'
-issue: 20
+date: '1971-09-10T00:00:00-0400'
+year: '1971'
+title: 'Avengers (1963) #92'
+issue: 92
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/48560/avengers_assemble_2012_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7346/avengers_1963_92?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/524ef1b653ef8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb65b7358f8b
   extension: jpg
