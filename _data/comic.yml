@@ -1,12 +1,12 @@
 ---
-date: '2008-10-15T00:00:00-0400'
-year: '2008'
-title: 'Mighty Avengers (2007) #19'
-issue: 19
+date: '1995-08-01T00:00:00-0400'
+year: '1995'
+title: 'Force Works (1994) #14'
+issue: 14
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/22292/mighty_avengers_2007_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1994'
+  name: Force Works
+url: http://marvel.com/comics/issue/60109/force_works_1994_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/4d251a069f575
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/03/5b22f04464285
   extension: jpg
