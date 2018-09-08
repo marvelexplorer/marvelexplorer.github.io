@@ -1,12 +1,12 @@
 ---
-date: '1982-05-10T00:00:00-0400'
-year: '1982'
-title: 'Fantastic Four (1961) #242'
-issue: 242
+date: '1975-01-10T00:00:00-0500'
+year: '1975'
+title: 'The Amazing Spider-Man (1963) #140'
+issue: 140
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13053/fantastic_four_1961_242?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6528/the_amazing_spider-man_1963_140?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5abd179519431
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/c0/513500fadf057
   extension: jpg
