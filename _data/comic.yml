@@ -1,12 +1,12 @@
 ---
-date: '2000-12-01T00:00:00-0500'
-year: '2000'
-title: 'Thor (1998) #30'
-issue: 30
+date: '2011-01-26T00:00:00-0500'
+year: '2011'
+title: 'X-Men: To Serve and Protect (2010) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18654/thor_1998_30?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: 'X-Men: To Serve and Protect'
+url: http://marvel.com/comics/issue/36187/x-men_to_serve_and_protect_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/59cab271b1783
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/58cc3fbb0fad9
   extension: jpg
