@@ -1,12 +1,12 @@
 ---
-date: '2010-05-12T00:00:00-0400'
-year: '2010'
-title: 'Web of Spider-Man (2009) #8'
-issue: 8
+date: '2012-02-01T00:00:00-0500'
+year: '2012'
+title: 'Amazing Spider-Man (1999) #679'
+issue: 679
 series:
-  period: '2009'
-  name: Web of Spider-Man
-url: http://marvel.com/comics/issue/31668/web_of_spider-man_2009_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/40136/amazing_spider-man_1999_679?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/55cccf7ad21b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/57ebdf06326cf
   extension: jpg
