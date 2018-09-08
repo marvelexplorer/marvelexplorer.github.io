@@ -1,11 +1,11 @@
 ---
-- name: Cyclops
-  score: 4
 - name: Wolverine
   score: 4
 - name: Avengers
   score: 4
-- name: Colossus
+- name: Spider-Man
+  score: 4
+- name: Cyclops
   score: 3
-- name: Gambit
+- name: Colossus
   score: 3
