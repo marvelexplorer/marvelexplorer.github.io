@@ -1,12 +1,12 @@
 ---
-date: '2006-07-19T00:00:00-0400'
-year: '2006'
-title: 'Marvel Adventures the Avengers (2006) #3'
-issue: 3
+date: '1978-12-10T00:00:00-0500'
+year: '1978'
+title: 'Incredible Hulk Annual (1968) #7'
+issue: 7
 series:
-  period: '2006'
-  name: Marvel Adventures the Avengers
-url: http://marvel.com/comics/issue/4494/marvel_adventures_the_avengers_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Incredible Hulk Annual
+url: http://marvel.com/comics/issue/16880/incredible_hulk_annual_1968_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/4f6251b5346a4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/59cbf5a2cc878
   extension: jpg
