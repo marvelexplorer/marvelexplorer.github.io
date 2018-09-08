@@ -1,12 +1,12 @@
 ---
-date: '1994-04-01T00:00:00-0500'
-year: '1994'
-title: 'Silver Sable & the Wild Pack (1992) #23'
-issue: 23
+date: '1989-10-10T00:00:00-0400'
+year: '1989'
+title: 'The Amazing Spider-Man (1963) #321'
+issue: 321
 series:
-  period: '1992'
-  name: Silver Sable & the Wild Pack
-url: http://marvel.com/comics/issue/55132/silver_sable_the_wild_pack_1992_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6729/the_amazing_spider-man_1963_321?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/58d192c1c706d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57f520ff03f57
   extension: jpg
