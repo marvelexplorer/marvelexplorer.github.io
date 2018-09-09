@@ -1,12 +1,12 @@
 ---
-date: '1984-02-10T00:00:00-0500'
-year: '1984'
-title: 'Avengers (1963) #240'
-issue: 240
+date: '2008-06-25T00:00:00-0400'
+year: '2008'
+title: 'Avengers: The Initiative (2007) #14'
+issue: 14
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7109/avengers_1963_240?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/21366/avengers_the_initiative_2007_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/10/5873e42481476
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/58dbce634ea70
   extension: jpg
