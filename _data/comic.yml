@@ -1,12 +1,12 @@
 ---
-date: '1997-06-01T00:00:00-0400'
-year: '1997'
-title: 'Elektra (1996) #8'
-issue: 8
+date: '2016-09-21T00:00:00-0400'
+year: '2016'
+title: 'Agents of S.H.I.E.L.D. (2016) #9'
+issue: 9
 series:
-  period: '1996'
-  name: Elektra
-url: http://marvel.com/comics/issue/62737/elektra_1996_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Agents of S.H.I.E.L.D.
+url: http://marvel.com/comics/issue/56037/agents_of_shield_2016_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/5a8f53dfbbd0d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/57d2c16c5ced1
   extension: jpg
