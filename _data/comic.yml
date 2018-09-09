@@ -1,12 +1,12 @@
 ---
-date: '2016-09-21T00:00:00-0400'
-year: '2016'
-title: 'Agents of S.H.I.E.L.D. (2016) #9'
-issue: 9
+date: '2010-01-13T00:00:00-0500'
+year: '2010'
+title: 'Invincible Iron Man (2008) #22'
+issue: 22
 series:
-  period: '2016'
-  name: Agents of S.H.I.E.L.D.
-url: http://marvel.com/comics/issue/56037/agents_of_shield_2016_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Invincible Iron Man
+url: http://marvel.com/comics/issue/28334/invincible_iron_man_2008_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/57d2c16c5ced1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f7c9550a80a4
   extension: jpg
