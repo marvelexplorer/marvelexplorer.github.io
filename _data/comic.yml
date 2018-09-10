@@ -1,12 +1,12 @@
 ---
-date: '1993-05-10T00:00:00-0400'
-year: '1993'
-title: 'Captain America (1968) #415'
-issue: 415
+date: '2008-03-12T00:00:00-0400'
+year: '2008'
+title: 'Ultimates 3 (2007) #4'
+issue: 4
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7796/captain_america_1968_415?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Ultimates 3
+url: http://marvel.com/comics/issue/20818/ultimates_3_2007_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/59c00c1d0ed47
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/5aa6c14f5e82b
   extension: jpg
