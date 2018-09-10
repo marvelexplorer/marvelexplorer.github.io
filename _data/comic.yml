@@ -1,12 +1,12 @@
 ---
-date: '2003-02-10T00:00:00-0500'
-year: '2003'
-title: 'Ultimate War (2003) #1'
-issue: 1
+date: '2008-01-23T00:00:00-0500'
+year: '2008'
+title: 'Ultimates 3 (2007) #2'
+issue: 2
 series:
-  period: '2003'
-  name: Ultimate War
-url: http://marvel.com/comics/issue/18474/ultimate_war_2003_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Ultimates 3
+url: http://marvel.com/comics/issue/17617/ultimates_3_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4c361fccc82b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/5aa6a3d6dc49c
   extension: jpg
