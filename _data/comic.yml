@@ -1,12 +1,12 @@
 ---
-date: '2012-01-25T00:00:00-0500'
-year: '2012'
-title: 'Ultimate Comics Ultimates  (2011) #6'
-issue: 6
+date: '2001-11-01T00:00:00-0500'
+year: '2001'
+title: 'Ultimate X-Men (2000) #10'
+issue: 10
 series:
-  period: '2011'
-  name: 'Ultimate Comics Ultimates '
-url: http://marvel.com/comics/issue/38695/ultimate_comics_ultimates_2011_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Ultimate X-Men
+url: http://marvel.com/comics/issue/15700/ultimate_x-men_2000_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/56bb70a84cc6a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/4d24dd5c37550
   extension: jpg
