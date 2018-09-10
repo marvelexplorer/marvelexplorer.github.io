@@ -1,12 +1,12 @@
 ---
-date: '2011-04-27T00:00:00-0400'
-year: '2011'
-title: 'Ultimate X-Men MGC (2011) #1'
-issue: 1
+date: '2002-05-01T00:00:00-0400'
+year: '2002'
+title: 'Ultimate X-Men (2000) #16'
+issue: 16
 series:
-  period: '2011'
-  name: Ultimate X-Men MGC
-url: http://marvel.com/comics/issue/38510/ultimate_x-men_mgc_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate X-Men
+url: http://marvel.com/comics/issue/15706/ultimate_x-men_2000_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4d35a7906072d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc366a316273
   extension: jpg
