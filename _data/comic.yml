@@ -1,12 +1,12 @@
 ---
-date: '1975-03-10T00:00:00-0400'
-year: '1975'
-title: 'The Amazing Spider-Man (1963) #142'
-issue: 142
+date: '1986-02-10T00:00:00-0500'
+year: '1986'
+title: 'The Amazing Spider-Man (1963) #273'
+issue: 273
 series:
   period: '1963'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6530/the_amazing_spider-man_1963_142?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6675/the_amazing_spider-man_1963_273?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/51351d2004d5d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/57c71e90ad428
   extension: jpg
