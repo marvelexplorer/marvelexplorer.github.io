@@ -1,12 +1,12 @@
 ---
-date: '2003-03-10T00:00:00-0500'
-year: '2003'
-title: 'Ultimate Daredevil and Elektra (2002) #4'
-issue: 4
+date: '2005-10-19T00:00:00-0400'
+year: '2005'
+title: 'Ultimate Spider-Man (2000) #84'
+issue: 84
 series:
-  period: '2002'
-  name: Ultimate Daredevil and Elektra
-url: http://marvel.com/comics/issue/15404/ultimate_daredevil_and_elektra_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate Spider-Man
+url: http://marvel.com/comics/issue/2416/ultimate_spider-man_2000_84?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/4c36387b998d3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/58e522c3728cd
   extension: jpg
