@@ -1,10 +1,8 @@
 ---
-name: Spider-Man (Ultimate)
-description: Peter’s relatively normal life changed abruptly during a school trip
-  to Osborn Industries, Inc, where the company had been working on a super soldier
-  serum, the Oz Compound; a spider exposed to it escaped and bit Peter before it was
-  destroyed.
-url: http://marvel.com/universe/Spider-Man_(Ultimate)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Ben Reilly
+description: Ben Reilly was the most genetically stable of the many clones of Spider-Man
+  created by Professor Miles Warren, the Jackal.
+url: http://marvel.com/universe/Ben%20Reilly?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/531771b4e8c60
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/20/4ce5a6abaea69
   extension: jpg
