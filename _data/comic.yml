@@ -1,12 +1,12 @@
 ---
-date: '2001-10-01T00:00:00-0400'
-year: '2001'
-title: 'Ultimate Marvel Team-Up (2001) #7'
-issue: 7
+date: '2003-03-10T00:00:00-0500'
+year: '2003'
+title: 'Ultimate Daredevil and Elektra (2002) #4'
+issue: 4
 series:
-  period: '2001'
-  name: Ultimate Marvel Team-Up
-url: http://marvel.com/comics/issue/15781/ultimate_marvel_team-up_2001_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Ultimate Daredevil and Elektra
+url: http://marvel.com/comics/issue/15404/ultimate_daredevil_and_elektra_2002_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/04/5aa2ee999b5ff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/4c36387b998d3
   extension: jpg
