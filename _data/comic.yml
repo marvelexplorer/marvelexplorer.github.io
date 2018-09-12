@@ -1,12 +1,12 @@
 ---
-date: '2004-04-01T00:00:00-0500'
+date: '2004-07-01T00:00:00-0400'
 year: '2004'
-title: 'Captain Marvel (2002) #20'
-issue: 20
+title: 'Captain Marvel (2002) #23'
+issue: 23
 series:
   period: '2002'
   name: Captain Marvel
-url: http://marvel.com/comics/issue/22827/captain_marvel_2002_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/22830/captain_marvel_2002_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/5b21497b76880
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5b226cb22d647
   extension: jpg
