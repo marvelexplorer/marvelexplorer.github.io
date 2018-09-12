@@ -1,12 +1,12 @@
 ---
-date: '2012-11-14T00:00:00-0500'
-year: '2012'
-title: 'Avengers Assemble (2012) #9'
-issue: 9
+date: '2011-03-16T00:00:00-0400'
+year: '2011'
+title: 'Loki (2010) #4'
+issue: 4
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/41884/avengers_assemble_2012_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Loki
+url: http://marvel.com/comics/issue/33844/loki_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/58d52acbc0969
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/59fb5003826a9
   extension: jpg
