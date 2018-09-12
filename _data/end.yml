@@ -1,10 +1,9 @@
 ---
-name: Falcon
-description: With a mental connection to all birds and a suit that gives him wings
-  to fly, The Falcon has been both the partner to Captain America and an Avenger himself.
-  Whether as a super hero or in his secret identity of social worker Sam Wilson, The
-  Falcon dedicates his life to standing up for others.
-url: http://marvel.com/universe/Falcon_(Sam_Wilson)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Tigra (Greer Nelson)
+description: Although she was able to use the cat's-head amulet to change back to
+  her human form, Greer Nelson became so accustomed to and enamored of her feline
+  form that she seldom made the transformation.
+url: http://marvel.com/universe/Tigra_%28Greer_Nelson%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/5111505fb7009
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/526957bb909b3
   extension: jpg

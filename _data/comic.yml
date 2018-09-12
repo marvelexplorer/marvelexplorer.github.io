@@ -1,12 +1,12 @@
 ---
-date: '1972-02-10T00:00:00-0500'
-year: '1972'
-title: 'Captain America (1968) #146'
-issue: 146
+date: '1998-05-10T00:00:00-0400'
+year: '1998'
+title: 'Avengers (1998) #4'
+issue: 4
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7527/captain_america_1968_146?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17523/avengers_1998_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/40/5995b48f88757
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/5851662c4c602
   extension: jpg
