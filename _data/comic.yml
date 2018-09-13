@@ -1,12 +1,12 @@
 ---
-date: '1981-01-10T00:00:00-0500'
-year: '1981'
-title: 'Savage She-Hulk (1980) #12'
-issue: 12
+date: '1994-04-01T00:00:00-0500'
+year: '1994'
+title: 'Venom: The Enemy Within (1994) #3'
+issue: 3
 series:
-  period: '1980'
-  name: Savage She-Hulk
-url: http://marvel.com/comics/issue/15259/savage_she-hulk_1980_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1994'
+  name: 'Venom: The Enemy Within'
+url: http://marvel.com/comics/issue/62609/venom_the_enemy_within_1994_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/597118d3db5e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/80/583489e329960
   extension: jpg
