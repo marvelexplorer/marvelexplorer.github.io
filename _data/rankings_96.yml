@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man (Ultimate)
   score: 4
-- name: Iron Man
-  score: 3
 - name: Storm
   score: 3
 - name: Storm (Ultimate)
   score: 2
 - name: Cyclops (Ultimate)
+  score: 2
+- name: Beast (Ultimate)
   score: 2
