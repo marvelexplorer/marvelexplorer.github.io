@@ -1,12 +1,12 @@
 ---
-date: '2003-05-01T00:00:00-0400'
-year: '2003'
-title: 'Weapon X (2002) #7'
-issue: 7
+date: '2001-10-01T00:00:00-0400'
+year: '2001'
+title: 'Deadpool (1997) #57'
+issue: 57
 series:
-  period: '2002'
-  name: Weapon X
-url: http://marvel.com/comics/issue/18096/weapon_x_2002_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1997'
+  name: Deadpool
+url: http://marvel.com/comics/issue/8514/deadpool_1997_57?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/595134ff13af2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/5a131ca310ae0
   extension: jpg
