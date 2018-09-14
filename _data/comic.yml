@@ -1,12 +1,12 @@
 ---
-date: '2004-05-01T00:00:00-0400'
-year: '2004'
-title: 'Avengers (1998) #80'
-issue: 80
+date: '2001-07-10T00:00:00-0400'
+year: '2001'
+title: 'Avengers (1998) #42'
+issue: 42
 series:
   period: '1998'
   name: Avengers
-url: http://marvel.com/comics/issue/429/avengers_1998_80?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/17526/avengers_1998_42?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/586d5b743932e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/58627cae8eacd
   extension: jpg
