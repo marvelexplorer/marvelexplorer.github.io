@@ -1,7 +1,7 @@
 ---
-- name: Spider-Man (Ultimate)
-  score: 3
 - name: Storm
+  score: 4
+- name: Spider-Man (Ultimate)
   score: 3
 - name: Avengers
   score: 3
