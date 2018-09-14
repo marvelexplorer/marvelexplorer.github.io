@@ -1,12 +1,12 @@
 ---
-date: '1993-03-01T00:00:00-0500'
-year: '1993'
-title: 'Guardians of the Galaxy (1990) #34'
-issue: 34
+date: '2017-07-26T00:00:00-0400'
+year: '2017'
+title: 'The Mighty Captain Marvel (2017) #7'
+issue: 7
 series:
-  period: '1990'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/61801/guardians_of_the_galaxy_1990_34?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: The Mighty Captain Marvel
+url: http://marvel.com/comics/issue/61432/the_mighty_captain_marvel_2017_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/58d04edbb977d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/596d111d296ce
   extension: jpg
