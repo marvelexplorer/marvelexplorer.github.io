@@ -1,12 +1,12 @@
 ---
-date: '1998-08-10T00:00:00-0400'
-year: '1998'
-title: 'Avengers (1998) #7'
-issue: 7
+date: '2010-11-17T00:00:00-0500'
+year: '2010'
+title: 'Chaos War: Dead Avengers (2010) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17556/avengers_1998_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Chaos War: Dead Avengers'
+url: http://marvel.com/comics/issue/37064/chaos_war_dead_avengers_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/585169a485b34
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4f68c30100312
   extension: jpg
