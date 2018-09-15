@@ -1,12 +1,12 @@
 ---
-date: '1991-09-10T00:00:00-0400'
-year: '1991'
-title: 'Avengers (1963) #337'
-issue: 337
+date: '2011-05-07T00:00:00-0400'
+year: '2011'
+title: 'Free Comic Book Day (Thor the Mighty Avenger) (2011) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7216/avengers_1963_337?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Free Comic Book Day (Thor the Mighty Avenger)
+url: http://marvel.com/comics/issue/38206/free_comic_book_day_thor_the_mighty_avenger_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/51f9469c2d518
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/5b36b2eb8a7be
   extension: jpg
