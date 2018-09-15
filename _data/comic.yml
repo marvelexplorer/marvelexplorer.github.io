@@ -1,12 +1,12 @@
 ---
-date: '2012-12-19T00:00:00-0500'
-year: '2012'
-title: 'Cable and X-Force (2012) #2'
-issue: 2
+date: '1994-03-01T00:00:00-0500'
+year: '1994'
+title: 'X-Men Unlimited (1993) #4'
+issue: 4
 series:
-  period: '2012'
-  name: Cable and X-Force
-url: http://marvel.com/comics/issue/44769/cable_and_x-force_2012_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1993'
+  name: X-Men Unlimited
+url: http://marvel.com/comics/issue/18143/x-men_unlimited_1993_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5b291381b67d4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/5aeb5c7f10956
   extension: jpg
