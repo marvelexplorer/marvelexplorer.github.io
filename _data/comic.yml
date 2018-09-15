@@ -1,12 +1,12 @@
 ---
-date: '1995-07-10T00:00:00-0400'
-year: '1995'
-title: 'Cable (1993) #21'
-issue: 21
+date: '2014-03-26T00:00:00-0400'
+year: '2014'
+title: 'Deadpool (2012) #26'
+issue: 26
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7395/cable_1993_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Deadpool
+url: http://marvel.com/comics/issue/48614/deadpool_2012_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/56f957cfa22f6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/531f589d5ae0a
   extension: jpg
