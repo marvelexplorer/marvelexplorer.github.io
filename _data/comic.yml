@@ -1,12 +1,12 @@
 ---
-date: '2016-09-14T00:00:00-0400'
-year: '2016'
-title: 'Uncanny Inhumans (2015) #13'
-issue: 13
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers (1998) #57'
+issue: 57
 series:
-  period: '2015'
-  name: Uncanny Inhumans
-url: http://marvel.com/comics/issue/55806/uncanny_inhumans_2015_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17542/avengers_1998_57?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/57c98508bd598
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5863dd6a70a67
   extension: jpg
