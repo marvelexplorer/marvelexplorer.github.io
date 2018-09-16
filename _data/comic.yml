@@ -1,12 +1,12 @@
 ---
-date: '1999-07-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #4'
-issue: 4
+date: '2016-09-14T00:00:00-0400'
+year: '2016'
+title: 'Uncanny Inhumans (2015) #13'
+issue: 13
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8554/earth_x_1999_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Uncanny Inhumans
+url: http://marvel.com/comics/issue/55806/uncanny_inhumans_2015_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5a95b28fa4a88
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/57c98508bd598
   extension: jpg
