@@ -1,12 +1,12 @@
 ---
-date: '1997-01-01T00:00:00-0500'
-year: '1997'
-title: 'Daily Bugle (1996) #2'
-issue: 2
+date: '2017-09-20T00:00:00-0400'
+year: '2017'
+title: 'Peter Parker: The Spectacular Spider-Man (2017) #4'
+issue: 4
 series:
-  period: '1996'
-  name: Daily Bugle
-url: http://marvel.com/comics/issue/65141/daily_bugle_1996_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: 'Peter Parker: The Spectacular Spider-Man'
+url: http://marvel.com/comics/issue/64589/peter_parker_the_spectacular_spider-man_2017_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/59c421f339cea
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/59b9408c2f170
   extension: jpg
