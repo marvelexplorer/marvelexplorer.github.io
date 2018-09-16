@@ -1,12 +1,12 @@
 ---
-date: '1987-01-21T00:00:00-0500'
-year: '1987'
-title: 'Amazing Spider-Man Annual (1964) #21'
-issue: 21
+date: '1997-01-01T00:00:00-0500'
+year: '1997'
+title: 'Daily Bugle (1996) #2'
+issue: 2
 series:
-  period: '1964'
-  name: Amazing Spider-Man Annual
-url: http://marvel.com/comics/issue/16896/amazing_spider-man_annual_1964_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1996'
+  name: Daily Bugle
+url: http://marvel.com/comics/issue/65141/daily_bugle_1996_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/56d724039be32
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/59c421f339cea
   extension: jpg
