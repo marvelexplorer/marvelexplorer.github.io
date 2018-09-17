@@ -1,12 +1,12 @@
 ---
-date: '1963-07-02T00:00:00-0400'
-year: '1963'
-title: 'Fantastic Four Annual (1963) #1'
-issue: 1
+date: '1981-05-10T00:00:00-0400'
+year: '1981'
+title: 'Fantastic Four (1961) #230'
+issue: 230
 series:
-  period: '1963'
-  name: Fantastic Four Annual
-url: http://marvel.com/comics/issue/8687/fantastic_four_annual_1963_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13040/fantastic_four_1961_230?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5ad769d1d8f70
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/531f7501676a6
   extension: jpg
