@@ -1,12 +1,12 @@
 ---
-date: '1964-10-10T00:00:00-0400'
-year: '1964'
-title: 'Fantastic Four (1961) #31'
-issue: 31
+date: '1999-09-01T00:00:00-0400'
+year: '1999'
+title: 'Galactus the Devourer (1999) #1'
+issue: 1
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13128/fantastic_four_1961_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Galactus the Devourer
+url: http://marvel.com/comics/issue/55273/galactus_the_devourer_1999_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5aaac0dd43121
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/57e1925ec6ec7
   extension: jpg
