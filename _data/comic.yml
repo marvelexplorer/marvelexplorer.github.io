@@ -1,12 +1,12 @@
 ---
-date: '2008-02-13T00:00:00-0500'
-year: '2008'
-title: 'Black Panther (2005) #34'
-issue: 34
+date: '2006-07-12T00:00:00-0400'
+year: '2006'
+title: 'Marvel Adventures Fantastic Four (2005) #14'
+issue: 14
 series:
   period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/17596/black_panther_2005_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Marvel Adventures Fantastic Four
+url: http://marvel.com/comics/issue/4477/marvel_adventures_fantastic_four_2005_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5747068830e61
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc5d7a8ba74a
   extension: jpg
