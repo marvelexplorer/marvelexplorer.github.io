@@ -1,12 +1,12 @@
 ---
-date: '2009-11-04T00:00:00-0500'
-year: '2009'
-title: 'Astonishing X-Men (2004) #32'
-issue: 32
+date: '2008-02-13T00:00:00-0500'
+year: '2008'
+title: 'Black Panther (2005) #34'
+issue: 34
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/24503/astonishing_x-men_2004_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Black Panther
+url: http://marvel.com/comics/issue/17596/black_panther_2005_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/58f8c7b0920ee
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5747068830e61
   extension: jpg
