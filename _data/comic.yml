@@ -1,12 +1,12 @@
 ---
-date: '2018-06-27T00:00:00-0400'
-year: '2018'
-title: 'Marvel 2-in-One (2017) #7'
-issue: 7
+date: '1990-07-10T00:00:00-0400'
+year: '1990'
+title: 'Fantastic Four (1961) #340'
+issue: 340
 series:
-  period: '2017'
-  name: Marvel 2-in-One
-url: http://marvel.com/comics/issue/67172/marvel_2-in-one_2017_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13162/fantastic_four_1961_340?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5b2c11de5e475
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/5ac675e16bfb0
   extension: jpg
