@@ -1,12 +1,12 @@
 ---
-date: '2018-03-14T00:00:00-0400'
-year: '2018'
-title: 'X-Men: Blue (2017) #23'
-issue: 23
+date: '2000-03-10T00:00:00-0500'
+year: '2000'
+title: 'Fantastic Four (1998) #27'
+issue: 27
 series:
-  period: '2017'
-  name: 'X-Men: Blue'
-url: http://marvel.com/comics/issue/66518/x-men_blue_2017_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15546/fantastic_four_1998_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5aa062f49e90a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5ace5b77316b9
   extension: jpg
