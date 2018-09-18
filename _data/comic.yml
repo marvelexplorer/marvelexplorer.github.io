@@ -1,12 +1,12 @@
 ---
-date: '2006-06-21T00:00:00-0400'
-year: '2006'
-title: 'New Avengers (2004) #20'
-issue: 20
+date: '2010-01-27T00:00:00-0500'
+year: '2010'
+title: 'X-Men Legacy (2008) #232'
+issue: 232
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/4282/new_avengers_2004_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/28415/x-men_legacy_2008_232?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f7f0422bd5b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/51a4e1aa04284
   extension: jpg
