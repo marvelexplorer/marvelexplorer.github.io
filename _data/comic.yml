@@ -1,12 +1,12 @@
 ---
-date: '1981-05-10T00:00:00-0400'
-year: '1981'
-title: 'Fantastic Four (1961) #230'
-issue: 230
+date: '2006-06-21T00:00:00-0400'
+year: '2006'
+title: 'New Avengers (2004) #20'
+issue: 20
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13040/fantastic_four_1961_230?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/4282/new_avengers_2004_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/531f7501676a6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f7f0422bd5b9
   extension: jpg
