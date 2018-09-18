@@ -1,12 +1,12 @@
 ---
-date: '2012-02-01T00:00:00-0500'
-year: '2012'
-title: 'Amazing Spider-Man (1999) #679'
-issue: 679
+date: '1999-06-02T00:00:00-0400'
+year: '1999'
+title: 'Amazing Spider-Man (1999) #6'
+issue: 6
 series:
   period: '1999'
   name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/40136/amazing_spider-man_1999_679?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/37900/amazing_spider-man_1999_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/57ebdf06326cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/80/57e1969d82852
   extension: jpg
