@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 4
-- name: Iron Man
-  score: 4
 - name: Thor
   score: 4
 - name: J. Jonah Jameson
   score: 3
 - name: Wolverine
+  score: 3
+- name: Iron Man
   score: 3
