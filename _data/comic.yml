@@ -1,12 +1,12 @@
 ---
-date: '2012-05-30T00:00:00-0400'
-year: '2012'
-title: 'New Mutants (2009) #43'
-issue: 43
+date: '2018-06-27T00:00:00-0400'
+year: '2018'
+title: 'Thor (2018) #2'
+issue: 2
 series:
-  period: '2009'
-  name: New Mutants
-url: http://marvel.com/comics/issue/40720/new_mutants_2009_43?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2018'
+  name: Thor
+url: http://marvel.com/comics/issue/69922/thor_2018_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5155d56f0d951
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/70/5b2c17100e1ef
   extension: jpg
