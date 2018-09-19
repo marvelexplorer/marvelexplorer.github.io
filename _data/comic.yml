@@ -1,12 +1,12 @@
 ---
-date: '2001-11-01T00:00:00-0500'
-year: '2001'
-title: 'Incredible Hulk (1999) #32'
-issue: 32
+date: '1989-07-01T00:00:00-0400'
+year: '1989'
+title: 'Sensational She-Hulk (1989) #3'
+issue: 3
 series:
-  period: '1999'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/14432/incredible_hulk_1999_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1989'
+  name: Sensational She-Hulk
+url: http://marvel.com/comics/issue/65152/sensational_she-hulk_1989_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/598b2fb6beea8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/5a0caa0b48fbc
   extension: jpg
