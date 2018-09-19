@@ -1,12 +1,12 @@
 ---
-date: '1997-03-01T00:00:00-0500'
-year: '1997'
-title: 'Spider-Man: Hobgoblin Lives (1997) #3'
-issue: 3
+date: '1982-01-16T00:00:00-0500'
+year: '1982'
+title: 'Amazing Spider-Man Annual (1964) #16'
+issue: 16
 series:
-  period: '1997'
-  name: 'Spider-Man: Hobgoblin Lives'
-url: http://marvel.com/comics/issue/63935/spider-man_hobgoblin_lives_1997_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Amazing Spider-Man Annual
+url: http://marvel.com/comics/issue/16890/amazing_spider-man_annual_1964_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/5916438835e3f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/56d72043e5926
   extension: jpg
