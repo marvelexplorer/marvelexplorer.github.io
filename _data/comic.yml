@@ -1,12 +1,12 @@
 ---
-date: '1979-10-01T00:00:00-0400'
-year: '1979'
-title: 'Spider-Woman (1978) #19'
-issue: 19
+date: '1991-02-10T00:00:00-0500'
+year: '1991'
+title: 'Doctor Strange, Sorcerer Supreme (1988) #26'
+issue: 26
 series:
-  period: '1978'
-  name: Spider-Woman
-url: http://marvel.com/comics/issue/10945/spider-woman_1978_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Doctor Strange, Sorcerer Supreme
+url: http://marvel.com/comics/issue/20186/doctor_strange_sorcerer_supreme_1988_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/5b0716d204107
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/59f0fc123b386
   extension: jpg
