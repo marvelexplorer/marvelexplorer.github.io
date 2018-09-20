@@ -1,12 +1,12 @@
 ---
-date: '2011-02-02T00:00:00-0500'
-year: '2011'
-title: 'Iron Man Legacy (2010) #11'
-issue: 11
+date: '2010-01-20T00:00:00-0500'
+year: '2010'
+title: 'Realm of Kings: Inhumans (2009) #3'
+issue: 3
 series:
-  period: '2010'
-  name: Iron Man Legacy
-url: http://marvel.com/comics/issue/33698/iron_man_legacy_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2009'
+  name: 'Realm of Kings: Inhumans'
+url: http://marvel.com/comics/issue/28703/realm_of_kings_inhumans_2009_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f689ab27000a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/577ff6cff41aa
   extension: jpg
