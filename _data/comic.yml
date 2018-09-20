@@ -1,12 +1,12 @@
 ---
-date: '2016-07-06T00:00:00-0400'
-year: '2016'
-title: 'Spider-Woman (2015) #9'
-issue: 9
+date: '2008-03-12T00:00:00-0400'
+year: '2008'
+title: 'Mighty Avengers (2007) #10'
+issue: 10
 series:
-  period: '2015'
-  name: Spider-Woman
-url: http://marvel.com/comics/issue/56172/spider-woman_2015_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/20865/mighty_avengers_2007_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/57753cc09b22b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/4d25110a891ab
   extension: jpg
