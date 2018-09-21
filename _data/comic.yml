@@ -1,12 +1,12 @@
 ---
-date: '1969-12-10T00:00:00-0500'
-year: '1969'
-title: 'Avengers (1963) #71'
-issue: 71
+date: '2011-10-26T00:00:00-0400'
+year: '2011'
+title: 'Avengers Academy (2010) #20'
+issue: 20
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7323/avengers_1963_71?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Avengers Academy
+url: http://marvel.com/comics/issue/36487/avengers_academy_2010_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/586d6db2497fe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/5a2708bb7fd3c
   extension: jpg
