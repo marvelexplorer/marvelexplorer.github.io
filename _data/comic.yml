@@ -1,12 +1,12 @@
 ---
-date: '2000-02-10T00:00:00-0500'
-year: '2000'
-title: 'Iron Man (1998) #25'
-issue: 25
+date: '1969-12-10T00:00:00-0500'
+year: '1969'
+title: 'Avengers (1963) #71'
+issue: 71
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/19897/iron_man_1998_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7323/avengers_1963_71?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/594ad85e18d16
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/586d6db2497fe
   extension: jpg
