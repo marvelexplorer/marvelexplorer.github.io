@@ -1,12 +1,12 @@
 ---
-date: '2010-01-20T00:00:00-0500'
-year: '2010'
-title: 'Realm of Kings: Inhumans (2009) #3'
-issue: 3
+date: '2016-10-19T00:00:00-0400'
+year: '2016'
+title: 'Death of X (2016) #2'
+issue: 2
 series:
-  period: '2009'
-  name: 'Realm of Kings: Inhumans'
-url: http://marvel.com/comics/issue/28703/realm_of_kings_inhumans_2009_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Death of X
+url: http://marvel.com/comics/issue/60430/death_of_x_2016_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/577ff6cff41aa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/57fe4cdf3b2a5
   extension: jpg
