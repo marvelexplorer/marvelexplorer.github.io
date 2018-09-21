@@ -1,12 +1,12 @@
 ---
-date: '2002-04-01T00:00:00-0500'
-year: '2002'
-title: 'Avengers: Celestial Quest (2001) #6'
-issue: 6
+date: '1988-01-10T00:00:00-0500'
+year: '1988'
+title: 'Silver Surfer (1987) #7'
+issue: 7
 series:
-  period: '2001'
-  name: 'Avengers: Celestial Quest'
-url: http://marvel.com/comics/issue/55877/avengers_celestial_quest_2001_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1987'
+  name: Silver Surfer
+url: http://marvel.com/comics/issue/15208/silver_surfer_1987_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/55e7526c82931
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/5b071647c6046
   extension: jpg
