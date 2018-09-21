@@ -1,12 +1,12 @@
 ---
-date: '1973-01-10T00:00:00-0500'
-year: '1973'
-title: 'Avengers (1963) #107'
-issue: 107
+date: '2002-04-01T00:00:00-0500'
+year: '2002'
+title: 'Avengers: Celestial Quest (2001) #6'
+issue: 6
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/6961/avengers_1963_107?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: 'Avengers: Celestial Quest'
+url: http://marvel.com/comics/issue/55877/avengers_celestial_quest_2001_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/a0/58754c7310671
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/55e7526c82931
   extension: jpg
