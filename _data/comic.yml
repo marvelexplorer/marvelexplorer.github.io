@@ -1,12 +1,12 @@
 ---
-date: '1988-07-10T00:00:00-0400'
-year: '1988'
-title: 'Classic X-Men (1986) #23'
-issue: 23
+date: '2001-02-10T00:00:00-0500'
+year: '2001'
+title: 'Wolverine (1988) #159'
+issue: 159
 series:
-  period: '1986'
-  name: Classic X-Men
-url: http://marvel.com/comics/issue/20578/classic_x-men_1986_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14102/wolverine_1988_159?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bb67ada5dc69
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb79daa75186
   extension: jpg
