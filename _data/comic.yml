@@ -1,12 +1,12 @@
 ---
-date: '2009-12-23T00:00:00-0500'
-year: '2009'
-title: 'Uncanny X-Men (1963) #519'
-issue: 519
+date: '2001-05-02T00:00:00-0400'
+year: '2001'
+title: 'X-Men: The Hidden Years (1999) #20'
+issue: 20
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/26972/uncanny_x-men_1963_519?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: 'X-Men: The Hidden Years'
+url: http://marvel.com/comics/issue/65375/x-men_the_hidden_years_1999_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/59272efd4012f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5a58c833a8db7
   extension: jpg
