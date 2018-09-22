@@ -1,12 +1,12 @@
 ---
-date: '2001-05-02T00:00:00-0400'
-year: '2001'
-title: 'X-Men: The Hidden Years (1999) #20'
-issue: 20
+date: '1973-01-01T00:00:00-0500'
+year: '1973'
+title: 'Fantastic Four (1961) #130'
+issue: 130
 series:
-  period: '1999'
-  name: 'X-Men: The Hidden Years'
-url: http://marvel.com/comics/issue/65375/x-men_the_hidden_years_1999_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/12929/fantastic_four_1961_130?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5a58c833a8db7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5ab95f8700b95
   extension: jpg
