@@ -1,12 +1,12 @@
 ---
-date: '1974-07-10T00:00:00-0400'
-year: '1974'
-title: 'Giant-Size Defenders (1974) #1'
+date: '1939-10-01T00:00:00-0500'
+year: '1939'
+title: 'Marvel Comics (1939) #1'
 issue: 1
 series:
-  period: '1974'
-  name: Giant-Size Defenders
-url: http://marvel.com/comics/issue/20026/giant-size_defenders_1974_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1939'
+  name: Marvel Comics
+url: http://marvel.com/comics/issue/10008/marvel_comics_1939_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/564b57c591dff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4
   extension: jpg
