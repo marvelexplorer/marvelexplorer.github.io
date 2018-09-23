@@ -1,12 +1,12 @@
 ---
-date: '2011-06-22T00:00:00-0400'
-year: '2011'
-title: 'X-Men Legacy (2008) #251'
-issue: 251
+date: '2018-01-24T00:00:00-0500'
+year: '2018'
+title: 'Legion (2018) #1'
+issue: 1
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/36432/x-men_legacy_2008_251?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2018'
+  name: Legion
+url: http://marvel.com/comics/issue/65913/legion_2018_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/51a4e62272979
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5a6110e349dc8
   extension: jpg
