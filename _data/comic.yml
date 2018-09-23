@@ -1,12 +1,12 @@
 ---
-date: '2016-09-21T00:00:00-0400'
-year: '2016'
-title: 'Uncanny X-Men (2016) #13'
-issue: 13
+date: '2011-06-22T00:00:00-0400'
+year: '2011'
+title: 'X-Men Legacy (2008) #251'
+issue: 251
 series:
-  period: '2016'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/56061/uncanny_x-men_2016_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/36432/x-men_legacy_2008_251?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/57d867f3154c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/51a4e62272979
   extension: jpg
