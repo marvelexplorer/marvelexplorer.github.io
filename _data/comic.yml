@@ -1,12 +1,12 @@
 ---
-date: '1992-08-01T00:00:00-0400'
-year: '1992'
-title: 'New Warriors (1990) #26'
-issue: 26
+date: '1994-07-10T00:00:00-0400'
+year: '1994'
+title: 'Iron Man (1968) #306'
+issue: 306
 series:
-  period: '1990'
-  name: New Warriors
-url: http://marvel.com/comics/issue/69158/new_warriors_1990_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9557/iron_man_1968_306?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5b7738d139bb2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5a78aed130f79
   extension: jpg
