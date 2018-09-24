@@ -1,12 +1,12 @@
 ---
-date: '2005-02-23T00:00:00-0500'
-year: '2005'
-title: 'X-Force: Shatterstar (2005) #1'
-issue: 1
+date: '2009-07-15T00:00:00-0400'
+year: '2009'
+title: 'X-Factor (2005) #46'
+issue: 46
 series:
   period: '2005'
-  name: 'X-Force: Shatterstar'
-url: http://marvel.com/comics/issue/1659/x-force_shatterstar_2005_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: X-Factor
+url: http://marvel.com/comics/issue/27242/x-factor_2005_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/5ac7a66851e44
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/59527de1f36ef
   extension: jpg
