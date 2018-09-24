@@ -1,12 +1,12 @@
 ---
-date: '2018-04-04T00:00:00-0400'
-year: '2018'
-title: 'True Believers: Avengers Vs. Thanos (2018) #1'
-issue: 1
+date: '2010-04-21T00:00:00-0400'
+year: '2010'
+title: 'Guardians of the Galaxy (2008) #25'
+issue: 25
 series:
-  period: '2018'
-  name: 'True Believers: Avengers Vs. Thanos'
-url: http://marvel.com/comics/issue/66800/true_believers_avengers_vs_thanos_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/32551/guardians_of_the_galaxy_2008_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/5abd66210bc17
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/517ad7c491ddf
   extension: jpg
