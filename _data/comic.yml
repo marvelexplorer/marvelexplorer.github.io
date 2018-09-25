@@ -1,12 +1,12 @@
 ---
-date: '2012-11-14T00:00:00-0500'
-year: '2012'
-title: 'All-New X-Men (2012) #1'
-issue: 1
+date: '1995-05-10T00:00:00-0400'
+year: '1995'
+title: 'X-Man (1995) #3'
+issue: 3
 series:
-  period: '2012'
-  name: All-New X-Men
-url: http://marvel.com/comics/issue/43462/all-new_x-men_2012_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1995'
+  name: X-Man
+url: http://marvel.com/comics/issue/18199/x-man_1995_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/5aaac2a668ca8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/5966408423a2f
   extension: jpg
