@@ -1,12 +1,12 @@
 ---
-date: '2011-03-09T00:00:00-0500'
-year: '2011'
-title: 'New Avengers (2010) #10'
-issue: 10
+date: '2007-06-27T00:00:00-0400'
+year: '2007'
+title: 'X-Men (2004) #200'
+issue: 200
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/32704/new_avengers_2010_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/15800/x-men_2004_200?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/577424b647f5d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/58b4406e3d40e
   extension: jpg
