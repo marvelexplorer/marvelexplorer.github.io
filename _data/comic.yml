@@ -1,12 +1,12 @@
 ---
-date: '2009-12-03T00:00:00-0500'
-year: '2009'
-title: 'Uncanny X-Men (1963) #518'
-issue: 518
+date: '2012-11-14T00:00:00-0500'
+year: '2012'
+title: 'All-New X-Men (2012) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/26971/uncanny_x-men_1963_518?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: All-New X-Men
+url: http://marvel.com/comics/issue/43462/all-new_x-men_2012_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/59272d4a09b86
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/5aaac2a668ca8
   extension: jpg
