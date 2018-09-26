@@ -1,12 +1,12 @@
 ---
-date: '2010-08-11T00:00:00-0400'
-year: '2010'
-title: 'Ultimate Comics Avengers 3 (2010) #1'
-issue: 1
+date: '2004-11-01T00:00:00-0500'
+year: '2004'
+title: 'Avengers (1998) #502'
+issue: 502
 series:
-  period: '2010'
-  name: Ultimate Comics Avengers 3
-url: http://marvel.com/comics/issue/33705/ultimate_comics_avengers_3_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/845/avengers_1998_502?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5a8f269d6adfa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f58d176985bc
   extension: jpg
