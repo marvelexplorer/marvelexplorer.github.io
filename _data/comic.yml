@@ -1,12 +1,12 @@
 ---
-date: '2004-11-01T00:00:00-0500'
-year: '2004'
-title: 'Avengers (1998) #502'
-issue: 502
+date: '1989-04-01T00:00:00-0500'
+year: '1989'
+title: 'Wolverine (1988) #6'
+issue: 6
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/845/avengers_1998_502?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14181/wolverine_1988_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f58d176985bc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc3656e12582
   extension: jpg
