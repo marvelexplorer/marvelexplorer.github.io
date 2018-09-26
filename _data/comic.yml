@@ -1,12 +1,12 @@
 ---
-date: '1989-04-01T00:00:00-0500'
-year: '1989'
-title: 'Wolverine (1988) #6'
-issue: 6
+date: '2008-03-26T00:00:00-0400'
+year: '2008'
+title: 'New Avengers (2004) #39'
+issue: 39
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14181/wolverine_1988_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/20837/new_avengers_2004_39?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc3656e12582
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4f7ef9ecf3f6d
   extension: jpg
