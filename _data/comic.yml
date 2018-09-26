@@ -1,12 +1,12 @@
 ---
-date: '1985-02-10T00:00:00-0500'
-year: '1985'
-title: 'Secret Wars (1984) #10'
-issue: 10
+date: '2005-08-31T00:00:00-0400'
+year: '2005'
+title: 'Astonishing X-Men (2004) #12'
+issue: 12
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10581/secret_wars_1984_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/2161/astonishing_x-men_2004_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/51dee63a1cf60
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/56ddf2bb45f54
   extension: jpg
