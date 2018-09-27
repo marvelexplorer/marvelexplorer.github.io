@@ -1,12 +1,12 @@
 ---
-date: '2009-02-04T00:00:00-0500'
-year: '2009'
-title: 'X-Men Vs. Hulk (2009) #1'
-issue: 1
+date: '2005-02-16T00:00:00-0500'
+year: '2005'
+title: 'Astonishing X-Men (2004) #8'
+issue: 8
 series:
-  period: '2009'
-  name: X-Men Vs. Hulk
-url: http://marvel.com/comics/issue/23124/x-men_vs_hulk_2009_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/1436/astonishing_x-men_2004_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/597a2bfcad35e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4d25117a9bdeb
   extension: jpg
