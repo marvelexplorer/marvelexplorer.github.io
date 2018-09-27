@@ -1,12 +1,12 @@
 ---
-date: '2011-12-07T00:00:00-0500'
+date: '2011-11-02T00:00:00-0400'
 year: '2011'
-title: 'X-Men (2010) #22'
-issue: 22
+title: 'X-Men (2010) #20'
+issue: 20
 series:
   period: '2010'
   name: X-Men
-url: http://marvel.com/comics/issue/40874/x-men_2010_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/38081/x-men_2010_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5159decc27910
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4eb0407c8b2af
   extension: jpg
