@@ -1,12 +1,12 @@
 ---
-date: '2017-07-26T00:00:00-0400'
-year: '2017'
-title: 'Weapon X (2017) #6'
-issue: 6
+date: '2011-12-07T00:00:00-0500'
+year: '2011'
+title: 'X-Men (2010) #22'
+issue: 22
 series:
-  period: '2017'
-  name: Weapon X
-url: http://marvel.com/comics/issue/63870/weapon_x_2017_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/40874/x-men_2010_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/596d1901bf9b8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5159decc27910
   extension: jpg
