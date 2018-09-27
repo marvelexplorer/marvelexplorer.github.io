@@ -1,12 +1,12 @@
 ---
-date: '1970-10-10T00:00:00-0400'
-year: '1970'
-title: 'Daredevil (1964) #69'
-issue: 69
+date: '2011-11-09T00:00:00-0500'
+year: '2011'
+title: 'Avengers Origins: Vision (2013) #1'
+issue: 1
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8419/daredevil_1964_69?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: 'Avengers Origins: Vision'
+url: http://marvel.com/comics/issue/32686/avengers_origins_vision_2013_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/03/558c00b631587
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5a1f21d33d1f6
   extension: jpg
