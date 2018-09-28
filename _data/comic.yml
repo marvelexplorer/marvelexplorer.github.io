@@ -1,12 +1,12 @@
 ---
-date: '2010-02-24T00:00:00-0500'
-year: '2010'
-title: 'X-Men Legacy (2008) #233'
-issue: 233
+date: '1989-05-10T00:00:00-0400'
+year: '1989'
+title: 'Classic X-Men (1986) #33'
+issue: 33
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/30700/x-men_legacy_2008_233?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20589/classic_x-men_1986_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/51a4e27c40a31
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/569ea8331c36b
   extension: jpg
