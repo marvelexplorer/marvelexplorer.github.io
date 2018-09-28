@@ -1,12 +1,12 @@
 ---
-date: '2003-11-01T00:00:00-0500'
-year: '2003'
-title: 'Uncanny X-Men (1963) #433'
-issue: 433
+date: '2006-05-17T00:00:00-0400'
+year: '2006'
+title: 'X-Men (2004) #186'
+issue: 186
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/274/uncanny_x-men_1963_433?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/4181/x-men_2004_186?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/591c6bcd75f5d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/58b45345bbe2d
   extension: jpg
