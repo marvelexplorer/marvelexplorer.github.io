@@ -1,12 +1,12 @@
 ---
-date: '2008-02-13T00:00:00-0500'
-year: '2008'
-title: 'Iron Man and Power Pack (2007) #4'
-issue: 4
+date: '2005-11-30T00:00:00-0500'
+year: '2005'
+title: 'X-Men and Power Pack (2005) #2'
+issue: 2
 series:
-  period: '2007'
-  name: Iron Man and Power Pack
-url: http://marvel.com/comics/issue/20697/iron_man_and_power_pack_2007_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: X-Men and Power Pack
+url: http://marvel.com/comics/issue/3093/x-men_and_power_pack_2005_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/5b746de967f0e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/5970ac90af0c6
   extension: jpg
