@@ -1,12 +1,12 @@
 ---
-date: '1986-01-10T00:00:00-0500'
-year: '1986'
-title: 'X-Men Annual (1970) #10'
-issue: 10
+date: '2010-02-24T00:00:00-0500'
+year: '2010'
+title: 'X-Men Legacy (2008) #233'
+issue: 233
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12356/x-men_annual_1970_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/30700/x-men_legacy_2008_233?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/59661c427e01b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/51a4e27c40a31
   extension: jpg
