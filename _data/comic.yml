@@ -1,12 +1,12 @@
 ---
-date: '2008-02-20T00:00:00-0500'
-year: '2008'
-title: 'Mighty Avengers (2007) #9'
-issue: 9
+date: '2013-08-21T00:00:00-0400'
+year: '2013'
+title: 'Avengers Assemble (2012) #18'
+issue: 18
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/20670/mighty_avengers_2007_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Avengers Assemble
+url: http://marvel.com/comics/issue/45882/avengers_assemble_2012_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4d24e7258c557
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/51ffc54950204
   extension: jpg
