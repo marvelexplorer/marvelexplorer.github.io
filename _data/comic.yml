@@ -1,12 +1,12 @@
 ---
-date: '2007-02-21T00:00:00-0500'
-year: '2007'
-title: 'Amazing Spider-Man (1999) #538'
-issue: 538
+date: '1992-07-20T00:00:00-0400'
+year: '1992'
+title: 'Captain America (1968) #403'
+issue: 403
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/5808/amazing_spider-man_1999_538?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7784/captain_america_1968_403?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/57fbe2d33e28a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/50b3feaa8e058
   extension: jpg
