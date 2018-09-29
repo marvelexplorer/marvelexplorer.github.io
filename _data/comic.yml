@@ -1,12 +1,12 @@
 ---
-date: '2013-08-21T00:00:00-0400'
-year: '2013'
-title: 'Avengers Assemble (2012) #18'
-issue: 18
+date: '2002-04-01T00:00:00-0500'
+year: '2002'
+title: 'Alias (2001) #6'
+issue: 6
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/45882/avengers_assemble_2012_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Alias
+url: http://marvel.com/comics/issue/37280/alias_2001_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/51ffc54950204
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/56966e52ebed7
   extension: jpg
