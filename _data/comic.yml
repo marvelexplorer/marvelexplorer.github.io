@@ -1,12 +1,12 @@
 ---
-date: '2002-09-01T00:00:00-0400'
-year: '2002'
-title: 'Avengers (1998) #56'
-issue: 56
+date: '2001-07-18T00:00:00-0400'
+year: '2001'
+title: 'Avengers Annual (2001) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17541/avengers_1998_56?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: Avengers Annual
+url: http://marvel.com/comics/issue/20628/avengers_annual_2001_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5863dbd42c777
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/5a281245c2907
   extension: jpg
