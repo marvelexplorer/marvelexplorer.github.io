@@ -1,12 +1,12 @@
 ---
-date: '1984-11-01T00:00:00-0500'
-year: '1984'
-title: 'Defenders (1972) #137'
-issue: 137
+date: '1993-01-10T00:00:00-0500'
+year: '1993'
+title: 'X-Men (1991) #16'
+issue: 16
 series:
-  period: '1972'
-  name: Defenders
-url: http://marvel.com/comics/issue/20304/defenders_1972_137?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14302/x-men_1991_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/5b8884458ae7f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/5b0ed1bf649ab
   extension: jpg
