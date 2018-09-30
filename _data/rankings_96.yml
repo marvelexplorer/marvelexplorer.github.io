@@ -1,10 +1,10 @@
 ---
 - name: X-Men
   score: 6
-- name: Iron Man
-  score: 4
 - name: Wolverine
   score: 4
+- name: Iron Man
+  score: 3
 - name: Storm
   score: 3
 - name: Nightcrawler
