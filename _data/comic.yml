@@ -1,12 +1,12 @@
 ---
-date: '1987-02-10T00:00:00-0500'
-year: '1987'
-title: 'New Mutants (1983) #48'
-issue: 48
+date: '2004-09-29T00:00:00-0400'
+year: '2004'
+title: 'Punisher 2099 (2004) #1'
+issue: 1
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10386/new_mutants_1983_48?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Punisher 2099
+url: http://marvel.com/comics/issue/1401/punisher_2099_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/5a05bcb3e79b7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/583d9ef1ca573
   extension: jpg
