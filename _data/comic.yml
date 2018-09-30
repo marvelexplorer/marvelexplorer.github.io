@@ -1,12 +1,12 @@
 ---
-date: '2016-08-31T00:00:00-0400'
-year: '2016'
-title: 'Spider-Man 2099 (2015) #14'
-issue: 14
+date: '1994-09-10T00:00:00-0400'
+year: '1994'
+title: 'Spider-Man 2099 (1992) #23'
+issue: 23
 series:
-  period: '2015'
+  period: '1992'
   name: Spider-Man 2099
-url: http://marvel.com/comics/issue/55726/spider-man_2099_2015_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/10880/spider-man_2099_1992_23?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57c0a4670eb99
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5925d515bfd93
   extension: jpg
