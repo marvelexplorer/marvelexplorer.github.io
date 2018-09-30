@@ -1,12 +1,12 @@
 ---
-date: '2004-09-29T00:00:00-0400'
-year: '2004'
-title: 'Punisher 2099 (2004) #1'
-issue: 1
+date: '2016-08-31T00:00:00-0400'
+year: '2016'
+title: 'Spider-Man 2099 (2015) #14'
+issue: 14
 series:
-  period: '2004'
-  name: Punisher 2099
-url: http://marvel.com/comics/issue/1401/punisher_2099_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: Spider-Man 2099
+url: http://marvel.com/comics/issue/55726/spider-man_2099_2015_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/583d9ef1ca573
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57c0a4670eb99
   extension: jpg
