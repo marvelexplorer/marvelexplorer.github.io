@@ -1,12 +1,12 @@
 ---
-date: '2011-08-10T00:00:00-0400'
-year: '2011'
-title: 'New Mutants (2009) #29'
-issue: 29
+date: '2003-11-05T00:00:00-0500'
+year: '2003'
+title: 'New Mutants (2003) #7'
+issue: 7
 series:
-  period: '2009'
+  period: '2003'
   name: New Mutants
-url: http://marvel.com/comics/issue/36504/new_mutants_2009_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/128/new_mutants_2003_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/5155d121dc396
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/5a033af415faf
   extension: jpg
