@@ -1,12 +1,12 @@
 ---
-date: '1994-09-10T00:00:00-0400'
-year: '1994'
-title: 'Cable (1993) #15'
-issue: 15
+date: '1989-12-10T00:00:00-0500'
+year: '1989'
+title: 'New Mutants (1983) #83'
+issue: 83
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7388/cable_1993_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1983'
+  name: New Mutants
+url: http://marvel.com/comics/issue/10425/new_mutants_1983_83?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/594c3c4445c10
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5a85eb0725b56
   extension: jpg
