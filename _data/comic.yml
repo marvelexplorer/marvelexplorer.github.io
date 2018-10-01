@@ -1,12 +1,12 @@
 ---
-date: '2000-10-10T00:00:00-0400'
-year: '2000'
-title: 'Captain America (1998) #34'
-issue: 34
+date: '1971-07-10T00:00:00-0400'
+year: '1971'
+title: 'Captain America (1968) #139'
+issue: 139
 series:
-  period: '1998'
+  period: '1968'
   name: Captain America
-url: http://marvel.com/comics/issue/12794/captain_america_1998_34?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/7520/captain_america_1968_139?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4e8ca45c14e3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/5995f4f2941c2
   extension: jpg
