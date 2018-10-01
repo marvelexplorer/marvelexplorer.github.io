@@ -1,12 +1,12 @@
 ---
-date: '1974-02-10T00:00:00-0400'
-year: '1974'
-title: 'Iron Man (1968) #66'
-issue: 66
+date: '1998-07-22T00:00:00-0400'
+year: '1998'
+title: 'Avengers Annual (1967) #1'
+issue: 1
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9622/iron_man_1968_66?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1967'
+  name: Avengers Annual
+url: http://marvel.com/comics/issue/20625/avengers_annual_1967_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5a674c82ee053
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/5a282d1d4aa8b
   extension: jpg
