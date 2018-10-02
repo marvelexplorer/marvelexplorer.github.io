@@ -1,12 +1,12 @@
 ---
-date: '1976-05-10T00:00:00-0400'
-year: '1976'
-title: 'Marvel Two-in-One (1974) #15'
-issue: 15
+date: '1993-05-10T00:00:00-0400'
+year: '1993'
+title: 'Doctor Strange, Sorcerer Supreme (1988) #53'
+issue: 53
 series:
-  period: '1974'
-  name: Marvel Two-in-One
-url: http://marvel.com/comics/issue/19482/marvel_two-in-one_1974_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Doctor Strange, Sorcerer Supreme
+url: http://marvel.com/comics/issue/20216/doctor_strange_sorcerer_supreme_1988_53?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/59b2eeae26ec8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5b9197d6177a0
   extension: jpg
