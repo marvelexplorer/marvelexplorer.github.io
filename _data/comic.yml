@@ -1,12 +1,12 @@
 ---
-date: '1985-11-10T00:00:00-0500'
-year: '1985'
-title: 'Avengers (1963) #261'
-issue: 261
+date: '1992-09-01T00:00:00-0400'
+year: '1992'
+title: 'Guardians of the Galaxy Annual (1991) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7132/avengers_1963_261?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: Guardians of the Galaxy Annual
+url: http://marvel.com/comics/issue/58028/guardians_of_the_galaxy_annual_1991_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5888d54d31c91
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5805330144a08
   extension: jpg
