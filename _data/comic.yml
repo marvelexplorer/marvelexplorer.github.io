@@ -1,12 +1,12 @@
 ---
-date: '2012-01-04T00:00:00-0500'
-year: '2012'
-title: 'Avengers Annual (2012) #1'
-issue: 1
+date: '1976-05-10T00:00:00-0400'
+year: '1976'
+title: 'Marvel Two-in-One (1974) #15'
+issue: 15
 series:
-  period: '2012'
-  name: Avengers Annual
-url: http://marvel.com/comics/issue/37174/avengers_annual_2012_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1974'
+  name: Marvel Two-in-One
+url: http://marvel.com/comics/issue/19482/marvel_two-in-one_1974_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/5a1eba1836e9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/59b2eeae26ec8
   extension: jpg
