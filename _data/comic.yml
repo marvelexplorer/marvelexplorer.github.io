@@ -1,12 +1,12 @@
 ---
-date: '2013-09-25T00:00:00-0400'
+date: '2013-12-31T00:00:00-0500'
 year: '2013'
-title: 'Guardians of the Galaxy (2013) #6'
-issue: 6
+title: 'Guardians of the Galaxy (2013) #10'
+issue: 10
 series:
   period: '2013'
   name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/43300/guardians_of_the_galaxy_2013_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/43296/guardians_of_the_galaxy_2013_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/523227b24d05f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/52b49a5acb634
   extension: jpg
