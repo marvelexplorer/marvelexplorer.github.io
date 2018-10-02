@@ -1,9 +1,9 @@
 ---
-- name: X-Men
-  score: 4
 - name: Iron Man
   score: 4
 - name: Nightcrawler
+  score: 3
+- name: X-Men
   score: 3
 - name: Beast
   score: 3
