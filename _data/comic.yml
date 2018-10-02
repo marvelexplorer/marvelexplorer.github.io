@@ -1,12 +1,12 @@
 ---
-date: '2016-10-19T00:00:00-0400'
-year: '2016'
-title: 'Doctor Strange (2015) #13'
-issue: 13
+date: '2011-09-28T00:00:00-0400'
+year: '2011'
+title: 'New Avengers (2010) #16.1'
+issue: 16.1
 series:
-  period: '2015'
-  name: Doctor Strange
-url: http://marvel.com/comics/issue/55427/doctor_strange_2015_13?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: New Avengers
+url: http://marvel.com/comics/issue/39700/new_avengers_2010_16.1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/57fe4d2c69285
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/517ae7302b5ce
   extension: jpg
