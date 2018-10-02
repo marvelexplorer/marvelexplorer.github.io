@@ -1,12 +1,12 @@
 ---
-date: '2011-09-28T00:00:00-0400'
-year: '2011'
-title: 'New Avengers (2010) #16.1'
-issue: 16.1
+date: '2006-09-20T00:00:00-0400'
+year: '2006'
+title: 'Sensational Spider-Man (2006) #30'
+issue: 30
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/39700/new_avengers_2010_16.1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Sensational Spider-Man
+url: http://marvel.com/comics/issue/5079/sensational_spider-man_2006_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/517ae7302b5ce
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/596fb8aa147d7
   extension: jpg
