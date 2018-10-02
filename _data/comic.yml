@@ -1,12 +1,12 @@
 ---
-date: '2017-05-31T00:00:00-0400'
-year: '2017'
-title: 'Secret Empire (2017) #3'
-issue: 3
+date: '2011-09-14T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself (2010) #6'
+issue: 6
 series:
-  period: '2017'
-  name: Secret Empire
-url: http://marvel.com/comics/issue/62836/secret_empire_2017_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Fear Itself
+url: http://marvel.com/comics/issue/38045/fear_itself_2010_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5925b5ac3fd7e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4e68c38da4b74
   extension: jpg
