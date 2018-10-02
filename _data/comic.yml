@@ -1,12 +1,12 @@
 ---
-date: '2012-02-08T00:00:00-0500'
-year: '2012'
-title: 'Deadpool (2008) #50'
-issue: 50
+date: '1994-06-10T00:00:00-0400'
+year: '1994'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #213'
+issue: 213
 series:
-  period: '2008'
-  name: Deadpool
-url: http://marvel.com/comics/issue/40209/deadpool_2008_50?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14669/peter_parker_the_spectacular_spider-man_1976_213?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51a501be2e6c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/5887bd7b1694c
   extension: jpg
