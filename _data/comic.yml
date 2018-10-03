@@ -1,12 +1,12 @@
 ---
-date: '1982-01-01T00:00:00-0500'
-year: '1982'
-title: 'Power Man and Iron Fist (1978) #77'
-issue: 77
+date: '2009-11-25T00:00:00-0500'
+year: '2009'
+title: 'New Avengers (2004) #59'
+issue: 59
 series:
-  period: '1978'
-  name: Power Man and Iron Fist
-url: http://marvel.com/comics/issue/62330/power_man_and_iron_fist_1978_77?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/26038/new_avengers_2004_59?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/57d9967642cef
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/5773e60d6594e
   extension: jpg
