@@ -1,12 +1,12 @@
 ---
-date: '2009-10-07T00:00:00-0400'
-year: '2009'
-title: 'Black Panther (2008) #9'
-issue: 9
+date: '1989-05-30T00:00:00-0400'
+year: '1989'
+title: 'Marvel Comics Presents (1988) #20'
+issue: 20
 series:
-  period: '2008'
-  name: Black Panther
-url: http://marvel.com/comics/issue/24620/black_panther_2008_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10098/marvel_comics_presents_1988_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/597b525f0199e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5aa162ef5e37f
   extension: jpg
