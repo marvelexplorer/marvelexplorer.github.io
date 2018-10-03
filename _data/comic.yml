@@ -1,12 +1,12 @@
 ---
-date: '1989-05-30T00:00:00-0400'
-year: '1989'
-title: 'Marvel Comics Presents (1988) #20'
-issue: 20
+date: '1993-07-01T00:00:00-0400'
+year: '1993'
+title: 'Doctor Strange, Sorcerer Supreme (1988) #55'
+issue: 55
 series:
   period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10098/marvel_comics_presents_1988_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Doctor Strange, Sorcerer Supreme
+url: http://marvel.com/comics/issue/20218/doctor_strange_sorcerer_supreme_1988_55?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5aa162ef5e37f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5b919b26e32be
   extension: jpg
