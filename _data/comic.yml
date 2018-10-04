@@ -1,12 +1,12 @@
 ---
-date: '2001-11-10T00:00:00-0500'
-year: '2001'
-title: 'Fantastic Four: 1234 (2001) #2'
-issue: 2
+date: '2012-01-18T00:00:00-0500'
+year: '2012'
+title: 'Uncanny X-Men (2011) #5'
+issue: 5
 series:
-  period: '2001'
-  name: 'Fantastic Four: 1234'
-url: http://marvel.com/comics/issue/16082/fantastic_four_1234_2001_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/40158/uncanny_x-men_2011_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/5ab50db562026
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/51895c418bd50
   extension: jpg
