@@ -1,12 +1,12 @@
 ---
-date: '1993-12-10T00:00:00-0500'
-year: '1993'
-title: 'Warlock Chronicles (1993) #6'
-issue: 6
+date: '2018-02-14T00:00:00-0500'
+year: '2018'
+title: 'The Unbeatable Squirrel Girl (2015) #29'
+issue: 29
 series:
-  period: '1993'
-  name: Warlock Chronicles
-url: http://marvel.com/comics/issue/23488/warlock_chronicles_1993_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: The Unbeatable Squirrel Girl
+url: http://marvel.com/comics/issue/66219/the_unbeatable_squirrel_girl_2015_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/5769976dd11f9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5a7b4d035a8ad
   extension: jpg
