@@ -1,12 +1,12 @@
 ---
-date: '2017-02-08T00:00:00-0500'
-year: '2017'
-title: 'Doctor Strange And The Sorcerers Supreme (2016) #5'
-issue: 5
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'Paradise X (2002) #10'
+issue: 10
 series:
-  period: '2016'
-  name: Doctor Strange And The Sorcerers Supreme
-url: http://marvel.com/comics/issue/61469/doctor_strange_and_the_sorcerers_supreme_2016_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Paradise X
+url: http://marvel.com/comics/issue/10494/paradise_x_2002_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/588fb2d1e7c36
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c36060ccbc56
   extension: jpg
