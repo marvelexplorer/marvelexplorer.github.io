@@ -1,12 +1,12 @@
 ---
-date: '1999-09-01T00:00:00-0400'
-year: '1999'
-title: 'Avengers (1998) #20'
-issue: 20
+date: '2007-10-03T00:00:00-0400'
+year: '2007'
+title: 'Iron Man: Enter the Mandarin (2007) #2'
+issue: 2
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17502/avengers_1998_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'Iron Man: Enter the Mandarin'
+url: http://marvel.com/comics/issue/16562/iron_man_enter_the_mandarin_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/58540da5bdc24
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/5a7a0f0ac8d49
   extension: jpg
