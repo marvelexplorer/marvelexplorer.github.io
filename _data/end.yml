@@ -1,10 +1,9 @@
 ---
-name: Wonder Man
-description: Simon Williams agreed to undergo an experiment to give him superhuman
-  powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon
-  that he would die without further treatments from Zemo in order to ensure his loyalty,
-  but Simon betrayed Zemo to the Avengers and ultimately joined their ranks.
-url: http://marvel.com/universe/Wonder_Man_(Simon_Williams)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Vision
+description: The metal monstrosity called Ultron created the synthetic humanoid known
+  as the Vision from the remains of the original android Human Torch of the 1940s
+  to serve as a vehicle of vengeance against the Avengers.
+url: http://marvel.com/universe/Vision_(Victor_Shade)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594
   extension: jpg
