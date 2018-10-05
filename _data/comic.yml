@@ -1,12 +1,12 @@
 ---
-date: '2010-06-30T00:00:00-0400'
-year: '2010'
-title: 'Invincible Iron Man Annual (2010) #1'
-issue: 1
+date: '2006-11-22T00:00:00-0500'
+year: '2006'
+title: 'Amazing Spider-Man (1999) #536'
+issue: 536
 series:
-  period: '2010'
-  name: Invincible Iron Man Annual
-url: http://marvel.com/comics/issue/31245/invincible_iron_man_annual_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/5094/amazing_spider-man_1999_536?utm_campaign=apiRef&utm_source=08b2622d41b93a9b1c8fbc9cca82ee6c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/58ff575624e12
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56fd2e0e0eca3
   extension: jpg
