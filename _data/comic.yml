@@ -1,12 +1,12 @@
 ---
-date: '2007-10-03T00:00:00-0400'
-year: '2007'
-title: 'Iron Man: Enter the Mandarin (2007) #2'
-issue: 2
+date: '2010-06-30T00:00:00-0400'
+year: '2010'
+title: 'Invincible Iron Man Annual (2010) #1'
+issue: 1
 series:
-  period: '2007'
-  name: 'Iron Man: Enter the Mandarin'
-url: http://marvel.com/comics/issue/16562/iron_man_enter_the_mandarin_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Invincible Iron Man Annual
+url: http://marvel.com/comics/issue/31245/invincible_iron_man_annual_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/5a7a0f0ac8d49
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/58ff575624e12
   extension: jpg
