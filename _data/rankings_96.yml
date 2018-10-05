@@ -1,11 +1,11 @@
 ---
 - name: Doctor Strange
   score: 4
-- name: Thing
-  score: 4
 - name: Iron Man
   score: 3
 - name: Spider-Man
   score: 3
 - name: Guardians of the Galaxy
+  score: 3
+- name: Thing
   score: 3
