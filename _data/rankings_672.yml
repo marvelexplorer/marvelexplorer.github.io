@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
   score: 24
-- name: Avengers
-  score: 21
 - name: X-Men
+  score: 20
+- name: Avengers
   score: 20
 - name: Wolverine
   score: 18
-- name: Cyclops
-  score: 13
+- name: Spider-Man
+  score: 14
