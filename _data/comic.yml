@@ -1,12 +1,12 @@
 ---
-date: '2018-08-29T00:00:00-0400'
+date: '2018-05-09T00:00:00-0400'
 year: '2018'
-title: 'Jessica Jones - Marvel Digital Original (2018) #2'
-issue: 2
+title: 'Hunt for Wolverine: Adamantium Agenda (2018) #1'
+issue: 1
 series:
   period: '2018'
-  name: Jessica Jones - Marvel Digital Original
-url: http://marvel.com/comics/issue/68748/jessica_jones_-_marvel_digital_original_2018_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: 'Hunt for Wolverine: Adamantium Agenda'
+url: http://marvel.com/comics/issue/67341/hunt_for_wolverine_adamantium_agenda_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/5b7d8c0005256
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/5aea30d90ef12
   extension: jpg
