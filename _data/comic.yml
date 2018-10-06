@@ -1,12 +1,12 @@
 ---
-date: '2013-06-19T00:00:00-0400'
-year: '2013'
-title: 'New Avengers (2013) #7'
-issue: 7
+date: '2011-08-31T00:00:00-0400'
+year: '2011'
+title: 'Iron Man 2.0 (2011) #8'
+issue: 8
 series:
-  period: '2013'
-  name: New Avengers
-url: http://marvel.com/comics/issue/43521/new_avengers_2013_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Iron Man 2.0
+url: http://marvel.com/comics/issue/29797/iron_man_2.0_2011_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/51b78bdbc8877
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4e53b29c819a9
   extension: jpg
