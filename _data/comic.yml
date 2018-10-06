@@ -1,12 +1,12 @@
 ---
-date: '1993-12-01T00:00:00-0500'
-year: '1993'
-title: 'Avengers: The Terminatrix Objective (1993) #4'
-issue: 4
+date: '2011-04-27T00:00:00-0400'
+year: '2011'
+title: 'Age of X: Universe (2011) #2'
+issue: 2
 series:
-  period: '1993'
-  name: 'Avengers: The Terminatrix Objective'
-url: http://marvel.com/comics/issue/55895/avengers_the_terminatrix_objective_1993_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Age of X: Universe'
+url: http://marvel.com/comics/issue/38523/age_of_x_universe_2011_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/57d6bd656c4e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/59773cf861be7
   extension: jpg
