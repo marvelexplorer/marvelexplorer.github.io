@@ -1,12 +1,12 @@
 ---
-date: '1965-01-10T00:00:00-0500'
-year: '1965'
-title: 'Avengers (1963) #12'
-issue: 12
+date: '2006-12-27T00:00:00-0500'
+year: '2006'
+title: 'Onslaught Reborn (2006) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/6975/avengers_1963_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Onslaught Reborn
+url: http://marvel.com/comics/issue/5658/onslaught_reborn_2006_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/5852b38bb0761
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5b43c811a551e
   extension: jpg
