@@ -1,12 +1,12 @@
 ---
-date: '1984-05-10T00:00:00-0400'
-year: '1984'
-title: 'New Mutants (1983) #15'
-issue: 15
+date: '1990-01-10T00:00:00-0500'
+year: '1990'
+title: 'New Mutants (1983) #85'
+issue: 85
 series:
   period: '1983'
   name: New Mutants
-url: http://marvel.com/comics/issue/10350/new_mutants_1983_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/10427/new_mutants_1983_85?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4c35f024eff6f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5a85ea5e3a8f9
   extension: jpg
