@@ -1,12 +1,12 @@
 ---
-date: '2013-05-01T00:00:00-0400'
-year: '2013'
-title: 'All-New X-Men (2012) #11'
-issue: 11
+date: '1966-02-10T00:00:00-0500'
+year: '1966'
+title: 'Avengers (1963) #25'
+issue: 25
 series:
-  period: '2012'
-  name: All-New X-Men
-url: http://marvel.com/comics/issue/43476/all-new_x-men_2012_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7119/avengers_1963_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/584b1e378e652
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/58544f224a2dc
   extension: jpg
