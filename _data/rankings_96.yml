@@ -1,11 +1,11 @@
 ---
 - name: Avengers
-  score: 6
+  score: 7
 - name: Iron Man
   score: 5
-- name: Doctor Strange
-  score: 3
 - name: Layla Miller
   score: 3
 - name: Captain America
+  score: 3
+- name: Black Panther
   score: 3
