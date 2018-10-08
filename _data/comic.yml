@@ -1,12 +1,12 @@
 ---
-date: '1996-12-10T00:00:00-0500'
+date: '1996-08-10T00:00:00-0400'
 year: '1996'
-title: 'The Amazing Spider-Man (1963) #418'
-issue: 418
+title: 'The Amazing Spider-Man (1963) #414'
+issue: 414
 series:
   period: '1963'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6836/the_amazing_spider-man_1963_418?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6832/the_amazing_spider-man_1963_414?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/57e01c63d537c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/57e017b6ac21d
   extension: jpg
