@@ -1,12 +1,12 @@
 ---
-date: '1998-05-10T00:00:00-0400'
-year: '1998'
-title: 'Incredible Hulk (1962) #464'
-issue: 464
+date: '1992-01-10T00:00:00-0500'
+year: '1992'
+title: 'Doctor Strange, Sorcerer Supreme (1988) #37'
+issue: 37
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9275/incredible_hulk_1962_464?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Doctor Strange, Sorcerer Supreme
+url: http://marvel.com/comics/issue/20198/doctor_strange_sorcerer_supreme_1988_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/5b92c1f95639c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/59f0f9816842d
   extension: jpg
