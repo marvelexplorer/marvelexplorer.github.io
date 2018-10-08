@@ -1,12 +1,12 @@
 ---
-date: '1992-01-10T00:00:00-0500'
-year: '1992'
-title: 'Doctor Strange, Sorcerer Supreme (1988) #37'
-issue: 37
+date: '1994-12-10T00:00:00-0500'
+year: '1994'
+title: 'Fantastic Four (1961) #395'
+issue: 395
 series:
-  period: '1988'
-  name: Doctor Strange, Sorcerer Supreme
-url: http://marvel.com/comics/issue/20198/doctor_strange_sorcerer_supreme_1988_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13222/fantastic_four_1961_395?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/59f0f9816842d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5acbc2e6c35b2
   extension: jpg
