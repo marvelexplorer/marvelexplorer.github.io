@@ -1,10 +1,8 @@
 ---
-name: Spider-Man
-description: Bitten by a radioactive spider, high school student Peter Parker gained
-  the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter
-  hoped to start a career using his new abilities. Taught that with great power comes
-  great responsibility, Spidey has vowed to use his powers to help people.
-url: http://marvel.com/universe/Spider-Man_(Peter_Parker)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Gwen Stacy
+description: Peter Parker's first true love, Gwen Stacy was killed during a rescue
+  attempt by Spider-Man, the guilt from which Peter has never overcome.
+url: http://marvel.com/universe/Stacy%2C_Gwen?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/40/4c003ad20ab78
   extension: jpg

@@ -1,12 +1,12 @@
 ---
-date: '1994-02-01T00:00:00-0500'
-year: '1994'
-title: 'Spider-Man: The Mutant Agenda (1994)'
-issue: 0
+date: '1969-03-10T00:00:00-0500'
+year: '1969'
+title: 'The Amazing Spider-Man (1963) #70'
+issue: 70
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/65254/spider-man_the_mutant_agenda_1994?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6891/the_amazing_spider-man_1963_70?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5a304a907bae7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/57adee5cc12f3
   extension: jpg
