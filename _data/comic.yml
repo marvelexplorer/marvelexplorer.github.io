@@ -1,12 +1,12 @@
 ---
-date: '1991-10-01T00:00:00-0400'
-year: '1991'
-title: 'Sensational She-Hulk (1989) #32'
-issue: 32
+date: '1967-04-10T00:00:00-0500'
+year: '1967'
+title: 'Tales of Suspense (1959) #88'
+issue: 88
 series:
-  period: '1989'
-  name: Sensational She-Hulk
-url: http://marvel.com/comics/issue/62544/sensational_she-hulk_1989_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11334/tales_of_suspense_1959_88?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5a73ad343f243
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/536d4749d6bee
   extension: jpg
