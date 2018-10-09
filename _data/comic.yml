@@ -1,12 +1,12 @@
 ---
 date: '2000-03-01T00:00:00-0500'
 year: '2000'
-title: 'Cable (1993) #77'
-issue: 77
+title: 'X-Men: The Hidden Years (1999) #4'
+issue: 4
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7456/cable_1993_77?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: 'X-Men: The Hidden Years'
+url: http://marvel.com/comics/issue/65866/x-men_the_hidden_years_1999_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/b0/4bb588179f9e8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5a569649acb22
   extension: jpg
