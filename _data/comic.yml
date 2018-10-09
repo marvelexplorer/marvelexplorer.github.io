@@ -1,12 +1,12 @@
 ---
-date: '2000-03-01T00:00:00-0500'
-year: '2000'
-title: 'X-Men: The Hidden Years (1999) #4'
-issue: 4
+date: '2005-02-23T00:00:00-0500'
+year: '2005'
+title: 'X-Men (2004) #167'
+issue: 167
 series:
-  period: '1999'
-  name: 'X-Men: The Hidden Years'
-url: http://marvel.com/comics/issue/65866/x-men_the_hidden_years_1999_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: X-Men
+url: http://marvel.com/comics/issue/1614/x-men_2004_167?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5a569649acb22
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/58af577ac8bbe
   extension: jpg
