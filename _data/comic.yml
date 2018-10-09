@@ -1,12 +1,12 @@
 ---
-date: '1999-07-07T00:00:00-0400'
-year: '1999'
-title: 'Amazing Spider-Man (1999) #7'
-issue: 7
+date: '1971-06-10T00:00:00-0400'
+year: '1971'
+title: 'The Amazing Spider-Man (1963) #97'
+issue: 97
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/37902/amazing_spider-man_1999_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6920/the_amazing_spider-man_1963_97?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/57e951af34154
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/57b1f2465b335
   extension: jpg
