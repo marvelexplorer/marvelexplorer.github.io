@@ -1,12 +1,12 @@
 ---
-date: '2018-08-01T00:00:00-0400'
-year: '2018'
-title: 'Ben Reilly: Scarlet Spider (2017) #22'
-issue: 22
+date: '1995-02-10T00:00:00-0500'
+year: '1995'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #221'
+issue: 221
 series:
-  period: '2017'
-  name: 'Ben Reilly: Scarlet Spider'
-url: http://marvel.com/comics/issue/67842/ben_reilly_scarlet_spider_2017_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14678/peter_parker_the_spectacular_spider-man_1976_221?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5b58d197295ad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/5820e411864c4
   extension: jpg
