@@ -1,12 +1,12 @@
 ---
-date: '2012-01-11T00:00:00-0500'
-year: '2012'
-title: 'Scarlet Spider (2011) #1'
-issue: 1
+date: '2018-03-07T00:00:00-0500'
+year: '2018'
+title: 'Doctor Strange: Damnation (2018) #2'
+issue: 2
 series:
-  period: '2011'
-  name: Scarlet Spider
-url: http://marvel.com/comics/issue/41172/scarlet_spider_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2018'
+  name: 'Doctor Strange: Damnation'
+url: http://marvel.com/comics/issue/66409/doctor_strange_damnation_2018_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5140c218cb8db
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/5a972938c09f6
   extension: jpg
