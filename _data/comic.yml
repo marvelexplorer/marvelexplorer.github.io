@@ -1,12 +1,12 @@
 ---
-date: '2013-01-09T00:00:00-0500'
-year: '2013'
-title: 'Punisher: War Zone (2012) #3'
-issue: 3
+date: '2006-08-16T00:00:00-0400'
+year: '2006'
+title: 'Marvel Adventures the Avengers (2006) #4'
+issue: 4
 series:
-  period: '2012'
-  name: 'Punisher: War Zone'
-url: http://marvel.com/comics/issue/45247/punisher_war_zone_2012_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/4817/marvel_adventures_the_avengers_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/583c9a5eb5284
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/4f6251f698eea
   extension: jpg
