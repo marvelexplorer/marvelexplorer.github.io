@@ -1,12 +1,12 @@
 ---
-date: '1969-06-10T00:00:00-0400'
-year: '1969'
-title: 'The Amazing Spider-Man (1963) #73'
-issue: 73
+date: '2000-03-01T00:00:00-0500'
+year: '2000'
+title: 'Cable (1993) #77'
+issue: 77
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6894/the_amazing_spider-man_1963_73?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7456/cable_1993_77?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/57ae13968b511
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/b0/4bb588179f9e8
   extension: jpg
