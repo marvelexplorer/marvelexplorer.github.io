@@ -1,12 +1,12 @@
 ---
-date: '1967-09-10T00:00:00-0400'
-year: '1967'
-title: 'Avengers (1963) #44'
-issue: 44
+date: '2012-06-13T00:00:00-0400'
+year: '2012'
+title: 'Avengers Assemble (2012) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7293/avengers_1963_44?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Avengers Assemble
+url: http://marvel.com/comics/issue/41356/avengers_assemble_2012_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/586432b3997c9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/04/58d41f8d8dbfd
   extension: jpg
