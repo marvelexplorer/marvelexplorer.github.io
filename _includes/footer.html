@@ -1,9 +1,15 @@
 <div class='footer'>
   <div class='text-center bottom links'>
     <i class='fa fa-flash flash'></i>
+    <a href='http://marvel.com'>Data © <span id='year'>2018</span> Marvel</a>
+    <i class='fa fa-flash flash'></i>
     {% for link in site.data.links %}
       <a href='{{ link.url }}' title='{{ link.title }}'>{{ link.title }}</a>
       <i class='fa fa-flash flash'></i>
     {% endfor %}
   </div>
 </div>
+
+<script>
+$('#year').text(new Date().getFullYear())
+</script>
