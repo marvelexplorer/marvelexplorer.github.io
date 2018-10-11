@@ -1,12 +1,12 @@
 ---
-date: '1994-11-10T00:00:00-0500'
-year: '1994'
-title: 'Cable (1993) #17'
-issue: 17
+date: '1996-04-10T00:00:00-0400'
+year: '1996'
+title: 'Wolverine (1988) #100'
+issue: 100
 series:
-  period: '1993'
-  name: Cable
-url: http://marvel.com/comics/issue/7390/cable_1993_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14038/wolverine_1988_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/594c3c3510b6a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/59c529ec74e47
   extension: jpg
