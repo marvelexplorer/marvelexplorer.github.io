@@ -1,12 +1,12 @@
 ---
-date: '1992-01-01T00:00:00-0500'
-year: '1992'
-title: 'The Amazing Spider-Man (1963) #357'
-issue: 357
+date: '2004-04-28T00:00:00-0400'
+year: '2004'
+title: 'Amazing Spider-Man (1999) #507'
+issue: 507
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6768/the_amazing_spider-man_1963_357?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/491/amazing_spider-man_1999_507?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/57d060b5a4db6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/57fe78a0212de
   extension: jpg
