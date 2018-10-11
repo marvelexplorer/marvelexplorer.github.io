@@ -1,12 +1,12 @@
 ---
-date: '2009-03-04T00:00:00-0500'
-year: '2009'
-title: 'Secret Warriors (2009) #2'
-issue: 2
+date: '2008-07-30T00:00:00-0400'
+year: '2008'
+title: 'Ms. Marvel (2006) #29'
+issue: 29
 series:
-  period: '2009'
-  name: Secret Warriors
-url: http://marvel.com/comics/issue/23812/secret_warriors_2009_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/21526/ms_marvel_2006_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/5a8c4e45ba54a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/515205bfd04c2
   extension: jpg
