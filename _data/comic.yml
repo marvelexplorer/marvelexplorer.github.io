@@ -1,12 +1,12 @@
 ---
-date: '1992-06-01T00:00:00-0400'
-year: '1992'
-title: 'The Amazing Spider-Man (1963) #363'
-issue: 363
+date: '2018-05-02T00:00:00-0400'
+year: '2018'
+title: 'Venomized (2018) #5'
+issue: 5
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6775/the_amazing_spider-man_1963_363?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2018'
+  name: Venomized
+url: http://marvel.com/comics/issue/67049/venomized_2018_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/03/57d0656a71193
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/5ae0cf6fde751
   extension: jpg
