@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
-year: '2006'
-title: 'X-Men and Power Pack (2005) #4'
-issue: 4
+date: '1994-11-10T00:00:00-0500'
+year: '1994'
+title: 'Cable (1993) #17'
+issue: 17
 series:
-  period: '2005'
-  name: X-Men and Power Pack
-url: http://marvel.com/comics/issue/3416/x-men_and_power_pack_2005_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7390/cable_1993_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5970afe36b47f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/594c3c3510b6a
   extension: jpg
