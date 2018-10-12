@@ -1,12 +1,12 @@
 ---
-date: '2005-02-16T00:00:00-0500'
-year: '2005'
-title: 'Astonishing X-Men (2004) #8'
-issue: 8
+date: '2012-05-23T00:00:00-0400'
+year: '2012'
+title: 'Wolverine & the X-Men (2011) #11'
+issue: 11
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/1436/astonishing_x-men_2004_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Wolverine & the X-Men
+url: http://marvel.com/comics/issue/38580/wolverine_the_x-men_2011_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/4d25117a9bdeb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/515c39a799914
   extension: jpg
