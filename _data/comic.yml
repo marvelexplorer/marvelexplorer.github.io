@@ -1,12 +1,12 @@
 ---
-date: '2017-04-26T00:00:00-0400'
-year: '2017'
-title: 'Ultimates 2 (2016) #6'
-issue: 6
+date: '1999-06-01T00:00:00-0400'
+year: '1999'
+title: 'Avengers (1998) #17'
+issue: 17
 series:
-  period: '2016'
-  name: Ultimates 2
-url: http://marvel.com/comics/issue/62718/ultimates_2_2016_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17498/avengers_1998_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/58fa5c1c1e369
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/58540b4938028
   extension: jpg
