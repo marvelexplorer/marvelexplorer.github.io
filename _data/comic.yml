@@ -1,12 +1,12 @@
 ---
-date: '1980-01-04T00:00:00-0500'
-year: '1980'
-title: 'X-Men Annual (1970) #4'
-issue: 4
+date: '1975-10-10T00:00:00-0400'
+year: '1975'
+title: 'Uncanny X-Men (1963) #95'
+issue: 95
 series:
-  period: '1970'
-  name: X-Men Annual
-url: http://marvel.com/comics/issue/12364/x-men_annual_1970_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12549/uncanny_x-men_1963_95?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5849b939a13dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/58a60348b8f59
   extension: jpg
