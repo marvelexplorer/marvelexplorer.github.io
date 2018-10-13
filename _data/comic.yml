@@ -1,12 +1,12 @@
 ---
-date: '2001-05-01T00:00:00-0400'
-year: '2001'
-title: 'X-Men (1991) #112'
-issue: 112
+date: '2011-06-01T00:00:00-0400'
+year: '2011'
+title: 'X-Men: Great Power (2011) #1'
+issue: 1
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14296/x-men_1991_112?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'X-Men: Great Power'
+url: http://marvel.com/comics/issue/39600/x-men_great_power_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bb67769d2ee8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/4d78f9e10c88d
   extension: jpg
