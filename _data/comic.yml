@@ -1,12 +1,12 @@
 ---
-date: '1969-06-10T00:00:00-0400'
-year: '1969'
-title: 'Captain America (1968) #114'
-issue: 114
+date: '2012-12-05T00:00:00-0500'
+year: '2012'
+title: 'Iron Man (2012) #3'
+issue: 3
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7495/captain_america_1968_114?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Iron Man
+url: http://marvel.com/comics/issue/45037/iron_man_2012_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bb5ff380a672
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5a7a0357a942b
   extension: jpg
