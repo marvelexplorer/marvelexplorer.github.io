@@ -1,12 +1,12 @@
 ---
-date: '1982-11-10T00:00:00-0500'
-year: '1982'
-title: 'Iron Man Annual (1970) #5'
-issue: 5
+date: '1994-03-01T00:00:00-0500'
+year: '1994'
+title: 'Iron Man (1968) #302'
+issue: 302
 series:
-  period: '1970'
-  name: Iron Man Annual
-url: http://marvel.com/comics/issue/19869/iron_man_annual_1970_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9553/iron_man_1968_302?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/59cbfa1c0ef25
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/5a7870e0e2a07
   extension: jpg
