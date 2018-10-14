@@ -1,12 +1,12 @@
 ---
-date: '1999-06-01T00:00:00-0400'
-year: '1999'
-title: 'Avengers (1998) #17'
-issue: 17
+date: '1998-09-10T00:00:00-0400'
+year: '1998'
+title: 'Avengers (1998) #8'
+issue: 8
 series:
   period: '1998'
   name: Avengers
-url: http://marvel.com/comics/issue/17498/avengers_1998_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/17567/avengers_1998_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/58540b4938028
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/58516a9fd4ca4
   extension: jpg
