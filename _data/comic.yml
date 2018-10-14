@@ -1,12 +1,12 @@
 ---
-date: '2003-06-02T00:00:00-0400'
-year: '2003'
-title: 'Avengers (1998) #66'
-issue: 66
+date: '1982-11-10T00:00:00-0500'
+year: '1982'
+title: 'Iron Man Annual (1970) #5'
+issue: 5
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17552/avengers_1998_66?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1970'
+  name: Iron Man Annual
+url: http://marvel.com/comics/issue/19869/iron_man_annual_1970_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/f0/586bd299cbaef
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/59cbfa1c0ef25
   extension: jpg
