@@ -1,12 +1,12 @@
 ---
-date: '1966-10-10T00:00:00-0400'
-year: '1966'
-title: 'Tales of Suspense (1959) #82'
-issue: 82
+date: '1994-03-10T00:00:00-0500'
+year: '1994'
+title: 'Avengers (1963) #372'
+issue: 372
 series:
-  period: '1959'
-  name: Tales of Suspense
-url: http://marvel.com/comics/issue/11328/tales_of_suspense_1959_82?utm_campaign=apiRef&utm_source=1c4e9d863c2fac548557acffec07bbeb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7255/avengers_1963_372?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/536d4883c8826
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/5294e6f964bcc
   extension: jpg
