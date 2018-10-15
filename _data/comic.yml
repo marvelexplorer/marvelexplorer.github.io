@@ -1,12 +1,12 @@
 ---
-date: '2018-05-30T00:00:00-0400'
-year: '2018'
-title: 'X-Men: Blue (2017) #28'
-issue: 28
+date: '1993-01-01T00:00:00-0500'
+year: '1993'
+title: 'X-Factor Annual (1986) #8'
+issue: 8
 series:
-  period: '2017'
-  name: 'X-Men: Blue'
-url: http://marvel.com/comics/issue/67587/x-men_blue_2017_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor Annual
+url: http://marvel.com/comics/issue/23516/x-factor_annual_1986_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/5b05c298c3e2d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb57efb25900
   extension: jpg
