@@ -1,12 +1,12 @@
 ---
-date: '1993-01-01T00:00:00-0500'
-year: '1993'
-title: 'X-Factor Annual (1986) #8'
-issue: 8
+date: '1994-02-01T00:00:00-0500'
+year: '1994'
+title: 'X-Force (1991) #31'
+issue: 31
 series:
-  period: '1986'
-  name: X-Factor Annual
-url: http://marvel.com/comics/issue/23516/x-factor_annual_1986_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/17996/x-force_1991_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb57efb25900
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/58766365ac9a3
   extension: jpg
