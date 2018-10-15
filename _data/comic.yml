@@ -1,12 +1,12 @@
 ---
-date: '2001-10-01T00:00:00-0400'
-year: '2001'
-title: 'Fantastic Four: 1234 (2001) #1'
-issue: 1
+date: '2010-06-30T00:00:00-0400'
+year: '2010'
+title: 'Doomwar (2010) #5'
+issue: 5
 series:
-  period: '2001'
-  name: 'Fantastic Four: 1234'
-url: http://marvel.com/comics/issue/16081/fantastic_four_1234_2001_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Doomwar
+url: http://marvel.com/comics/issue/29952/doomwar_2010_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5ab502572a7d3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5a2990ad810f8
   extension: jpg
