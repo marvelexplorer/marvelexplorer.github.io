@@ -1,12 +1,12 @@
 ---
-date: '2000-12-10T00:00:00-0500'
-year: '2000'
-title: 'Avengers (1998) #35'
+date: '1982-10-10T00:00:00-0400'
+year: '1982'
+title: 'What If? (1977) #35'
 issue: 35
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17518/avengers_1998_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: What If?
+url: http://marvel.com/comics/issue/12149/what_if_1977_35?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/585c2daa42560
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/55e482cd2598d
   extension: jpg
