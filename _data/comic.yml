@@ -1,12 +1,12 @@
 ---
-date: '2011-12-28T00:00:00-0500'
-year: '2011'
-title: 'Avengers: Solo (2011) #3'
-issue: 3
+date: '1969-04-10T00:00:00-0500'
+year: '1969'
+title: 'Avengers (1963) #63'
+issue: 63
 series:
-  period: '2011'
-  name: 'Avengers: Solo'
-url: http://marvel.com/comics/issue/40419/avengers_solo_2011_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7314/avengers_1963_63?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/56b902f5b2626
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4d49e2d5893a6
   extension: jpg
