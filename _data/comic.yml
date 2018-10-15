@@ -1,12 +1,12 @@
 ---
-date: '2010-06-30T00:00:00-0400'
-year: '2010'
-title: 'Doomwar (2010) #5'
-issue: 5
+date: '2006-03-08T00:00:00-0500'
+year: '2006'
+title: 'Cable & Deadpool (2004) #26'
+issue: 26
 series:
-  period: '2010'
-  name: Doomwar
-url: http://marvel.com/comics/issue/29952/doomwar_2010_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Cable & Deadpool
+url: http://marvel.com/comics/issue/3961/cable_deadpool_2004_26?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5a2990ad810f8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/5981eaf57db58
   extension: jpg
