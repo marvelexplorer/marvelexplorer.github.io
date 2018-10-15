@@ -1,12 +1,12 @@
 ---
-date: '2006-04-05T00:00:00-0400'
-year: '2006'
-title: 'Ultimate X-Men (2000) #69'
-issue: 69
+date: '2000-12-10T00:00:00-0500'
+year: '2000'
+title: 'Avengers (1998) #35'
+issue: 35
 series:
-  period: '2000'
-  name: Ultimate X-Men
-url: http://marvel.com/comics/issue/4041/ultimate_x-men_2000_69?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17518/avengers_1998_35?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/5bae3facdb79e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/585c2daa42560
   extension: jpg
