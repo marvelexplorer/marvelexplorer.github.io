@@ -1,12 +1,12 @@
 ---
-date: '2018-06-27T00:00:00-0400'
-year: '2018'
-title: 'Marvel Super Hero Adventures: Webs and Arrows and Ants, Oh My! (2018) #1'
-issue: 1
+date: '1980-02-10T00:00:00-0500'
+year: '1980'
+title: 'Iron Man (1968) #131'
+issue: 131
 series:
-  period: '2018'
-  name: 'Marvel Super Hero Adventures: Webs and Arrows and Ants, Oh My!'
-url: http://marvel.com/comics/issue/69035/marvel_super_hero_adventures_webs_and_arrows_and_ants_oh_my_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9363/iron_man_1968_131?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/30/5b2c12680a12a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/20/5a6a0e2c10ba6
   extension: jpg
