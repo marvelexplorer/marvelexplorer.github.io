@@ -1,12 +1,12 @@
 ---
-date: '1980-02-10T00:00:00-0500'
-year: '1980'
-title: 'Iron Man (1968) #131'
-issue: 131
+date: '2005-08-24T00:00:00-0400'
+year: '2005'
+title: 'Wolverine (2003) #31'
+issue: 31
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9363/iron_man_1968_131?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Wolverine
+url: http://marvel.com/comics/issue/2297/wolverine_2003_31?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/20/5a6a0e2c10ba6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/5892024bb54c3
   extension: jpg
