@@ -1,12 +1,12 @@
 ---
-date: '2000-04-10T00:00:00-0400'
-year: '2000'
-title: 'Avengers (1998) #27'
-issue: 27
+date: '1966-07-10T00:00:00-0400'
+year: '1966'
+title: 'Avengers (1963) #30'
+issue: 30
 series:
-  period: '1998'
+  period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/17509/avengers_1998_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7175/avengers_1963_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/58595e8265999
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/586292faeb6cc
   extension: jpg
