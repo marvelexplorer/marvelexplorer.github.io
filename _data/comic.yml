@@ -1,12 +1,12 @@
 ---
-date: '1966-07-10T00:00:00-0400'
-year: '1966'
-title: 'Avengers (1963) #30'
-issue: 30
+date: '2007-04-04T00:00:00-0400'
+year: '2007'
+title: 'Irredeemable Ant-Man (2006) #7'
+issue: 7
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7175/avengers_1963_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Irredeemable Ant-Man
+url: http://marvel.com/comics/issue/6210/irredeemable_ant-man_2006_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/586292faeb6cc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/58498a3939c89
   extension: jpg
