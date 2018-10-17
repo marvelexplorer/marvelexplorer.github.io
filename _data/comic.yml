@@ -1,12 +1,12 @@
 ---
-date: '1990-01-30T00:00:00-0500'
-year: '1990'
-title: 'Silver Surfer: Enslavers (1990) #1'
-issue: 1
+date: '2006-06-21T00:00:00-0400'
+year: '2006'
+title: 'Last Planet Standing (2006) #4'
+issue: 4
 series:
-  period: '1990'
-  name: 'Silver Surfer: Enslavers'
-url: http://marvel.com/comics/issue/43439/silver_surfer_enslavers_1990_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Last Planet Standing
+url: http://marvel.com/comics/issue/4289/last_planet_standing_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/582c63f84ff17
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/00/4bc5e27caf5bb
   extension: jpg
