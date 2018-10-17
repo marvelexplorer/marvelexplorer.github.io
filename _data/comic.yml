@@ -1,12 +1,12 @@
 ---
-date: '1991-12-10T00:00:00-0500'
-year: '1991'
-title: 'X-Factor (1986) #73'
-issue: 73
+date: '1995-01-01T00:00:00-0500'
+year: '1995'
+title: 'Sabretooth Special (1995) #1'
+issue: 1
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12294/x-factor_1986_73?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1995'
+  name: Sabretooth Special
+url: http://marvel.com/comics/issue/51105/sabretooth_special_1995_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/59540f6ccf147
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/587fc036b9991
   extension: jpg
