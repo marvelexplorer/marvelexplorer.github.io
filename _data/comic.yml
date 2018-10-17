@@ -1,12 +1,12 @@
 ---
-date: '1996-04-10T00:00:00-0400'
-year: '1996'
-title: 'Wolverine (1988) #100'
-issue: 100
+date: '2013-06-12T00:00:00-0400'
+year: '2013'
+title: 'Wolverine (2013) #4'
+issue: 4
 series:
-  period: '1988'
+  period: '2013'
   name: Wolverine
-url: http://marvel.com/comics/issue/14038/wolverine_1988_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/46721/wolverine_2013_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/59c529ec74e47
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/58987ef70f0fb
   extension: jpg
