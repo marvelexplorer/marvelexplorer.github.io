@@ -1,12 +1,12 @@
 ---
-date: '1998-10-01T00:00:00-0400'
-year: '1998'
-title: 'X-Men (1991) #80'
-issue: 80
+date: '2009-08-26T00:00:00-0400'
+year: '2009'
+title: 'Incredible Hulks (2010) #601'
+issue: 601
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14373/x-men_1991_80?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Incredible Hulks
+url: http://marvel.com/comics/issue/27645/incredible_hulks_2010_601?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/587e86c0bff49
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5ba505eb76b2d
   extension: jpg
