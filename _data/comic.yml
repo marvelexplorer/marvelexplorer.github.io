@@ -1,12 +1,12 @@
 ---
-date: '2001-05-01T00:00:00-0400'
-year: '2001'
-title: 'Ultimate X-Men (2000) #4'
-issue: 4
+date: '2006-10-11T00:00:00-0400'
+year: '2006'
+title: 'Ultimate X-Men (2000) #75'
+issue: 75
 series:
   period: '2000'
   name: Ultimate X-Men
-url: http://marvel.com/comics/issue/15732/ultimate_x-men_2000_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/18472/ultimate_x-men_2000_75?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/5ba53dcb9a710
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/00/5bae712275fd0
   extension: jpg
