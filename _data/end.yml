@@ -1,11 +1,7 @@
 ---
-name: Wolverine (Ultimate)
-description: Decades after participating in military airdrops with Captain America
-  during WWII, James Howlett was abducted and experimented upon by a covert government
-  unit, who bonded unbreakable adamantium to his skeleton, implanted three claws in
-  each arm, dubbed him Weapon X and supposedly programmed him to kill any human he
-  came into contact with.
-url: http://marvel.com/universe/Wolverine_%28Ultimate%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: X-Men (Ultimate)
+description: ''
+url: http://marvel.com/universe/X-Men_%28Ultimate%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/531773b76840c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4feb34f2017a0
   extension: jpg
