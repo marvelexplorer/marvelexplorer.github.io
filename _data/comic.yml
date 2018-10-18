@@ -1,12 +1,12 @@
 ---
-date: '2005-11-02T00:00:00-0500'
-year: '2005'
-title: 'X-Men: Colossus Bloodline (2005) #3'
-issue: 3
+date: '2001-11-01T00:00:00-0500'
+year: '2001'
+title: 'X-Treme X-Men: The Savage Land (2001) #1'
+issue: 1
 series:
-  period: '2005'
-  name: 'X-Men: Colossus Bloodline'
-url: http://marvel.com/comics/issue/3080/x-men_colossus_bloodline_2005_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: 'X-Treme X-Men: The Savage Land'
+url: http://marvel.com/comics/issue/12394/x-treme_x-men_the_savage_land_2001_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/5b43b2ae3f161
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4bc46cd0aadb8
   extension: jpg
