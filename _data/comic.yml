@@ -1,12 +1,12 @@
 ---
-date: '2007-10-17T00:00:00-0400'
-year: '2007'
-title: 'Marvel Adventures Fantastic Four (2005) #29'
-issue: 29
+date: '1941-02-10T00:00:00-0500'
+year: '1941'
+title: 'Marvel Mystery Comics (1939) #16'
+issue: 16
 series:
-  period: '2005'
-  name: Marvel Adventures Fantastic Four
-url: http://marvel.com/comics/issue/16488/marvel_adventures_fantastic_four_2005_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16721/marvel_mystery_comics_1939_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/10/57116976d1692
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/50ae1dcd66b15
   extension: jpg
