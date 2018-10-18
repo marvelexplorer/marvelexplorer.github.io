@@ -1,12 +1,12 @@
 ---
-date: '2013-02-27T00:00:00-0500'
-year: '2013'
-title: 'Young Avengers (2013) #2'
-issue: 2
+date: '2007-11-21T00:00:00-0500'
+year: '2007'
+title: 'Wolverine Origins (2006) #19'
+issue: 19
 series:
-  period: '2013'
-  name: Young Avengers
-url: http://marvel.com/comics/issue/46829/young_avengers_2013_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/17243/wolverine_origins_2006_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5b16d7ae057f8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/51e07c8a92d2e
   extension: jpg
