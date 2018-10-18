@@ -1,12 +1,12 @@
 ---
-date: '2017-09-06T00:00:00-0400'
-year: '2017'
-title: 'X-Men: Gold (2017) #11'
-issue: 11
+date: '1979-01-03T00:00:00-0500'
+year: '1979'
+title: 'X-Men Annual (1970) #3'
+issue: 3
 series:
-  period: '2017'
-  name: 'X-Men: Gold'
-url: http://marvel.com/comics/issue/64457/x-men_gold_2017_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1970'
+  name: X-Men Annual
+url: http://marvel.com/comics/issue/12363/x-men_annual_1970_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/599afe1f06e66
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4f675b712d861
   extension: jpg
