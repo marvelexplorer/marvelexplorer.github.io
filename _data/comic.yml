@@ -1,12 +1,12 @@
 ---
-date: '2011-01-05T00:00:00-0500'
-year: '2011'
-title: 'Avengers: Prime (2010) #5'
-issue: 5
+date: '1998-07-10T00:00:00-0400'
+year: '1998'
+title: 'Captain America (1998) #7'
+issue: 7
 series:
-  period: '2010'
-  name: 'Avengers: Prime'
-url: http://marvel.com/comics/issue/30098/avengers_prime_2010_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12814/captain_america_1998_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/50/5a20489b78697
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4e95c563db7b8
   extension: jpg
