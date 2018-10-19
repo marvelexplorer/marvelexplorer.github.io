@@ -1,12 +1,12 @@
 ---
-date: '1966-10-10T00:00:00-0400'
-year: '1966'
-title: 'The Amazing Spider-Man (1963) #41'
-issue: 41
+date: '2006-03-01T00:00:00-0500'
+year: '2006'
+title: 'Friendly Neighborhood Spider-Man (2005) #5'
+issue: 5
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6827/the_amazing_spider-man_1963_41?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Friendly Neighborhood Spider-Man
+url: http://marvel.com/comics/issue/3474/friendly_neighborhood_spider-man_2005_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/57aa22fe7d951
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56a8f02dc1ebb
   extension: jpg
