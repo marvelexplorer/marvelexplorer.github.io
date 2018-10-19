@@ -1,12 +1,12 @@
 ---
-date: '1991-01-10T00:00:00-0500'
-year: '1991'
-title: 'Incredible Hulk (1962) #377'
-issue: 377
+date: '2000-12-01T00:00:00-0500'
+year: '2000'
+title: 'Captain Marvel (2000) #12'
+issue: 12
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9188/incredible_hulk_1962_377?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Captain Marvel
+url: http://marvel.com/comics/issue/20541/captain_marvel_2000_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/5b97ccb0a8968
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/4bb6584942857
   extension: jpg
