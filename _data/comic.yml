@@ -1,12 +1,12 @@
 ---
-date: '1988-10-20T00:00:00-0400'
+date: '1988-09-20T00:00:00-0400'
 year: '1988'
-title: 'The Amazing Spider-Man (1963) #307'
-issue: 307
+title: 'The Amazing Spider-Man (1963) #305'
+issue: 305
 series:
   period: '1963'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6713/the_amazing_spider-man_1963_307?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/6711/the_amazing_spider-man_1963_305?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/57f3ecb8151eb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/57f3cfe5c00f9
   extension: jpg
