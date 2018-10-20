@@ -1,12 +1,12 @@
 ---
-date: '2018-05-23T00:00:00-0400'
-year: '2018'
-title: 'Spider-Man/Deadpool (2016) #33'
-issue: 33
+date: '2009-01-28T00:00:00-0500'
+year: '2009'
+title: 'Marvels: Eye of the Camera (2008) #3'
+issue: 3
 series:
-  period: '2016'
-  name: Spider-Man/Deadpool
-url: http://marvel.com/comics/issue/67553/spider-mandeadpool_2016_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: 'Marvels: Eye of the Camera'
+url: http://marvel.com/comics/issue/23084/marvels_eye_of_the_camera_2008_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/5afc80708f6a0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/5ae1ea0153282
   extension: jpg
