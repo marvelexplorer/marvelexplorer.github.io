@@ -1,12 +1,12 @@
 ---
-date: '1994-08-01T00:00:00-0400'
-year: '1994'
-title: 'X-Force (1991) #37'
-issue: 37
+date: '1986-05-10T00:00:00-0400'
+year: '1986'
+title: 'Avengers (1963) #267'
+issue: 267
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/18002/x-force_1991_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7138/avengers_1963_267?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/5bae409798684
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/c0/5888df9ab93f6
   extension: jpg
