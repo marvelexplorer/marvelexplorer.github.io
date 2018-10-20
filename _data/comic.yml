@@ -1,12 +1,12 @@
 ---
-date: '2006-03-01T00:00:00-0500'
-year: '2006'
-title: 'Friendly Neighborhood Spider-Man (2005) #5'
-issue: 5
+date: '1999-05-01T00:00:00-0400'
+year: '1999'
+title: 'Spider-Man: Chapter One (1998)'
+issue: 0
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/3474/friendly_neighborhood_spider-man_2005_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/43224/spider-man_chapter_one_1998?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56a8f02dc1ebb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/583d921e4d4d2
   extension: jpg
