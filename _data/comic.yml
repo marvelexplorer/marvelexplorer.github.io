@@ -1,12 +1,12 @@
 ---
-date: '2009-01-28T00:00:00-0500'
-year: '2009'
-title: 'Marvels: Eye of the Camera (2008) #3'
-issue: 3
+date: '1979-09-10T00:00:00-0400'
+year: '1979'
+title: 'Daredevil (1964) #160'
+issue: 160
 series:
-  period: '2008'
-  name: 'Marvels: Eye of the Camera'
-url: http://marvel.com/comics/issue/23084/marvels_eye_of_the_camera_2008_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8141/daredevil_1964_160?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/5ae1ea0153282
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5b48c191aef7c
   extension: jpg

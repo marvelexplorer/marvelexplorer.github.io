@@ -1,8 +1,7 @@
 ---
-name: Ben Urich
-description: Ben Urich is a reporter for the Daily Bugle who has many ties to the
-  city's superhero community.
-url: http://marvel.com/universe/Urich%2C_Ben?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Black Widow
+description: ''
+url: http://marvel.com/universe/Black_Widow_(Natasha_Romanova)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c00373d10e5e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b
   extension: jpg
