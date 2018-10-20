@@ -1,12 +1,12 @@
 ---
-date: '1999-05-01T00:00:00-0400'
-year: '1999'
-title: 'Spider-Man: Chapter One (1998)'
-issue: 0
+date: '1995-04-10T00:00:00-0400'
+year: '1995'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #223'
+issue: 223
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/43224/spider-man_chapter_one_1998?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14680/peter_parker_the_spectacular_spider-man_1976_223?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/583d921e4d4d2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5820e5192ed1e
   extension: jpg
