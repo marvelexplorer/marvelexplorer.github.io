@@ -1,12 +1,12 @@
 ---
-date: '2013-06-19T00:00:00-0400'
-year: '2013'
-title: 'X-Men Legacy (2012) #12'
-issue: 12
+date: '2017-09-27T00:00:00-0400'
+year: '2017'
+title: 'Deadpool Kills the Marvel Universe Again (2017) #5'
+issue: 5
 series:
-  period: '2012'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/46809/x-men_legacy_2012_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: Deadpool Kills the Marvel Universe Again
+url: http://marvel.com/comics/issue/64605/deadpool_kills_the_marvel_universe_again_2017_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/40/58c704b868538
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/a0/59c2884042624
   extension: jpg
