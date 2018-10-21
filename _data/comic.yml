@@ -1,12 +1,12 @@
 ---
-date: '2004-08-18T00:00:00-0400'
-year: '2004'
-title: 'X-Men (2004) #160'
-issue: 160
+date: '2013-06-19T00:00:00-0400'
+year: '2013'
+title: 'X-Men Legacy (2012) #12'
+issue: 12
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/762/x-men_2004_160?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/46809/x-men_legacy_2012_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/58af0e679ea6e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/40/58c704b868538
   extension: jpg
