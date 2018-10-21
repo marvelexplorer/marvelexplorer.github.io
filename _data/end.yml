@@ -1,8 +1,7 @@
 ---
-name: Slapstick
-description: Steven Harmon's powers have been described as "all of the abilities of
-  a Saturday morning cartoon character."
-url: http://marvel.com/universe/Slapstick?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Deadpool
+description: ''
+url: http://marvel.com/universe/Deadpool_(Wade_Wilson)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310b887bc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99
   extension: jpg
