@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 5
-- name: X-Men
+- name: Avengers
   score: 4
 - name: Archangel
   score: 3
-- name: Avengers
+- name: X-Men
   score: 3
 - name: Human Torch
   score: 3
