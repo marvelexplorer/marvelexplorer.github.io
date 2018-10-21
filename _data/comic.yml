@@ -1,12 +1,12 @@
 ---
-date: '2017-12-13T00:00:00-0500'
-year: '2017'
-title: 'Jean Grey (2017) #10'
-issue: 10
+date: '2011-03-23T00:00:00-0400'
+year: '2011'
+title: 'X-Men (2010) #9'
+issue: 9
 series:
-  period: '2017'
-  name: Jean Grey
-url: http://marvel.com/comics/issue/65290/jean_grey_2017_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/32205/x-men_2010_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/03/5a284301925e4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/03/58d13127f3233
   extension: jpg
