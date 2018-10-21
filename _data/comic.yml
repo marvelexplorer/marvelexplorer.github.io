@@ -1,12 +1,12 @@
 ---
-date: '2017-07-05T00:00:00-0400'
+date: '2017-10-11T00:00:00-0400'
 year: '2017'
-title: 'Spider-Man/Deadpool (2016) #19'
-issue: 19
+title: 'Despicable Deadpool (2017) #287'
+issue: 287
 series:
-  period: '2016'
-  name: Spider-Man/Deadpool
-url: http://marvel.com/comics/issue/63387/spider-mandeadpool_2016_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Despicable Deadpool
+url: http://marvel.com/comics/issue/64798/despicable_deadpool_2017_287?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/59553aa195f9d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/59d53d663b2c5
   extension: jpg
