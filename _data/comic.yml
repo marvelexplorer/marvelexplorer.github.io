@@ -1,12 +1,12 @@
 ---
-date: '1993-12-10T00:00:00-0500'
-year: '1993'
-title: 'Uncanny X-Men (1963) #307'
-issue: 307
+date: '1966-07-10T00:00:00-0400'
+year: '1966'
+title: 'Avengers (1963) #30'
+issue: 30
 series:
   period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13848/uncanny_x-men_1963_307?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Avengers
+url: http://marvel.com/comics/issue/7175/avengers_1963_30?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/e0/5914921657606
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/586292faeb6cc
   extension: jpg
