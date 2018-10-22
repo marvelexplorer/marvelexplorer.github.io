@@ -1,12 +1,12 @@
 ---
-date: '1976-12-10T00:00:00-0500'
-year: '1976'
-title: 'Nova (1976) #4'
-issue: 4
+date: '1992-08-01T00:00:00-0400'
+year: '1992'
+title: 'Doctor Strange, Sorcerer Supreme (1988) #44'
+issue: 44
 series:
-  period: '1976'
-  name: Nova
-url: http://marvel.com/comics/issue/23382/nova_1976_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Doctor Strange, Sorcerer Supreme
+url: http://marvel.com/comics/issue/20206/doctor_strange_sorcerer_supreme_1988_44?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5820ae4588c35
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/5b88845b2d96c
   extension: jpg
