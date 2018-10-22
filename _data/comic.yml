@@ -1,12 +1,12 @@
 ---
-date: '1988-01-01T00:00:00-0500'
-year: '1988'
-title: 'X-Factor Annual (1986) #3'
-issue: 3
+date: '2009-07-29T00:00:00-0400'
+year: '2009'
+title: 'Ultimatum (2008) #5'
+issue: 5
 series:
-  period: '1986'
-  name: X-Factor Annual
-url: http://marvel.com/comics/issue/23511/x-factor_annual_1986_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Ultimatum
+url: http://marvel.com/comics/issue/24193/ultimatum_2008_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/5736189a408e4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/5a9981df51575
   extension: jpg
