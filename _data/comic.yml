@@ -1,12 +1,12 @@
 ---
-date: '1984-12-10T00:00:00-0500'
-year: '1984'
-title: 'Marvel Team-Up (1972) #148'
-issue: 148
+date: '2011-02-23T00:00:00-0500'
+year: '2011'
+title: 'Thor (2007) #620'
+issue: 620
 series:
-  period: '1972'
-  name: Marvel Team-Up
-url: http://marvel.com/comics/issue/19629/marvel_team-up_1972_148?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Thor
+url: http://marvel.com/comics/issue/32738/thor_2007_620?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/57f55bd52f91e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/56f2cc710c027
   extension: jpg
