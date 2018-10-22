@@ -1,12 +1,12 @@
 ---
-date: '2003-05-20T00:00:00-0400'
-year: '2003'
-title: 'Wolverine (1988) #188'
-issue: 188
+date: '1992-05-10T00:00:00-0400'
+year: '1992'
+title: 'X-Men (1991) #8'
+issue: 8
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14134/wolverine_1988_188?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14372/x-men_1991_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c36686a6e4d6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/557f30e2c8c48
   extension: jpg
