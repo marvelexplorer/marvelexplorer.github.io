@@ -1,12 +1,12 @@
 ---
-date: '1999-08-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #5'
-issue: 5
+date: '2013-09-25T00:00:00-0400'
+year: '2013'
+title: 'Young Avengers (2013) #10'
+issue: 10
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8555/earth_x_1999_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Young Avengers
+url: http://marvel.com/comics/issue/46842/young_avengers_2013_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5a95b41b10c9a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/c0/5238763299221
   extension: jpg
