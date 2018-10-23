@@ -1,12 +1,12 @@
 ---
-date: '1983-12-01T00:00:00-0500'
-year: '1983'
-title: 'Hawkeye (1983) #4'
-issue: 4
+date: '2012-07-11T00:00:00-0400'
+year: '2012'
+title: 'Avengers Assemble (2012) #5'
+issue: 5
 series:
-  period: '1983'
-  name: Hawkeye
-url: http://marvel.com/comics/issue/43179/hawkeye_1983_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Avengers Assemble
+url: http://marvel.com/comics/issue/41355/avengers_assemble_2012_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/580537731cc90
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/10/58d428e9c0547
   extension: jpg
