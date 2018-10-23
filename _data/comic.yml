@@ -1,12 +1,12 @@
 ---
-date: '2001-01-01T00:00:00-0500'
-year: '2001'
-title: 'Captain America (1998) #37'
-issue: 37
+date: '2000-12-01T00:00:00-0500'
+year: '2000'
+title: 'Captain America (1998) #36'
+issue: 36
 series:
   period: '1998'
   name: Captain America
-url: http://marvel.com/comics/issue/12797/captain_america_1998_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/12796/captain_america_1998_36?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4e8c8b85eaaa7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4e8caca6c9017
   extension: jpg
