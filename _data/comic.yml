@@ -1,12 +1,12 @@
 ---
-date: '2017-08-09T00:00:00-0400'
-year: '2017'
-title: 'Captain America (2017) #25'
-issue: 25
+date: '1983-12-01T00:00:00-0500'
+year: '1983'
+title: 'Hawkeye (1983) #4'
+issue: 4
 series:
-  period: '2017'
-  name: Captain America
-url: http://marvel.com/comics/issue/64178/captain_america_2017_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1983'
+  name: Hawkeye
+url: http://marvel.com/comics/issue/43179/hawkeye_1983_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/597793a2a2137
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/580537731cc90
   extension: jpg
