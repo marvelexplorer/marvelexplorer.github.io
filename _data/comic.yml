@@ -1,12 +1,12 @@
 ---
-date: '1990-05-10T00:00:00-0400'
-year: '1990'
-title: 'Punisher War Journal (1988) #18'
-issue: 18
+date: '1992-01-01T00:00:00-0500'
+year: '1992'
+title: 'The Amazing Spider-Man (1963) #357'
+issue: 357
 series:
-  period: '1988'
-  name: Punisher War Journal
-url: http://marvel.com/comics/issue/22171/punisher_war_journal_1988_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6768/the_amazing_spider-man_1963_357?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/5a0caa897474b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/57d060b5a4db6
   extension: jpg
