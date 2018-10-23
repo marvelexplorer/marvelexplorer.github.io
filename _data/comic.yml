@@ -1,12 +1,12 @@
 ---
-date: '2012-06-20T00:00:00-0400'
-year: '2012'
-title: 'New Mutants (2009) #44'
-issue: 44
+date: '1988-09-10T00:00:00-0400'
+year: '1988'
+title: 'Marvel Comics Presents (1988) #1'
+issue: 1
 series:
-  period: '2009'
-  name: New Mutants
-url: http://marvel.com/comics/issue/40723/new_mutants_2009_44?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10010/marvel_comics_presents_1988_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/5155d57cc5415
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc46b5156c5e
   extension: jpg

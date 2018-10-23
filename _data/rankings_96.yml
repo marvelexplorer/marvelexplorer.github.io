@@ -3,9 +3,9 @@
   score: 6
 - name: Spider-Man
   score: 5
-- name: Captain America
-  score: 4
 - name: Avengers
   score: 4
 - name: Deadpool
+  score: 3
+- name: Blink
   score: 3
