@@ -1,12 +1,12 @@
 ---
-date: '1994-12-01T00:00:00-0500'
-year: '1994'
-title: 'X-Factor (1986) #109'
-issue: 109
+date: '2013-01-30T00:00:00-0500'
+year: '2013'
+title: 'X-Men Legacy (2012) #5'
+issue: 5
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12185/x-factor_1986_109?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/46801/x-men_legacy_2012_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/586516b732193
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/d0/58c6f892cf89c
   extension: jpg
