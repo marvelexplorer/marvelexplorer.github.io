@@ -1,12 +1,12 @@
 ---
-date: '2011-04-13T00:00:00-0400'
+date: '2011-09-28T00:00:00-0400'
 year: '2011'
-title: 'X-Men Legacy (2008) #247'
-issue: 247
+title: 'Astonishing X-Men (2004) #42'
+issue: 42
 series:
-  period: '2008'
-  name: X-Men Legacy
-url: http://marvel.com/comics/issue/36426/x-men_legacy_2008_247?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/39329/astonishing_x-men_2004_42?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/58b88cde61f5f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4e80e3712550b
   extension: jpg
