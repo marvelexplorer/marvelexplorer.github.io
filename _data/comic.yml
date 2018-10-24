@@ -1,12 +1,12 @@
 ---
-date: '2005-10-05T00:00:00-0400'
-year: '2005'
-title: 'Spider-Girl (1998) #91'
-issue: 91
+date: '1981-02-10T00:00:00-0500'
+year: '1981'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #51'
+issue: 51
 series:
-  period: '1998'
-  name: Spider-Girl
-url: http://marvel.com/comics/issue/2468/spider-girl_1998_91?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14752/peter_parker_the_spectacular_spider-man_1976_51?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc620cde59f7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bacf65fd7436
   extension: jpg
