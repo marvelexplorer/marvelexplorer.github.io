@@ -1,12 +1,12 @@
 ---
-date: '1979-11-10T00:00:00-0500'
-year: '1979'
-title: 'The Amazing Spider-Man (1963) #198'
-issue: 198
+date: '2009-02-04T00:00:00-0500'
+year: '2009'
+title: 'Mighty Avengers (2007) #21'
+issue: 21
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6591/the_amazing_spider-man_1963_198?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/23106/mighty_avengers_2007_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/57c45a31320b4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/04/4f7c8e76e8feb
   extension: jpg
