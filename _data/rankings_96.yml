@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 7
+- name: Captain America
+  score: 4
 - name: Deadpool
   score: 3
 - name: Blink
   score: 3
 - name: Spider-Man
-  score: 3
-- name: Thor
   score: 3
