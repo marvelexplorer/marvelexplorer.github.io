@@ -1,12 +1,12 @@
 ---
-date: '1940-03-01T00:00:00-0500'
-year: '1940'
-title: 'Marvel Mystery Comics (1939) #5'
-issue: 5
+date: '2004-12-01T00:00:00-0500'
+year: '2004'
+title: 'Spider-Girl (1998) #81'
+issue: 81
 series:
-  period: '1939'
-  name: Marvel Mystery Comics
-url: http://marvel.com/comics/issue/16758/marvel_mystery_comics_1939_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Spider-Girl
+url: http://marvel.com/comics/issue/1434/spider-girl_1998_81?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/40/5b0dbbea7b023
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc65f45188d8
   extension: jpg
