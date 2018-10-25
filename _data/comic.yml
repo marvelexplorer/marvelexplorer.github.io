@@ -1,12 +1,12 @@
 ---
-date: '2011-03-23T00:00:00-0400'
-year: '2011'
-title: 'Captain America: Reborn MGC (2011) #1'
-issue: 1
+date: '2009-06-24T00:00:00-0400'
+year: '2009'
+title: 'Avengers: The Initiative (2007) #25'
+issue: 25
 series:
-  period: '2011'
-  name: 'Captain America: Reborn MGC'
-url: http://marvel.com/comics/issue/39788/captain_america_reborn_mgc_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/24573/avengers_the_initiative_2007_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d810b3c9ec15
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/50/4e959a67b3953
   extension: jpg
