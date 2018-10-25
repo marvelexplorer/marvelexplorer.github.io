@@ -1,12 +1,12 @@
 ---
-date: '2006-07-05T00:00:00-0400'
-year: '2006'
-title: 'Beyond! (2006) #1'
+date: '2008-11-05T00:00:00-0500'
+year: '2008'
+title: 'Adam: Legend of the Blue Marvel (2008) #1'
 issue: 1
 series:
-  period: '2006'
-  name: Beyond!
-url: http://marvel.com/comics/issue/4447/beyond_2006_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: 'Adam: Legend of the Blue Marvel'
+url: http://marvel.com/comics/issue/22461/adam_legend_of_the_blue_marvel_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/56dd9dbc2e44a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4f68dc90cdb37
   extension: jpg
