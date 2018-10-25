@@ -1,12 +1,12 @@
 ---
-date: '2009-08-05T00:00:00-0400'
-year: '2009'
-title: 'Captain America: Reborn (2009) #2'
-issue: 2
+date: '2011-03-23T00:00:00-0400'
+year: '2011'
+title: 'Captain America: Reborn MGC (2011) #1'
+issue: 1
 series:
-  period: '2009'
-  name: 'Captain America: Reborn'
-url: http://marvel.com/comics/issue/26196/captain_america_reborn_2009_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Captain America: Reborn MGC'
+url: http://marvel.com/comics/issue/39788/captain_america_reborn_mgc_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/5a2aa6f9da76d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d810b3c9ec15
   extension: jpg
