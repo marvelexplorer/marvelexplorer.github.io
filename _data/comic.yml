@@ -1,12 +1,12 @@
 ---
-date: '2011-12-14T00:00:00-0500'
-year: '2011'
-title: 'Marvel Holiday Comic (2011) #1'
-issue: 1
+date: '1989-01-10T00:00:00-0500'
+year: '1989'
+title: 'Fantastic Four (1961) #322'
+issue: 322
 series:
-  period: '2011'
-  name: Marvel Holiday Comic
-url: http://marvel.com/comics/issue/41494/marvel_holiday_comic_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13142/fantastic_four_1961_322?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/56b8eceaa28bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5ac3893d1a66d
   extension: jpg
