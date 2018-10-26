@@ -1,12 +1,12 @@
 ---
-date: '1982-02-10T00:00:00-0500'
-year: '1982'
-title: 'Fantastic Four (1961) #239'
-issue: 239
+date: '2013-01-09T00:00:00-0500'
+year: '2013'
+title: 'Fantastic Four (2012) #3'
+issue: 3
 series:
-  period: '1961'
+  period: '2012'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13049/fantastic_four_1961_239?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/46092/fantastic_four_2012_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/50ad77cf03da6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5b2cfee8f1f29
   extension: jpg
