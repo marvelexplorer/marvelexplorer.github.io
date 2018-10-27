@@ -1,12 +1,12 @@
 ---
-date: '2011-07-06T00:00:00-0400'
-year: '2011'
-title: 'Hulk (2008) #36'
-issue: 36
+date: '2009-07-22T00:00:00-0400'
+year: '2009'
+title: 'Incredible Hulks (2010) #600'
+issue: 600
 series:
-  period: '2008'
-  name: Hulk
-url: http://marvel.com/comics/issue/37047/hulk_2008_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Incredible Hulks
+url: http://marvel.com/comics/issue/27569/incredible_hulks_2010_600?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/70/5b9ab817ab9be
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f634e633fc47
   extension: jpg
