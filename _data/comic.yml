@@ -1,12 +1,12 @@
 ---
-date: '2008-06-04T00:00:00-0400'
-year: '2008'
-title: 'Avengers/Invaders (2008) #2'
-issue: 2
+date: '1966-06-10T00:00:00-0400'
+year: '1966'
+title: 'Strange Tales (1951) #145'
+issue: 145
 series:
-  period: '2008'
-  name: Avengers/Invaders
-url: http://marvel.com/comics/issue/21394/avengersinvaders_2008_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1951'
+  name: Strange Tales
+url: http://marvel.com/comics/issue/11067/strange_tales_1951_145?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/5bbcea3f8a408
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/57bde3c5e8613
   extension: jpg
