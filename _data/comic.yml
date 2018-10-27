@@ -1,12 +1,12 @@
 ---
-date: '1994-04-01T00:00:00-0500'
-year: '1994'
-title: 'X-Force (1991) #33'
-issue: 33
+date: '1974-03-10T00:00:00-0400'
+year: '1974'
+title: 'Marvel Two-in-One (1974) #2'
+issue: 2
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/17998/x-force_1991_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1974'
+  name: Marvel Two-in-One
+url: http://marvel.com/comics/issue/19487/marvel_two-in-one_1974_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/5ba5319c13ad3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/c0/5b8886de19658
   extension: jpg
