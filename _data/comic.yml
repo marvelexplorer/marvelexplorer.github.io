@@ -1,12 +1,12 @@
 ---
-date: '1998-04-10T00:00:00-0400'
-year: '1998'
-title: 'Avengers (1998) #3'
-issue: 3
+date: '1963-10-10T00:00:00-0400'
+year: '1963'
+title: 'Tales to Astonish (1959) #48'
+issue: 48
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17512/avengers_1998_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11391/tales_to_astonish_1959_48?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/585165650e5c3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/536d64b05eac5
   extension: jpg
