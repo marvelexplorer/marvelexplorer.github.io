@@ -1,12 +1,12 @@
 ---
-date: '1999-11-01T00:00:00-0500'
-year: '1999'
-title: 'Thor (1998) #17'
-issue: 17
+date: '1989-01-01T00:00:00-0500'
+year: '1989'
+title: 'X-Factor Annual (1986) #4'
+issue: 4
 series:
-  period: '1998'
-  name: Thor
-url: http://marvel.com/comics/issue/18639/thor_1998_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1986'
+  name: X-Factor Annual
+url: http://marvel.com/comics/issue/23512/x-factor_annual_1986_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/59c3fceb1a276
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/20/50b40a6cd0ccb
   extension: jpg
