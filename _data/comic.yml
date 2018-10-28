@@ -1,12 +1,12 @@
 ---
-date: '1963-10-10T00:00:00-0400'
-year: '1963'
-title: 'Tales to Astonish (1959) #48'
-issue: 48
+date: '2014-01-22T00:00:00-0500'
+year: '2014'
+title: 'Indestructible Hulk (2012) #18'
+issue: 18
 series:
-  period: '1959'
-  name: Tales to Astonish
-url: http://marvel.com/comics/issue/11391/tales_to_astonish_1959_48?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Indestructible Hulk
+url: http://marvel.com/comics/issue/48653/indestructible_hulk_2012_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/536d64b05eac5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/5b9a6d900deb9
   extension: jpg
