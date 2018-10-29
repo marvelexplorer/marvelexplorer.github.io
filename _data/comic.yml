@@ -1,12 +1,12 @@
 ---
-date: '1996-10-10T00:00:00-0400'
-year: '1996'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #239'
-issue: 239
+date: '2006-01-18T00:00:00-0500'
+year: '2006'
+title: 'Sensational Spider-Man (2006) #23'
+issue: 23
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14697/peter_parker_the_spectacular_spider-man_1976_239?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Sensational Spider-Man
+url: http://marvel.com/comics/issue/3624/sensational_spider-man_2006_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/40/5ad8f793ede82
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/596f73dbcc445
   extension: jpg
