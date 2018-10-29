@@ -1,12 +1,12 @@
 ---
-date: '1991-07-01T00:00:00-0400'
-year: '1991'
-title: 'Namor: The Sub-Mariner (1990) #16'
-issue: 16
+date: '1997-11-01T00:00:00-0500'
+year: '1997'
+title: 'Ka-Zar (1997) #7'
+issue: 7
 series:
-  period: '1990'
-  name: 'Namor: The Sub-Mariner'
-url: http://marvel.com/comics/issue/66020/namor_the_sub-mariner_1990_16?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1997'
+  name: Ka-Zar
+url: http://marvel.com/comics/issue/66064/ka-zar_1997_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/5a61302952cf4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/5b463a355d980
   extension: jpg
