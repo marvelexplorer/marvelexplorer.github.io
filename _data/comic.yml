@@ -1,12 +1,12 @@
 ---
-date: '2000-10-10T00:00:00-0400'
-year: '2000'
-title: 'Avengers (1998) #33'
-issue: 33
+date: '2017-08-09T00:00:00-0400'
+year: '2017'
+title: 'Zombies Assemble 2 (2017) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17516/avengers_1998_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Zombies Assemble 2
+url: http://marvel.com/comics/issue/64291/zombies_assemble_2_2017_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/585c2a95728bd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/59822838359f4
   extension: jpg
