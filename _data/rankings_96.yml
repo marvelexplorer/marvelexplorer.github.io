@@ -1,9 +1,9 @@
 ---
 - name: Captain America
   score: 4
+- name: X-Men
+  score: 4
 - name: Thing
-  score: 3
-- name: Invisible Woman
   score: 3
 - name: Mr. Fantastic
   score: 3
