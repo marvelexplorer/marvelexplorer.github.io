@@ -1,12 +1,12 @@
 ---
-date: '2005-02-23T00:00:00-0500'
-year: '2005'
-title: 'X-23 (2005) #3'
-issue: 3
+date: '2009-11-04T00:00:00-0500'
+year: '2009'
+title: 'Psylocke (2009) #1'
+issue: 1
 series:
-  period: '2005'
-  name: X-23
-url: http://marvel.com/comics/issue/1639/x-23_2005_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: Psylocke
+url: http://marvel.com/comics/issue/28073/psylocke_2009_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/574889e5d330a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/b0/577d34f19e959
   extension: jpg

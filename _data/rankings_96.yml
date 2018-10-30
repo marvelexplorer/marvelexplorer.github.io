@@ -1,11 +1,11 @@
 ---
 - name: Captain America
   score: 4
-- name: Mr. Fantastic
-  score: 4
 - name: Thing
   score: 3
 - name: Invisible Woman
+  score: 3
+- name: Mr. Fantastic
   score: 3
 - name: Hank Pym
   score: 3
