@@ -1,12 +1,12 @@
 ---
-date: '2004-05-19T00:00:00-0400'
-year: '2004'
-title: 'Cable & Deadpool (2004) #3'
-issue: 3
+date: '2001-11-01T00:00:00-0500'
+year: '2001'
+title: 'Deadpool (1997) #58'
+issue: 58
 series:
-  period: '2004'
-  name: Cable & Deadpool
-url: http://marvel.com/comics/issue/644/cable_deadpool_2004_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1997'
+  name: Deadpool
+url: http://marvel.com/comics/issue/8515/deadpool_1997_58?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/597f80cb9ffd9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5a1322fd84fa0
   extension: jpg
