@@ -1,12 +1,12 @@
 ---
-date: '1987-06-01T00:00:00-0400'
-year: '1987'
-title: 'Mephisto Vs. (1987) #3'
-issue: 3
+date: '2008-01-09T00:00:00-0500'
+year: '2008'
+title: 'Onslaught Reborn (2006) #5'
+issue: 5
 series:
-  period: '1987'
-  name: Mephisto Vs.
-url: http://marvel.com/comics/issue/67225/mephisto_vs_1987_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Onslaught Reborn
+url: http://marvel.com/comics/issue/6193/onslaught_reborn_2006_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5b773962a9ad4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc39275d1ed8
   extension: jpg
