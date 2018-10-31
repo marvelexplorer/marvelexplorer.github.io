@@ -1,12 +1,12 @@
 ---
-date: '2003-08-01T00:00:00-0400'
-year: '2003'
-title: 'Wolverine/Doop (2003) #2'
-issue: 2
+date: '2004-04-14T00:00:00-0400'
+year: '2004'
+title: 'X-Statix (2002) #21'
+issue: 21
 series:
-  period: '2003'
-  name: Wolverine/Doop
-url: http://marvel.com/comics/issue/18292/wolverinedoop_2003_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: X-Statix
+url: http://marvel.com/comics/issue/477/x-statix_2002_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/20/5aa7faa8b5b9a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5aa050b07d575
   extension: jpg
