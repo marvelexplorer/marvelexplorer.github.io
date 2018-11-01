@@ -1,12 +1,12 @@
 ---
-date: '2017-06-21T00:00:00-0400'
-year: '2017'
-title: 'Secret Empire: Underground (2017) #1'
-issue: 1
+date: '1992-04-10T00:00:00-0400'
+year: '1992'
+title: 'X-Factor (1986) #77'
+issue: 77
 series:
-  period: '2017'
-  name: 'Secret Empire: Underground'
-url: http://marvel.com/comics/issue/63127/secret_empire_underground_2017_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1986'
+  name: X-Factor
+url: http://marvel.com/comics/issue/12298/x-factor_1986_77?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/5941aaddf27b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5955020c981cf
   extension: jpg
