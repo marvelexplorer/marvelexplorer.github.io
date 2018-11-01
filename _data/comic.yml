@@ -1,12 +1,12 @@
 ---
-date: '2008-01-09T00:00:00-0500'
-year: '2008'
-title: 'Onslaught Reborn (2006) #5'
-issue: 5
+date: '2003-07-01T00:00:00-0400'
+year: '2003'
+title: 'Wolverine: Xisle (2003) #2'
+issue: 2
 series:
-  period: '2006'
-  name: Onslaught Reborn
-url: http://marvel.com/comics/issue/6193/onslaught_reborn_2006_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: 'Wolverine: Xisle'
+url: http://marvel.com/comics/issue/18287/wolverine_xisle_2003_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc39275d1ed8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb793c83bfa7
   extension: jpg
