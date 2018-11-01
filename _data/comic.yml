@@ -1,12 +1,12 @@
 ---
-date: '1992-04-10T00:00:00-0400'
-year: '1992'
-title: 'X-Factor (1986) #77'
-issue: 77
+date: '1996-10-01T00:00:00-0400'
+year: '1996'
+title: 'X-Men (1991) #57'
+issue: 57
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12298/x-factor_1986_77?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14347/x-men_1991_57?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5955020c981cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb4e7a5d963b
   extension: jpg
