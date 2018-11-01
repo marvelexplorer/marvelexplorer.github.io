@@ -1,12 +1,12 @@
 ---
-date: '2008-12-17T00:00:00-0500'
-year: '2008'
-title: 'Mighty Avengers (2007) #20'
-issue: 20
+date: '1994-02-10T00:00:00-0500'
+year: '1994'
+title: 'Warlock and the Infinity Watch (1992) #25'
+issue: 25
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/22500/mighty_avengers_2007_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1992'
+  name: Warlock and the Infinity Watch
+url: http://marvel.com/comics/issue/18430/warlock_and_the_infinity_watch_1992_25?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/4d24f2ecc818d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5b3baf69b9c8a
   extension: jpg
