@@ -1,12 +1,12 @@
 ---
-date: '1966-01-10T00:00:00-0500'
-year: '1966'
-title: 'Journey Into Mystery (1952) #124'
-issue: 124
+date: '2017-06-21T00:00:00-0400'
+year: '2017'
+title: 'Secret Empire: Underground (2017) #1'
+issue: 1
 series:
-  period: '1952'
-  name: Journey Into Mystery
-url: http://marvel.com/comics/issue/9700/journey_into_mystery_1952_124?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: 'Secret Empire: Underground'
+url: http://marvel.com/comics/issue/63127/secret_empire_underground_2017_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5a7dc17609364
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/5941aaddf27b1
   extension: jpg
