@@ -1,12 +1,12 @@
 ---
-date: '2016-07-27T00:00:00-0400'
-year: '2016'
-title: 'X-Men ''92 (2016) #5'
-issue: 5
+date: '2011-11-30T00:00:00-0500'
+year: '2011'
+title: 'Uncanny X-Men (2011) #2'
+issue: 2
 series:
-  period: '2016'
-  name: X-Men '92
-url: http://marvel.com/comics/issue/57366/x-men_92_2016_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/40154/uncanny_x-men_2011_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/10/57927045875b3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/51895b0d71dae
   extension: jpg
