@@ -1,12 +1,12 @@
 ---
-date: '2017-03-01T00:00:00-0500'
+date: '2017-10-04T00:00:00-0400'
 year: '2017'
-title: 'Champions (2016) #6'
-issue: 6
+title: 'Spider-Man (2016) #21'
+issue: 21
 series:
   period: '2016'
-  name: Champions
-url: http://marvel.com/comics/issue/61447/champions_2016_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Spider-Man
+url: http://marvel.com/comics/issue/61078/spider-man_2016_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/58af14cd7f494
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/59cc05eb76011
   extension: jpg
