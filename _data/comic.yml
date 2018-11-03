@@ -1,12 +1,12 @@
 ---
-date: '2010-08-18T00:00:00-0400'
-year: '2010'
-title: 'New Avengers (2010) #3'
-issue: 3
+date: '2013-02-20T00:00:00-0500'
+year: '2013'
+title: 'Dark Avengers (2012) #187'
+issue: 187
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/32712/new_avengers_2010_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Dark Avengers
+url: http://marvel.com/comics/issue/46027/dark_avengers_2012_187?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/5773fa414cc5c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/30/5b3e1af206201
   extension: jpg
