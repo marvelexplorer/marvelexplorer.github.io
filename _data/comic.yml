@@ -1,12 +1,12 @@
 ---
-date: '2017-10-04T00:00:00-0400'
+date: '2017-11-15T00:00:00-0500'
 year: '2017'
-title: 'Spider-Man (2016) #21'
-issue: 21
+title: 'Spider-Men II (2017) #4'
+issue: 4
 series:
-  period: '2016'
-  name: Spider-Man
-url: http://marvel.com/comics/issue/61078/spider-man_2016_21?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: Spider-Men II
+url: http://marvel.com/comics/issue/64963/spider-men_ii_2017_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/59cc05eb76011
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/5a034a8b47fea
   extension: jpg
