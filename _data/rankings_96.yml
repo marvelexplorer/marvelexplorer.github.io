@@ -1,11 +1,11 @@
 ---
 - name: Wolverine
   score: 7
-- name: Captain America
-  score: 4
 - name: Quicksilver
   score: 4
 - name: Iron Man
   score: 4
+- name: Captain America
+  score: 3
 - name: Thor
   score: 3
