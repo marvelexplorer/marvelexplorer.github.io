@@ -1,12 +1,12 @@
 ---
-date: '1997-12-10T00:00:00-0500'
-year: '1997'
-title: 'Daredevil (1964) #370'
-issue: 370
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'Daredevil (1998) #46'
+issue: 46
 series:
-  period: '1964'
+  period: '1998'
   name: Daredevil
-url: http://marvel.com/comics/issue/8374/daredevil_1964_370?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/15649/daredevil_1998_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/00/59306e1955672
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/5727987d1991a
   extension: jpg
