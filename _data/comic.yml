@@ -1,12 +1,12 @@
 ---
-date: '2003-11-01T00:00:00-0500'
-year: '2003'
-title: 'Fantastic Four (1998) #502'
-issue: 502
+date: '2013-05-29T00:00:00-0400'
+year: '2013'
+title: 'New Avengers (2013) #6'
+issue: 6
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/12856/fantastic_four_1998_502?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: New Avengers
+url: http://marvel.com/comics/issue/43520/new_avengers_2013_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/5ad4aefed7cee
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/577545201b3b9
   extension: jpg
