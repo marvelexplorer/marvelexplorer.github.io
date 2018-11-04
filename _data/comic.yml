@@ -1,12 +1,12 @@
 ---
-date: '1991-09-10T00:00:00-0400'
-year: '1991'
-title: 'Doctor Strange, Sorcerer Supreme (1988) #33'
-issue: 33
+date: '1986-02-10T00:00:00-0500'
+year: '1986'
+title: 'Incredible Hulk (1962) #316'
+issue: 316
 series:
-  period: '1988'
-  name: Doctor Strange, Sorcerer Supreme
-url: http://marvel.com/comics/issue/20194/doctor_strange_sorcerer_supreme_1988_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9127/incredible_hulk_1962_316?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/59f0fbea463b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb60f2fc92ed
   extension: jpg
