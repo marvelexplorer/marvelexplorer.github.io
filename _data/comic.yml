@@ -1,12 +1,12 @@
 ---
-date: '2010-05-19T00:00:00-0400'
-year: '2010'
-title: 'Ultimate Comics Avengers 2 (2010) #2'
-issue: 2
+date: '1997-12-10T00:00:00-0500'
+year: '1997'
+title: 'Daredevil (1964) #370'
+issue: 370
 series:
-  period: '2010'
-  name: Ultimate Comics Avengers 2
-url: http://marvel.com/comics/issue/30589/ultimate_comics_avengers_2_2010_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8374/daredevil_1964_370?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/515f0d890d01d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/00/59306e1955672
   extension: jpg
