@@ -1,12 +1,12 @@
 ---
-date: '2006-05-03T00:00:00-0400'
-year: '2006'
-title: 'Civil War (2006) #1'
-issue: 1
+date: '2005-09-28T00:00:00-0400'
+year: '2005'
+title: 'New Avengers (2004) #11'
+issue: 11
 series:
-  period: '2006'
-  name: Civil War
-url: http://marvel.com/comics/issue/4216/civil_war_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/2417/new_avengers_2004_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/511307b2f1200
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7e00708ff3f
   extension: jpg
