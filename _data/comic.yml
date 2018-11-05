@@ -1,12 +1,12 @@
 ---
-date: '1998-04-01T00:00:00-0500'
-year: '1998'
-title: 'X-Men (1991) #74'
-issue: 74
+date: '1997-06-01T00:00:00-0400'
+year: '1997'
+title: 'X-Force (1991) #67'
+issue: 67
 series:
   period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14366/x-men_1991_74?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: X-Force
+url: http://marvel.com/comics/issue/18035/x-force_1991_67?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5ac663a251898
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/5873b99d38400
   extension: jpg
