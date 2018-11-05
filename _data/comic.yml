@@ -1,12 +1,12 @@
 ---
-date: '2005-05-18T00:00:00-0400'
-year: '2005'
-title: 'Rogue (2004) #11'
-issue: 11
+date: '1994-03-01T00:00:00-0500'
+year: '1994'
+title: 'Spider-Man: The Mutant Agenda (1994) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Rogue
-url: http://marvel.com/comics/issue/1988/rogue_2004_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1994'
+  name: 'Spider-Man: The Mutant Agenda'
+url: http://marvel.com/comics/issue/65255/spider-man_the_mutant_agenda_1994_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5a302a4e628f1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/5a304e92afccd
   extension: jpg
