@@ -1,6 +1,4 @@
 ---
-- name: Quicksilver
-  score: 4
 - name: Mr. Fantastic
   score: 4
 - name: Wolverine
@@ -8,4 +6,6 @@
 - name: Ms. Marvel (Kamala Khan)
   score: 3
 - name: Magneto
+  score: 3
+- name: Storm
   score: 3
