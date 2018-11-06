@@ -1,11 +1,11 @@
 ---
 - name: Mr. Fantastic
   score: 4
+- name: Human Torch
+  score: 4
 - name: Ms. Marvel (Kamala Khan)
   score: 3
 - name: Colossus
   score: 3
 - name: Deadpool
-  score: 3
-- name: Human Torch
   score: 3
