@@ -1,11 +1,11 @@
 ---
-- name: Ms. Marvel (Kamala Khan)
-  score: 3
-- name: Magneto
-  score: 3
 - name: Mr. Fantastic
+  score: 4
+- name: Ms. Marvel (Kamala Khan)
   score: 3
 - name: Colossus
   score: 3
 - name: X-Men
+  score: 3
+- name: Deadpool
   score: 3
