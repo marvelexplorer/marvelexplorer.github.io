@@ -1,12 +1,12 @@
 ---
-date: '1999-04-10T00:00:00-0400'
+date: '1999-06-10T00:00:00-0400'
 year: '1999'
-title: 'Deadpool (1997) #27'
-issue: 27
+title: 'Deadpool (1997) #29'
+issue: 29
 series:
   period: '1997'
   name: Deadpool
-url: http://marvel.com/comics/issue/8481/deadpool_1997_27?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/8483/deadpool_1997_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/4f186c7354d05
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4f186a39d38eb
   extension: jpg
