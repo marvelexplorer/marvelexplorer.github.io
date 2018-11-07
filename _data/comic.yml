@@ -1,12 +1,12 @@
 ---
-date: '2017-08-23T00:00:00-0400'
-year: '2017'
-title: 'Peter Parker: The Spectacular Spider-Man (2017) #3'
-issue: 3
+date: '1984-09-10T00:00:00-0400'
+year: '1984'
+title: 'Fantastic Four (1961) #270'
+issue: 270
 series:
-  period: '2017'
-  name: 'Peter Parker: The Spectacular Spider-Man'
-url: http://marvel.com/comics/issue/64257/peter_parker_the_spectacular_spider-man_2017_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13084/fantastic_four_1961_270?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/5988e10ad4c01
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb78fd45a043
   extension: jpg
