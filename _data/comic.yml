@@ -1,12 +1,12 @@
 ---
-date: '2017-04-26T00:00:00-0400'
-year: '2017'
-title: 'Mighty Thor (2015) #18'
-issue: 18
+date: '2012-06-27T00:00:00-0400'
+year: '2012'
+title: 'Wolverine & the X-Men (2011) #12'
+issue: 12
 series:
-  period: '2015'
-  name: Mighty Thor
-url: http://marvel.com/comics/issue/61013/mighty_thor_2015_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: Wolverine & the X-Men
+url: http://marvel.com/comics/issue/38578/wolverine_the_x-men_2011_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/58f7a3423ac55
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/51e44bbc7d94c
   extension: jpg
