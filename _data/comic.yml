@@ -1,12 +1,12 @@
 ---
-date: '1995-10-10T00:00:00-0400'
-year: '1995'
-title: 'X-Men Unlimited (1993) #8'
-issue: 8
+date: '1978-02-10T00:00:00-0500'
+year: '1978'
+title: 'Avengers (1963) #168'
+issue: 168
 series:
-  period: '1993'
-  name: X-Men Unlimited
-url: http://marvel.com/comics/issue/18158/x-men_unlimited_1993_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7028/avengers_1963_168?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/5880c792a118b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc47cf124aa5
   extension: jpg
