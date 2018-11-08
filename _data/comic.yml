@@ -1,12 +1,12 @@
 ---
-date: '1989-12-10T00:00:00-0500'
-year: '1989'
-title: 'Doctor Strange, Sorcerer Supreme (1988) #11'
-issue: 11
+date: '2018-01-17T00:00:00-0500'
+year: '2018'
+title: 'Doctor Strange (2015) #384'
+issue: 384
 series:
-  period: '1988'
-  name: Doctor Strange, Sorcerer Supreme
-url: http://marvel.com/comics/issue/20170/doctor_strange_sorcerer_supreme_1988_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Doctor Strange
+url: http://marvel.com/comics/issue/65905/doctor_strange_2015_384?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/30/59e79cbe7e3b4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/5a56670e01958
   extension: jpg
