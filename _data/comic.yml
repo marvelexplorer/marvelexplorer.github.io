@@ -1,12 +1,12 @@
 ---
-date: '1971-12-10T00:00:00-0500'
-year: '1971'
-title: 'Uncanny X-Men (1963) #73'
-issue: 73
+date: '2004-03-10T00:00:00-0500'
+year: '2004'
+title: 'Ultimate X-Men (2000) #43'
+issue: 43
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12525/uncanny_x-men_1963_73?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Ultimate X-Men
+url: http://marvel.com/comics/issue/412/ultimate_x-men_2000_43?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f67bbd439f22
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5bacf9a70e248
   extension: jpg
