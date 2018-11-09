@@ -1,12 +1,12 @@
 ---
-date: '2005-03-09T00:00:00-0500'
-year: '2005'
-title: 'New Thunderbolts (2004) #6'
-issue: 6
+date: '1996-03-10T00:00:00-0500'
+year: '1996'
+title: 'The Amazing Spider-Man (1963) #409'
+issue: 409
 series:
-  period: '2004'
-  name: New Thunderbolts
-url: http://marvel.com/comics/issue/1738/new_thunderbolts_2004_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6826/the_amazing_spider-man_1963_409?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/20/5a99930706439
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/d0/57e00c1d5eeb2
   extension: jpg
