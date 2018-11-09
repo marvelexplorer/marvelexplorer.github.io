@@ -1,8 +1,10 @@
 ---
-name: Swordsman
-description: Andreas reappeared as the Swordsman in the latest incarnation of the
-  Thunderbolts, though his true identity was kept secret for some time.
-url: http://marvel.com/universe/Swordsman_%28Andreas_Strucker%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Speed Demon
+description: James Saunders, a disgruntled chemist tired of his job with the Hudson
+  Pharmaceutical Company of West Caldwell, New Jersey, was contacted by the Grandmaster
+  and offered superhuman powers in exchange for joining a team that would compete
+  on his behalf.
+url: http://marvel.com/universe/Speed_Demon?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/40/535ff38904fff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c0032463bef2
   extension: jpg
