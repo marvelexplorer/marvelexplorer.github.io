@@ -1,12 +1,12 @@
 ---
-date: '1983-05-10T00:00:00-0400'
-year: '1983'
-title: 'Marvel Fanfare (1982) #8'
-issue: 8
+date: '1991-08-10T00:00:00-0400'
+year: '1991'
+title: 'Doctor Strange, Sorcerer Supreme (1988) #32'
+issue: 32
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19840/marvel_fanfare_1982_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Doctor Strange, Sorcerer Supreme
+url: http://marvel.com/comics/issue/20193/doctor_strange_sorcerer_supreme_1988_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/58e40d03d7876
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/59f0fbd21d355
   extension: jpg
