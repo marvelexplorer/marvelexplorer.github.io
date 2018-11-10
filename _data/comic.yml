@@ -1,12 +1,12 @@
 ---
-date: '1999-10-01T00:00:00-0400'
+date: '1999-11-01T00:00:00-0500'
 year: '1999'
-title: 'Incredible Hulk (1999) #7'
-issue: 7
+title: 'Avengers (1998) #22'
+issue: 22
 series:
-  period: '1999'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/14277/incredible_hulk_1999_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17504/avengers_1998_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5b33d55fc1f28
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/585959e0b9571
   extension: jpg
