@@ -1,9 +1,9 @@
 ---
 - name: Invisible Woman
   score: 4
-- name: Human Torch
-  score: 3
 - name: Captain America
+  score: 4
+- name: Human Torch
   score: 3
 - name: Iceman
   score: 3
