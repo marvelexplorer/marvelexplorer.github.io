@@ -1,12 +1,12 @@
 ---
-date: '1967-10-10T00:00:00-0400'
-year: '1967'
-title: 'Strange Tales (1951) #161'
-issue: 161
+date: '1983-05-10T00:00:00-0400'
+year: '1983'
+title: 'Marvel Fanfare (1982) #8'
+issue: 8
 series:
-  period: '1951'
-  name: Strange Tales
-url: http://marvel.com/comics/issue/11085/strange_tales_1951_161?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1982'
+  name: Marvel Fanfare
+url: http://marvel.com/comics/issue/19840/marvel_fanfare_1982_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/57bde47deb23b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/58e40d03d7876
   extension: jpg
