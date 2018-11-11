@@ -1,12 +1,12 @@
 ---
-date: '1987-03-10T00:00:00-0500'
-year: '1987'
-title: 'Uncanny X-Men (1963) #215'
-issue: 215
+date: '1985-07-10T00:00:00-0400'
+year: '1985'
+title: 'Secret Wars II (1985) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13756/uncanny_x-men_1963_215?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1985'
+  name: Secret Wars II
+url: http://marvel.com/comics/issue/18884/secret_wars_ii_1985_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bc46a98a9be8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/e0/5bd088debe0aa
   extension: jpg
