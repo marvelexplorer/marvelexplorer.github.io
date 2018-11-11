@@ -1,12 +1,12 @@
 ---
-date: '2010-05-12T00:00:00-0400'
+date: '2010-10-06T00:00:00-0400'
 year: '2010'
-title: 'Avengers: The Initiative (2007) #35'
-issue: 35
+title: 'Avengers Academy (2010) #5'
+issue: 5
 series:
-  period: '2007'
-  name: 'Avengers: The Initiative'
-url: http://marvel.com/comics/issue/29931/avengers_the_initiative_2007_35?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Avengers Academy
+url: http://marvel.com/comics/issue/29220/avengers_academy_2010_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/4e95e85964001
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/58d414b88dab0
   extension: jpg
