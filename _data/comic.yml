@@ -1,12 +1,12 @@
 ---
-date: '2008-09-24T00:00:00-0400'
+date: '2008-08-27T00:00:00-0400'
 year: '2008'
-title: 'Avengers: The Initiative (2007) #17'
-issue: 17
+title: 'Black Panther (2005) #40'
+issue: 40
 series:
-  period: '2007'
-  name: 'Avengers: The Initiative'
-url: http://marvel.com/comics/issue/21975/avengers_the_initiative_2007_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Black Panther
+url: http://marvel.com/comics/issue/21716/black_panther_2005_40?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/58dd03dc2ec00
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470e8c047e2
   extension: jpg
