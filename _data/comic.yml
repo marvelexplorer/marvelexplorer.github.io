@@ -1,12 +1,12 @@
 ---
-date: '1998-12-10T00:00:00-0500'
-year: '1998'
-title: 'Iron Man (1998) #11'
-issue: 11
+date: '2010-05-12T00:00:00-0400'
+year: '2010'
+title: 'Avengers: The Initiative (2007) #35'
+issue: 35
 series:
-  period: '1998'
-  name: Iron Man
-url: http://marvel.com/comics/issue/37771/iron_man_1998_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'Avengers: The Initiative'
+url: http://marvel.com/comics/issue/29931/avengers_the_initiative_2007_35?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/5a58d81be0e0f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/03/4e95e85964001
   extension: jpg
