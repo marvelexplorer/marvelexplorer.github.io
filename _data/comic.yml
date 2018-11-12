@@ -1,12 +1,12 @@
 ---
-date: '1982-03-10T00:00:00-0500'
-year: '1982'
-title: 'Uncanny X-Men (1963) #155'
-issue: 155
+date: '1988-01-10T00:00:00-0500'
+year: '1988'
+title: 'Havok & Wolverine: Meltdown (1988) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13696/uncanny_x-men_1963_155?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: 'Havok & Wolverine: Meltdown'
+url: http://marvel.com/comics/issue/20016/havok_wolverine_meltdown_1988_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/575aebf33b844
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb7c3181af8f
   extension: jpg
