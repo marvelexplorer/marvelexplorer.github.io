@@ -1,7 +1,8 @@
 ---
-name: Young Avengers
-description: ''
-url: http://marvel.com/universe/Young_Avengers?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Wiccan
+description: Believing himself to be one of the Scarlet Witch's twin boys, Billy Kaplan
+  also has reality-altering powers and is a member of the Young Avengers.
+url: http://marvel.com/universe/Wiccan?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/50fec602eed20
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/4c003a6e38300
   extension: jpg
