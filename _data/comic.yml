@@ -1,12 +1,12 @@
 ---
-date: '1988-01-10T00:00:00-0500'
-year: '1988'
-title: 'Havok & Wolverine: Meltdown (1988) #1'
-issue: 1
+date: '1994-09-10T00:00:00-0400'
+year: '1994'
+title: 'Iron Man (1968) #308'
+issue: 308
 series:
-  period: '1988'
-  name: 'Havok & Wolverine: Meltdown'
-url: http://marvel.com/comics/issue/20016/havok_wolverine_meltdown_1988_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9559/iron_man_1968_308?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb7c3181af8f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5a78c01e037d3
   extension: jpg
