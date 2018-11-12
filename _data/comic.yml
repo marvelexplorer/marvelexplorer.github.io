@@ -1,12 +1,12 @@
 ---
-date: '2013-03-27T00:00:00-0400'
-year: '2013'
-title: 'Uncanny Avengers (2012) #5'
-issue: 5
+date: '2002-09-10T00:00:00-0400'
+year: '2002'
+title: 'Exiles (2001) #15'
+issue: 15
 series:
-  period: '2012'
-  name: Uncanny Avengers
-url: http://marvel.com/comics/issue/43335/uncanny_avengers_2012_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Exiles
+url: http://marvel.com/comics/issue/16255/exiles_2001_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/5a58f5a3155c0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc36be891ce4
   extension: jpg
