@@ -1,12 +1,12 @@
 ---
-date: '2009-03-25T00:00:00-0400'
-year: '2009'
-title: 'New Avengers (2004) #51'
-issue: 51
+date: '1996-09-10T00:00:00-0400'
+year: '1996'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #238'
+issue: 238
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/23747/new_avengers_2004_51?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14696/peter_parker_the_spectacular_spider-man_1976_238?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/5773ea00cea12
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5ad8f74a0b93c
   extension: jpg
