@@ -1,12 +1,12 @@
 ---
-date: '2011-06-01T00:00:00-0400'
-year: '2011'
-title: 'X-23 (2010) #11'
-issue: 11
+date: '2012-07-25T00:00:00-0400'
+year: '2012'
+title: 'Wolverine & the X-Men (2011) #14'
+issue: 14
 series:
-  period: '2010'
-  name: X-23
-url: http://marvel.com/comics/issue/30257/x-23_2010_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Wolverine & the X-Men
+url: http://marvel.com/comics/issue/40089/wolverine_the_x-men_2011_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/51eeb231757dd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/51e44c9dc0f00
   extension: jpg
