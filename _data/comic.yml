@@ -1,12 +1,12 @@
 ---
-date: '2005-12-07T00:00:00-0500'
-year: '2005'
-title: 'Friendly Neighborhood Spider-Man (2005) #3'
-issue: 3
+date: '2018-03-07T00:00:00-0500'
+year: '2018'
+title: 'The Amazing Spider-Man (2015) #797'
+issue: 797
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/3133/friendly_neighborhood_spider-man_2005_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/66388/the_amazing_spider-man_2015_797?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/70/56a8eff76c638
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/5a972a11195d5
   extension: jpg
