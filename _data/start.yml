@@ -1,9 +1,10 @@
 ---
-name: Vision
-description: The metal monstrosity called Ultron created the synthetic humanoid known
-  as the Vision from the remains of the original android Human Torch of the 1940s
-  to serve as a vehicle of vengeance against the Avengers.
-url: http://marvel.com/universe/Vision_(Victor_Shade)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Captain America (Sam Wilson)
+description: <p class="Body">Sam Wilson, a Harlem native, previously operated under
+  the name Falcon, fighting alongside the Avengers. When his longtime friend Steve
+  Rogers stepped down as Captain America, Wilson was hand-picked to fill the role.
+  Now the former Falcon soars through the skies wearing red, white and blue.</p>
+url: http://marvel.com/comics/characters/1017575/captain_america_sam_wilson?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/545a84a75ddaf
   extension: jpg
