@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
-year: '2006'
-title: 'New Avengers (2004) #15'
-issue: 15
+date: '2012-05-16T00:00:00-0400'
+year: '2012'
+title: 'Avengers Vs. X-Men (2012) #4'
+issue: 4
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/3348/new_avengers_2004_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Avengers Vs. X-Men
+url: http://marvel.com/comics/issue/41193/avengers_vs_x-men_2012_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4f7e051ada1c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/80/515f1a31c0d36
   extension: jpg
