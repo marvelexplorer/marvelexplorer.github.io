@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
-  score: 8
+  score: 7
 - name: Human Torch
   score: 4
 - name: Captain America
   score: 4
-- name: Colossus
-  score: 3
 - name: Spider-Man
+  score: 4
+- name: Colossus
   score: 3
