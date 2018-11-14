@@ -1,12 +1,12 @@
 ---
-date: '1982-08-10T00:00:00-0400'
-year: '1982'
-title: 'Iron Man (1968) #161'
-issue: 161
+date: '2005-12-07T00:00:00-0500'
+year: '2005'
+title: 'Friendly Neighborhood Spider-Man (2005) #3'
+issue: 3
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9396/iron_man_1968_161?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: Friendly Neighborhood Spider-Man
+url: http://marvel.com/comics/issue/3133/friendly_neighborhood_spider-man_2005_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5a6f5c25b107c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/70/56a8eff76c638
   extension: jpg
