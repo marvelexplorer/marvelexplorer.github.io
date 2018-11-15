@@ -1,12 +1,12 @@
 ---
-date: '2014-12-17T00:00:00-0500'
-year: '2014'
-title: 'Guardians of the Galaxy (2013) #22'
-issue: 22
+date: '2013-12-18T00:00:00-0500'
+year: '2013'
+title: 'Superior Spider-Man (2013) #24'
+issue: 24
 series:
   period: '2013'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/51163/guardians_of_the_galaxy_2013_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: Superior Spider-Man
+url: http://marvel.com/comics/issue/47388/superior_spider-man_2013_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5491a1de66768
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/52a7768ea8540
   extension: jpg
