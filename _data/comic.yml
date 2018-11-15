@@ -1,12 +1,12 @@
 ---
-date: '2006-11-22T00:00:00-0500'
-year: '2006'
-title: 'Amazing Spider-Man (1999) #536'
-issue: 536
+date: '1965-09-10T00:00:00-0400'
+year: '1965'
+title: 'Tales of Suspense (1959) #69'
+issue: 69
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/5094/amazing_spider-man_1999_536?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1959'
+  name: Tales of Suspense
+url: http://marvel.com/comics/issue/11313/tales_of_suspense_1959_69?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56fd2e0e0eca3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/57b21ad2139de
   extension: jpg
