@@ -1,12 +1,12 @@
 ---
-date: '2017-06-28T00:00:00-0400'
-year: '2017'
-title: 'I Am Groot (2017) #2'
-issue: 2
+date: '2014-12-17T00:00:00-0500'
+year: '2014'
+title: 'Guardians of the Galaxy (2013) #22'
+issue: 22
 series:
-  period: '2017'
-  name: I Am Groot
-url: http://marvel.com/comics/issue/63241/i_am_groot_2017_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/51163/guardians_of_the_galaxy_2013_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/594c2aac7b9b6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5491a1de66768
   extension: jpg
