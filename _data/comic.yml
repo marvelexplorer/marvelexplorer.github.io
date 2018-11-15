@@ -1,12 +1,12 @@
 ---
-date: '2011-12-14T00:00:00-0500'
-year: '2011'
-title: 'Marvel Holiday Comic (2011) #1'
-issue: 1
+date: '1999-06-01T00:00:00-0400'
+year: '1999'
+title: 'X-Men (1991) #89'
+issue: 89
 series:
-  period: '2011'
-  name: Marvel Holiday Comic
-url: http://marvel.com/comics/issue/41494/marvel_holiday_comic_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Men
+url: http://marvel.com/comics/issue/14382/x-men_1991_89?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/30/56b8eceaa28bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5b9bdb1c5187f
   extension: jpg
