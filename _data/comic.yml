@@ -1,12 +1,12 @@
 ---
-date: '2002-04-01T00:00:00-0500'
-year: '2002'
-title: 'Black Panther (1998) #41'
-issue: 41
+date: '2012-05-02T00:00:00-0400'
+year: '2012'
+title: 'Defenders (2011) #6'
+issue: 6
 series:
-  period: '1998'
-  name: Black Panther
-url: http://marvel.com/comics/issue/12610/black_panther_1998_41?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Defenders
+url: http://marvel.com/comics/issue/39761/defenders_2011_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc34a8938ac4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4fa43c33f2580
   extension: jpg
