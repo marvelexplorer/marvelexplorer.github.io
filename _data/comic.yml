@@ -1,12 +1,12 @@
 ---
-date: '2013-12-18T00:00:00-0500'
-year: '2013'
-title: 'Superior Spider-Man (2013) #24'
-issue: 24
+date: '2006-11-22T00:00:00-0500'
+year: '2006'
+title: 'Amazing Spider-Man (1999) #536'
+issue: 536
 series:
-  period: '2013'
-  name: Superior Spider-Man
-url: http://marvel.com/comics/issue/47388/superior_spider-man_2013_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/5094/amazing_spider-man_1999_536?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/52a7768ea8540
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56fd2e0e0eca3
   extension: jpg
