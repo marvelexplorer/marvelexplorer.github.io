@@ -1,12 +1,12 @@
 ---
-date: '1982-11-10T00:00:00-0500'
-year: '1982'
-title: 'Iron Man Annual (1970) #5'
-issue: 5
+date: '2007-10-03T00:00:00-0400'
+year: '2007'
+title: 'Iron Man: Enter the Mandarin (2007) #2'
+issue: 2
 series:
-  period: '1970'
-  name: Iron Man Annual
-url: http://marvel.com/comics/issue/19869/iron_man_annual_1970_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'Iron Man: Enter the Mandarin'
+url: http://marvel.com/comics/issue/16562/iron_man_enter_the_mandarin_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/59cbfa1c0ef25
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/5a7a0f0ac8d49
   extension: jpg
