@@ -1,12 +1,12 @@
 ---
-date: '1965-06-10T00:00:00-0400'
-year: '1965'
-title: 'Fantastic Four (1961) #39'
-issue: 39
+date: '2013-05-29T00:00:00-0400'
+year: '2013'
+title: 'Dark Avengers (2012) #190'
+issue: 190
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13216/fantastic_four_1961_39?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Dark Avengers
+url: http://marvel.com/comics/issue/46030/dark_avengers_2012_190?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/80/5aabf51d2ec13
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5b3e3d9108d17
   extension: jpg
