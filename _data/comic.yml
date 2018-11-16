@@ -1,12 +1,12 @@
 ---
-date: '1998-05-10T00:00:00-0400'
-year: '1998'
-title: 'Captain America (1998) #5'
-issue: 5
+date: '1975-08-10T00:00:00-0400'
+year: '1975'
+title: 'Super-Villain Team-Up (1975) #1'
+issue: 1
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12811/captain_america_1998_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1975'
+  name: Super-Villain Team-Up
+url: http://marvel.com/comics/issue/18779/super-villain_team-up_1975_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4e9492aeb73fb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/583dde49e64a1
   extension: jpg
