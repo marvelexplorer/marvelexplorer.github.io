@@ -1,12 +1,12 @@
 ---
-date: '2008-07-30T00:00:00-0400'
-year: '2008'
-title: 'Black Panther (2005) #39'
-issue: 39
+date: '1998-05-10T00:00:00-0400'
+year: '1998'
+title: 'Captain America (1998) #5'
+issue: 5
 series:
-  period: '2005'
-  name: Black Panther
-url: http://marvel.com/comics/issue/21513/black_panther_2005_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Captain America
+url: http://marvel.com/comics/issue/12811/captain_america_1998_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/57470d91215c3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4e9492aeb73fb
   extension: jpg
