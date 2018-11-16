@@ -1,12 +1,12 @@
 ---
-date: '2016-08-03T00:00:00-0400'
-year: '2016'
-title: 'Daredevil Annual (2016) #1'
-issue: 1
+date: '2011-10-05T00:00:00-0400'
+year: '2011'
+title: 'Moon Knight (2010) #6'
+issue: 6
 series:
-  period: '2016'
-  name: Daredevil Annual
-url: http://marvel.com/comics/issue/60349/daredevil_annual_2016_1?utm_campaign=apiRef&utm_source=074fef9caaafdfec7f1b4096f966379e
+  period: '2010'
+  name: Moon Knight
+url: http://marvel.com/comics/issue/34024/moon_knight_2010_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/579673edd70e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5a85a4db099cb
   extension: jpg
