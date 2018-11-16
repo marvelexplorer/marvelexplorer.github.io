@@ -1,12 +1,12 @@
 ---
-date: '2011-04-27T00:00:00-0400'
-year: '2011'
-title: 'Captain America (2004) #617'
-issue: 617
+date: '2017-06-07T00:00:00-0400'
+year: '2017'
+title: 'Jessica Jones (2016) #9'
+issue: 9
 series:
-  period: '2004'
-  name: Captain America
-url: http://marvel.com/comics/issue/39017/captain_america_2004_617?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Jessica Jones
+url: http://marvel.com/comics/issue/61607/jessica_jones_2016_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/59c3c1c58a7a1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/5930621005bf1
   extension: jpg
