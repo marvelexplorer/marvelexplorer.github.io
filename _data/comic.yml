@@ -1,12 +1,12 @@
 ---
-date: '1985-05-10T00:00:00-0400'
+date: '1985-11-10T00:00:00-0500'
 year: '1985'
-title: 'Fantastic Four (1961) #278'
-issue: 278
+title: 'Fantastic Four (1961) #284'
+issue: 284
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/13092/fantastic_four_1961_278?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13099/fantastic_four_1961_284?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4c366d7377d71
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4c366a62ada5d
   extension: jpg
