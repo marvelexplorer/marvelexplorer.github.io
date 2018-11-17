@@ -1,12 +1,12 @@
 ---
-date: '1967-12-01T00:00:00-0500'
-year: '1967'
-title: 'Marvel Super-Heroes (1967) #12'
-issue: 12
+date: '1939-10-01T00:00:00-0500'
+year: '1939'
+title: 'Marvel Comics (1939) #1'
+issue: 1
 series:
-  period: '1967'
-  name: Marvel Super-Heroes
-url: http://marvel.com/comics/issue/15423/marvel_super-heroes_1967_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1939'
+  name: Marvel Comics
+url: http://marvel.com/comics/issue/10008/marvel_comics_1939_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/20/4bc469f984514
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4
   extension: jpg
