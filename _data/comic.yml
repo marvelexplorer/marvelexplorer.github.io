@@ -1,12 +1,12 @@
 ---
-date: '2009-10-21T00:00:00-0400'
-year: '2009'
-title: 'Mighty Avengers (2007) #30'
-issue: 30
+date: '1988-07-10T00:00:00-0400'
+year: '1988'
+title: 'Fantastic Four (1961) #316'
+issue: 316
 series:
-  period: '2007'
-  name: Mighty Avengers
-url: http://marvel.com/comics/issue/25974/mighty_avengers_2007_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13135/fantastic_four_1961_316?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f7c943b0e7a8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5ac3e174269e2
   extension: jpg
