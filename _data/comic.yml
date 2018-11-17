@@ -1,12 +1,12 @@
 ---
-date: '1939-10-01T00:00:00-0500'
-year: '1939'
-title: 'Marvel Comics (1939) #1'
-issue: 1
+date: '2002-12-01T00:00:00-0500'
+year: '2002'
+title: 'Uncanny X-Men (1963) #414'
+issue: 414
 series:
-  period: '1939'
-  name: Marvel Comics
-url: http://marvel.com/comics/issue/10008/marvel_comics_1939_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13955/uncanny_x-men_1963_414?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f6234a5208bd
   extension: jpg
