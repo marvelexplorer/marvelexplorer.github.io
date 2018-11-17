@@ -1,12 +1,12 @@
 ---
-date: '2008-01-30T00:00:00-0500'
-year: '2008'
-title: 'Avengers: The Initiative (2007) #9'
-issue: 9
+date: '1994-07-10T00:00:00-0400'
+year: '1994'
+title: 'Avengers (1963) #376'
+issue: 376
 series:
-  period: '2007'
-  name: 'Avengers: The Initiative'
-url: http://marvel.com/comics/issue/17638/avengers_the_initiative_2007_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7259/avengers_1963_376?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/58daba11bedba
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/520901f2b77e2
   extension: jpg
