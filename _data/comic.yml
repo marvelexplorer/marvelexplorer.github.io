@@ -1,12 +1,12 @@
 ---
-date: '1975-12-30T00:00:00-0500'
+date: '1975-09-01T00:00:00-0400'
 year: '1975'
-title: 'Avengers (1963) #142'
-issue: 142
+title: 'Avengers (1963) #139'
+issue: 139
 series:
   period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/7000/avengers_1963_142?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6996/avengers_1963_139?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6deade8315
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/a0/587e687b4de57
   extension: jpg
