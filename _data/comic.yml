@@ -1,12 +1,12 @@
 ---
-date: '2010-10-27T00:00:00-0400'
-year: '2010'
-title: 'Amazing Spider-Man (1999) #646'
-issue: 646
+date: '1998-12-20T00:00:00-0500'
+year: '1998'
+title: 'Spider-Man: Chapter One (1998) #2'
+issue: 2
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/30321/amazing_spider-man_1999_646?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: 'Spider-Man: Chapter One'
+url: http://marvel.com/comics/issue/43223/spider-man_chapter_one_1998_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/60/5813b0335c1ab
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/583d9bca903e5
   extension: jpg
