@@ -1,12 +1,12 @@
 ---
-date: '2003-10-01T00:00:00-0400'
-year: '2003'
-title: 'New Mutants (2003) #4'
-issue: 4
+date: '1989-11-10T00:00:00-0500'
+year: '1989'
+title: 'New Mutants (1983) #81'
+issue: 81
 series:
-  period: '2003'
+  period: '1983'
   name: New Mutants
-url: http://marvel.com/comics/issue/10329/new_mutants_2003_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/10423/new_mutants_1983_81?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5a0334b8b0890
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/5a85ea149932a
   extension: jpg
