@@ -1,12 +1,12 @@
 ---
-date: '1975-01-10T00:00:00-0500'
-year: '1975'
-title: 'Captain America (1968) #181'
-issue: 181
+date: '2012-08-22T00:00:00-0400'
+year: '2012'
+title: 'Captain America and... (2012) #635.1'
+issue: 635.1
 series:
-  period: '1968'
-  name: Captain America
-url: http://marvel.com/comics/issue/7562/captain_america_1968_181?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Captain America and...
+url: http://marvel.com/comics/issue/42685/captain_america_and._2012_635.1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/59b961148519e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5717d613395bd
   extension: jpg
