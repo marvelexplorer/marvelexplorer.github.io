@@ -1,12 +1,12 @@
 ---
-date: '1998-12-20T00:00:00-0500'
-year: '1998'
-title: 'Spider-Man: Chapter One (1998) #2'
-issue: 2
+date: '1993-08-01T00:00:00-0400'
+year: '1993'
+title: 'Fantastic Four (1961) #379'
+issue: 379
 series:
-  period: '1998'
-  name: 'Spider-Man: Chapter One'
-url: http://marvel.com/comics/issue/43223/spider-man_chapter_one_1998_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1961'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/13204/fantastic_four_1961_379?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/583d9bca903e5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/52669c7a1e003
   extension: jpg
