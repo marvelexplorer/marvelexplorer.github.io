@@ -1,12 +1,12 @@
 ---
-date: '2006-09-13T00:00:00-0400'
-year: '2006'
-title: 'New Excalibur (2005) #11'
-issue: 11
+date: '2007-12-05T00:00:00-0500'
+year: '2007'
+title: 'X-Men: Die by the Sword (2007) #4'
+issue: 4
 series:
-  period: '2005'
-  name: New Excalibur
-url: http://marvel.com/comics/issue/5085/new_excalibur_2005_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'X-Men: Die by the Sword'
+url: http://marvel.com/comics/issue/17414/x-men_die_by_the_sword_2007_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58054c9381e7a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/58d16e971b8ff
   extension: jpg
