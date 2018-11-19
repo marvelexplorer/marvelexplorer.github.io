@@ -1,10 +1,7 @@
 ---
-name: Pete Wisdom
-description: Pete Wisdom is a former agent of the British intelligence agency Black
-  Air, which was charged with the observation of, and interaction with, extranormal
-  activity, and he was the agency's liaison with the British superhero group Excalibur,
-  whom he eventually aided in exposing Black Air's subversive criminal activities.
-url: http://marvel.com/universe/Wisdom%2C_Peter?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Captain Britain
+description: ''
+url: http://marvel.com/universe/Captain_Britain_(Brian_Braddock)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003740c9027
-  extension: png
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4dbf0e5d57226
+  extension: jpg

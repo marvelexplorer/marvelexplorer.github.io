@@ -1,12 +1,12 @@
 ---
-date: '2007-12-05T00:00:00-0500'
-year: '2007'
-title: 'X-Men: Die by the Sword (2007) #4'
-issue: 4
+date: '2010-12-29T00:00:00-0500'
+year: '2010'
+title: 'Ultimate Comics Thor (2010) #3'
+issue: 3
 series:
-  period: '2007'
-  name: 'X-Men: Die by the Sword'
-url: http://marvel.com/comics/issue/17414/x-men_die_by_the_sword_2007_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Ultimate Comics Thor
+url: http://marvel.com/comics/issue/33577/ultimate_comics_thor_2010_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/58d16e971b8ff
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5a8efaf54d628
   extension: jpg
