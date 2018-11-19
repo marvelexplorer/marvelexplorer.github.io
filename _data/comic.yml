@@ -1,12 +1,12 @@
 ---
-date: '1989-11-20T00:00:00-0500'
-year: '1989'
-title: 'New Mutants (1983) #82'
-issue: 82
+date: '1996-06-01T00:00:00-0400'
+year: '1996'
+title: 'X-Force (1991) #55'
+issue: 55
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10424/new_mutants_1983_82?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/18022/x-force_1991_55?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5a85eb3344d10
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/30/5a7e0cdf9a07b
   extension: jpg
