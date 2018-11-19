@@ -1,12 +1,12 @@
 ---
-date: '2011-10-26T00:00:00-0400'
+date: '2011-05-11T00:00:00-0400'
 year: '2011'
-title: 'Astonishing X-Men (2004) #43'
-issue: 43
+title: 'New Mutants (2009) #25'
+issue: 25
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/39319/astonishing_x-men_2004_43?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: New Mutants
+url: http://marvel.com/comics/issue/36501/new_mutants_2009_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/4ea8700f5c3b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/5155cdfdc24bd
   extension: jpg
