@@ -3,9 +3,9 @@
   score: 5
 - name: Captain America
   score: 4
-- name: Thing
-  score: 3
 - name: Klaw
   score: 3
 - name: New Mutants
+  score: 3
+- name: Storm
   score: 3
