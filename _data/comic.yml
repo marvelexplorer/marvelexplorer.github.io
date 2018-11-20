@@ -1,12 +1,12 @@
 ---
-date: '2017-12-13T00:00:00-0500'
-year: '2017'
-title: 'Weapon X (2017) #12'
-issue: 12
+date: '1994-12-10T00:00:00-0500'
+year: '1994'
+title: 'Cable (1993) #18'
+issue: 18
 series:
-  period: '2017'
-  name: Weapon X
-url: http://marvel.com/comics/issue/65314/weapon_x_2017_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: Cable
+url: http://marvel.com/comics/issue/7391/cable_1993_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5a284403e3efc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/56f956a8e771e
   extension: jpg
