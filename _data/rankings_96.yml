@@ -1,10 +1,10 @@
 ---
 - name: Storm
-  score: 5
-- name: Fantastic Four
-  score: 4
+  score: 6
 - name: Captain America
   score: 4
+- name: Fantastic Four
+  score: 3
 - name: New Mutants
   score: 3
 - name: Klaw
