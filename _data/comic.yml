@@ -1,12 +1,12 @@
 ---
-date: '2006-07-12T00:00:00-0400'
-year: '2006'
-title: 'X-Men (2004) #188'
-issue: 188
+date: '2017-03-15T00:00:00-0400'
+year: '2017'
+title: 'Uncanny Avengers (2015) #21'
+issue: 21
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/4436/x-men_2004_188?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: Uncanny Avengers
+url: http://marvel.com/comics/issue/61098/uncanny_avengers_2015_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/b0/58b47310035bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/58b87b40e88a7
   extension: jpg
