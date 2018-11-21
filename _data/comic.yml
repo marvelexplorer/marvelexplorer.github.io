@@ -1,12 +1,12 @@
 ---
-date: '2009-07-15T00:00:00-0400'
-year: '2009'
-title: 'New Mutants (2009) #3'
-issue: 3
+date: '2013-02-27T00:00:00-0500'
+year: '2013'
+title: 'X-Men Legacy (2012) #6'
+issue: 6
 series:
-  period: '2009'
-  name: New Mutants
-url: http://marvel.com/comics/issue/26052/new_mutants_2009_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/46803/x-men_legacy_2012_6?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5a0603f33b6c6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/50/58c6f9e483d52
   extension: jpg
