@@ -1,12 +1,12 @@
 ---
-date: '1989-11-10T00:00:00-0500'
-year: '1989'
-title: 'Incredible Hulk (1962) #361'
-issue: 361
+date: '2006-06-21T00:00:00-0400'
+year: '2006'
+title: 'Marvel Adventures the Avengers (2006) #2'
+issue: 2
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9172/incredible_hulk_1962_361?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/4337/marvel_adventures_the_avengers_2006_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/00/5b90052964489
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f625174aba59
   extension: jpg
