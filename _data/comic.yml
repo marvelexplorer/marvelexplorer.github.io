@@ -1,12 +1,12 @@
 ---
-date: '1969-11-10T00:00:00-0500'
-year: '1969'
-title: 'Iron Man (1968) #19'
-issue: 19
+date: '1982-08-10T00:00:00-0400'
+year: '1982'
+title: 'What If? (1977) #34'
+issue: 34
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9427/iron_man_1968_19?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: What If?
+url: http://marvel.com/comics/issue/12148/what_if_1977_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f637caf40761
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5bdaff266c8fe
   extension: jpg
