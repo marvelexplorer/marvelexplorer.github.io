@@ -1,12 +1,12 @@
 ---
-date: '2017-01-25T00:00:00-0500'
-year: '2017'
-title: 'Infamous Iron Man (2016) #4'
-issue: 4
+date: '2007-11-14T00:00:00-0500'
+year: '2007'
+title: 'Iron Man and Power Pack (2007) #1'
+issue: 1
 series:
-  period: '2016'
-  name: Infamous Iron Man
-url: http://marvel.com/comics/issue/61550/infamous_iron_man_2016_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Iron Man and Power Pack
+url: http://marvel.com/comics/issue/17285/iron_man_and_power_pack_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5878ff3e13d30
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5b73388562cde
   extension: jpg
