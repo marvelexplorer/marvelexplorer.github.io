@@ -1,12 +1,12 @@
 ---
-date: '2016-06-22T00:00:00-0400'
-year: '2016'
-title: 'The Totally Awesome Hulk (2015) #7'
-issue: 7
+date: '2003-08-01T00:00:00-0400'
+year: '2003'
+title: 'Incredible Hulk (1999) #56'
+issue: 56
 series:
-  period: '2015'
-  name: The Totally Awesome Hulk
-url: http://marvel.com/comics/issue/56089/the_totally_awesome_hulk_2015_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/14456/incredible_hulk_1999_56?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/575b3379d5438
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc46b7e1f3ab
   extension: jpg
