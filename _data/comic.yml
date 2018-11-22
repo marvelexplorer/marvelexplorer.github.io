@@ -1,12 +1,12 @@
 ---
-date: '2000-03-10T00:00:00-0500'
-year: '2000'
-title: 'Fantastic Four (1998) #27'
-issue: 27
+date: '2010-03-17T00:00:00-0400'
+year: '2010'
+title: 'Doomwar (2010) #2'
+issue: 2
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/15546/fantastic_four_1998_27?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Doomwar
+url: http://marvel.com/comics/issue/29949/doomwar_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5ace5b77316b9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5b6097dcc0471
   extension: jpg
