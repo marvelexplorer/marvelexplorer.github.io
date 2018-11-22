@@ -1,12 +1,12 @@
 ---
-date: '1984-03-10T00:00:00-0500'
-year: '1984'
-title: 'Alpha Flight (1983) #8'
-issue: 8
+date: '2011-06-01T00:00:00-0400'
+year: '2011'
+title: 'X-Men (2010) #12'
+issue: 12
 series:
-  period: '1983'
-  name: Alpha Flight
-url: http://marvel.com/comics/issue/12745/alpha_flight_1983_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: X-Men
+url: http://marvel.com/comics/issue/32188/x-men_2010_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bb8183d57a82
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/58d13465b5c13
   extension: jpg
