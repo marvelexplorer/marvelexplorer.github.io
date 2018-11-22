@@ -1,12 +1,12 @@
 ---
-date: '2010-03-17T00:00:00-0400'
-year: '2010'
-title: 'Doomwar (2010) #2'
-issue: 2
+date: '2017-01-25T00:00:00-0500'
+year: '2017'
+title: 'Infamous Iron Man (2016) #4'
+issue: 4
 series:
-  period: '2010'
-  name: Doomwar
-url: http://marvel.com/comics/issue/29949/doomwar_2010_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Infamous Iron Man
+url: http://marvel.com/comics/issue/61550/infamous_iron_man_2016_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5b6097dcc0471
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5878ff3e13d30
   extension: jpg
