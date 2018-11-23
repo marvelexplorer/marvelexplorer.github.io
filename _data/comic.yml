@@ -1,12 +1,12 @@
 ---
-date: '1996-10-01T00:00:00-0400'
-year: '1996'
-title: 'Excalibur (1988) #102'
-issue: 102
+date: '2009-03-25T00:00:00-0400'
+year: '2009'
+title: 'Fantastic Four (1998) #565'
+issue: 565
 series:
-  period: '1988'
-  name: Excalibur
-url: http://marvel.com/comics/issue/8566/excalibur_1988_102?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/23736/fantastic_four_1998_565?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/55b001dd68f58
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/e0/57e9772c9396e
   extension: jpg
