@@ -1,12 +1,12 @@
 ---
-date: '2012-04-04T00:00:00-0400'
+date: '2012-05-04T00:00:00-0400'
 year: '2012'
-title: 'Hulk (2008) #50'
-issue: 50
+title: 'Marvel''s The Avengers Prelude: Fury''s Big Week (2011) #3'
+issue: 3
 series:
-  period: '2008'
-  name: Hulk
-url: http://marvel.com/comics/issue/40638/hulk_2008_50?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2011'
+  name: 'Marvel''s The Avengers Prelude: Fury''s Big Week'
+url: http://marvel.com/comics/issue/41340/marvels_the_avengers_prelude_furys_big_week_2011_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/5ba3a68f2ddb5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f7de6e10b572
   extension: jpg
