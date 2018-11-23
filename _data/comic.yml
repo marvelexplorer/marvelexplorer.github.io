@@ -1,12 +1,12 @@
 ---
-date: '1968-11-10T00:00:00-0500'
-year: '1968'
-title: 'Avengers (1963) #58'
-issue: 58
+date: '1989-11-01T00:00:00-0500'
+year: '1989'
+title: 'Marvel Comics Presents (1988) #31'
+issue: 31
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7308/avengers_1963_58?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10110/marvel_comics_presents_1988_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/0/04/4e96feecb36f3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/80/5aa160e3ade34
   extension: jpg
