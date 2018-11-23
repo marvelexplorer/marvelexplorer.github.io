@@ -1,12 +1,12 @@
 ---
-date: '2001-06-01T00:00:00-0400'
-year: '2001'
-title: 'Captain Marvel (2000) #18'
-issue: 18
+date: '1991-09-10T00:00:00-0400'
+year: '1991'
+title: 'Infinity Gauntlet (1991) #3'
+issue: 3
 series:
-  period: '2000'
-  name: Captain Marvel
-url: http://marvel.com/comics/issue/371/captain_marvel_2000_18?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: Infinity Gauntlet
+url: http://marvel.com/comics/issue/9288/infinity_gauntlet_1991_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/b0/56aa26e49cfdf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/51f691085d7fe
   extension: jpg
