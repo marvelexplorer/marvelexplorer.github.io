@@ -1,12 +1,12 @@
 ---
-date: '2003-04-01T00:00:00-0500'
+date: '2003-03-01T00:00:00-0500'
 year: '2003'
-title: 'Captain Marvel (2002) #6'
-issue: 6
+title: 'Captain Marvel (2002) #5'
+issue: 5
 series:
   period: '2002'
   name: Captain Marvel
-url: http://marvel.com/comics/issue/22836/captain_marvel_2002_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/22835/captain_marvel_2002_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/5b180313d113e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5b17f7da564c5
   extension: jpg
