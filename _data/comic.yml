@@ -1,12 +1,12 @@
 ---
-date: '1995-07-10T00:00:00-0400'
-year: '1995'
-title: 'Spider-Man 2099 (1992) #33'
-issue: 33
+date: '2002-03-15T00:00:00-0500'
+year: '2002'
+title: 'Captain Marvel (2000) #28'
+issue: 28
 series:
-  period: '1992'
-  name: Spider-Man 2099
-url: http://marvel.com/comics/issue/10891/spider-man_2099_1992_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Captain Marvel
+url: http://marvel.com/comics/issue/22842/captain_marvel_2000_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/5925d602cd25b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/56aa292fcc9ed
   extension: jpg
