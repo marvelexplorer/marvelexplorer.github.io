@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
-year: '2006'
-title: 'Spider-Man Loves Mary Jane (2005) #2'
-issue: 2
+date: '1995-07-10T00:00:00-0400'
+year: '1995'
+title: 'Spider-Man 2099 (1992) #33'
+issue: 33
 series:
-  period: '2005'
-  name: Spider-Man Loves Mary Jane
-url: http://marvel.com/comics/issue/3415/spider-man_loves_mary_jane_2005_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1992'
+  name: Spider-Man 2099
+url: http://marvel.com/comics/issue/10891/spider-man_2099_1992_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/586c1eababfb2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/5925d602cd25b
   extension: jpg
