@@ -1,12 +1,12 @@
 ---
-date: '1976-09-10T00:00:00-0400'
-year: '1976'
-title: 'Captain Marvel (1968) #46'
-issue: 46
+date: '2003-04-01T00:00:00-0500'
+year: '2003'
+title: 'Captain Marvel (2002) #6'
+issue: 6
 series:
-  period: '1968'
+  period: '2002'
   name: Captain Marvel
-url: http://marvel.com/comics/issue/8035/captain_marvel_1968_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/22836/captain_marvel_2002_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/5a306ffcb9dd0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/5b180313d113e
   extension: jpg
