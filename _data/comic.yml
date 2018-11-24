@@ -1,12 +1,12 @@
 ---
-date: '1973-11-01T00:00:00-0500'
-year: '1973'
-title: 'Jungle Action (1972) #7'
-issue: 7
+date: '2006-01-25T00:00:00-0500'
+year: '2006'
+title: 'New Avengers (2004) #15'
+issue: 15
 series:
-  period: '1972'
-  name: Jungle Action
-url: http://marvel.com/comics/issue/62640/jungle_action_1972_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/3348/new_avengers_2004_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/20/5a73ab1b6c00b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4f7e051ada1c7
   extension: jpg
