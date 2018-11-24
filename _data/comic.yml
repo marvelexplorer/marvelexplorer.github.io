@@ -1,12 +1,12 @@
 ---
-date: '2017-07-26T00:00:00-0400'
-year: '2017'
-title: 'Thanos (2016) #9'
-issue: 9
+date: '2002-05-01T00:00:00-0400'
+year: '2002'
+title: 'Avengers: Celestial Quest (2001) #7'
+issue: 7
 series:
-  period: '2016'
-  name: Thanos
-url: http://marvel.com/comics/issue/61705/thanos_2016_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2001'
+  name: 'Avengers: Celestial Quest'
+url: http://marvel.com/comics/issue/55878/avengers_celestial_quest_2001_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/596d182fcffc0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/55e75c0b2d01e
   extension: jpg
