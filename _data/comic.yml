@@ -1,12 +1,12 @@
 ---
-date: '2005-02-23T00:00:00-0500'
-year: '2005'
-title: 'Amazing Spider-Man (1999) #517'
-issue: 517
+date: '1975-09-10T00:00:00-0400'
+year: '1975'
+title: 'The Amazing Spider-Man (1963) #148'
+issue: 148
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/1611/amazing_spider-man_1999_517?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6536/the_amazing_spider-man_1963_148?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/57f6b7c1c12bc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/57bb49927fb8a
   extension: jpg
