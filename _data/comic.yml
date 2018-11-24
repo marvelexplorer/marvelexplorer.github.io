@@ -1,12 +1,12 @@
 ---
-date: '2003-03-01T00:00:00-0500'
-year: '2003'
-title: 'Captain Marvel (2002) #5'
-issue: 5
+date: '2002-05-01T00:00:00-0400'
+year: '2002'
+title: 'Alias (2001) #7'
+issue: 7
 series:
-  period: '2002'
-  name: Captain Marvel
-url: http://marvel.com/comics/issue/22835/captain_marvel_2002_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2001'
+  name: Alias
+url: http://marvel.com/comics/issue/37281/alias_2001_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5b17f7da564c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/30/56967179aba9c
   extension: jpg
