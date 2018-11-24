@@ -1,12 +1,12 @@
 ---
-date: '1975-09-10T00:00:00-0400'
-year: '1975'
-title: 'The Amazing Spider-Man (1963) #148'
-issue: 148
+date: '2016-10-19T00:00:00-0400'
+year: '2016'
+title: 'The Amazing Spider-Man (2015) #20'
+issue: 20
 series:
-  period: '1963'
+  period: '2015'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6536/the_amazing_spider-man_1963_148?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/55318/the_amazing_spider-man_2015_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/57bb49927fb8a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/57fe48a9ae6b5
   extension: jpg
