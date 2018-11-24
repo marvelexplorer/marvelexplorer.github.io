@@ -1,12 +1,12 @@
 ---
-date: '2016-10-19T00:00:00-0400'
-year: '2016'
-title: 'The Amazing Spider-Man (2015) #20'
-issue: 20
+date: '1999-10-06T00:00:00-0400'
+year: '1999'
+title: 'Amazing Spider-Man (1999) #10'
+issue: 10
 series:
-  period: '2015'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/55318/the_amazing_spider-man_2015_20?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/37988/amazing_spider-man_1999_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/10/57fe48a9ae6b5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57e95e53e173a
   extension: jpg
