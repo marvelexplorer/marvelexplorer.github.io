@@ -1,12 +1,12 @@
 ---
-date: '1988-01-10T00:00:00-0500'
-year: '1988'
-title: 'Silver Surfer (1987) #7'
-issue: 7
+date: '1976-09-10T00:00:00-0400'
+year: '1976'
+title: 'Captain Marvel (1968) #46'
+issue: 46
 series:
-  period: '1987'
-  name: Silver Surfer
-url: http://marvel.com/comics/issue/15208/silver_surfer_1987_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Captain Marvel
+url: http://marvel.com/comics/issue/8035/captain_marvel_1968_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/03/5b071647c6046
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/20/5a306ffcb9dd0
   extension: jpg
