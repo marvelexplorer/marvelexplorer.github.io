@@ -1,12 +1,12 @@
 ---
-date: '2014-03-26T00:00:00-0400'
-year: '2014'
-title: 'Avengers Assemble (2012) #25'
-issue: 25
+date: '1968-07-10T00:00:00-0400'
+year: '1968'
+title: 'Captain America (1968) #103'
+issue: 103
 series:
-  period: '2012'
-  name: Avengers Assemble
-url: http://marvel.com/comics/issue/48565/avengers_assemble_2012_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7484/captain_america_1968_103?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/58d94c2f5ce15
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/5994675a697f2
   extension: jpg
