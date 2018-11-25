@@ -1,12 +1,12 @@
 ---
-date: '1988-01-10T00:00:00-0500'
-year: '1988'
-title: 'Avengers (1963) #287'
-issue: 287
+date: '1965-11-10T00:00:00-0500'
+year: '1965'
+title: 'Tales to Astonish (1959) #73'
+issue: 73
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7160/avengers_1963_287?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11419/tales_to_astonish_1959_73?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/50/526167e962289
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/536d4d6874fd8
   extension: jpg
