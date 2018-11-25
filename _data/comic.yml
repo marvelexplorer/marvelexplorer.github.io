@@ -1,12 +1,12 @@
 ---
-date: '1999-06-01T00:00:00-0400'
-year: '1999'
-title: 'Avengers (1998) #17'
-issue: 17
+date: '2017-10-11T00:00:00-0400'
+year: '2017'
+title: 'Uncanny Avengers (2015) #28'
+issue: 28
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17498/avengers_1998_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Uncanny Avengers
+url: http://marvel.com/comics/issue/61105/uncanny_avengers_2015_28?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/58540b4938028
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/b0/59d5400a5877c
   extension: jpg
