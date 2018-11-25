@@ -1,12 +1,12 @@
 ---
-date: '2000-10-01T00:00:00-0400'
-year: '2000'
-title: 'Captain America (1998) #34'
-issue: 34
+date: '2012-06-13T00:00:00-0400'
+year: '2012'
+title: 'Marvel Zombies Destroy! (2011) #3'
+issue: 3
 series:
-  period: '1998'
-  name: Captain America
-url: http://marvel.com/comics/issue/12794/captain_america_1998_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: Marvel Zombies Destroy!
+url: http://marvel.com/comics/issue/41474/marvel_zombies_destroy_2011_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/4e8ca45c14e3e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5b16a59e496ae
   extension: jpg
