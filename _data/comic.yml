@@ -1,12 +1,12 @@
 ---
-date: '1986-11-10T00:00:00-0500'
-year: '1986'
-title: 'West Coast Avengers (1985) #14'
-issue: 14
+date: '2007-12-05T00:00:00-0500'
+year: '2007'
+title: 'House of M: Avengers (2007) #2'
+issue: 2
 series:
-  period: '1985'
-  name: West Coast Avengers
-url: http://marvel.com/comics/issue/17892/west_coast_avengers_1985_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: 'House of M: Avengers'
+url: http://marvel.com/comics/issue/17408/house_of_m_avengers_2007_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5a7e0c6fc4387
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/5b32453c9bd16
   extension: jpg
