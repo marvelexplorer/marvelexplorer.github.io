@@ -1,12 +1,12 @@
 ---
-date: '2011-01-05T00:00:00-0500'
-year: '2011'
-title: 'Captain America: Hail Hydra (2010) #1'
-issue: 1
+date: '2010-12-29T00:00:00-0500'
+year: '2010'
+title: 'Captain America (2004) #613'
+issue: 613
 series:
-  period: '2010'
-  name: 'Captain America: Hail Hydra'
-url: http://marvel.com/comics/issue/36229/captain_america_hail_hydra_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/29230/captain_america_2004_613?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4f623bb42c0c9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/59c3b4df79665
   extension: jpg
