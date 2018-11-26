@@ -3,9 +3,9 @@
   score: 7
 - name: Spider-Man
   score: 6
-- name: Black Panther
-  score: 3
 - name: Rick Jones
   score: 3
 - name: Captain America
+  score: 3
+- name: Iron Man
   score: 3

@@ -1,12 +1,12 @@
 ---
-date: '2006-01-25T00:00:00-0500'
-year: '2006'
-title: 'New Avengers (2004) #15'
-issue: 15
+date: '2007-11-14T00:00:00-0500'
+year: '2007'
+title: 'Spider-Man, Peter Parker: Back in Black (2007)'
+issue: 0
 series:
-  period: '2004'
-  name: New Avengers
-url: http://marvel.com/comics/issue/3348/new_avengers_2004_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/17331/spider-man_peter_parker_back_in_black_2007?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4f7e051ada1c7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bc5a1f222a57
   extension: jpg
