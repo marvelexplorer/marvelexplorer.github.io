@@ -1,12 +1,12 @@
 ---
-date: '2005-02-09T00:00:00-0500'
-year: '2005'
-title: 'Marvel Age Fantastic Four Tales (2005) #1'
-issue: 1
+date: '2001-02-01T00:00:00-0500'
+year: '2001'
+title: 'Fantastic Four (1998) #38'
+issue: 38
 series:
-  period: '2005'
-  name: Marvel Age Fantastic Four Tales
-url: http://marvel.com/comics/issue/1684/marvel_age_fantastic_four_tales_2005_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15558/fantastic_four_1998_38?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/03/57194f8190b51
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/20/5ad0b0f322071
   extension: jpg
