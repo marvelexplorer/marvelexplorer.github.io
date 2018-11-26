@@ -1,12 +1,12 @@
 ---
-date: '2001-02-01T00:00:00-0500'
+date: '2001-03-01T00:00:00-0500'
 year: '2001'
-title: 'Fantastic Four (1998) #38'
-issue: 38
+title: 'Fantastic Four (1998) #39'
+issue: 39
 series:
   period: '1998'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/15558/fantastic_four_1998_38?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/15559/fantastic_four_1998_39?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/20/5ad0b0f322071
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/5ad0bac986e70
   extension: jpg
