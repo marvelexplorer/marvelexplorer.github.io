@@ -1,9 +1,9 @@
 ---
+- name: Thing
+  score: 6
 - name: Spider-Man
   score: 5
 - name: J. Jonah Jameson
-  score: 5
-- name: Thing
   score: 5
 - name: Fantastic Four
   score: 5
