@@ -1,12 +1,12 @@
 ---
-date: '2010-01-13T00:00:00-0500'
-year: '2010'
-title: 'The Marvels Project (2009) #5'
-issue: 5
+date: '1995-05-10T00:00:00-0400'
+year: '1995'
+title: 'Avengers (1963) #386'
+issue: 386
 series:
-  period: '2009'
-  name: The Marvels Project
-url: http://marvel.com/comics/issue/26600/the_marvels_project_2009_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7270/avengers_1963_386?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/70/57f3f9b8791e2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/52615ce9ad3c1
   extension: jpg
