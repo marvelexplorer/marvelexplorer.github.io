@@ -1,12 +1,12 @@
 ---
-date: '2005-12-21T00:00:00-0500'
-year: '2005'
-title: 'Ultimate X-Men/Fantastic Four (2005) #1'
-issue: 1
+date: '2006-08-16T00:00:00-0400'
+year: '2006'
+title: 'Ultimate Fantastic Four (2003) #32'
+issue: 32
 series:
-  period: '2005'
-  name: Ultimate X-Men/Fantastic Four
-url: http://marvel.com/comics/issue/3632/ultimate_x-menfantastic_four_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Ultimate Fantastic Four
+url: http://marvel.com/comics/issue/4445/ultimate_fantastic_four_2003_32?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/b0/5a96e85496907
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/60/5a95bd6d1b482
   extension: jpg
