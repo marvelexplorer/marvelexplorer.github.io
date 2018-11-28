@@ -1,12 +1,12 @@
 ---
-date: '2000-06-01T00:00:00-0400'
-year: '2000'
-title: 'Captain Marvel (2000) #6'
-issue: 6
+date: '2016-07-06T00:00:00-0400'
+year: '2016'
+title: 'The Totally Awesome Hulk (2015) #8'
+issue: 8
 series:
-  period: '2000'
-  name: Captain Marvel
-url: http://marvel.com/comics/issue/20559/captain_marvel_2000_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: The Totally Awesome Hulk
+url: http://marvel.com/comics/issue/56090/the_totally_awesome_hulk_2015_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb65a558dd41
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/577552e607c47
   extension: jpg
