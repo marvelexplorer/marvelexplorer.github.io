@@ -1,12 +1,12 @@
 ---
-date: '2002-05-01T00:00:00-0400'
-year: '2002'
-title: 'Ultimates (2002) #3'
-issue: 3
+date: '2007-12-28T00:00:00-0500'
+year: '2007'
+title: 'Ultimate Power (2006) #9'
+issue: 9
 series:
-  period: '2002'
-  name: Ultimates
-url: http://marvel.com/comics/issue/15298/ultimates_2002_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Ultimate Power
+url: http://marvel.com/comics/issue/16518/ultimate_power_2006_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/5a99c866552f1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5aa699f2dad74
   extension: jpg
