@@ -1,12 +1,12 @@
 ---
-date: '2007-03-07T00:00:00-0500'
-year: '2007'
-title: 'Ultimate Spider-Man (2000) #106'
-issue: 106
+date: '2005-12-28T00:00:00-0500'
+year: '2005'
+title: 'Ultimate Fantastic Four (2003) #26'
+issue: 26
 series:
-  period: '2000'
-  name: Ultimate Spider-Man
-url: http://marvel.com/comics/issue/6079/ultimate_spider-man_2000_106?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2003'
+  name: Ultimate Fantastic Four
+url: http://marvel.com/comics/issue/3142/ultimate_fantastic_four_2003_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc5a54c2531e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/5a96bb1b15743
   extension: jpg
