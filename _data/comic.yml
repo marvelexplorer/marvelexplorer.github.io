@@ -1,12 +1,12 @@
 ---
-date: '2016-07-06T00:00:00-0400'
-year: '2016'
-title: 'The Totally Awesome Hulk (2015) #8'
-issue: 8
+date: '1998-04-10T00:00:00-0400'
+year: '1998'
+title: 'Avengers (1998) #3'
+issue: 3
 series:
-  period: '2015'
-  name: The Totally Awesome Hulk
-url: http://marvel.com/comics/issue/56090/the_totally_awesome_hulk_2015_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17512/avengers_1998_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/00/577552e607c47
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/585165650e5c3
   extension: jpg
