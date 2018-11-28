@@ -3,9 +3,9 @@
   score: 6
 - name: Captain America
   score: 6
-- name: J. Jonah Jameson
-  score: 4
 - name: Human Torch
   score: 4
 - name: Fantastic Four
+  score: 4
+- name: Hawkeye
   score: 4
