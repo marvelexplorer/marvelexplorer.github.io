@@ -1,7 +1,9 @@
 ---
-name: Invisible Woman (Ultimate)
-description: ''
-url: http://marvel.com/universe/Invisible_Woman_%28Ultimate%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Thing (Ultimate)
+description: When the time came for Reed Richards to demonstrate his teleportation
+  device, his old friend Ben Grimm was invited to observe, but the device malfunctioned
+  and Ben woke up in Mexico City, transformed into a rocky, brutish Thing.
+url: http://marvel.com/universe/Thing_%28Ultimate%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c00342d26fc5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/40/4c0032a542533
   extension: jpg
