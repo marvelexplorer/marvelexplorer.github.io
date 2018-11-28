@@ -1,12 +1,12 @@
 ---
-date: '2017-06-14T00:00:00-0400'
-year: '2017'
-title: 'Zombies Assemble (2017) #3'
-issue: 3
+date: '2003-07-09T00:00:00-0400'
+year: '2003'
+title: 'Ultimates (2002) #10'
+issue: 10
 series:
-  period: '2017'
-  name: Zombies Assemble
-url: http://marvel.com/comics/issue/63269/zombies_assemble_2017_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2002'
+  name: Ultimates
+url: http://marvel.com/comics/issue/15293/ultimates_2002_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/593994896476e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/20/5a9d7944ddf44
   extension: jpg
