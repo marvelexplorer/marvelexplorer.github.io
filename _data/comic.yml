@@ -1,12 +1,12 @@
 ---
-date: '2017-08-23T00:00:00-0400'
-year: '2017'
-title: 'Secret Empire (2017) #9'
-issue: 9
+date: '1999-07-01T00:00:00-0400'
+year: '1999'
+title: 'Earth X (1999) #4'
+issue: 4
 series:
-  period: '2017'
-  name: Secret Empire
-url: http://marvel.com/comics/issue/64259/secret_empire_2017_9?utm_campaign=apiRef&utm_source=c4799f4b3b47bfddb1c7622ae462b2f6
+  period: '1999'
+  name: Earth X
+url: http://marvel.com/comics/issue/8554/earth_x_1999_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/5988e073b98b3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5a95b28fa4a88
   extension: jpg
