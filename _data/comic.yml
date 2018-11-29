@@ -1,12 +1,12 @@
 ---
-date: '1970-11-10T00:00:00-0500'
-year: '1970'
-title: 'Captain America (1968) #131'
-issue: 131
+date: '2011-03-30T00:00:00-0400'
+year: '2011'
+title: 'Captain America (2004) #616'
+issue: 616
 series:
-  period: '1968'
+  period: '2004'
   name: Captain America
-url: http://marvel.com/comics/issue/7512/captain_america_1968_131?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/35762/captain_america_2004_616?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/5995e96191d76
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/59c3bfcd1759b
   extension: jpg
