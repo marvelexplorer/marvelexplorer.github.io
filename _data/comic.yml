@@ -1,12 +1,12 @@
 ---
-date: '2009-05-20T00:00:00-0400'
-year: '2009'
-title: 'Punisher (2008) #5'
-issue: 5
+date: '1970-11-10T00:00:00-0500'
+year: '1970'
+title: 'Captain America (1968) #131'
+issue: 131
 series:
-  period: '2008'
-  name: Punisher
-url: http://marvel.com/comics/issue/24228/punisher_2008_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7512/captain_america_1968_131?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/582c706152ced
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/d0/5995e96191d76
   extension: jpg
