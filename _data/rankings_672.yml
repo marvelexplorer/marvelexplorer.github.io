@@ -1,11 +1,11 @@
 ---
 - name: Captain America
-  score: 26
+  score: 27
 - name: Iron Man
   score: 24
-- name: Wolverine
-  score: 16
 - name: Spider-Man
   score: 16
 - name: Fantastic Four
+  score: 16
+- name: Thing
   score: 16

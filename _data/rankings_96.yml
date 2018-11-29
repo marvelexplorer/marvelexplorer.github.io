@@ -1,7 +1,7 @@
 ---
-- name: Thing
-  score: 6
 - name: Captain America
+  score: 7
+- name: Thing
   score: 6
 - name: Human Torch
   score: 4
