@@ -1,12 +1,12 @@
 ---
-date: '1993-07-01T00:00:00-0400'
-year: '1993'
-title: 'Guardians of the Galaxy (1990) #38'
-issue: 38
+date: '2001-09-01T00:00:00-0400'
+year: '2001'
+title: 'Uncanny X-Men (1963) #396'
+issue: 396
 series:
-  period: '1990'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/61805/guardians_of_the_galaxy_1990_38?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13937/uncanny_x-men_1963_396?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/58d04f6cd1548
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5919addb45871
   extension: jpg
