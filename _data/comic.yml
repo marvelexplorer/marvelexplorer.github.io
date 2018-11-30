@@ -1,12 +1,12 @@
 ---
-date: '2017-10-18T00:00:00-0400'
-year: '2017'
-title: 'Mighty Thor (2015) #700'
-issue: 700
+date: '2018-09-05T00:00:00-0400'
+year: '2018'
+title: 'Asgardians of the Galaxy (2018) #1'
+issue: 1
 series:
-  period: '2015'
-  name: Mighty Thor
-url: http://marvel.com/comics/issue/64931/mighty_thor_2015_700?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2018'
+  name: Asgardians of the Galaxy
+url: http://marvel.com/comics/issue/71308/asgardians_of_the_galaxy_2018_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/59dfddbb049bb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/80/5b882a7cc8afa
   extension: jpg
