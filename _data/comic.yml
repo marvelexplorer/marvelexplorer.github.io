@@ -1,12 +1,12 @@
 ---
-date: '1990-08-10T00:00:00-0400'
-year: '1990'
-title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #14'
-issue: 14
+date: '2010-02-24T00:00:00-0500'
+year: '2010'
+title: 'New Avengers (2004) #62'
+issue: 62
 series:
-  period: '1989'
-  name: Nick Fury, Agent of S.H.I.E.L.D.
-url: http://marvel.com/comics/issue/27715/nick_fury_agent_of_shield_1989_14?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/29017/new_avengers_2004_62?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/5834b4db963ad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/5773e352f0f99
   extension: jpg
