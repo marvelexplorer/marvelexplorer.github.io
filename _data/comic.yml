@@ -1,12 +1,12 @@
 ---
-date: '2014-01-29T00:00:00-0500'
-year: '2014'
-title: 'Guardians of the Galaxy (2013) #11'
-issue: 11
+date: '1993-07-01T00:00:00-0400'
+year: '1993'
+title: 'Guardians of the Galaxy (1990) #38'
+issue: 38
 series:
-  period: '2013'
+  period: '1990'
   name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/43295/guardians_of_the_galaxy_2013_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/61805/guardians_of_the_galaxy_1990_38?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/52d98d90d5a55
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/58d04f6cd1548
   extension: jpg
