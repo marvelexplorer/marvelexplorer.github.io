@@ -1,7 +1,9 @@
 ---
-name: Cyclops (Ultimate)
-description: ''
-url: http://marvel.com/universe/Cyclops_(Ultimate)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Storm (Ultimate)
+description: Ororo Munroe was raised in Morocco, learning English from American films,
+  and after her family was murdered she fled to America, stealing cars in Harlem before
+  relocating to Texas.
+url: http://marvel.com/universe/Storm_%28Ultimate%29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/53176b8fe1dfa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/5317733a7ab7a
   extension: jpg
