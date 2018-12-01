@@ -1,12 +1,12 @@
 ---
-date: '2006-08-30T00:00:00-0400'
-year: '2006'
-title: 'Ultimate X-Men Annual (2005) #2'
-issue: 2
+date: '2008-09-24T00:00:00-0400'
+year: '2008'
+title: 'Ultimate Fantastic Four/Ultimate X-Men Annual (2008) #1'
+issue: 1
 series:
-  period: '2005'
-  name: Ultimate X-Men Annual
-url: http://marvel.com/comics/issue/4782/ultimate_x-men_annual_2005_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: Ultimate Fantastic Four/Ultimate X-Men Annual
+url: http://marvel.com/comics/issue/22043/ultimate_fantastic_fourultimate_x-men_annual_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5bb37b049bb3d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/5a983453e330e
   extension: jpg
