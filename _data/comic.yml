@@ -1,12 +1,12 @@
 ---
-date: '2002-12-10T00:00:00-0500'
-year: '2002'
-title: 'Ultimate X-Men (2000) #23'
-issue: 23
+date: '2003-05-21T00:00:00-0400'
+year: '2003'
+title: 'Ultimate X-Men (2000) #31'
+issue: 31
 series:
   period: '2000'
   name: Ultimate X-Men
-url: http://marvel.com/comics/issue/15714/ultimate_x-men_2000_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/15723/ultimate_x-men_2000_31?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/5ba92e7dd8140
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/5baa963e8d6e8
   extension: jpg
