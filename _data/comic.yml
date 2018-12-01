@@ -1,12 +1,12 @@
 ---
-date: '2002-01-01T00:00:00-0500'
-year: '2002'
-title: 'Ultimate X-Men (2000) #12'
-issue: 12
+date: '2008-02-20T00:00:00-0500'
+year: '2008'
+title: 'Ultimate X-Men (2000) #91'
+issue: 91
 series:
   period: '2000'
   name: Ultimate X-Men
-url: http://marvel.com/comics/issue/15702/ultimate_x-men_2000_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/20638/ultimate_x-men_2000_91?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/5baa3b3724d51
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/5bae72b65eb42
   extension: jpg
