@@ -1,12 +1,12 @@
 ---
-date: '2007-02-07T00:00:00-0500'
-year: '2007'
-title: 'Spider-Man: Reign (2006) #3'
-issue: 3
+date: '1988-04-10T00:00:00-0400'
+year: '1988'
+title: 'The Amazing Spider-Man (1963) #299'
+issue: 299
 series:
-  period: '2006'
-  name: 'Spider-Man: Reign'
-url: http://marvel.com/comics/issue/5934/spider-man_reign_2006_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6703/the_amazing_spider-man_1963_299?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5bca261cbe869
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/57f26326d689b
   extension: jpg
