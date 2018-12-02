@@ -1,11 +1,11 @@
 ---
 - name: Iceman (Ultimate)
   score: 4
-- name: Captain America
-  score: 3
 - name: Nick Fury
   score: 3
 - name: Jean Grey (Ultimate)
   score: 3
 - name: Storm (Ultimate)
+  score: 3
+- name: Cyclops (Ultimate)
   score: 3
