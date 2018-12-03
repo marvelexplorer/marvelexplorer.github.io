@@ -1,12 +1,12 @@
 ---
-date: '1988-11-10T00:00:00-0500'
-year: '1988'
-title: 'Marvel Comics Presents (1988) #6'
-issue: 6
+date: '1974-09-10T00:00:00-0400'
+year: '1974'
+title: 'Daredevil (1964) #113'
+issue: 113
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10141/marvel_comics_presents_1988_6?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8089/daredevil_1964_113?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb691892ecc9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/5b47b8e602340
   extension: jpg
