@@ -1,12 +1,12 @@
 ---
-date: '2016-11-02T00:00:00-0400'
-year: '2016'
-title: 'Spider-Man 2099 (2015) #17'
-issue: 17
+date: '1995-07-10T00:00:00-0400'
+year: '1995'
+title: 'Spider-Man 2099 (1992) #33'
+issue: 33
 series:
-  period: '2015'
+  period: '1992'
   name: Spider-Man 2099
-url: http://marvel.com/comics/issue/60245/spider-man_2099_2015_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/10891/spider-man_2099_1992_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/580500f9310e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/5925d602cd25b
   extension: jpg
