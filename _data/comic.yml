@@ -1,12 +1,12 @@
 ---
-date: '2010-08-11T00:00:00-0400'
-year: '2010'
-title: 'Daredevil (1998) #509'
-issue: 509
+date: '2016-11-02T00:00:00-0400'
+year: '2016'
+title: 'Spider-Man 2099 (2015) #17'
+issue: 17
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/30368/daredevil_1998_509?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: Spider-Man 2099
+url: http://marvel.com/comics/issue/60245/spider-man_2099_2015_17?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/572d14fb846e1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/580500f9310e1
   extension: jpg
