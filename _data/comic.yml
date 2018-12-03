@@ -1,12 +1,12 @@
 ---
-date: '2005-09-14T00:00:00-0400'
-year: '2005'
-title: 'X-Men (2004) #175'
-issue: 175
+date: '2011-10-12T00:00:00-0400'
+year: '2011'
+title: 'X-Men: Regenesis (2011) #1'
+issue: 1
 series:
-  period: '2004'
-  name: X-Men
-url: http://marvel.com/comics/issue/2410/x-men_2004_175?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'X-Men: Regenesis'
+url: http://marvel.com/comics/issue/39739/x-men_regenesis_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4d24f195c0ea1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/00/58cc1ee0aeb81
   extension: jpg
