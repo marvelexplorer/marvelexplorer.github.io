@@ -1,12 +1,12 @@
 ---
-date: '2000-05-01T00:00:00-0400'
-year: '2000'
-title: 'Wolverine (1988) #150'
-issue: 150
+date: '2012-06-27T00:00:00-0400'
+year: '2012'
+title: 'Captain America and... (2012) #633'
+issue: 633
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14093/wolverine_1988_150?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Captain America and...
+url: http://marvel.com/comics/issue/40530/captain_america_and._2012_633?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5ac65efbd392f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/00/51438a5049331
   extension: jpg
