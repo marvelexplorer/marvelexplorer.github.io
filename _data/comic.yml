@@ -1,12 +1,12 @@
 ---
-date: '1974-09-10T00:00:00-0400'
-year: '1974'
-title: 'Daredevil (1964) #113'
-issue: 113
+date: '2010-08-11T00:00:00-0400'
+year: '2010'
+title: 'Daredevil (1998) #509'
+issue: 509
 series:
-  period: '1964'
+  period: '1998'
   name: Daredevil
-url: http://marvel.com/comics/issue/8089/daredevil_1964_113?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/30368/daredevil_1998_509?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/5b47b8e602340
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/572d14fb846e1
   extension: jpg
