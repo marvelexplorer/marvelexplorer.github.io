@@ -1,11 +1,11 @@
 ---
 - name: Rogue
   score: 4
+- name: Human Torch
+  score: 4
 - name: Jean Grey (Ultimate)
   score: 3
 - name: Storm (Ultimate)
   score: 3
 - name: Cyclops (Ultimate)
-  score: 3
-- name: Beast (Ultimate)
   score: 3
