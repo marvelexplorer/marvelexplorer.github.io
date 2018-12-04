@@ -1,12 +1,12 @@
 ---
-date: '2011-09-07T00:00:00-0400'
-year: '2011'
-title: 'X-Factor (2005) #224.1'
-issue: 224.1
+date: '1995-09-01T00:00:00-0400'
+year: '1995'
+title: 'X-Force (1991) #46'
+issue: 46
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/39740/x-factor_2005_224.1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/18012/x-force_1991_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/59569b14dd491
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/5bf5901fdaf92
   extension: jpg
