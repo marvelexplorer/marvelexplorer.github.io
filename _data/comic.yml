@@ -1,12 +1,12 @@
 ---
-date: '2011-03-02T00:00:00-0500'
-year: '2011'
-title: 'Heroes for Hire (2010) #4'
-issue: 4
+date: '1981-04-01T00:00:00-0500'
+year: '1981'
+title: 'Power Man and Iron Fist (1978) #68'
+issue: 68
 series:
-  period: '2010'
-  name: Heroes for Hire
-url: http://marvel.com/comics/issue/37187/heroes_for_hire_2010_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1978'
+  name: Power Man and Iron Fist
+url: http://marvel.com/comics/issue/56375/power_man_and_iron_fist_1978_68?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/56438ccb21fca
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/57d07d2fa1a94
   extension: jpg
