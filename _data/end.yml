@@ -1,7 +1,10 @@
 ---
-name: Luke Cage
-description: ''
-url: http://marvel.com/universe/Luke_Cage?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Captain America (Sam Wilson)
+description: <p class="Body">Sam Wilson, a Harlem native, previously operated under
+  the name Falcon, fighting alongside the Avengers. When his longtime friend Steve
+  Rogers stepped down as Captain America, Wilson was hand-picked to fill the role.
+  Now the former Falcon soars through the skies wearing red, white and blue.</p>
+url: http://marvel.com/comics/characters/1017575/captain_america_sam_wilson?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5112d8b6e596c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/545a84a75ddaf
   extension: jpg
