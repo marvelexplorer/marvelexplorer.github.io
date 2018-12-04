@@ -1,12 +1,12 @@
 ---
-date: '2006-06-07T00:00:00-0400'
+date: '2006-04-12T00:00:00-0400'
 year: '2006'
-title: 'Fantastic Four: First Family (2006) #4'
-issue: 4
+title: 'Fantastic Four: First Family (2006) #2'
+issue: 2
 series:
   period: '2006'
   name: 'Fantastic Four: First Family'
-url: http://marvel.com/comics/issue/4249/fantastic_four_first_family_2006_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/4019/fantastic_four_first_family_2006_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/40/5addf0c9d70ce
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/50/5adde64f7b05c
   extension: jpg
