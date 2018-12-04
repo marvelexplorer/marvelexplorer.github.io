@@ -1,12 +1,12 @@
 ---
-date: '1995-09-01T00:00:00-0400'
-year: '1995'
-title: 'X-Force (1991) #46'
-issue: 46
+date: '2009-08-12T00:00:00-0400'
+year: '2009'
+title: 'Uncanny X-Men (1963) #514'
+issue: 514
 series:
-  period: '1991'
-  name: X-Force
-url: http://marvel.com/comics/issue/18012/x-force_1991_46?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/26967/uncanny_x-men_1963_514?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/5bf5901fdaf92
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/a0/5927228f489d7
   extension: jpg
