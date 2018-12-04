@@ -1,12 +1,12 @@
 ---
-date: '2011-04-06T00:00:00-0400'
-year: '2011'
-title: 'Fear Itself (2010) #1'
-issue: 1
+date: '1991-08-10T00:00:00-0400'
+year: '1991'
+title: 'Marvel Comics Presents (1988) #82'
+issue: 82
 series:
-  period: '2010'
-  name: Fear Itself
-url: http://marvel.com/comics/issue/39849/fear_itself_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10166/marvel_comics_presents_1988_82?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f621a599bd54
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/577d37a74c068
   extension: jpg
