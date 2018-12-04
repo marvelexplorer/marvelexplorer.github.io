@@ -1,12 +1,12 @@
 ---
-date: '2013-06-12T00:00:00-0400'
-year: '2013'
-title: 'Astonishing X-Men (2004) #63'
-issue: 63
+date: '1999-12-01T00:00:00-0500'
+year: '1999'
+title: 'X-Men: The Hidden Years (1999) #1'
+issue: 1
 series:
-  period: '2004'
-  name: Astonishing X-Men
-url: http://marvel.com/comics/issue/45824/astonishing_x-men_2004_63?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: 'X-Men: The Hidden Years'
+url: http://marvel.com/comics/issue/65863/x-men_the_hidden_years_1999_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/58f66ace053e7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5a56923bca522
   extension: jpg
