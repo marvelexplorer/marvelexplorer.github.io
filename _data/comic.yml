@@ -1,12 +1,12 @@
 ---
-date: '1970-10-10T00:00:00-0400'
-year: '1970'
-title: 'The Amazing Spider-Man (1963) #89'
-issue: 89
+date: '1977-02-10T00:00:00-0500'
+year: '1977'
+title: 'Ms. Marvel (1977) #2'
+issue: 2
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6911/the_amazing_spider-man_1963_89?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1977'
+  name: Ms. Marvel
+url: http://marvel.com/comics/issue/10298/ms_marvel_1977_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc33a9917a03
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/59fa2c86433f1
   extension: jpg
