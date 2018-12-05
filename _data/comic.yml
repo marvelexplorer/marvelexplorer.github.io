@@ -1,12 +1,12 @@
 ---
-date: '1982-12-10T00:00:00-0500'
-year: '1982'
-title: 'Fantastic Four (1961) #249'
-issue: 249
+date: '1984-11-10T00:00:00-0500'
+year: '1984'
+title: 'The Amazing Spider-Man (1963) #258'
+issue: 258
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13060/fantastic_four_1961_249?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6658/the_amazing_spider-man_1963_258?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/20/5abe6bedd79f9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/57c5b6a1b31d6
   extension: jpg
