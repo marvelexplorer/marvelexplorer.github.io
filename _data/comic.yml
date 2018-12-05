@@ -1,12 +1,12 @@
 ---
-date: '2013-05-29T00:00:00-0400'
-year: '2013'
-title: 'Indestructible Hulk (2012) #8'
-issue: 8
+date: '1999-01-01T00:00:00-0500'
+year: '1999'
+title: 'Incredible Hulk (1962) #472'
+issue: 472
 series:
-  period: '2012'
-  name: Indestructible Hulk
-url: http://marvel.com/comics/issue/46176/indestructible_hulk_2012_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1962'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/9283/incredible_hulk_1962_472?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/d0/5b9917b687d97
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/50b529a979724
   extension: jpg
