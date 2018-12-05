@@ -1,12 +1,12 @@
 ---
-date: '2013-02-13T00:00:00-0500'
+date: '2013-05-29T00:00:00-0400'
 year: '2013'
-title: 'Uncanny X-Men (2013) #1'
-issue: 1
+title: 'Indestructible Hulk (2012) #8'
+issue: 8
 series:
-  period: '2013'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/46653/uncanny_x-men_2013_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Indestructible Hulk
+url: http://marvel.com/comics/issue/46176/indestructible_hulk_2012_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/e0/592f24cc5de85
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/d0/5b9917b687d97
   extension: jpg
