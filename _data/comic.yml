@@ -1,12 +1,12 @@
 ---
-date: '1984-07-10T00:00:00-0400'
-year: '1984'
-title: 'Secret Wars (1984) #3'
-issue: 3
+date: '2011-08-24T00:00:00-0400'
+year: '2011'
+title: 'FF (2010) #8'
+issue: 8
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10585/secret_wars_1984_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: FF
+url: http://marvel.com/comics/issue/37397/ff_2010_8?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/5756e01f25797
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/70/5ad10fead7ff8
   extension: jpg
