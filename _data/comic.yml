@@ -1,12 +1,12 @@
 ---
-date: '2007-11-29T00:00:00-0500'
-year: '2007'
-title: 'Sensational Spider-Man (2006) #41'
-issue: 41
+date: '2008-06-04T00:00:00-0400'
+year: '2008'
+title: 'Amazing Spider-Man (1999) #561'
+issue: 561
 series:
-  period: '2006'
-  name: Sensational Spider-Man
-url: http://marvel.com/comics/issue/16466/sensational_spider-man_2006_41?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/21321/amazing_spider-man_1999_561?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/57472a6364f95
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb7c90c80ce9
   extension: jpg
