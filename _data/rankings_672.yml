@@ -1,10 +1,10 @@
 ---
 - name: Captain America
-  score: 27
+  score: 26
 - name: Iron Man
   score: 26
 - name: Spider-Man
-  score: 21
+  score: 22
 - name: Thing
   score: 19
 - name: Human Torch
