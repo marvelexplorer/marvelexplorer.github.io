@@ -1,12 +1,12 @@
 ---
-date: '2011-11-02T00:00:00-0400'
-year: '2011'
-title: 'X-23 (2010) #16'
-issue: 16
+date: '2010-04-21T00:00:00-0400'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #628'
+issue: 628
 series:
-  period: '2010'
-  name: X-23
-url: http://marvel.com/comics/issue/36460/x-23_2010_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30303/amazing_spider-man_1999_628?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/f0/51eeb3e4405a6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/03/5808df8112467
   extension: jpg
