@@ -1,12 +1,12 @@
 ---
-date: '2012-02-08T00:00:00-0500'
-year: '2012'
-title: 'Deadpool (2008) #50'
-issue: 50
+date: '2008-02-13T00:00:00-0500'
+year: '2008'
+title: 'X-Force (2008) #1'
+issue: 1
 series:
   period: '2008'
-  name: Deadpool
-url: http://marvel.com/comics/issue/40209/deadpool_2008_50?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: X-Force
+url: http://marvel.com/comics/issue/20704/x-force_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51a501be2e6c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/595e3b6d7c3fc
   extension: jpg
