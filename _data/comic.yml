@@ -1,12 +1,12 @@
 ---
-date: '1993-10-10T00:00:00-0400'
-year: '1993'
-title: 'Daredevil: The Man Without Fear (1993) #1'
-issue: 1
+date: '2002-12-01T00:00:00-0500'
+year: '2002'
+title: 'Elektra: Glimpse and Echo (2002) #4'
+issue: 4
 series:
-  period: '1993'
-  name: 'Daredevil: The Man Without Fear'
-url: http://marvel.com/comics/issue/20750/daredevil_the_man_without_fear_1993_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: 'Elektra: Glimpse and Echo'
+url: http://marvel.com/comics/issue/73970/elektra_glimpse_and_echo_2002_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bb866d34e627
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5be59f41b456c
   extension: jpg
