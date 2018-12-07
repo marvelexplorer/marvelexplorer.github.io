@@ -1,12 +1,12 @@
 ---
-date: '2005-11-09T00:00:00-0500'
+date: '2005-08-24T00:00:00-0400'
 year: '2005'
-title: 'The Pulse (2004) #12'
-issue: 12
+title: 'Daredevil (1998) #76'
+issue: 76
 series:
-  period: '2004'
-  name: The Pulse
-url: http://marvel.com/comics/issue/2992/the_pulse_2004_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/2298/daredevil_1998_76?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc4731dcbb67
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470b733fd27
   extension: jpg
