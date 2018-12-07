@@ -1,12 +1,12 @@
 ---
-date: '2002-08-01T00:00:00-0400'
-year: '2002'
-title: 'Spider-Man: Quality of Life (2002) #2'
-issue: 2
+date: '2018-03-28T00:00:00-0400'
+year: '2018'
+title: 'Daredevil (2015) #600'
+issue: 600
 series:
-  period: '2002'
-  name: 'Spider-Man: Quality of Life'
-url: http://marvel.com/comics/issue/18812/spider-man_quality_of_life_2002_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Daredevil
+url: http://marvel.com/comics/issue/66538/daredevil_2015_600?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb65b4869b3c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/20/5ab2ab6155991
   extension: jpg
