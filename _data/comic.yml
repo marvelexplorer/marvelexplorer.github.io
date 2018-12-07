@@ -1,12 +1,12 @@
 ---
-date: '2000-11-01T00:00:00-0500'
-year: '2000'
-title: 'Avengers: Infinity (2000) #3'
-issue: 3
+date: '1968-07-10T00:00:00-0400'
+year: '1968'
+title: 'Avengers (1963) #54'
+issue: 54
 series:
-  period: '2000'
-  name: 'Avengers: Infinity'
-url: http://marvel.com/comics/issue/64195/avengers_infinity_2000_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7304/avengers_1963_54?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5925d48f308c4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4e96f9eba545a
   extension: jpg
