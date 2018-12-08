@@ -1,12 +1,12 @@
 ---
-date: '1978-12-10T00:00:00-0500'
-year: '1978'
-title: 'The Amazing Spider-Man (1963) #187'
-issue: 187
+date: '1975-08-10T00:00:00-0400'
+year: '1975'
+title: 'The Amazing Spider-Man (1963) #147'
+issue: 147
 series:
   period: '1963'
   name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6579/the_amazing_spider-man_1963_187?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/6535/the_amazing_spider-man_1963_147?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/e0/536bc520481bd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/57bb3eba13b63
   extension: jpg
