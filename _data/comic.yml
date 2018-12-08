@@ -1,12 +1,12 @@
 ---
-date: '1997-03-01T00:00:00-0500'
-year: '1997'
-title: 'Spider-Man: Hobgoblin Lives (1997) #3'
-issue: 3
+date: '2011-07-13T00:00:00-0400'
+year: '2011'
+title: 'Amazing Spider-Man (1999) #665'
+issue: 665
 series:
-  period: '1997'
-  name: 'Spider-Man: Hobgoblin Lives'
-url: http://marvel.com/comics/issue/63935/spider-man_hobgoblin_lives_1997_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/35503/amazing_spider-man_1999_665?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/5916438835e3f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/d0/580e3a0041494
   extension: jpg
