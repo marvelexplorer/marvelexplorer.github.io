@@ -1,12 +1,12 @@
 ---
-date: '1989-11-10T00:00:00-0500'
-year: '1989'
-title: 'Doctor Strange, Sorcerer Supreme (1988) #9'
-issue: 9
+date: '1972-06-10T00:00:00-0400'
+year: '1972'
+title: 'Avengers (1963) #100'
+issue: 100
 series:
-  period: '1988'
-  name: Doctor Strange, Sorcerer Supreme
-url: http://marvel.com/comics/issue/20256/doctor_strange_sorcerer_supreme_1988_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/6954/avengers_1963_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/59ea689c41817
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/5874f3c01295b
   extension: jpg
