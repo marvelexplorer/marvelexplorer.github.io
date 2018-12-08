@@ -1,12 +1,12 @@
 ---
-date: '2000-10-01T00:00:00-0400'
-year: '2000'
-title: 'Spider-Man: Revenge of the Green Goblin (2000) #1'
+date: '2018-03-21T00:00:00-0400'
+year: '2018'
+title: 'True Believers: Venom - Flashpoint (2018) #1'
 issue: 1
 series:
-  period: '2000'
-  name: 'Spider-Man: Revenge of the Green Goblin'
-url: http://marvel.com/comics/issue/18815/spider-man_revenge_of_the_green_goblin_2000_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2018'
+  name: 'True Believers: Venom - Flashpoint'
+url: http://marvel.com/comics/issue/66596/true_believers_venom_-_flashpoint_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bb6700d5eb23
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/5aa9609f2162b
   extension: jpg
