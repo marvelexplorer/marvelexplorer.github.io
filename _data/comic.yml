@@ -1,12 +1,12 @@
 ---
-date: '1977-01-10T00:00:00-0500'
-year: '1977'
-title: 'Peter Parker, the Spectacular Spider-Man (1976) #2'
-issue: 2
+date: '2016-08-24T00:00:00-0400'
+year: '2016'
+title: 'Venom: Space Knight (2015) #11'
+issue: 11
 series:
-  period: '1976'
-  name: Peter Parker, the Spectacular Spider-Man
-url: http://marvel.com/comics/issue/14653/peter_parker_the_spectacular_spider-man_1976_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: 'Venom: Space Knight'
+url: http://marvel.com/comics/issue/57300/venom_space_knight_2015_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5a0624ea6a7ec
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5734c70bc6c63
   extension: jpg
