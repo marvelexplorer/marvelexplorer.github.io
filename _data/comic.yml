@@ -1,12 +1,12 @@
 ---
-date: '1972-06-10T00:00:00-0400'
-year: '1972'
-title: 'Avengers (1963) #100'
-issue: 100
+date: '1966-07-10T00:00:00-0400'
+year: '1966'
+title: 'Avengers (1963) #30'
+issue: 30
 series:
   period: '1963'
   name: Avengers
-url: http://marvel.com/comics/issue/6954/avengers_1963_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/7175/avengers_1963_30?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/80/5874f3c01295b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/586292faeb6cc
   extension: jpg
