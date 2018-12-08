@@ -1,12 +1,12 @@
 ---
-date: '2016-08-24T00:00:00-0400'
-year: '2016'
-title: 'Venom: Space Knight (2015) #11'
-issue: 11
+date: '1997-12-01T00:00:00-0500'
+year: '1997'
+title: 'Venom: The Finale (1997) #2'
+issue: 2
 series:
-  period: '2015'
-  name: 'Venom: Space Knight'
-url: http://marvel.com/comics/issue/57300/venom_space_knight_2015_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1997'
+  name: 'Venom: The Finale'
+url: http://marvel.com/comics/issue/73606/venom_the_finale_1997_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5734c70bc6c63
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/5bd34c67ae3b6
   extension: jpg
