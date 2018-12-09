@@ -1,12 +1,12 @@
 ---
-date: '2004-04-21T00:00:00-0400'
-year: '2004'
-title: 'Fantastic Four (1998) #512'
-issue: 512
+date: '1984-03-10T00:00:00-0500'
+year: '1984'
+title: 'Fantastic Four (1961) #264'
+issue: 264
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/483/fantastic_four_1998_512?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/13077/fantastic_four_1961_264?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5ad5fe18088be
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c366414c92b0
   extension: jpg
