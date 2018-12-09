@@ -1,12 +1,12 @@
 ---
-date: '1993-10-01T00:00:00-0400'
+date: '1993-12-10T00:00:00-0500'
 year: '1993'
-title: 'X-Men (1991) #25'
-issue: 25
+title: 'West Coast Avengers (1985) #101'
+issue: 101
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14312/x-men_1991_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1985'
+  name: West Coast Avengers
+url: http://marvel.com/comics/issue/17788/west_coast_avengers_1985_101?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/60/5580452053a78
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/57d30e13ba670
   extension: jpg
