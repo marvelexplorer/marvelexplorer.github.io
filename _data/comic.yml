@@ -1,12 +1,12 @@
 ---
-date: '1993-12-10T00:00:00-0500'
-year: '1993'
-title: 'West Coast Avengers (1985) #101'
-issue: 101
+date: '1994-12-10T00:00:00-0500'
+year: '1994'
+title: 'Iron Man (1968) #311'
+issue: 311
 series:
-  period: '1985'
-  name: West Coast Avengers
-url: http://marvel.com/comics/issue/17788/west_coast_avengers_1985_101?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9563/iron_man_1968_311?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/d0/57d30e13ba670
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4bc4802bf2f0b
   extension: jpg
