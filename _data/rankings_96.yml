@@ -1,10 +1,10 @@
 ---
 - name: Spider-Man
   score: 13
-- name: X-Men
-  score: 5
 - name: Captain America
   score: 5
+- name: X-Men
+  score: 4
 - name: Invisible Woman
   score: 4
 - name: Mary Jane Watson
