@@ -1,12 +1,12 @@
 ---
-date: '2002-11-01T00:00:00-0500'
-year: '2002'
-title: 'Incredible Hulk (1999) #45'
-issue: 45
+date: '2001-09-01T00:00:00-0400'
+year: '2001'
+title: 'Incredible Hulk (1999) #30'
+issue: 30
 series:
   period: '1999'
   name: Incredible Hulk
-url: http://marvel.com/comics/issue/14445/incredible_hulk_1999_45?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/14430/incredible_hulk_1999_30?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5b365789f040d
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/598b2aa4da369
   extension: jpg
