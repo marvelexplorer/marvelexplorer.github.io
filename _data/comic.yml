@@ -1,12 +1,12 @@
 ---
-date: '1980-03-10T00:00:00-0500'
-year: '1980'
-title: 'Marvel Two-in-One (1974) #61'
-issue: 61
+date: '2006-03-22T00:00:00-0500'
+year: '2006'
+title: 'Incredible Hulk (1999) #93'
+issue: 93
 series:
-  period: '1974'
-  name: Marvel Two-in-One
-url: http://marvel.com/comics/issue/19533/marvel_two-in-one_1974_61?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Incredible Hulk
+url: http://marvel.com/comics/issue/3955/incredible_hulk_1999_93?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5804f45cd7e4a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5b3e6cd253c2b
   extension: jpg
