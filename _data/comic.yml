@@ -1,12 +1,12 @@
 ---
-date: '1990-12-10T00:00:00-0500'
-year: '1990'
-title: 'Incredible Hulk (1962) #376'
-issue: 376
+date: '2002-03-15T00:00:00-0500'
+year: '2002'
+title: 'Captain Marvel (2000) #28'
+issue: 28
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9187/incredible_hulk_1962_376?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Captain Marvel
+url: http://marvel.com/comics/issue/22842/captain_marvel_2000_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5b97bc6f08631
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/56aa292fcc9ed
   extension: jpg
