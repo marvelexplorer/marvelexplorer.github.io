@@ -1,12 +1,12 @@
 ---
-date: '1966-05-10T00:00:00-0400'
-year: '1966'
-title: 'Uncanny X-Men (1963) #20'
-issue: 20
+date: '1993-05-31T00:00:00-0400'
+year: '1993'
+title: 'Uncanny X-Men Annual (1992) #17'
+issue: 17
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/12467/uncanny_x-men_1963_20?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1992'
+  name: Uncanny X-Men Annual
+url: http://marvel.com/comics/issue/47716/uncanny_x-men_annual_1992_17?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/90/589c789dd2ff1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/70/58da8198d20a3
   extension: jpg
