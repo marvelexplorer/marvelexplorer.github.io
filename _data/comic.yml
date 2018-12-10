@@ -1,12 +1,12 @@
 ---
-date: '2002-03-15T00:00:00-0500'
-year: '2002'
-title: 'Captain Marvel (2000) #28'
-issue: 28
+date: '1989-06-15T00:00:00-0400'
+year: '1989'
+title: 'Marvel Comics Presents (1988) #22'
+issue: 22
 series:
-  period: '2000'
-  name: Captain Marvel
-url: http://marvel.com/comics/issue/22842/captain_marvel_2000_28?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Marvel Comics Presents
+url: http://marvel.com/comics/issue/10100/marvel_comics_presents_1988_22?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/90/56aa292fcc9ed
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/50/5aa15e0bd5cc1
   extension: jpg
