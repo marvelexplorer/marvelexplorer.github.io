@@ -1,12 +1,12 @@
 ---
-date: '2011-09-14T00:00:00-0400'
-year: '2011'
-title: 'Black Panther: The Man Without Fear (2010) #523'
-issue: 523
+date: '1980-09-10T00:00:00-0400'
+year: '1980'
+title: 'Daredevil (1964) #166'
+issue: 166
 series:
-  period: '2010'
-  name: 'Black Panther: The Man Without Fear'
-url: http://marvel.com/comics/issue/36786/black_panther_the_man_without_fear_2010_523?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1964'
+  name: Daredevil
+url: http://marvel.com/comics/issue/8147/daredevil_1964_166?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/5981ee1aa3b91
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/5b4cb47974749
   extension: jpg
