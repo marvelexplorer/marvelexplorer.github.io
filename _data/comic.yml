@@ -1,12 +1,12 @@
 ---
-date: '2018-03-14T00:00:00-0400'
-year: '2018'
-title: 'X-Men: Blue (2017) #23'
-issue: 23
+date: '1995-04-10T00:00:00-0400'
+year: '1995'
+title: 'Age of Apocalypse: The Chosen (1995) #1'
+issue: 1
 series:
-  period: '2017'
-  name: 'X-Men: Blue'
-url: http://marvel.com/comics/issue/66518/x-men_blue_2017_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: 'Age of Apocalypse: The Chosen'
+url: http://marvel.com/comics/issue/17701/age_of_apocalypse_the_chosen_1995_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5aa062f49e90a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/56af9db525ad0
   extension: jpg
