@@ -1,12 +1,12 @@
 ---
-date: '2003-10-15T00:00:00-0400'
-year: '2003'
-title: 'Amazing Spider-Man (1999) #58'
-issue: 58
+date: '1991-09-10T00:00:00-0400'
+year: '1991'
+title: 'The Amazing Spider-Man (1963) #351'
+issue: 351
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/43171/amazing_spider-man_1999_58?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: The Amazing Spider-Man
+url: http://marvel.com/comics/issue/6762/the_amazing_spider-man_1963_351?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/57ea901a600d2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/520143fbcf7de
   extension: jpg
