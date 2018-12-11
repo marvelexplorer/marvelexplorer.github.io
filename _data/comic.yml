@@ -1,12 +1,12 @@
 ---
-date: '2006-11-29T00:00:00-0500'
-year: '2006'
-title: 'Onslaught Reborn (2006) #1'
-issue: 1
+date: '1994-04-01T00:00:00-0500'
+year: '1994'
+title: 'Iron Man (1968) #303'
+issue: 303
 series:
-  period: '2006'
-  name: Onslaught Reborn
-url: http://marvel.com/comics/issue/5532/onslaught_reborn_2006_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9554/iron_man_1968_303?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/80/5b43c1a6b5e02
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5a787b5c46f31
   extension: jpg
