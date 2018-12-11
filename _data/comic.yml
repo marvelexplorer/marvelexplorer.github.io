@@ -1,12 +1,12 @@
 ---
-date: '2002-05-01T00:00:00-0400'
-year: '2002'
-title: 'Fantastic Four (1998) #53'
-issue: 53
+date: '2016-10-19T00:00:00-0400'
+year: '2016'
+title: 'Death of X (2016) #2'
+issue: 2
 series:
-  period: '1998'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/15575/fantastic_four_1998_53?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Death of X
+url: http://marvel.com/comics/issue/60430/death_of_x_2016_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/b0/5ab00d6a743f3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/57fe4cdf3b2a5
   extension: jpg
