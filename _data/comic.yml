@@ -1,12 +1,12 @@
 ---
-date: '1992-06-01T00:00:00-0400'
-year: '1992'
-title: 'Doctor Strange, Sorcerer Supreme (1988) #42'
-issue: 42
+date: '1988-05-10T00:00:00-0400'
+year: '1988'
+title: 'Silver Surfer (1987) #11'
+issue: 11
 series:
-  period: '1988'
-  name: Doctor Strange, Sorcerer Supreme
-url: http://marvel.com/comics/issue/20204/doctor_strange_sorcerer_supreme_1988_42?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1987'
+  name: Silver Surfer
+url: http://marvel.com/comics/issue/15107/silver_surfer_1987_11?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5b8884b15b601
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/03/5b0716e819372
   extension: jpg
