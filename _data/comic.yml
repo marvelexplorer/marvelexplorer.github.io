@@ -1,12 +1,12 @@
 ---
-date: '1991-04-01T00:00:00-0500'
-year: '1991'
-title: 'Darkhawk (1991) #2'
-issue: 2
+date: '1999-11-10T00:00:00-0500'
+year: '1999'
+title: 'Fantastic Four (1998) #23'
+issue: 23
 series:
-  period: '1991'
-  name: Darkhawk
-url: http://marvel.com/comics/issue/48053/darkhawk_1991_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Fantastic Four
+url: http://marvel.com/comics/issue/15542/fantastic_four_1998_23?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/b0/582608218b691
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5ace19203fa71
   extension: jpg
