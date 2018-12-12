@@ -1,12 +1,12 @@
 ---
-date: '1998-04-10T00:00:00-0400'
-year: '1998'
-title: 'Avengers (1998) #3'
-issue: 3
+date: '1992-04-10T00:00:00-0400'
+year: '1992'
+title: 'Thor (1966) #446'
+issue: 446
 series:
-  period: '1998'
-  name: Avengers
-url: http://marvel.com/comics/issue/17512/avengers_1998_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11774/thor_1966_446?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/03/585165650e5c3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5a00805912c25
   extension: jpg
