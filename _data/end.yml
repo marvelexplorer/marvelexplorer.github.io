@@ -1,8 +1,10 @@
 ---
-name: Sunfire
-description: Shiro Yoshida’s mother was exposed to the atomic devastation of Hiroshima
-  during World War II and died giving birth to him.
-url: http://marvel.com/universe/Sunfire_%28Shiro_Yoshida%29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Captain America
+description: Vowing to serve his country any way he could, young Steve Rogers took
+  the super soldier serum to become America's one-man army. Fighting for the red,
+  white and blue for over 60 years, Captain America is the living, breathing symbol
+  of freedom and liberty.
+url: http://marvel.com/universe/Captain_America_(Steve_Rogers)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/53629b9e24ef5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087
   extension: jpg
