@@ -1,12 +1,12 @@
 ---
-date: '2003-05-01T00:00:00-0400'
-year: '2003'
-title: 'Marvelous Adventures of Gus Beezer: Spider-Man (2003) #1'
+date: '2018-07-18T00:00:00-0400'
+year: '2018'
+title: 'Marvel Super Hero Adventures: Ms. Marvel and the Teleporting Dog (2018) #1'
 issue: 1
 series:
-  period: '2003'
-  name: 'Marvelous Adventures of Gus Beezer: Spider-Man'
-url: http://marvel.com/comics/issue/19468/marvelous_adventures_of_gus_beezer_spider-man_2003_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2018'
+  name: 'Marvel Super Hero Adventures: Ms. Marvel and the Teleporting Dog'
+url: http://marvel.com/comics/issue/69036/marvel_super_hero_adventures_ms_marvel_and_the_teleporting_dog_2018_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/30/4c7d478ab88b8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/40/5b46738ba434b
   extension: jpg
