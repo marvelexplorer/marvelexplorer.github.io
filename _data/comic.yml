@@ -1,12 +1,12 @@
 ---
-date: '1984-10-10T00:00:00-0400'
-year: '1984'
-title: 'Iron Man Annual (1970) #7'
-issue: 7
+date: '2016-07-27T00:00:00-0400'
+year: '2016'
+title: 'Civil War II (2016) #4'
+issue: 4
 series:
-  period: '1970'
-  name: Iron Man Annual
-url: http://marvel.com/comics/issue/19871/iron_man_annual_1970_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Civil War II
+url: http://marvel.com/comics/issue/58681/civil_war_ii_2016_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/4f63852b027ab
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/57912c445aeae
   extension: jpg
