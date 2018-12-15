@@ -1,12 +1,12 @@
 ---
-date: '1972-05-10T00:00:00-0400'
-year: '1972'
-title: 'Avengers (1963) #99'
-issue: 99
+date: '2012-11-21T00:00:00-0500'
+year: '2012'
+title: 'Iron Man (2012) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7353/avengers_1963_99?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2012'
+  name: Iron Man
+url: http://marvel.com/comics/issue/43952/iron_man_2012_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/03/587402e3157c4
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/60/5a79eadd93597
   extension: jpg
