@@ -1,11 +1,11 @@
 ---
 - name: Iron Man
-  score: 8
+  score: 9
 - name: X-Men
   score: 7
 - name: X-Factor
   score: 5
-- name: Spider-Man
-  score: 3
 - name: Thing
+  score: 3
+- name: Layla Miller
   score: 3
