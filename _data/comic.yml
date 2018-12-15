@@ -1,12 +1,12 @@
 ---
-date: '1988-11-10T00:00:00-0500'
-year: '1988'
-title: 'X-Factor (1986) #34'
-issue: 34
+date: '2013-01-23T00:00:00-0500'
+year: '2013'
+title: 'Astonishing X-Men (2004) #58'
+issue: 58
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12251/x-factor_1986_34?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Astonishing X-Men
+url: http://marvel.com/comics/issue/45819/astonishing_x-men_2004_58?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/c0/594d3c9b3af7c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/58f8e30614a36
   extension: jpg
