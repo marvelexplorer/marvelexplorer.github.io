@@ -1,12 +1,12 @@
 ---
-date: '1967-09-10T00:00:00-0400'
-year: '1967'
-title: 'Tales of Suspense (1959) #93'
-issue: 93
+date: '2001-04-10T00:00:00-0400'
+year: '2001'
+title: 'Avengers (1998) #39'
+issue: 39
 series:
-  period: '1959'
-  name: Tales of Suspense
-url: http://marvel.com/comics/issue/11340/tales_of_suspense_1959_93?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1998'
+  name: Avengers
+url: http://marvel.com/comics/issue/17522/avengers_1998_39?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/20/536d465eecff7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/585c312c2c343
   extension: jpg
