@@ -1,12 +1,12 @@
 ---
-date: '1990-06-01T00:00:00-0400'
-year: '1990'
-title: 'Incredible Hulk Annual (1968) #16'
-issue: 16
+date: '2011-10-19T00:00:00-0400'
+year: '2011'
+title: 'Fear Itself (2010) #7'
+issue: 7
 series:
-  period: '1968'
-  name: Incredible Hulk Annual
-url: http://marvel.com/comics/issue/16873/incredible_hulk_annual_1968_16?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2010'
+  name: Fear Itself
+url: http://marvel.com/comics/issue/38028/fear_itself_2010_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/f0/5bbe34d210b00
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f7ddfc62178b
   extension: jpg
