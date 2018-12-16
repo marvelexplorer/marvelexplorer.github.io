@@ -1,12 +1,12 @@
 ---
-date: '1999-02-04T00:00:00-0500'
-year: '1999'
-title: 'Daredevil (1998) #4'
-issue: 4
+date: '2017-03-29T00:00:00-0400'
+year: '2017'
+title: 'Star-Lord (2016) #5'
+issue: 5
 series:
-  period: '1998'
-  name: Daredevil
-url: http://marvel.com/comics/issue/15642/daredevil_1998_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Star-Lord
+url: http://marvel.com/comics/issue/61685/star-lord_2016_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/56326fbd2422f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/a0/58d16c6810c84
   extension: jpg
