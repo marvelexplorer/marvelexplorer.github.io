@@ -1,12 +1,12 @@
 ---
-date: '1970-11-10T00:00:00-0500'
+date: '1970-08-10T00:00:00-0400'
 year: '1970'
-title: 'Amazing Adventures (1970) #3'
-issue: 3
+title: 'Amazing Adventures (1970) #1'
+issue: 1
 series:
   period: '1970'
   name: Amazing Adventures
-url: http://marvel.com/comics/issue/23267/amazing_adventures_1970_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/23245/amazing_adventures_1970_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/50aded5bd1336
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/80/59933ee477db8
   extension: jpg
