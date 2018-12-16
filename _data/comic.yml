@@ -1,12 +1,12 @@
 ---
-date: '2013-01-16T00:00:00-0500'
-year: '2013'
-title: 'Daredevil (2011) #22'
-issue: 22
+date: '2006-08-23T00:00:00-0400'
+year: '2006'
+title: 'Daredevil (1998) #88'
+issue: 88
 series:
-  period: '2011'
+  period: '1998'
   name: Daredevil
-url: http://marvel.com/comics/issue/40507/daredevil_2011_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/4755/daredevil_1998_88?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/5b52129e72651
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/5b436aa5bb50e
   extension: jpg
