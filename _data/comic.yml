@@ -1,12 +1,12 @@
 ---
-date: '2009-10-07T00:00:00-0400'
-year: '2009'
-title: 'Daredevil (1998) #501'
-issue: 501
+date: '2013-01-16T00:00:00-0500'
+year: '2013'
+title: 'Daredevil (2011) #22'
+issue: 22
 series:
-  period: '1998'
+  period: '2011'
   name: Daredevil
-url: http://marvel.com/comics/issue/24758/daredevil_1998_501?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/40507/daredevil_2011_22?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/572d1252202cb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/5b52129e72651
   extension: jpg
