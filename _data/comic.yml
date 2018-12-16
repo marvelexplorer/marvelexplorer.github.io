@@ -1,12 +1,12 @@
 ---
-date: '1994-12-10T00:00:00-0500'
-year: '1994'
-title: 'Bishop (1994) #1'
-issue: 1
+date: '1985-08-10T00:00:00-0400'
+year: '1985'
+title: 'Uncanny X-Men (1963) #196'
+issue: 196
 series:
-  period: '1994'
-  name: Bishop
-url: http://marvel.com/comics/issue/17851/bishop_1994_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/13737/uncanny_x-men_1963_196?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/59b3118260b5c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/a0/51141308d34cd
   extension: jpg
