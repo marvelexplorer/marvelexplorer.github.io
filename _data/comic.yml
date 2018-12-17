@@ -1,12 +1,12 @@
 ---
-date: '1998-02-01T00:00:00-0500'
-year: '1998'
-title: 'Ka-Zar (1997) #10'
-issue: 10
+date: '1994-05-01T00:00:00-0400'
+year: '1994'
+title: 'Cosmic Powers (1994) #3'
+issue: 3
 series:
-  period: '1997'
-  name: Ka-Zar
-url: http://marvel.com/comics/issue/66237/ka-zar_1997_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1994'
+  name: Cosmic Powers
+url: http://marvel.com/comics/issue/58266/cosmic_powers_1994_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/5b4e50e8f3dbd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5941b94e50d2b
   extension: jpg
