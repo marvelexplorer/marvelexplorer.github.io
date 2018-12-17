@@ -1,12 +1,12 @@
 ---
-date: '2008-03-12T00:00:00-0400'
-year: '2008'
-title: 'Nova (2007) #11'
-issue: 11
+date: '2011-11-02T00:00:00-0400'
+year: '2011'
+title: 'New Mutants (2009) #33'
+issue: 33
 series:
-  period: '2007'
-  name: Nova
-url: http://marvel.com/comics/issue/20873/nova_2007_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2009'
+  name: New Mutants
+url: http://marvel.com/comics/issue/38080/new_mutants_2009_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/40/578f9152b9f07
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5155d37bea3d9
   extension: jpg
