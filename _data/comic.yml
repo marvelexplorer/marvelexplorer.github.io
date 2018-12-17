@@ -1,12 +1,12 @@
 ---
-date: '1991-04-01T00:00:00-0500'
-year: '1991'
-title: 'Wolverine (1988) #38'
-issue: 38
+date: '2017-07-19T00:00:00-0400'
+year: '2017'
+title: 'The Totally Awesome Hulk (2015) #21'
+issue: 21
 series:
-  period: '1988'
-  name: Wolverine
-url: http://marvel.com/comics/issue/14157/wolverine_1988_38?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: The Totally Awesome Hulk
+url: http://marvel.com/comics/issue/60851/the_totally_awesome_hulk_2015_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/70/5bae3f4c97900
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/5967f59280ddd
   extension: jpg
