@@ -1,12 +1,12 @@
 ---
-date: '2017-07-19T00:00:00-0400'
-year: '2017'
-title: 'The Totally Awesome Hulk (2015) #21'
-issue: 21
+date: '1997-06-01T00:00:00-0400'
+year: '1997'
+title: 'X-Force (1991) #67'
+issue: 67
 series:
-  period: '2015'
-  name: The Totally Awesome Hulk
-url: http://marvel.com/comics/issue/60851/the_totally_awesome_hulk_2015_21?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/18035/x-force_1991_67?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/5967f59280ddd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/03/5873b99d38400
   extension: jpg
