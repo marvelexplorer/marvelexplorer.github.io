@@ -1,12 +1,12 @@
 ---
-date: '1994-12-01T00:00:00-0500'
-year: '1994'
-title: 'Tales to Astonish (1994) #1'
-issue: 1
+date: '2008-07-30T00:00:00-0400'
+year: '2008'
+title: 'Thor (2007) #10'
+issue: 10
 series:
-  period: '1994'
-  name: Tales to Astonish
-url: http://marvel.com/comics/issue/66352/tales_to_astonish_1994_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2007'
+  name: Thor
+url: http://marvel.com/comics/issue/21518/thor_2007_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/e0/5a30703699927
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4d24f2aed1047
   extension: jpg
