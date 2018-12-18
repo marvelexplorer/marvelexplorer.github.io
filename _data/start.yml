@@ -1,9 +1,7 @@
 ---
-name: Warlock (Technarchy)
-description: The New Mutants' Warlock is an alien being from an unidentified world
-  where the a sentient life forms are "techno-organic" life that resembles circuitry
-  and machinery in various ways.
-url: http://marvel.com/universe/Warlock_(Technarchy)?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Cypher
+description: ''
+url: http://marvel.com/universe/Cypher_(Douglas_Ramsey)?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4da612d77cbd0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/10/4ce5a70abf6fb
   extension: jpg
