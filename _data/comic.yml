@@ -1,12 +1,12 @@
 ---
-date: '1984-03-10T00:00:00-0500'
-year: '1984'
-title: 'New Mutants (1983) #13'
-issue: 13
+date: '2015-04-22T00:00:00-0400'
+year: '2015'
+title: 'Guardians of the Galaxy (2013) #26'
+issue: 26
 series:
-  period: '1983'
-  name: New Mutants
-url: http://marvel.com/comics/issue/10348/new_mutants_1983_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2013'
+  name: Guardians of the Galaxy
+url: http://marvel.com/comics/issue/51902/guardians_of_the_galaxy_2013_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/5a00a51629c16
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/a0/553514e108202
   extension: jpg
