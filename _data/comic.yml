@@ -1,12 +1,12 @@
 ---
-date: '1985-03-10T00:00:00-0500'
-year: '1985'
-title: 'Secret Wars (1984) #11'
-issue: 11
+date: '1994-12-01T00:00:00-0500'
+year: '1994'
+title: 'Tales to Astonish (1994) #1'
+issue: 1
 series:
-  period: '1984'
-  name: Secret Wars
-url: http://marvel.com/comics/issue/10582/secret_wars_1984_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1994'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/66352/tales_to_astonish_1994_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/30/57581c9ff0718
+  path: http://i.annihil.us/u/prod/marvel/i/mg/d/e0/5a30703699927
   extension: jpg
