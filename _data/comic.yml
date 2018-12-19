@@ -1,12 +1,12 @@
 ---
-date: '1993-02-01T00:00:00-0500'
-year: '1993'
-title: 'Fantastic Four (1961) #373'
-issue: 373
+date: '2008-01-16T00:00:00-0500'
+year: '2008'
+title: 'Iron Man and Power Pack (2007) #3'
+issue: 3
 series:
-  period: '1961'
-  name: Fantastic Four
-url: http://marvel.com/comics/issue/13198/fantastic_four_1961_373?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Iron Man and Power Pack
+url: http://marvel.com/comics/issue/17652/iron_man_and_power_pack_2007_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/52616320f31cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5b7454b10dc27
   extension: jpg
