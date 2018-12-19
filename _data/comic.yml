@@ -1,12 +1,12 @@
 ---
-date: '2007-11-14T00:00:00-0500'
-year: '2007'
-title: 'Iron Man and Power Pack (2007) #1'
-issue: 1
+date: '1966-04-10T00:00:00-0500'
+year: '1966'
+title: 'Tales to Astonish (1959) #78'
+issue: 78
 series:
-  period: '2007'
-  name: Iron Man and Power Pack
-url: http://marvel.com/comics/issue/17285/iron_man_and_power_pack_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1959'
+  name: Tales to Astonish
+url: http://marvel.com/comics/issue/11424/tales_to_astonish_1959_78?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5b73388562cde
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/40/594add3ad3643
   extension: jpg
