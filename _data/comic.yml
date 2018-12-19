@@ -1,12 +1,12 @@
 ---
-date: '1989-03-10T00:00:00-0500'
-year: '1989'
-title: 'Avengers (1963) #301'
-issue: 301
+date: '1996-12-10T00:00:00-0500'
+year: '1996'
+title: 'Avengers (1996) #2'
+issue: 2
 series:
-  period: '1963'
+  period: '1996'
   name: Avengers
-url: http://marvel.com/comics/issue/7177/avengers_1963_301?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/17756/avengers_1996_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/588a5da9b63c2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/60/58765a4b98e5d
   extension: jpg
