@@ -1,12 +1,12 @@
 ---
-date: '1998-03-10T00:00:00-0500'
-year: '1998'
-title: 'Fantastic Four (1998) #3'
-issue: 3
+date: '1993-02-01T00:00:00-0500'
+year: '1993'
+title: 'Fantastic Four (1961) #373'
+issue: 373
 series:
-  period: '1998'
+  period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/15549/fantastic_four_1998_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/13198/fantastic_four_1961_373?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/51b8acb50ef55
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/d0/52616320f31cf
   extension: jpg
