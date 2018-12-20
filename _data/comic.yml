@@ -1,12 +1,12 @@
 ---
-date: '1975-08-10T00:00:00-0400'
-year: '1975'
-title: 'Invaders (1975) #1'
-issue: 1
+date: '2017-01-25T00:00:00-0500'
+year: '2017'
+title: 'Thunderbolts (2016) #9'
+issue: 9
 series:
-  period: '1975'
-  name: Invaders
-url: http://marvel.com/comics/issue/19969/invaders_1975_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Thunderbolts
+url: http://marvel.com/comics/issue/57244/thunderbolts_2016_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/4c3649c16090b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/c0/5882660033198
   extension: jpg
