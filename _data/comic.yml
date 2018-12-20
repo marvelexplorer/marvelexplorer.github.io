@@ -1,12 +1,12 @@
 ---
-date: '1985-10-10T00:00:00-0400'
-year: '1985'
-title: 'Avengers (1963) #260'
-issue: 260
+date: '2006-05-24T00:00:00-0400'
+year: '2006'
+title: 'Annihilation: Ronan (2006) #2'
+issue: 2
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7131/avengers_1963_260?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: 'Annihilation: Ronan'
+url: http://marvel.com/comics/issue/4219/annihilation_ronan_2006_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5888d43df2290
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/d0/578660897592d
   extension: jpg
