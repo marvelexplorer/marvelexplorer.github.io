@@ -1,12 +1,12 @@
 ---
-date: '2008-05-29T00:00:00-0400'
-year: '2008'
-title: 'Thor (2007) #9'
-issue: 9
+date: '1992-08-10T00:00:00-0400'
+year: '1992'
+title: 'Thor (1966) #450'
+issue: 450
 series:
-  period: '2007'
+  period: '1966'
   name: Thor
-url: http://marvel.com/comics/issue/21187/thor_2007_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/11778/thor_1966_450?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/a0/5758700390616
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4f2014f03b14b
   extension: jpg
