@@ -1,12 +1,12 @@
 ---
-date: '1985-09-10T00:00:00-0400'
-year: '1985'
-title: 'Thor (1966) #359'
-issue: 359
+date: '1965-10-10T00:00:00-0400'
+year: '1965'
+title: 'Journey Into Mystery (1952) #121'
+issue: 121
 series:
-  period: '1966'
-  name: Thor
-url: http://marvel.com/comics/issue/11687/thor_1966_359?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1952'
+  name: Journey Into Mystery
+url: http://marvel.com/comics/issue/9697/journey_into_mystery_1952_121?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bc46ef1a504a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/a0/5a7cbd3fa3daa
   extension: jpg
