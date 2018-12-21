@@ -1,12 +1,12 @@
 ---
-date: '2018-07-18T00:00:00-0400'
-year: '2018'
-title: 'X-Men: Gold (2017) #32'
-issue: 32
+date: '2004-06-30T00:00:00-0400'
+year: '2004'
+title: 'Ultimate X-Men (2000) #48'
+issue: 48
 series:
-  period: '2017'
-  name: 'X-Men: Gold'
-url: http://marvel.com/comics/issue/70235/x-men_gold_2017_32?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate X-Men
+url: http://marvel.com/comics/issue/745/ultimate_x-men_2000_48?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5b467319a95ee
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5bad23656c7e0
   extension: jpg
