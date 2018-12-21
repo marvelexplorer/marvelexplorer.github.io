@@ -1,12 +1,12 @@
 ---
-date: '2004-06-30T00:00:00-0400'
-year: '2004'
-title: 'Ultimate X-Men (2000) #48'
-issue: 48
+date: '1977-10-10T00:00:00-0400'
+year: '1977'
+title: 'Uncanny X-Men (1963) #107'
+issue: 107
 series:
-  period: '2000'
-  name: Ultimate X-Men
-url: http://marvel.com/comics/issue/745/ultimate_x-men_2000_48?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/12422/uncanny_x-men_1963_107?utm_campaign=apiRef&utm_source=3c0b3e167caa830e6201eb3feb427afb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/5bad23656c7e0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/4/90/58b08688b39f7
   extension: jpg
