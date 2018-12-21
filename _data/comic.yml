@@ -1,12 +1,12 @@
 ---
-date: '2000-03-20T00:00:00-0500'
-year: '2000'
-title: 'Webspinners: Tales of Spider-Man (1999) #15'
-issue: 15
+date: '2013-07-10T00:00:00-0400'
+year: '2013'
+title: 'Superior Spider-Man (2013) #13'
+issue: 13
 series:
-  period: '1999'
-  name: 'Webspinners: Tales of Spider-Man'
-url: http://marvel.com/comics/issue/14023/webspinners_tales_of_spider-man_1999_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2013'
+  name: Superior Spider-Man
+url: http://marvel.com/comics/issue/47377/superior_spider-man_2013_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/5c0adf07528c6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/51db22fd84693
   extension: jpg
