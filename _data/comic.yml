@@ -1,12 +1,12 @@
 ---
-date: '2011-03-30T00:00:00-0400'
-year: '2011'
-title: 'Incredible Hulks (2010) #625'
-issue: 625
+date: '2013-01-16T00:00:00-0500'
+year: '2013'
+title: 'Dark Avengers (2012) #185'
+issue: 185
 series:
-  period: '2010'
-  name: Incredible Hulks
-url: http://marvel.com/comics/issue/36049/incredible_hulks_2010_625?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2012'
+  name: Dark Avengers
+url: http://marvel.com/comics/issue/46025/dark_avengers_2012_185?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/40/4f5788e89d964
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/5b3ba77a708bd
   extension: jpg
