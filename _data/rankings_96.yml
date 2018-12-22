@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 5
-- name: Loki
-  score: 4
 - name: Thor
   score: 4
 - name: Sif
+  score: 3
+- name: Loki
   score: 3
 - name: Storm
   score: 3
