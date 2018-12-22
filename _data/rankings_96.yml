@@ -1,9 +1,9 @@
 ---
-- name: Thor
-  score: 5
 - name: Spider-Man
   score: 5
 - name: Loki
+  score: 4
+- name: Thor
   score: 4
 - name: Sif
   score: 3
