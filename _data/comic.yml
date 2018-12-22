@@ -1,12 +1,12 @@
 ---
-date: '2006-04-12T00:00:00-0400'
-year: '2006'
-title: 'Friendly Neighborhood Spider-Man (2005) #7'
-issue: 7
+date: '2018-08-01T00:00:00-0400'
+year: '2018'
+title: 'Marvel Rising: Ms. Marvel/Squirrel Girl (2018) #1'
+issue: 1
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/4116/friendly_neighborhood_spider-man_2005_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2018'
+  name: 'Marvel Rising: Ms. Marvel/Squirrel Girl'
+url: http://marvel.com/comics/issue/69019/marvel_rising_ms_marvelsquirrel_girl_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/5bbbb59a93c60
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/5b58cf48ab0ac
   extension: jpg
