@@ -1,12 +1,12 @@
 ---
-date: '2018-08-01T00:00:00-0400'
-year: '2018'
-title: 'Marvel Rising: Ms. Marvel/Squirrel Girl (2018) #1'
-issue: 1
+date: '2017-10-18T00:00:00-0400'
+year: '2017'
+title: 'Champions (2016) #13'
+issue: 13
 series:
-  period: '2018'
-  name: 'Marvel Rising: Ms. Marvel/Squirrel Girl'
-url: http://marvel.com/comics/issue/69019/marvel_rising_ms_marvelsquirrel_girl_2018_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2016'
+  name: Champions
+url: http://marvel.com/comics/issue/61454/champions_2016_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/5b58cf48ab0ac
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/59dfdaa16ed7c
   extension: jpg
