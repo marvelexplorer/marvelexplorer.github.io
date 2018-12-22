@@ -1,12 +1,12 @@
 ---
-date: '2009-10-28T00:00:00-0400'
+date: '2009-07-15T00:00:00-0400'
 year: '2009'
-title: 'Avengers: The Initiative (2007) #29'
-issue: 29
+title: 'Punisher (2008) #7'
+issue: 7
 series:
-  period: '2007'
-  name: 'Avengers: The Initiative'
-url: http://marvel.com/comics/issue/27546/avengers_the_initiative_2007_29?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2008'
+  name: Punisher
+url: http://marvel.com/comics/issue/26155/punisher_2008_7?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4e8f2caa77cf6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/582c8084a0571
   extension: jpg
