@@ -1,11 +1,8 @@
 ---
-name: Ms. Marvel (Kamala Khan)
-description: A Muslim-American teenager growing up in Jersey City, Kamala Khan gained
-  shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes,
-  in particular Carol Danvers, Kamala took up Captain Marvel's former identity, becoming
-  the new Ms. Marvel. This up and coming hero works to protect her community and understand
-  her place in the world.
-url: http://marvel.com/comics/characters/1017577/ms_marvel_kamala_khan?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+name: Jimmy Woo
+description: Jimmy Woo is a former FBI and SHIELD agent from the '50s who now leads
+  the Agents of Atlas in the present.
+url: http://marvel.com/universe/Woo%2C_Jimmy?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0030a8ec05b
   extension: jpg
