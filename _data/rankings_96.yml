@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 8
+- name: Captain America
+  score: 4
 - name: Loki
   score: 3
 - name: Thor
   score: 3
-- name: Storm
-  score: 3
-- name: Captain America
+- name: Avengers
   score: 3
