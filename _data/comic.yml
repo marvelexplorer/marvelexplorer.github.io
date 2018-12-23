@@ -1,12 +1,12 @@
 ---
-date: '2004-08-09T00:00:00-0400'
-year: '2004'
-title: 'Identity Disc (2004) #1'
-issue: 1
+date: '1992-05-01T00:00:00-0400'
+year: '1992'
+title: 'Peter Parker, the Spectacular Spider-Man (1976) #188'
+issue: 188
 series:
-  period: '2004'
-  name: Identity Disc
-url: http://marvel.com/comics/issue/696/identity_disc_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1976'
+  name: Peter Parker, the Spectacular Spider-Man
+url: http://marvel.com/comics/issue/14640/peter_parker_the_spectacular_spider-man_1976_188?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5b719b7e115b0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5bb79e35e9dad
   extension: jpg
