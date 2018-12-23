@@ -1,11 +1,11 @@
 ---
 - name: Spider-Man
   score: 4
+- name: Avengers
+  score: 4
 - name: Loki
   score: 3
 - name: Thor
   score: 3
 - name: Storm
-  score: 3
-- name: Avengers
   score: 3
