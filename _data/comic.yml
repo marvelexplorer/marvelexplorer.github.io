@@ -1,12 +1,12 @@
 ---
-date: '2018-08-08T00:00:00-0400'
-year: '2018'
-title: 'Spider-Man/Deadpool (2016) #37'
-issue: 37
+date: '2004-08-09T00:00:00-0400'
+year: '2004'
+title: 'Identity Disc (2004) #1'
+issue: 1
 series:
-  period: '2016'
-  name: Spider-Man/Deadpool
-url: http://marvel.com/comics/issue/69492/spider-mandeadpool_2016_37?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Identity Disc
+url: http://marvel.com/comics/issue/696/identity_disc_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/50/5b620e819ebeb
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5b719b7e115b0
   extension: jpg
