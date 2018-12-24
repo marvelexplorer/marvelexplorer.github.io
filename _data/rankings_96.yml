@@ -3,9 +3,9 @@
   score: 6
 - name: Captain America
   score: 6
-- name: Loki
-  score: 3
 - name: Thor
   score: 3
 - name: Avengers
+  score: 3
+- name: Havok
   score: 3
