@@ -1,12 +1,12 @@
 ---
-date: '2006-11-22T00:00:00-0500'
-year: '2006'
-title: 'X-Factor (2005) #13'
-issue: 13
+date: '2005-07-06T00:00:00-0400'
+year: '2005'
+title: 'Uncanny X-Men (1963) #462'
+issue: 462
 series:
-  period: '2005'
-  name: X-Factor
-url: http://marvel.com/comics/issue/5594/x-factor_2005_13?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/2181/uncanny_x-men_1963_462?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/60/594bd78079c74
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/592313a10df7e
   extension: jpg
