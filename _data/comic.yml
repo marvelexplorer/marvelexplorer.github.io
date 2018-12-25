@@ -1,12 +1,12 @@
 ---
-date: '1979-10-10T00:00:00-0400'
-year: '1979'
-title: 'The Amazing Spider-Man (1963) #197'
-issue: 197
+date: '2004-02-18T00:00:00-0500'
+year: '2004'
+title: 'The Pulse (2004) #1'
+issue: 1
 series:
-  period: '1963'
-  name: The Amazing Spider-Man
-url: http://marvel.com/comics/issue/6590/the_amazing_spider-man_1963_197?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: The Pulse
+url: http://marvel.com/comics/issue/168/the_pulse_2004_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/57c452d1b8706
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/40/56425aa850c47
   extension: jpg
