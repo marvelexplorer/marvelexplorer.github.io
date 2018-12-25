@@ -1,12 +1,12 @@
 ---
-date: '2009-04-01T00:00:00-0400'
-year: '2009'
-title: 'Agents of Atlas (2009) #3'
-issue: 3
+date: '2017-01-25T00:00:00-0500'
+year: '2017'
+title: 'Guidebook to the Marvel Cinematic Universe (2015) #1'
+issue: 1
 series:
-  period: '2009'
-  name: Agents of Atlas
-url: http://marvel.com/comics/issue/24015/agents_of_atlas_2009_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2015'
+  name: Guidebook to the Marvel Cinematic Universe
+url: http://marvel.com/comics/issue/57698/guidebook_to_the_marvel_cinematic_universe_2015_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/563cfecd1dd36
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/5882579e92417
   extension: jpg
