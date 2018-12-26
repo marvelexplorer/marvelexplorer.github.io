@@ -1,12 +1,12 @@
 ---
-date: '2005-07-01T00:00:00-0400'
-year: '2005'
-title: 'Marvel Nemesis: The Imperfects (2005) #1'
+date: '2003-08-01T00:00:00-0400'
+year: '2003'
+title: 'Kingpin (2003) #1'
 issue: 1
 series:
-  period: '2005'
-  name: 'Marvel Nemesis: The Imperfects'
-url: http://marvel.com/comics/issue/2003/marvel_nemesis_the_imperfects_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2003'
+  name: Kingpin
+url: http://marvel.com/comics/issue/19848/kingpin_2003_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/5c12c9101f804
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/578e27512aac9
   extension: jpg
