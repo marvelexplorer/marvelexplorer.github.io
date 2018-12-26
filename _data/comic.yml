@@ -1,12 +1,12 @@
 ---
-date: '1992-11-10T00:00:00-0500'
-year: '1992'
-title: 'Spider-Man 2099 (1992) #1'
-issue: 1
+date: '2008-02-06T00:00:00-0500'
+year: '2008'
+title: 'Amazing Spider-Man (1999) #549'
+issue: 549
 series:
-  period: '1992'
-  name: Spider-Man 2099
-url: http://marvel.com/comics/issue/10865/spider-man_2099_1992_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/17581/amazing_spider-man_1999_549?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/5bc8dcc780c86
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/50/4d24fe3e6dcdb
   extension: jpg
