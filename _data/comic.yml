@@ -1,12 +1,12 @@
 ---
-date: '1999-11-10T00:00:00-0500'
-year: '1999'
-title: 'Webspinners: Tales of Spider-Man (1999) #11'
-issue: 11
+date: '2007-12-19T00:00:00-0500'
+year: '2007'
+title: 'Marvel Adventures the Avengers (2006) #19'
+issue: 19
 series:
-  period: '1999'
-  name: 'Webspinners: Tales of Spider-Man'
-url: http://marvel.com/comics/issue/12104/webspinners_tales_of_spider-man_1999_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2006'
+  name: Marvel Adventures the Avengers
+url: http://marvel.com/comics/issue/17381/marvel_adventures_the_avengers_2006_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc46cbc41779
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4f6399c2b07bb
   extension: jpg
