@@ -1,12 +1,12 @@
 ---
-date: '2009-01-14T00:00:00-0500'
-year: '2009'
-title: 'Amazing Spider-Man (1999) #583'
-issue: 583
+date: '1999-11-10T00:00:00-0500'
+year: '1999'
+title: 'Webspinners: Tales of Spider-Man (1999) #11'
+issue: 11
 series:
   period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/23077/amazing_spider-man_1999_583?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  name: 'Webspinners: Tales of Spider-Man'
+url: http://marvel.com/comics/issue/12104/webspinners_tales_of_spider-man_1999_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/e0/57ff9e6f89b7a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc46cbc41779
   extension: jpg
