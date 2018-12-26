@@ -1,12 +1,12 @@
 ---
-date: '1990-03-10T00:00:00-0500'
-year: '1990'
-title: 'Incredible Hulk (1962) #367'
-issue: 367
+date: '2017-12-13T00:00:00-0500'
+year: '2017'
+title: 'She-Hulk (2017) #160'
+issue: 160
 series:
-  period: '1962'
-  name: Incredible Hulk
-url: http://marvel.com/comics/issue/9178/incredible_hulk_1962_367?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: She-Hulk
+url: http://marvel.com/comics/issue/65301/she-hulk_2017_160?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/5b913f6cc6c05
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/5a284471dd088
   extension: jpg
