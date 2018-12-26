@@ -1,12 +1,12 @@
 ---
-date: '1998-02-01T00:00:00-0500'
-year: '1998'
-title: 'Elektra (1996) #15'
-issue: 15
+date: '2005-07-01T00:00:00-0400'
+year: '2005'
+title: 'Marvel Nemesis: The Imperfects (2005) #1'
+issue: 1
 series:
-  period: '1996'
-  name: Elektra
-url: http://marvel.com/comics/issue/62744/elektra_1996_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: 'Marvel Nemesis: The Imperfects'
+url: http://marvel.com/comics/issue/2003/marvel_nemesis_the_imperfects_2005_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5a8f54622f6a3
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/c0/5c12c9101f804
   extension: jpg
