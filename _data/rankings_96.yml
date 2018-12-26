@@ -3,9 +3,9 @@
   score: 10
 - name: Captain America
   score: 5
-- name: Avengers
-  score: 4
 - name: Havok
+  score: 3
+- name: Avengers
   score: 3
 - name: Doctor Strange
   score: 3

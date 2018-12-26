@@ -1,12 +1,12 @@
 ---
-date: '1993-10-01T00:00:00-0400'
-year: '1993'
-title: 'Wolverine and The Punisher: Damaging Evidence (1993) #1'
-issue: 1
+date: '1991-03-01T00:00:00-0500'
+year: '1991'
+title: 'Wolverine (1988) #37'
+issue: 37
 series:
-  period: '1993'
-  name: 'Wolverine and The Punisher: Damaging Evidence'
-url: http://marvel.com/comics/issue/62805/wolverine_and_the_punisher_damaging_evidence_1993_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1988'
+  name: Wolverine
+url: http://marvel.com/comics/issue/14156/wolverine_1988_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/59c52b5bb7a5b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/00/5bae3e2d0339e
   extension: jpg
