@@ -1,12 +1,12 @@
 ---
-date: '2003-08-01T00:00:00-0400'
-year: '2003'
-title: 'Kingpin (2003) #1'
+date: '1993-10-01T00:00:00-0400'
+year: '1993'
+title: 'Wolverine and The Punisher: Damaging Evidence (1993) #1'
 issue: 1
 series:
-  period: '2003'
-  name: Kingpin
-url: http://marvel.com/comics/issue/19848/kingpin_2003_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: 'Wolverine and The Punisher: Damaging Evidence'
+url: http://marvel.com/comics/issue/62805/wolverine_and_the_punisher_damaging_evidence_1993_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/90/578e27512aac9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/59c52b5bb7a5b
   extension: jpg
