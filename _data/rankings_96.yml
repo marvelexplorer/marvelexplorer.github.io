@@ -2,10 +2,10 @@
 - name: Spider-Man
   score: 9
 - name: Captain America
-  score: 4
+  score: 5
 - name: Wolverine
   score: 4
-- name: Havok
-  score: 3
 - name: Doctor Strange
+  score: 3
+- name: Avengers
   score: 3
