@@ -1,12 +1,12 @@
 ---
-date: '2013-06-26T00:00:00-0400'
-year: '2013'
-title: 'Uncanny X-Force (2013) #7'
-issue: 7
+date: '1995-06-01T00:00:00-0400'
+year: '1995'
+title: 'X-Men: Omega (1995) #1'
+issue: 1
 series:
-  period: '2013'
-  name: Uncanny X-Force
-url: http://marvel.com/comics/issue/46642/uncanny_x-force_2013_7?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1995'
+  name: 'X-Men: Omega'
+url: http://marvel.com/comics/issue/12370/x-men_omega_1995_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/51b8885eab49f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/51e6fca118f42
   extension: jpg
