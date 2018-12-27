@@ -1,12 +1,12 @@
 ---
-date: '1990-07-10T00:00:00-0400'
-year: '1990'
-title: 'Marvel Comics Presents (1988) #53'
-issue: 53
+date: '1992-10-10T00:00:00-0400'
+year: '1992'
+title: 'Alpha Flight (1983) #113'
+issue: 113
 series:
-  period: '1988'
-  name: Marvel Comics Presents
-url: http://marvel.com/comics/issue/10134/marvel_comics_presents_1988_53?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1983'
+  name: Alpha Flight
+url: http://marvel.com/comics/issue/12653/alpha_flight_1983_113?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c3652e781d51
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4ce5895081b91
   extension: jpg
