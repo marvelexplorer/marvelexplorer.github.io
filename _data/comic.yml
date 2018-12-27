@@ -1,12 +1,12 @@
 ---
-date: '1993-11-10T00:00:00-0500'
-year: '1993'
-title: 'Iron Man (1968) #298'
-issue: 298
+date: '2007-04-18T00:00:00-0400'
+year: '2007'
+title: 'Mighty Avengers (2007) #2'
+issue: 2
 series:
-  period: '1968'
-  name: Iron Man
-url: http://marvel.com/comics/issue/9547/iron_man_1968_298?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: Mighty Avengers
+url: http://marvel.com/comics/issue/6301/mighty_avengers_2007_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/80/5a74b8a8af372
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7c77a91cff1
   extension: jpg
