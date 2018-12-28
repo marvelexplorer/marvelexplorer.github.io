@@ -1,12 +1,12 @@
 ---
-date: '1992-06-10T00:00:00-0400'
-year: '1992'
-title: 'X-Men (1991) #9'
-issue: 9
+date: '2018-02-07T00:00:00-0500'
+year: '2018'
+title: 'Spirits of Vengeance (2017) #5'
+issue: 5
 series:
-  period: '1991'
-  name: X-Men
-url: http://marvel.com/comics/issue/14383/x-men_1991_9?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2017'
+  name: Spirits of Vengeance
+url: http://marvel.com/comics/issue/66115/spirits_of_vengeance_2017_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/50/58a33b2aa43b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/10/5a7244cc3209e
   extension: jpg
