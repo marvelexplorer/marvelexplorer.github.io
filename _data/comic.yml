@@ -1,12 +1,12 @@
 ---
-date: '2013-01-09T00:00:00-0500'
-year: '2013'
-title: 'Marvel Universe vs. The Avengers (2012) #4'
-issue: 4
+date: '1968-03-10T00:00:00-0500'
+year: '1968'
+title: 'Avengers (1963) #50'
+issue: 50
 series:
-  period: '2012'
-  name: Marvel Universe vs. The Avengers
-url: http://marvel.com/comics/issue/46296/marvel_universe_vs_the_avengers_2012_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7300/avengers_1963_50?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/576ac1f5d2a9e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/90/58656429957a5
   extension: jpg
