@@ -1,12 +1,12 @@
 ---
-date: '2003-10-15T00:00:00-0400'
-year: '2003'
-title: 'Amazing Spider-Man (1999) #58'
-issue: 58
+date: '2018-02-28T00:00:00-0500'
+year: '2018'
+title: 'Doctor Strange (2015) #386'
+issue: 386
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/43171/amazing_spider-man_1999_58?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: Doctor Strange
+url: http://marvel.com/comics/issue/66278/doctor_strange_2015_386?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/57ea901a600d2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5a8de83963235
   extension: jpg
