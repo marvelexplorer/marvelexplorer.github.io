@@ -1,12 +1,12 @@
 ---
-date: '1993-05-01T00:00:00-0400'
-year: '1993'
-title: 'Guardians of the Galaxy (1990) #36'
-issue: 36
+date: '2003-10-15T00:00:00-0400'
+year: '2003'
+title: 'Amazing Spider-Man (1999) #58'
+issue: 58
 series:
-  period: '1990'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/61803/guardians_of_the_galaxy_1990_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/43171/amazing_spider-man_1999_58?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/58d04e8d26e71
+  path: http://i.annihil.us/u/prod/marvel/i/mg/5/a0/57ea901a600d2
   extension: jpg
