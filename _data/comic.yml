@@ -1,12 +1,12 @@
 ---
-date: '2016-11-30T00:00:00-0500'
-year: '2016'
-title: 'Guardians of the Galaxy (2015) #14'
-issue: 14
+date: '1993-05-01T00:00:00-0400'
+year: '1993'
+title: 'Guardians of the Galaxy (1990) #36'
+issue: 36
 series:
-  period: '2015'
+  period: '1990'
   name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/55477/guardians_of_the_galaxy_2015_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/61803/guardians_of_the_galaxy_1990_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/20/582cba0bcaea0
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/58d04e8d26e71
   extension: jpg
