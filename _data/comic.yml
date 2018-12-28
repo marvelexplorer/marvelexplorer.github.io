@@ -1,12 +1,12 @@
 ---
-date: '2000-09-01T00:00:00-0400'
-year: '2000'
-title: 'Marvel Knights (2000) #3'
-issue: 3
+date: '2008-02-27T00:00:00-0500'
+year: '2008'
+title: 'House of M: Avengers (2007) #5'
+issue: 5
 series:
-  period: '2000'
-  name: Marvel Knights
-url: http://marvel.com/comics/issue/16063/marvel_knights_2000_3?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2007'
+  name: 'House of M: Avengers'
+url: http://marvel.com/comics/issue/20689/house_of_m_avengers_2007_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/60/4bc369f903332
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/a0/5b325e2d2caaf
   extension: jpg
