@@ -1,12 +1,12 @@
 ---
-date: '2011-04-20T00:00:00-0400'
-year: '2011'
-title: 'Thunderbolts (2006) #156'
-issue: 156
+date: '2010-03-31T00:00:00-0400'
+year: '2010'
+title: 'Amazing Spider-Man (1999) #627'
+issue: 627
 series:
-  period: '2006'
-  name: Thunderbolts
-url: http://marvel.com/comics/issue/35662/thunderbolts_2006_156?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/30302/amazing_spider-man_1999_627?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/5744d2a9e8d4f
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5808de55e800d
   extension: jpg
