@@ -1,12 +1,12 @@
 ---
-date: '1989-03-10T00:00:00-0500'
-year: '1989'
-title: 'X-Factor (1986) #38'
-issue: 38
+date: '1988-02-10T00:00:00-0500'
+year: '1988'
+title: 'Classic X-Men (1986) #18'
+issue: 18
 series:
   period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12255/x-factor_1986_38?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  name: Classic X-Men
+url: http://marvel.com/comics/issue/20572/classic_x-men_1986_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/f0/594d7a7ea6a75
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb68303ef9f9
   extension: jpg
