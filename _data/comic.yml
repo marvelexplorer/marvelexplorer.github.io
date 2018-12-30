@@ -1,12 +1,12 @@
 ---
-date: '2009-04-15T00:00:00-0400'
-year: '2009'
-title: 'Uncanny X-Men (1963) #508'
-issue: 508
+date: '1994-05-01T00:00:00-0400'
+year: '1994'
+title: 'X-Force (1991) #34'
+issue: 34
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/23920/uncanny_x-men_1963_508?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1991'
+  name: X-Force
+url: http://marvel.com/comics/issue/17999/x-force_1991_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/5/03/592702ab56805
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5ba5314dca492
   extension: jpg
