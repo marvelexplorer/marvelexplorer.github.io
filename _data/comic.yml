@@ -1,12 +1,12 @@
 ---
-date: '2011-05-11T00:00:00-0400'
+date: '2011-08-10T00:00:00-0400'
 year: '2011'
-title: 'New Mutants (2009) #25'
-issue: 25
+title: 'X-Men Legacy (2008) #253'
+issue: 253
 series:
-  period: '2009'
-  name: New Mutants
-url: http://marvel.com/comics/issue/36501/new_mutants_2009_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2008'
+  name: X-Men Legacy
+url: http://marvel.com/comics/issue/36428/x-men_legacy_2008_253?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/10/5155cdfdc24bd
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/58befcd1527e3
   extension: jpg
