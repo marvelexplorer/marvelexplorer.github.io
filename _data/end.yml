@@ -1,8 +1,7 @@
 ---
-name: Stryfe
-description: Stryfe is the clone of Nathan Christopher Summers, alias Cable, the son
-  of Cyclops of the X-Men.
-url: http://marvel.com/universe/Stryfe?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+name: Cable
+description: ''
+url: http://marvel.com/universe/Cable?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/a0/527413b06270b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/526165df2b584
   extension: jpg
