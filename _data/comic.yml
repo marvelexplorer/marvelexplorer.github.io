@@ -1,12 +1,12 @@
 ---
-date: '1993-01-10T00:00:00-0500'
-year: '1993'
-title: 'X-Factor (1986) #86'
-issue: 86
+date: '2010-02-24T00:00:00-0500'
+year: '2010'
+title: 'Second Coming: Prepare (2010) #1'
+issue: 1
 series:
-  period: '1986'
-  name: X-Factor
-url: http://marvel.com/comics/issue/12308/x-factor_1986_86?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Second Coming: Prepare'
+url: http://marvel.com/comics/issue/33554/second_coming_prepare_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bb5810e05717
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/5b22f0a399d75
   extension: jpg
