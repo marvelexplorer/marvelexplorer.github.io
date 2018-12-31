@@ -1,12 +1,12 @@
 ---
-date: '2010-07-14T00:00:00-0400'
-year: '2010'
-title: 'World War Hulks: Spider-Man & Thor (2010) #1'
-issue: 1
+date: '2003-06-01T00:00:00-0400'
+year: '2003'
+title: 'Captain Marvel (2002) #8'
+issue: 8
 series:
-  period: '2010'
-  name: 'World War Hulks: Spider-Man & Thor'
-url: http://marvel.com/comics/issue/33580/world_war_hulks_spider-man_thor_2010_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2002'
+  name: Captain Marvel
+url: http://marvel.com/comics/issue/22838/captain_marvel_2002_8?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f58d5c7e06b8
+  path: http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5b1812707b181
   extension: jpg
