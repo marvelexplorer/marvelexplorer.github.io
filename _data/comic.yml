@@ -1,12 +1,12 @@
 ---
-date: '1985-11-10T00:00:00-0500'
-year: '1985'
-title: 'Avengers (1963) #261'
-issue: 261
+date: '1986-01-15T00:00:00-0500'
+year: '1986'
+title: 'Avengers Annual (1967) #15'
+issue: 15
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7132/avengers_1963_261?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1967'
+  name: Avengers Annual
+url: http://marvel.com/comics/issue/6929/avengers_annual_1967_15?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/00/5888d54d31c91
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57bf1c473a838
   extension: jpg
