@@ -1,12 +1,12 @@
 ---
-date: '2006-11-08T00:00:00-0500'
-year: '2006'
-title: 'Annihilation (2006) #4'
-issue: 4
+date: '1989-07-10T00:00:00-0400'
+year: '1989'
+title: 'Thor (1966) #405'
+issue: 405
 series:
-  period: '2006'
-  name: Annihilation
-url: http://marvel.com/comics/issue/5529/annihilation_2006_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1966'
+  name: Thor
+url: http://marvel.com/comics/issue/11733/thor_1966_405?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/2/60/51b61255041bc
+  path: http://i.annihil.us/u/prod/marvel/i/mg/8/40/51b0e003b8e0d
   extension: jpg
