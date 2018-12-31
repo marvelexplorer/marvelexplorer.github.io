@@ -1,11 +1,11 @@
 ---
 - name: Avengers
-  score: 4
+  score: 5
 - name: Rogue
   score: 4
 - name: X-Men
   score: 4
-- name: Wolverine
-  score: 3
 - name: Captain America
   score: 3
+- name: Iron Man
+  score: 2
