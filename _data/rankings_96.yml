@@ -1,10 +1,10 @@
 ---
-- name: Rogue
-  score: 4
 - name: Thor
   score: 4
 - name: Avengers
   score: 4
+- name: Rogue
+  score: 3
 - name: X-Men
   score: 3
 - name: Doctor Doom
