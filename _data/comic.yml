@@ -1,12 +1,12 @@
 ---
-date: '2008-08-06T00:00:00-0400'
-year: '2008'
-title: 'Wolverine: Killing Made Simple (2008) #1'
-issue: 1
+date: '2005-08-03T00:00:00-0400'
+year: '2005'
+title: 'Iron Man: House of M (2005) #2'
+issue: 2
 series:
-  period: '2008'
-  name: 'Wolverine: Killing Made Simple'
-url: http://marvel.com/comics/issue/21778/wolverine_killing_made_simple_2008_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: 'Iron Man: House of M'
+url: http://marvel.com/comics/issue/2362/iron_man_house_of_m_2005_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/30/587413de1de2a
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5b60864d5b111
   extension: jpg
