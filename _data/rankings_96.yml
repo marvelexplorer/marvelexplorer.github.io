@@ -1,11 +1,11 @@
 ---
 - name: Thor
   score: 4
+- name: Wolverine
+  score: 4
 - name: X-Men
   score: 3
 - name: Avengers
   score: 3
 - name: Rogue
-  score: 3
-- name: Beast
   score: 3
