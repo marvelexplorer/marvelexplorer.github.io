@@ -1,12 +1,12 @@
 ---
-date: '1941-10-10T00:00:00-0500'
-year: '1941'
-title: 'Marvel Mystery Comics (1939) #24'
-issue: 24
+date: '1991-09-01T00:00:00-0400'
+year: '1991'
+title: 'Namor: The Sub-Mariner (1990) #18'
+issue: 18
 series:
-  period: '1939'
-  name: Marvel Mystery Comics
-url: http://marvel.com/comics/issue/16730/marvel_mystery_comics_1939_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1990'
+  name: 'Namor: The Sub-Mariner'
+url: http://marvel.com/comics/issue/66022/namor_the_sub-mariner_1990_18?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/598cae1046cce
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/50/5a612f879b1b2
   extension: jpg
