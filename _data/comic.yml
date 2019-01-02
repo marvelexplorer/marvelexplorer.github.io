@@ -1,12 +1,12 @@
 ---
-date: '2004-02-01T00:00:00-0500'
-year: '2004'
-title: 'Incredible Hulk (1999) #64'
-issue: 64
+date: '2001-05-01T00:00:00-0400'
+year: '2001'
+title: 'Incredible Hulk (1999) #26'
+issue: 26
 series:
   period: '1999'
   name: Incredible Hulk
-url: http://marvel.com/comics/issue/364/incredible_hulk_1999_64?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/14426/incredible_hulk_1999_26?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/10/5b69ac3a789e5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/c0/59824adf79e9f
   extension: jpg
