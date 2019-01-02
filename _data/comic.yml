@@ -1,12 +1,12 @@
 ---
-date: '2010-10-13T00:00:00-0400'
-year: '2010'
-title: 'The Thanos Imperative (2010) #5'
-issue: 5
+date: '1941-10-10T00:00:00-0500'
+year: '1941'
+title: 'Marvel Mystery Comics (1939) #24'
+issue: 24
 series:
-  period: '2010'
-  name: The Thanos Imperative
-url: http://marvel.com/comics/issue/32979/the_thanos_imperative_2010_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1939'
+  name: Marvel Mystery Comics
+url: http://marvel.com/comics/issue/16730/marvel_mystery_comics_1939_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/51f69ef06c1d7
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/598cae1046cce
   extension: jpg
