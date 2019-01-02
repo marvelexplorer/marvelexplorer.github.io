@@ -1,12 +1,12 @@
 ---
-date: '1994-04-01T00:00:00-0500'
-year: '1994'
-title: 'Guardians of the Galaxy (1990) #47'
-issue: 47
+date: '2010-10-13T00:00:00-0400'
+year: '2010'
+title: 'The Thanos Imperative (2010) #5'
+issue: 5
 series:
-  period: '1990'
-  name: Guardians of the Galaxy
-url: http://marvel.com/comics/issue/62292/guardians_of_the_galaxy_1990_47?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: The Thanos Imperative
+url: http://marvel.com/comics/issue/32979/the_thanos_imperative_2010_5?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/10/58d05073f1e13
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/51f69ef06c1d7
   extension: jpg
