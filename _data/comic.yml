@@ -1,12 +1,12 @@
 ---
-date: '1998-12-01T00:00:00-0500'
-year: '1998'
-title: 'Warlock (1998) #2'
-issue: 2
+date: '1993-06-01T00:00:00-0400'
+year: '1993'
+title: 'Silver Surfer/Warlock: Resurrection (1993) #4'
+issue: 4
 series:
-  period: '1998'
-  name: Warlock
-url: http://marvel.com/comics/issue/62625/warlock_1998_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1993'
+  name: 'Silver Surfer/Warlock: Resurrection'
+url: http://marvel.com/comics/issue/57830/silver_surferwarlock_resurrection_1993_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5b0717ea7cf75
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/c0/587fc9266ba22
   extension: jpg
