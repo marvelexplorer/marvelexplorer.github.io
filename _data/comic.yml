@@ -1,12 +1,12 @@
 ---
-date: '2003-08-01T00:00:00-0400'
-year: '2003'
-title: 'Wolverine: Xisle (2003) #3'
-issue: 3
+date: '2006-04-26T00:00:00-0400'
+year: '2006'
+title: 'Iron Man: Inevitable (2005) #5'
+issue: 5
 series:
-  period: '2003'
-  name: 'Wolverine: Xisle'
-url: http://marvel.com/comics/issue/18288/wolverine_xisle_2003_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2005'
+  name: 'Iron Man: Inevitable'
+url: http://marvel.com/comics/issue/4086/iron_man_inevitable_2005_5?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb793c30a9e9
+  path: http://i.annihil.us/u/prod/marvel/i/mg/b/a0/5b61ba4b52d4c
   extension: jpg
