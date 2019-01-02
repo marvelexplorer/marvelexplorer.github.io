@@ -1,12 +1,12 @@
 ---
-date: '2007-11-07T00:00:00-0500'
-year: '2007'
-title: 'Annihilation: Conquest (2007) #1'
-issue: 1
+date: '1998-12-01T00:00:00-0500'
+year: '1998'
+title: 'Warlock (1998) #2'
+issue: 2
 series:
-  period: '2007'
-  name: 'Annihilation: Conquest'
-url: http://marvel.com/comics/issue/17271/annihilation_conquest_2007_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Warlock
+url: http://marvel.com/comics/issue/62625/warlock_1998_2?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8381b35e231
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/90/5b0717ea7cf75
   extension: jpg
