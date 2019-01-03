@@ -1,12 +1,12 @@
 ---
-date: '1985-09-10T00:00:00-0400'
-year: '1985'
-title: 'Daredevil (1964) #222'
-issue: 222
+date: '2010-06-30T00:00:00-0400'
+year: '2010'
+title: 'Iron Man: Kiss and Kill (2010) #1'
+issue: 1
 series:
-  period: '1964'
-  name: Daredevil
-url: http://marvel.com/comics/issue/8210/daredevil_1964_222?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: 'Iron Man: Kiss and Kill'
+url: http://marvel.com/comics/issue/26790/iron_man_kiss_and_kill_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5b51ed5eb1b99
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/5a58e8e66c382
   extension: jpg
