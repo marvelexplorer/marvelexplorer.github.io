@@ -1,12 +1,12 @@
 ---
-date: '2004-05-26T00:00:00-0400'
-year: '2004'
-title: 'Ultimate X-Men (2000) #46'
-issue: 46
+date: '2006-06-21T00:00:00-0400'
+year: '2006'
+title: 'Uncanny X-Men (1963) #474'
+issue: 474
 series:
-  period: '2000'
-  name: Ultimate X-Men
-url: http://marvel.com/comics/issue/672/ultimate_x-men_2000_46?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1963'
+  name: Uncanny X-Men
+url: http://marvel.com/comics/issue/4280/uncanny_x-men_1963_474?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/b/c0/5bad170e2c29b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5922ecee5c2f3
   extension: jpg
