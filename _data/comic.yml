@@ -1,12 +1,12 @@
 ---
-date: '2002-06-01T00:00:00-0400'
-year: '2002'
-title: 'Black Panther (1998) #43'
-issue: 43
+date: '2008-11-26T00:00:00-0500'
+year: '2008'
+title: 'Ultimate X-Men (2000) #98'
+issue: 98
 series:
-  period: '1998'
-  name: Black Panther
-url: http://marvel.com/comics/issue/12612/black_panther_1998_43?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate X-Men
+url: http://marvel.com/comics/issue/22472/ultimate_x-men_2000_98?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/00/5978f4f5aa62c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/5bb23eab8ac47
   extension: jpg
