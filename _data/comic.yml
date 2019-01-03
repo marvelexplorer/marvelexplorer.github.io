@@ -1,12 +1,12 @@
 ---
-date: '1999-05-10T00:00:00-0400'
-year: '1999'
-title: 'Uncanny X-Men (1963) #368'
-issue: 368
+date: '2011-11-23T00:00:00-0500'
+year: '2011'
+title: 'Avengers Origins: Scarlet Witch & Quicksilver (2011) #1'
+issue: 1
 series:
-  period: '1963'
-  name: Uncanny X-Men
-url: http://marvel.com/comics/issue/13909/uncanny_x-men_1963_368?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2011'
+  name: 'Avengers Origins: Scarlet Witch & Quicksilver'
+url: http://marvel.com/comics/issue/32684/avengers_origins_scarlet_witch_quicksilver_2011_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/1/70/5919c96b53891
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5a1ef5b49a4f6
   extension: jpg
