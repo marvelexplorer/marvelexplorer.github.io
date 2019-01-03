@@ -1,12 +1,12 @@
 ---
-date: '2018-07-11T00:00:00-0400'
-year: '2018'
-title: 'The Punisher (2016) #227'
-issue: 227
+date: '2001-03-01T00:00:00-0500'
+year: '2001'
+title: 'Daredevil (1998) #14'
+issue: 14
 series:
-  period: '2016'
-  name: The Punisher
-url: http://marvel.com/comics/issue/69852/the_punisher_2016_227?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1998'
+  name: Daredevil
+url: http://marvel.com/comics/issue/15614/daredevil_1998_14?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5b3feb246956e
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/90/57236c296c60d
   extension: jpg
