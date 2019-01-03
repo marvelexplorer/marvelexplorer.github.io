@@ -1,12 +1,12 @@
 ---
-date: '2010-06-30T00:00:00-0400'
-year: '2010'
-title: 'Iron Man: Kiss and Kill (2010) #1'
-issue: 1
+date: '2008-04-16T00:00:00-0400'
+year: '2008'
+title: 'Wolverine Origins (2006) #24'
+issue: 24
 series:
-  period: '2010'
-  name: 'Iron Man: Kiss and Kill'
-url: http://marvel.com/comics/issue/26790/iron_man_kiss_and_kill_2010_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Wolverine Origins
+url: http://marvel.com/comics/issue/20994/wolverine_origins_2006_24?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/20/5a58e8e66c382
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/a0/58419ffa25da5
   extension: jpg
