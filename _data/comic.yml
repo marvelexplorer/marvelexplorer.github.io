@@ -1,12 +1,12 @@
 ---
-date: '1976-03-01T00:00:00-0500'
-year: '1976'
-title: 'Fantastic Four (1961) #168'
-issue: 168
+date: '1963-02-10T00:00:00-0500'
+year: '1963'
+title: 'Fantastic Four (1961) #11'
+issue: 11
 series:
   period: '1961'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/12970/fantastic_four_1961_168?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+url: http://marvel.com/comics/issue/12906/fantastic_four_1961_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/00/5aba583f03193
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/536d69ea4f2cf
   extension: jpg
