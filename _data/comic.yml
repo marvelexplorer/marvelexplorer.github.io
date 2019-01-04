@@ -1,12 +1,12 @@
 ---
-date: '1963-02-10T00:00:00-0500'
-year: '1963'
-title: 'Fantastic Four (1961) #11'
-issue: 11
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Fantastic Four (1998) #58'
+issue: 58
 series:
-  period: '1961'
+  period: '1998'
   name: Fantastic Four
-url: http://marvel.com/comics/issue/12906/fantastic_four_1961_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+url: http://marvel.com/comics/issue/15580/fantastic_four_1998_58?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/d0/536d69ea4f2cf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/60/5ab156bd82188
   extension: jpg
