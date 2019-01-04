@@ -1,12 +1,12 @@
 ---
-date: '2018-04-25T00:00:00-0400'
-year: '2018'
-title: Marvel Rising (2018)
-issue: 0
+date: '2017-09-06T00:00:00-0400'
+year: '2017'
+title: 'Champions (2016) #12'
+issue: 12
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/66916/marvel_rising_2018?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2016'
+  name: Champions
+url: http://marvel.com/comics/issue/61453/champions_2016_12?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/70/5ad7ae49a158c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/599afcad134c6
   extension: jpg
