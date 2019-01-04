@@ -1,12 +1,12 @@
 ---
-date: '1994-11-10T00:00:00-0500'
-year: '1994'
-title: 'Warlock and the Infinity Watch (1992) #34'
-issue: 34
+date: '1985-12-01T00:00:00-0500'
+year: '1985'
+title: 'New Mutants Special (1985) #1'
+issue: 1
 series:
-  period: '1992'
-  name: Warlock and the Infinity Watch
-url: http://marvel.com/comics/issue/18440/warlock_and_the_infinity_watch_1992_34?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1985'
+  name: New Mutants Special
+url: http://marvel.com/comics/issue/10342/new_mutants_special_1985_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/8/90/5bd34bc3c2207
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc4688e3c83b
   extension: jpg
