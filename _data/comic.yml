@@ -1,12 +1,12 @@
 ---
-date: '2008-01-09T00:00:00-0500'
-year: '2008'
-title: 'Amazing Spider-Man (1999) #546'
-issue: 546
+date: '1977-02-10T00:00:00-0500'
+year: '1977'
+title: 'What If? (1977) #1'
+issue: 1
 series:
-  period: '1999'
-  name: Amazing Spider-Man
-url: http://marvel.com/comics/issue/17338/amazing_spider-man_1999_546?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1977'
+  name: What If?
+url: http://marvel.com/comics/issue/12121/what_if_1977_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4d24e46ee23ad
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/5bd7282fb2af9
   extension: jpg
