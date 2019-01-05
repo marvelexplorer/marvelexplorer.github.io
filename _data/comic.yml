@@ -1,12 +1,12 @@
 ---
-date: '2008-09-10T00:00:00-0400'
+date: '2008-01-09T00:00:00-0500'
 year: '2008'
-title: 'Amazing Spider-Man: Extra! (2008) #1'
-issue: 1
+title: 'Amazing Spider-Man (1999) #546'
+issue: 546
 series:
-  period: '2008'
-  name: 'Amazing Spider-Man: Extra!'
-url: http://marvel.com/comics/issue/23069/amazing_spider-man_extra_2008_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1999'
+  name: Amazing Spider-Man
+url: http://marvel.com/comics/issue/17338/amazing_spider-man_1999_546?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb6012279a77
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/20/4d24e46ee23ad
   extension: jpg
