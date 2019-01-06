@@ -1,12 +1,12 @@
 ---
-date: '1977-01-10T00:00:00-0500'
-year: '1977'
-title: 'Invaders (1975) #12'
-issue: 12
+date: '1987-10-10T00:00:00-0400'
+year: '1987'
+title: 'Avengers (1963) #284'
+issue: 284
 series:
-  period: '1975'
-  name: Invaders
-url: http://marvel.com/comics/issue/19972/invaders_1975_12?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7157/avengers_1963_284?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bb5fa8b8fb70
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e95df8261f16
   extension: jpg
