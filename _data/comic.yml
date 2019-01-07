@@ -1,12 +1,12 @@
 ---
-date: '1992-12-01T00:00:00-0500'
-year: '1992'
-title: 'Nick Fury, Agent of S.H.I.E.L.D. (1989) #42'
-issue: 42
+date: '2007-11-07T00:00:00-0500'
+year: '2007'
+title: 'Immortal Iron Fist (2006) #10'
+issue: 10
 series:
-  period: '1989'
-  name: Nick Fury, Agent of S.H.I.E.L.D.
-url: http://marvel.com/comics/issue/27746/nick_fury_agent_of_shield_1989_42?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Immortal Iron Fist
+url: http://marvel.com/comics/issue/16534/immortal_iron_fist_2006_10?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/10/5978dc57df510
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/20/51b74bd428c4c
   extension: jpg
