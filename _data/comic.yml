@@ -1,12 +1,12 @@
 ---
-date: '2017-05-05T00:00:00-0400'
-year: '2017'
-title: Free Comic Book Day (Secret Empire) (2017)
-issue: 0
+date: '1968-04-10T00:00:00-0500'
+year: '1968'
+title: 'Captain America (1968) #100'
+issue: 100
 series:
-  period: 
-  name: 
-url: http://marvel.com/comics/issue/62819/free_comic_book_day_secret_empire_2017?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '1968'
+  name: Captain America
+url: http://marvel.com/comics/issue/7481/captain_america_1968_100?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/40/5aa15e4567bcf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/50/5994604e20b1e
   extension: jpg
