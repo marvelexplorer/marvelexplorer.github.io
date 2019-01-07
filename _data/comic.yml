@@ -1,12 +1,12 @@
 ---
-date: '2011-12-14T00:00:00-0500'
-year: '2011'
-title: 'New Avengers (2010) #19'
-issue: 19
+date: '1971-04-10T00:00:00-0500'
+year: '1971'
+title: 'Iron Man (1968) #36'
+issue: 36
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/35250/new_avengers_2010_19?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1968'
+  name: Iron Man
+url: http://marvel.com/comics/issue/9589/iron_man_1968_36?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/517ae72505b86
+  path: http://i.annihil.us/u/prod/marvel/i/mg/2/90/5a621b0a05629
   extension: jpg
