@@ -1,12 +1,12 @@
 ---
-date: '2017-08-30T00:00:00-0400'
-year: '2017'
-title: 'Secret Empire (2017) #10'
-issue: 10
+date: '2005-10-26T00:00:00-0400'
+year: '2005'
+title: 'Captain America (2004) #11'
+issue: 11
 series:
-  period: '2017'
-  name: Secret Empire
-url: http://marvel.com/comics/issue/64285/secret_empire_2017_10?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: Captain America
+url: http://marvel.com/comics/issue/2421/captain_america_2004_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/7/00/59934fc355cb6
+  path: http://i.annihil.us/u/prod/marvel/i/mg/3/70/4d24f03587b72
   extension: jpg
