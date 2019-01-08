@@ -1,12 +1,12 @@
 ---
-date: '2011-03-30T00:00:00-0400'
-year: '2011'
-title: 'Age of X: Universe (2011) #1'
-issue: 1
+date: '2016-06-29T00:00:00-0400'
+year: '2016'
+title: 'All-New, All-Different Avengers (2015) #11'
+issue: 11
 series:
-  period: '2011'
-  name: 'Age of X: Universe'
-url: http://marvel.com/comics/issue/38524/age_of_x_universe_2011_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2015'
+  name: All-New, All-Different Avengers
+url: http://marvel.com/comics/issue/55364/all-new_all-different_avengers_2015_11?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5976552f09303
+  path: http://i.annihil.us/u/prod/marvel/i/mg/c/90/576d4bccd73b6
   extension: jpg
