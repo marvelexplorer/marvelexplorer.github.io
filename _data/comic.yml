@@ -1,12 +1,12 @@
 ---
-date: '1993-10-01T00:00:00-0400'
-year: '1993'
-title: 'Marvel Super Heroes (1990) #15'
-issue: 15
+date: '2005-12-07T00:00:00-0500'
+year: '2005'
+title: 'Ultimates 2 (2004) #9'
+issue: 9
 series:
-  period: '1990'
-  name: Marvel Super Heroes
-url: http://marvel.com/comics/issue/15517/marvel_super_heroes_1990_15?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2004'
+  name: Ultimates 2
+url: http://marvel.com/comics/issue/2993/ultimates_2_2004_9?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/60/5b635e8b81abe
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/30/515f07a27cf34
   extension: jpg
