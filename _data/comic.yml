@@ -1,12 +1,12 @@
 ---
-date: '2003-05-01T00:00:00-0400'
-year: '2003'
-title: 'Ultimate Adventures (2002) #4'
-issue: 4
+date: '2006-11-29T00:00:00-0500'
+year: '2006'
+title: 'Ultimate Power (2006) #2'
+issue: 2
 series:
-  period: '2002'
-  name: Ultimate Adventures
-url: http://marvel.com/comics/issue/18482/ultimate_adventures_2002_4?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2006'
+  name: Ultimate Power
+url: http://marvel.com/comics/issue/5597/ultimate_power_2006_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/10/5a8dca30529fa
+  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/5aa2f5c2d3b9b
   extension: jpg
