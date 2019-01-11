@@ -1,12 +1,12 @@
 ---
-date: '1986-11-10T00:00:00-0500'
-year: '1986'
-title: 'Marvel Fanfare (1982) #29'
-issue: 29
+date: '2013-03-13T00:00:00-0400'
+year: '2013'
+title: 'Avengers: Season One (2013)'
+issue: 0
 series:
-  period: '1982'
-  name: Marvel Fanfare
-url: http://marvel.com/comics/issue/19803/marvel_fanfare_1982_29?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: 
+  name: 
+url: http://marvel.com/comics/issue/47697/avengers_season_one_2013?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/6/80/58e40ed8651b2
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57c7407cc58f0
   extension: jpg

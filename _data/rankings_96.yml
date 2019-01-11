@@ -3,9 +3,9 @@
   score: 8
 - name: Wolverine
   score: 6
-- name: Avengers
-  score: 3
 - name: Captain America
-  score: 3
+  score: 4
 - name: X-Men
   score: 3
+- name: Hydra
+  score: 2
