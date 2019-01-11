@@ -1,12 +1,12 @@
 ---
-date: '2006-11-29T00:00:00-0500'
-year: '2006'
-title: 'Ultimate Power (2006) #2'
-issue: 2
+date: '2002-10-01T00:00:00-0400'
+year: '2002'
+title: 'Ultimate Spider-Man (2000) #25'
+issue: 25
 series:
-  period: '2006'
-  name: Ultimate Power
-url: http://marvel.com/comics/issue/5597/ultimate_power_2006_2?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2000'
+  name: Ultimate Spider-Man
+url: http://marvel.com/comics/issue/14852/ultimate_spider-man_2000_25?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/e/e0/5aa2f5c2d3b9b
+  path: http://i.annihil.us/u/prod/marvel/i/mg/7/e0/58e5186c9f9f6
   extension: jpg
