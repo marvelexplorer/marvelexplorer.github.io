@@ -1,12 +1,12 @@
 ---
-date: '2005-12-07T00:00:00-0500'
-year: '2005'
-title: 'Friendly Neighborhood Spider-Man (2005) #3'
-issue: 3
+date: '2008-02-13T00:00:00-0500'
+year: '2008'
+title: 'New Avengers (2004) #38'
+issue: 38
 series:
-  period: '2005'
-  name: Friendly Neighborhood Spider-Man
-url: http://marvel.com/comics/issue/3133/friendly_neighborhood_spider-man_2005_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2004'
+  name: New Avengers
+url: http://marvel.com/comics/issue/20646/new_avengers_2004_38?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/a/70/56a8eff76c638
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/c0/4f7efa69e8864
   extension: jpg
