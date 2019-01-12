@@ -1,12 +1,12 @@
 ---
-date: '2007-06-13T00:00:00-0400'
-year: '2007'
-title: 'Avengers Classic (2007) #1'
-issue: 1
+date: '1971-02-10T00:00:00-0500'
+year: '1971'
+title: 'Avengers (1963) #85'
+issue: 85
 series:
-  period: '2007'
-  name: Avengers Classic
-url: http://marvel.com/comics/issue/15858/avengers_classic_2007_1?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1963'
+  name: Avengers
+url: http://marvel.com/comics/issue/7338/avengers_1963_85?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/f/60/5beda67b7e1c5
+  path: http://i.annihil.us/u/prod/marvel/i/mg/6/b0/586fd920aa277
   extension: jpg
