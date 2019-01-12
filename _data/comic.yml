@@ -1,12 +1,12 @@
 ---
-date: '2012-11-14T00:00:00-0500'
-year: '2012'
-title: 'New Avengers (2010) #33'
-issue: 33
+date: '2000-10-01T00:00:00-0400'
+year: '2000'
+title: 'Universe X (2000) #1'
+issue: 1
 series:
-  period: '2010'
-  name: New Avengers
-url: http://marvel.com/comics/issue/40733/new_avengers_2010_33?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2000'
+  name: Universe X
+url: http://marvel.com/comics/issue/11902/universe_x_2000_1?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/4/70/517ae98357e86
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/10/5bc8bb07d7413
   extension: jpg
