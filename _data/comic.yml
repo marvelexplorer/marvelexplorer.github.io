@@ -1,12 +1,12 @@
 ---
-date: '1999-07-01T00:00:00-0400'
-year: '1999'
-title: 'Earth X (1999) #4'
-issue: 4
+date: '2005-12-07T00:00:00-0500'
+year: '2005'
+title: 'Friendly Neighborhood Spider-Man (2005) #3'
+issue: 3
 series:
-  period: '1999'
-  name: Earth X
-url: http://marvel.com/comics/issue/8554/earth_x_1999_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2005'
+  name: Friendly Neighborhood Spider-Man
+url: http://marvel.com/comics/issue/3133/friendly_neighborhood_spider-man_2005_3?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5a95b28fa4a88
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/70/56a8eff76c638
   extension: jpg
