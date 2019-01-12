@@ -1,12 +1,12 @@
 ---
-date: '2011-01-12T00:00:00-0500'
-year: '2011'
-title: 'Incredible Hulks (2010) #620'
-issue: 620
+date: '1983-01-10T00:00:00-0500'
+year: '1983'
+title: 'Marvel Team-Up (1972) #125'
+issue: 125
 series:
-  period: '2010'
-  name: Incredible Hulks
-url: http://marvel.com/comics/issue/34021/incredible_hulks_2010_620?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '1972'
+  name: Marvel Team-Up
+url: http://marvel.com/comics/issue/19604/marvel_team-up_1972_125?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4f58d13c5c70c
+  path: http://i.annihil.us/u/prod/marvel/i/mg/1/30/57f55967a2139
   extension: jpg
