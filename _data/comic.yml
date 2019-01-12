@@ -1,12 +1,12 @@
 ---
-date: '1991-09-10T00:00:00-0400'
-year: '1991'
-title: 'Doctor Strange, Sorcerer Supreme (1988) #33'
-issue: 33
+date: '2011-01-12T00:00:00-0500'
+year: '2011'
+title: 'Incredible Hulks (2010) #620'
+issue: 620
 series:
-  period: '1988'
-  name: Doctor Strange, Sorcerer Supreme
-url: http://marvel.com/comics/issue/20194/doctor_strange_sorcerer_supreme_1988_33?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
+  period: '2010'
+  name: Incredible Hulks
+url: http://marvel.com/comics/issue/34021/incredible_hulks_2010_620?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/30/59f0fbea463b1
+  path: http://i.annihil.us/u/prod/marvel/i/mg/9/50/4f58d13c5c70c
   extension: jpg
