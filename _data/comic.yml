@@ -1,12 +1,12 @@
 ---
-date: '1967-02-10T00:00:00-0500'
-year: '1967'
-title: 'Avengers (1963) #37'
-issue: 37
+date: '2017-09-13T00:00:00-0400'
+year: '2017'
+title: 'Vision: Director''s Cut (2017) #4'
+issue: 4
 series:
-  period: '1963'
-  name: Avengers
-url: http://marvel.com/comics/issue/7252/avengers_1963_37?utm_campaign=apiRef&utm_source=2ec6b9ea6c713238c6ef2c1195d616fb
+  period: '2017'
+  name: 'Vision: Director''s Cut'
+url: http://marvel.com/comics/issue/64549/vision_directors_cut_2017_4?utm_campaign=apiRef&utm_source=c928698f3287cd8ee139710b8e84237c
 image:
-  path: http://i.annihil.us/u/prod/marvel/i/mg/c/80/5863d31ea5fbf
+  path: http://i.annihil.us/u/prod/marvel/i/mg/a/50/59b04d875f6ff
   extension: jpg
